@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Jama Masjid",
+        "main_category": "Mosque",
+        "address": "MW3V+3M7 Jama Masjid, Bhoi Vagu, Chaklasi, Gujarat 387315",
+        "detailed_address": {
+            "ward": "Bhoi Vagu",
+            "street": "MW3V+3M7",
+            "city": "Chaklasi",
+            "postal_code": "387315",
+            "state": "Gujarat",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNOTVAU3tuv9i-Ww1bQXuQBZ1TwcgWmZT6GWPf0=w224-h398-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNOTVAU3tuv9i-Ww1bQXuQBZ1TwcgWmZT6GWPf0=w224-h398-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kvvDWvuKGTNGrd7vZASMVg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=358.75653&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jama+Masjid/data=!4m7!3m6!1s0x395e4578472626dd:0x203d73811111b337!8m2!3d22.652668!4d72.9441641!16s%2Fg%2F124yn8jzn!19sChIJ3SYmR3hFXjkRN7MREYFzPSA?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 22.652668,
+            "longitude": 72.9441641
+        }
+    },
+    {
+        "name": "Noore Muhammadi Masjid (nuure muhmmdii msjiid ,cklaasii)",
+        "main_category": "Mosque",
+        "address": "MW4R+84 Noore Muhammadi Masjid (nuure muhmmdii msjiid ,cklaasii), Vohra Colony, Chaklasi, Gujarat 387315",
+        "detailed_address": {
+            "ward": "Vohra Colony",
+            "street": "MW4R+84",
+            "city": "Chaklasi",
+            "postal_code": null,
+            "state": "Gujarat",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNNK8Ko652Dzxo8L1ALvAQZiWZLW_yTveQmjHpe=w224-h398-k-no"
+            },
+            {
+                "about": "Latest",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMlXCoF0HhNhvSyO8xXdU7XlZYTO38AWB32DuBW=w529-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipO_rqmtI_x9KHRBrzu_YJnlvAOVYqG3WYOglZVG=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Noore+Muhammadi+Masjid+%28%E0%AA%A8%E0%AB%82%E0%AA%B0%E0%AB%87+%E0%AA%AE%E0%AB%81%E0%AA%B9%E0%AA%AE%E0%AB%8D%E0%AA%AE%E0%AA%A6%E0%AB%80+%E0%AA%AE%E0%AA%B8%E0%AB%8D%E0%AA%9C%E0%AB%80%E0%AA%A6+,%E0%AA%9A%E0%AA%95%E0%AA%B2%E0%AA%BE%E0%AA%B8%E0%AB%80%29/data=!4m7!3m6!1s0x395e45232a677775:0x3deef69d5c6f9ff8!8m2!3d22.6559134!4d72.9403478!16s%2Fg%2F11pvz330zy!19sChIJdXdnKiNFXjkR-J9vXJ327j0?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 22.6559134,
+            "longitude": 72.9403478
+        }
+    }
+]

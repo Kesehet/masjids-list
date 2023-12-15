@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Jama Masjid, Nathdwara",
+        "main_category": "Mosque",
+        "address": "WRM9+8M8 Jama Masjid, Nathdwara, Rampura, Nathdwara, Rajasthan 313301",
+        "detailed_address": {
+            "ward": "Rampura",
+            "street": "WRM9+8M8",
+            "city": "Nathdwara",
+            "postal_code": "313301",
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNfLbazSLRVAjwSPS9_eQjb8g4H9-yy_qhb1Owm=w523-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=svKRwEda7ktDnN-WcmqDAw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=158.76543&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipP1zIpjtuyC3RPFcUG4O_QU_BZKdAad5ZpsW-R3=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jama+Masjid,+Nathdwara/data=!4m7!3m6!1s0x39680d403d461339:0xbe2d5f5bf7f1659c!8m2!3d24.9332872!4d73.8191991!16s%2Fg%2F11gfk4wvf8!19sChIJORNGPUANaDkRnGXx91tfLb4?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 24.9332872,
+            "longitude": 73.81919909999999
+        }
+    },
+    {
+        "name": "Shia Dawoodi Bohra Najmi Masjid",
+        "main_category": "Mosque",
+        "address": "WRH9+Q38 Shia Dawoodi Bohra Najmi Masjid, Bohra Bazar, Nathdwara, Rajasthan 313301",
+        "detailed_address": {
+            "ward": null,
+            "street": "WRH9+Q38, Bohra Bazar",
+            "city": "Nathdwara",
+            "postal_code": "313301",
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMQO4nZgRdjBWuo9jQmOEVHn-odhnPqSlE_bWST=w397-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNPaP2HFhBFQ_EsFlLgEjYfYNC2TySRB-AhkYbM=w298-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Shia+Dawoodi+Bohra+Najmi+Masjid/data=!4m7!3m6!1s0x39680d157ab0b7dd:0xa827c26a462b9f78!8m2!3d24.929422!4d73.8177116!16s%2Fg%2F11c32571yd!19sChIJ3bewehUNaDkReJ8rRmrCJ6g?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 24.929422,
+            "longitude": 73.8177116
+        }
+    }
+]
