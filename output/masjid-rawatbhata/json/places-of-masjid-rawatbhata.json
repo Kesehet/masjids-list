@@ -1,0 +1,197 @@
+[
+    {
+        "name": "Shohaib khan",
+        "main_category": "Computer service",
+        "address": "Shohaib khan, Bariel, Rawatbhata, Rajasthan 323305",
+        "detailed_address": {
+            "ward": "Bariel",
+            "street": null,
+            "city": "Rawatbhata",
+            "postal_code": "323305",
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNHxkKxRYR99e09NMpfDs7malBCiTCUKp3O1OV6=w224-h497-k-no"
+            },
+            {
+                "about": "By owner",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNLEIs5MatWhEEHvwE10uMZyNKEcr3Q-Y86EczG=w530-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPhE3zYAMqWuzYKycPtBPrmoROLFgDue8k__bmB=w224-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fk_XdeuUJaO3gTXi4uLkkw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=94.96618&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Shohaib+khan/data=!4m7!3m6!1s0x3965876c43ab9a07:0x53633d93fa79af9!8m2!3d24.9356879!4d75.590058!16s%2Fg%2F11b7715sgc!19sChIJB5qrQ2yHZTkR-ZqnP9kzNgU?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 24.935687899999998,
+            "longitude": 75.590058
+        }
+    },
+    {
+        "name": "Madina Masjid",
+        "main_category": "Mosque",
+        "address": "WHJR+F84 Madina Masjid, Heavy Water Colony, Rawatbhata, Rajasthan 323305",
+        "detailed_address": {
+            "ward": "Heavy Water Colony",
+            "street": "WHJR+F84",
+            "city": "Rawatbhata",
+            "postal_code": "323305",
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOlJPoUh8CyD82hTF-2CFNfbLrgmw8P5Qi5Fi9j=w397-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eDj6C1ll9EULMxNICD_2Rg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=77.16908&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Madina+Masjid/data=!4m7!3m6!1s0x3965871345737445:0x642796c428831c58!8m2!3d24.9311471!4d75.5908332!16s%2Fg%2F11b7766q1b!19sChIJRXRzRROHZTkRWByDKMSWJ2Q?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 24.9311471,
+            "longitude": 75.59083319999999
+        }
+    },
+    {
+        "name": "JAMA MASJID",
+        "main_category": "Mosque",
+        "address": "XH84+7GG JAMA MASJID, Bhainsrorgarh, Rajasthan 323304",
+        "detailed_address": {
+            "ward": null,
+            "street": "XH84+7GG",
+            "city": "Bhainsrorgarh",
+            "postal_code": "323304",
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=k7Yvg0iWgrn4UxzsxA7TPQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=30.701578&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=k7Yvg0iWgrn4UxzsxA7TPQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=30.701578&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/JAMA+MASJID/data=!4m7!3m6!1s0x396f7d62365dd441:0x49aacb639a064247!8m2!3d24.965697!4d75.5563336!16s%2Fg%2F11k5r_r5s9!19sChIJQdRdNmJ9bzkRR0IGmmPLqkk?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 24.965697,
+            "longitude": 75.5563336
+        }
+    },
+    {
+        "name": "Masjid",
+        "main_category": "Mosque",
+        "address": "WJM4+WGV Masjid, Anu Deep Colony, Rawatbhata, Rajasthan 323305",
+        "detailed_address": {
+            "ward": "Anu Deep Colony",
+            "street": "WJM4+WGV",
+            "city": "Rawatbhata",
+            "postal_code": "323305",
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Masjid/data=!4m7!3m6!1s0x396587479fef8b1d:0x65a81f6f261de1bd!8m2!3d24.9348654!4d75.6063095!16s%2Fg%2F11b75hpnsd!19sChIJHYvvn0eHZTkRveEdJm8fqGU?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 24.9348654,
+            "longitude": 75.6063095
+        }
+    },
+    {
+        "name": "Sunni Zama Masjid",
+        "main_category": "Mosque",
+        "address": "WHPR+72F Sunni Zama Masjid, Bhilwara - Modak Rd, Bariel, Rawatbhata, Rajasthan 323305",
+        "detailed_address": {
+            "ward": "Bariel",
+            "street": "WHPR+72F, Bhilwara - Modak Rd",
+            "city": "Rawatbhata",
+            "postal_code": null,
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3MDTcROs1SZYxF4zzAYHGw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=23.452333&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3MDTcROs1SZYxF4zzAYHGw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=23.452333&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sunni+Zama+Masjid/data=!4m7!3m6!1s0x396587877d84bdbd:0xa81535382ced8eae!8m2!3d24.9356921!4d75.5900373!16s%2Fg%2F11tjc0ymdt!19sChIJvb2EfYeHZTkRro7tLDg1Fag?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 24.935692099999997,
+            "longitude": 75.59003729999999
+        }
+    },
+    {
+        "name": "kbristaan raavtbhaattaa",
+        "main_category": "Religious destination",
+        "address": "WHPJ+6RR kbristaan raavtbhaattaa, Bhilwara - Modak Rd, Bariel, Rawatbhata, Rajasthan 323305",
+        "detailed_address": {
+            "ward": "Bariel",
+            "street": "WHPJ+6RR, Bhilwara - Modak Rd",
+            "city": "Rawatbhata",
+            "postal_code": "323305",
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pPxDF1fPoG1MqiwDQ5PJAg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=187.28125&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pPxDF1fPoG1MqiwDQ5PJAg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=187.28125&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/%E0%A4%95%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%A8+%E0%A4%B0%E0%A4%BE%E0%A4%B5%E0%A4%A4%E0%A4%AD%E0%A4%BE%E0%A4%9F%E0%A4%BE/data=!4m7!3m6!1s0x396587ecd70e0d25:0xb6c8e4afcadd8e45!8m2!3d24.9356084!4d75.582027!16s%2Fg%2F11rfsqbgnz!19sChIJJQ0O1-yHZTkRRY7dyq_kyLY?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 24.9356084,
+            "longitude": 75.582027
+        }
+    },
+    {
+        "name": "Eidgaah, Rawatbhata",
+        "main_category": "Place of worship",
+        "address": "WHRR+2R9 Eidgaah, Rawatbhata, Bariel, Rawatbhata, Rajasthan 323305",
+        "detailed_address": {
+            "ward": "Bariel",
+            "street": "WHRR+2R9",
+            "city": "Rawatbhata",
+            "postal_code": "323305",
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nzJt_3eV9qreoc-6JUqWUg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=265.56488&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nzJt_3eV9qreoc-6JUqWUg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=265.56488&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Eidgaah,+Rawatbhata/data=!4m7!3m6!1s0x39658703752097a7:0x13cae6f6940380e6!8m2!3d24.9400463!4d75.5921166!16s%2Fg%2F11vdw5762w!19sChIJp5cgdQOHZTkR5oADlPbmyhM?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 24.9400463,
+            "longitude": 75.5921166
+        }
+    }
+]

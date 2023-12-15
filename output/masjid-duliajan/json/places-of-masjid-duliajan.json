@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Duliajan Masjid",
+        "main_category": "Mosque",
+        "address": "Duliajan Masjid, Central Namghar, Duliajan, Assam 786602",
+        "detailed_address": {
+            "ward": "Central Namghar",
+            "street": null,
+            "city": "Duliajan",
+            "postal_code": "786602",
+            "state": "Assam",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOD19DO1ZyE7zHZCAx-zyzKMR5lRK4ejDHsZerd=w224-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOpSLF0wJaY8zIngmphsLdG8ocq1GUl4t0zLbC8=w529-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM9Na5U_FoO3o7nTA0DggfpDJ6lUArhGplaRqz2=w224-h398-k-no"
+            },
+            {
+                "about": "By owner",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM2Gqmm45AlPN_74jJwpVln-7KmyKgoA7fhh9Po=w224-h472-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-uBhZxKeIIg9ZgWA1S-lww&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=83.907364&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Duliajan+Masjid/data=!4m7!3m6!1s0x373f46ad3e219097:0xb8ded891c52c39c0!8m2!3d27.3524099!4d95.3225743!16s%2Fg%2F11c44zbbhx!19sChIJl5AhPq1GPzcRwDksxZHY3rg?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 27.352409899999998,
+            "longitude": 95.3225743
+        }
+    },
+    {
+        "name": "Duliajan Waqtiya Masjid",
+        "main_category": "Mosque",
+        "address": "Duliajan Waqtiya Masjid, Nawholia To Bokuloni Rd, Rangajan No.3, Naohalia No.3, Assam 786191",
+        "detailed_address": {
+            "ward": null,
+            "street": "Nawholia To Bokuloni Rd",
+            "city": "Rangajan No.3, Naohalia No.3",
+            "postal_code": "786191",
+            "state": "Assam",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOxuCPRoLx6ucqDuywAyLvf37zd6EazNwjnXjjO=w224-h308-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MPON8DxLxvRMgJJOWVYd9Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=95.01663&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Duliajan+Waqtiya+Masjid/data=!4m7!3m6!1s0x373f4139a67a9391:0x4613220dbbf2c1f7!8m2!3d27.3676265!4d95.3347128!16s%2Fg%2F11dfqxpt13!19sChIJkZN6pjlBPzcR98Hyuw0iE0Y?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 27.3676265,
+            "longitude": 95.33471279999999
+        }
+    },
+    {
+        "name": "Duliajan makthab/madrassa",
+        "main_category": "Mosque",
+        "address": "983F+52W Duliajan makthab/madrassa, Central Namghar, Duliajan, Assam 786602",
+        "detailed_address": {
+            "ward": "Central Namghar",
+            "street": "983F+52W",
+            "city": "Duliajan",
+            "postal_code": "786602",
+            "state": "Assam",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipP5WvXgBEIYNbCoI36a1O__7U-WaMfAdTPPZ9x1=w238-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KpZ9o_kbDczdJZUqUncj-w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=93.46512&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Duliajan+makthab%2Fmadrassa/data=!4m7!3m6!1s0x373f4734d6e909a1:0xa2e77ee47bc7c392!8m2!3d27.3529937!4d95.322573!16s%2Fg%2F11rsq4mqf2!19sChIJoQnp1jRHPzcRksPHe-R-56I?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 27.3529937,
+            "longitude": 95.32257299999999
+        }
+    }
+]
