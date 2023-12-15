@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Hasanpur Jama Masjid",
+        "main_category": "Mosque",
+        "address": "4R7R+QXC Hasanpur Jama Masjid, Pipili, Odisha 752104",
+        "detailed_address": {
+            "ward": null,
+            "street": "4R7R+QXC",
+            "city": "Pipili",
+            "postal_code": "752104",
+            "state": "Odisha",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNxRwoxbOe_q-iZGazWTmlXyuyFnGZaAQUtQJww=w397-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=n9PJwt4IUjUQvANcxVT2ig&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=6.9366193&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPiMk5xkgqyyXszUI6qsXvevQsJjj8Sm7RbETnf=w224-h497-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hasanpur+Jama+Masjid/data=!4m7!3m6!1s0x3a19a4a2125fe92b:0x41a6591205a42b52!8m2!3d20.1144399!4d85.8423889!16s%2Fg%2F11gfgpr7h_!19sChIJK-lfEqKkGToRUiukBRJZpkE?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 20.1144399,
+            "longitude": 85.8423889
+        }
+    },
+    {
+        "name": "Masjid-E-Bilal",
+        "main_category": "Mosque",
+        "address": "4R9Q+9G7 Masjid-E-Bilal, Pipili, Odisha 752104",
+        "detailed_address": {
+            "ward": null,
+            "street": "4R9Q+9G7",
+            "city": "Pipili",
+            "postal_code": "752104",
+            "state": "Odisha",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNdBjqeO5DTKvEbvrR4zT4ckwMgvI7VWpR9LGiw=w224-h485-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid-E-Bilal/data=!4m7!3m6!1s0x3a19a499d3bc772f:0x5d4b6f7036aa0e29!8m2!3d20.1184148!4d85.8388045!16s%2Fg%2F11c5zxg_pr!19sChIJL3e805mkGToRKQ6qNnBvS10?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 20.1184148,
+            "longitude": 85.8388045
+        }
+    },
+    {
+        "name": "Siriya pur masjid e Sunni Muslim masjid",
+        "main_category": "Mosque",
+        "address": "4R3G+56G Siriya pur masjid e Sunni Muslim masjid, Pipili, Odisha 752104",
+        "detailed_address": {
+            "ward": null,
+            "street": "4R3G+56G",
+            "city": "Pipili",
+            "postal_code": "752104",
+            "state": "Odisha",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K7DxKEDE-o8bj3VQLMgEiA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=235.69098&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K7DxKEDE-o8bj3VQLMgEiA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=235.69098&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Siriya+pur+masjid+e+Sunni+Muslim+masjid/data=!4m7!3m6!1s0x3a19a53318c16a37:0x439a1e7d08e557f9!8m2!3d20.1029812!4d85.8255998!16s%2Fg%2F11vbxj8kxg!19sChIJN2rBGDOlGToR-VflCH0emkM?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 20.1029812,
+            "longitude": 85.82559979999999
+        }
+    }
+]
