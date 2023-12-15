@@ -1,7 +1,7 @@
 from src.gmaps import Gmaps
 
 
-queries = Gmaps.Cities.India("masjid")[100:200]
+queries = Gmaps.Cities.India("masjid")[200:300]
 fields = [
    Gmaps.Fields.NAME, 
    Gmaps.Fields.MAIN_CATEGORY,
