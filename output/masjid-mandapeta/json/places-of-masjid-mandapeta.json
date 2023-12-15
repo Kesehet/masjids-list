@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Al Ameen Masjid",
+        "main_category": "Mosque",
+        "address": "Al Ameen Masjid, Gandhi Nagar, Mandapeta, Andhra Pradesh 533308",
+        "detailed_address": {
+            "ward": "Gandhi Nagar",
+            "street": null,
+            "city": "Mandapeta",
+            "postal_code": "533308",
+            "state": "Andhra Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOlc7DPe6AuJ1_CdmyguoIjvjWH619JZ2rOYs0G=w529-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Al+Ameen+Masjid/data=!4m7!3m6!1s0x3a379693920cd79d:0xbb73cd0669b42fe8!8m2!3d16.8670133!4d81.9254525!16s%2Fg%2F11cs2h25dj!19sChIJndcMkpOWNzoR6C-0aQbNc7s?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 16.8670133,
+            "longitude": 81.92545249999999
+        }
+    },
+    {
+        "name": "Hanafi Ahele Sunnath Val Jamia Masjid",
+        "main_category": "Mosque",
+        "address": "VW6G+WH8 Hanafi Ahele Sunnath Val Jamia Masjid, Valluri Vari Street, Mandapeta, Andhra Pradesh 533308",
+        "detailed_address": {
+            "ward": null,
+            "street": "VW6G+WH8, Valluri Vari Street",
+            "city": "Mandapeta",
+            "postal_code": "533308",
+            "state": "Andhra Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipN_mGgM2qpUZoJBFx0FjAY1FiGYjeW9J5QHiv3S=w613-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rfX6fgSyfwAPkYoah9-rfA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=176.3195&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNNkwhgsIAq9aEBaVMp7EzHPebfP7dkQdeQLi6v=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hanafi+Ahele+Sunnath+Val+Jamia+Masjid/data=!4m7!3m6!1s0x3a3796972a2fedf1:0x721f1902de5ed28a!8m2!3d16.8622994!4d81.926459!16s%2Fg%2F11bzq0g5qt!19sChIJ8e0vKpeWNzoRitJe3gIZH3I?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 16.862299399999998,
+            "longitude": 81.926459
+        }
+    },
+    {
+        "name": "Masjid e Aqsa",
+        "main_category": "Mosque",
+        "address": "VWCF+WRP Masjid e Aqsa, Mandapeta, Andhra Pradesh 533308",
+        "detailed_address": {
+            "ward": null,
+            "street": "VWCF+WRP",
+            "city": "Mandapeta",
+            "postal_code": "533308",
+            "state": "Andhra Pradesh",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Masjid+e+Aqsa/data=!4m7!3m6!1s0x3a37972eea4fc9e1:0xa175a5deb20a8d2!8m2!3d16.8730065!4d81.9235247!16s%2Fg%2F11khv164hf!19sChIJ4clP6i6XNzoR0qgg611aFwo?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 16.8730065,
+            "longitude": 81.9235247
+        }
+    },
+    {
+        "name": "Masjid e Hamza",
+        "main_category": "Mosque",
+        "address": "VW7F+CXP Masjid e Hamza, Townhall Road, Gandhi Nagar, Mandapeta, Andhra Pradesh 533308",
+        "detailed_address": {
+            "ward": "Gandhi Nagar",
+            "street": "VW7F+CXP, Townhall Road",
+            "city": "Mandapeta",
+            "postal_code": "533308",
+            "state": "Andhra Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPbocQe93v6GH2Z1_pFItX99jwf_siYuIHvNTfD=w224-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+e+Hamza/data=!4m7!3m6!1s0x3a379702d6480d93:0x3f929ece5e3d01a!8m2!3d16.863468!4d81.924792!16s%2Fg%2F11tjdx9c64!19sChIJkw1I1gKXNzoRGtDj5ewp-QM?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 16.863468,
+            "longitude": 81.924792
+        }
+    }
+]
