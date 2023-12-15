@@ -1,0 +1,58 @@
+[
+    {
+        "name": "JAMA MASJID MARKAZ SHAHADA",
+        "main_category": "Mosque",
+        "address": "GFW9+FHF JAMA MASJID MARKAZ SHAHADA, Main Rd, Kukdel, Shahada, Maharashtra 425409",
+        "detailed_address": {
+            "ward": "Kukdel",
+            "street": "GFW9+FHF, Main Rd",
+            "city": "Shahada",
+            "postal_code": "425409",
+            "state": "Maharashtra",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMgIgOEGP8Jyp4FYS1L35l8G_O_OZhWJKjMR9Mx=w529-h298-k-no"
+            },
+            {
+                "about": "Latest",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipO42lN0NknxJ7KWGbQ2b2k0vBkeb9Zqx5oSRVjM=w224-h398-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CJIFJRQpGDqNIsdtoJubFw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=230.332&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/JAMA+MASJID+MARKAZ+SHAHADA/data=!4m7!3m6!1s0x3bdf6cf6691053c1:0x340b8cdd30a3ce63!8m2!3d21.5461781!4d74.4689208!16s%2Fg%2F11cjhc4kbn!19sChIJwVMQafZs3zsRY86jMN2MCzQ?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 21.5461781,
+            "longitude": 74.46892079999999
+        }
+    },
+    {
+        "name": "Jumma masjid (markaz), mhaswad",
+        "main_category": "Mosque",
+        "address": "Jumma masjid (markaz), mhaswad, Raajwada, Shahada, Mhaswad, Maharashtra 415509",
+        "detailed_address": {
+            "ward": "Shahada",
+            "street": "Raajwada",
+            "city": "Mhaswad",
+            "postal_code": "415509",
+            "state": "Maharashtra",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMWDyGY2SRVvXouSdR-0XDxayfBRHvskWPgCVQC=w660-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jumma+masjid+%28markaz%29,+mhaswad/data=!4m7!3m6!1s0x3bc3fbaf5d2ae5d5:0xf6459d2cf7ada371!8m2!3d17.6324749!4d74.788007!16s%2Fg%2F11pf2ks4gk!19sChIJ1eUqXa_7wzsRcaOt9yydRfY?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 17.6324749,
+            "longitude": 74.788007
+        }
+    }
+]
