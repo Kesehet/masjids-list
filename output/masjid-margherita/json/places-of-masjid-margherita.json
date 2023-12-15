@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Noori Jama Masjid Margherita",
+        "main_category": "Mosque",
+        "address": "7MP7+PJX Noori Jama Masjid Margherita, Makum Pathar No.1, Margherita, Assam 786181",
+        "detailed_address": {
+            "ward": null,
+            "street": "7MP7+PJX",
+            "city": "Makum Pathar No.1, Margherita",
+            "postal_code": "786181",
+            "state": "Assam",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOxHIHa3J5Irm4ynnyhOy3QAmPYH5VZl7O9QSKY=w224-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMjK71W25wVcaemX2UzxktyUvtrTeZOMIim8tPa=w298-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Noori+Jama+Masjid+Margherita/data=!4m7!3m6!1s0x373f2666de70886f:0x13eb5d10e5157e96!8m2!3d27.2868606!4d95.6641022!16s%2Fg%2F11bv3vs_x2!19sChIJb4hw3mYmPzcRln4V5RBd6xM?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 27.286860599999997,
+            "longitude": 95.6641022
+        }
+    },
+    {
+        "name": "Margherita Sadar Jamme Masjid",
+        "main_category": "Religious destination",
+        "address": "Margherita Sadar Jamme Masjid, 7, Margherita, Assam 786181",
+        "detailed_address": {
+            "ward": "Durgabari",
+            "street": "7",
+            "city": "Margherita, Makum Pathar No.1",
+            "postal_code": "786181",
+            "state": "Assam",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Hmd4Jj56EXY9DQdovYXi4g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=91.327415&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Hmd4Jj56EXY9DQdovYXi4g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=91.327415&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Margherita+Sadar+Jamme+Masjid/data=!4m7!3m6!1s0x373f274ad7942e4b:0x67d65268d2d471d5!8m2!3d27.303303!4d95.6570444!16s%2Fg%2F11v19sc_lq!19sChIJSy6U10onPzcR1XHU0mhS1mc?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 27.303303,
+            "longitude": 95.65704439999999
+        }
+    },
+    {
+        "name": "Charali Masjid",
+        "main_category": "Mosque",
+        "address": "7PH6+227 Charali Masjid, Road, Margherita, Namdan Golai, Assam 786182",
+        "detailed_address": {
+            "ward": null,
+            "street": "7PH6+227, Road",
+            "city": "Margherita, Namdan Golai",
+            "postal_code": null,
+            "state": "Assam",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Charali+Masjid/data=!4m7!3m6!1s0x373f27092222c385:0x37e82e991f748f33!8m2!3d27.277537!4d95.710055!16s%2Fg%2F11sdkfth2c!19sChIJhcMiIgknPzcRM490H5ku6Dc?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 27.277537,
+            "longitude": 95.710055
+        }
+    }
+]
