@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Masjid",
+        "main_category": "Mosque",
+        "address": "RCVV+V83 Masjid, Dharamnala, Diphu, Assam 782462",
+        "detailed_address": {
+            "ward": "Dharamnala",
+            "street": "RCVV+V83",
+            "city": "Diphu",
+            "postal_code": "782462",
+            "state": "Assam",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPkOctYK_CJdh74f1p6HQdq0CCCf4vh9MJB4xhb=w397-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMwlmbOg-nTUIUTrDKvl8qVsGtWAnc7rcaRvLLf=w224-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid/@25.8446494,93.4432902,17z/data=!3m1!4b1!4m6!3m5!1s0x3745ed171999c6dd:0x323007e6cf9e2b30!8m2!3d25.8446494!4d93.4432902!16s%2Fg%2F11gffdgtk7?authuser=0&entry=ttu",
+        "coordinates": {
+            "latitude": 25.844649399999998,
+            "longitude": 93.44329019999999
+        }
+    }
+]
