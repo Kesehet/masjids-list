@@ -12,7 +12,7 @@ iterations=10
 for (( i=0; i<$iterations; i++ ))
 do
     # Run your Python script
-    /c/path/to/python.exe main.py $((start + i * increment))
+    python main.py $((start + i * increment))
 
     # Git add, commit, and push
     git add .
