@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Faizan-e-Madina Jama Masjid",
+        "main_category": "Mosque",
+        "address": "92WH+46V Faizan-e-Madina Jama Masjid, Khtika Mohalla, BSNL Colony, Indira Nagari, Gawri Niwas, Fazilka, Punjab 152123",
+        "detailed_address": {
+            "ward": "Khtika Mohalla, BSNL Colony, Indira Nagari, Gawri Niwas",
+            "street": "92WH+46V",
+            "city": "Fazilka",
+            "postal_code": "152123",
+            "state": "Punjab",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMhgvO4i_zov69nkc8mY28XcQV310rKwCyPPFlp=w397-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zzys3du2bOLW8YJZZk-qzw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=262.32703&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Faizan-e-Madina+Jama+Masjid/data=!4m7!3m6!1s0x39179082cf12b283:0xbcceb537520226e1!8m2!3d30.3953623!4d74.0280414!16s%2Fg%2F11c6vcxnns!19sChIJg7ISz4KQFzkR4SYCUje1zrw?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 30.3953623,
+            "longitude": 74.02804139999999
+        }
+    },
+    {
+        "name": "Masjid E Fazil",
+        "main_category": "Mosque",
+        "address": "C22G+WX8 Masjid E Fazil, Baniya Mohalla, Fazilka, Punjab 152123",
+        "detailed_address": {
+            "ward": "Baniya Mohalla",
+            "street": "C22G+WX8",
+            "city": "Fazilka",
+            "postal_code": "152123",
+            "state": "Punjab",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rZmF_d55nbVuIbTkI_SvNA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=0.39706296&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rZmF_d55nbVuIbTkI_SvNA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=0.39706296&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+E+Fazil/data=!4m7!3m6!1s0x391791b57d7a27d3:0xce8f49414c520cbf!8m2!3d30.4022889!4d74.0274445!16s%2Fg%2F11v3mzkhw3!19sChIJ0yd6fbWRFzkRvwxSTEFJj84?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 30.4022889,
+            "longitude": 74.0274445
+        }
+    }
+]
