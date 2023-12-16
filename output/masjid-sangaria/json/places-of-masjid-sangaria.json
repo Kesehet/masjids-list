@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Masjid-E-Mohammadi (Sangaria Fanta)",
+        "main_category": "Mosque",
+        "address": "Masjid-E-Mohammadi (Sangaria Fanta), 73-75 Road, Sangaria Fanta, Kheteswar Nagar, Salawas, Rajasthan 342013",
+        "detailed_address": {
+            "ward": "Kheteswar Nagar, Phase 1st, Sangriya",
+            "street": "73-75 Road, Sangaria Fanta",
+            "city": "Salawas, Jodhpur",
+            "postal_code": "342013",
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNqtTUPVu2fqUCFD8DxSPDmX2kjpq5Q9y1Bv0Q7=w224-h398-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zl959S-x7VBUJisrPANh-A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=274.79504&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNidXXsfhmMpx1XuqbvqBiyWHTXPDbtepoMbBTq=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid-E-Mohammadi+%28Sangaria+Fanta%29/data=!4m7!3m6!1s0x39418bd3fbadf7cb:0x1b2ef0de480767b1!8m2!3d26.1983309!4d72.9995652!16s%2Fg%2F11c6w0q3qp!19sChIJy_et-9OLQTkRsWcHSN7wLhs?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 26.1983309,
+            "longitude": 72.99956519999999
+        }
+    },
+    {
+        "name": "Jama Mosque",
+        "main_category": "Mosque",
+        "address": "QFR7+FH4 Jama Mosque, Sadul Shahar-Sangriya Rd, Sangaria, Rajasthan 335063",
+        "detailed_address": {
+            "ward": null,
+            "street": "QFR7+FH4, Sadul Shahar-Sangriya Rd",
+            "city": "Sangaria",
+            "postal_code": "335063",
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM-y9WUbferitggRWOfGUNAc7T8tQwvr_1PCjVm=w224-h398-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iNw1IX_cPFCQXdTwrtD-tw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=289.5103&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jama+Mosque/data=!4m7!3m6!1s0x3916e5858b5cc485:0xa0072921cc1028a7!8m2!3d29.7911452!4d74.4639614!16s%2Fg%2F11b6_nbkz4!19sChIJhcRci4XlFjkRpygQzCEpB6A?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 29.7911452,
+            "longitude": 74.4639614
+        }
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Masjid Begamganj",
+        "main_category": "Mosque",
+        "address": "3G3C+9GJ Masjid Begamganj, Begamganj, Sandila, Tikra Daudpur, Uttar Pradesh 241204",
+        "detailed_address": {
+            "ward": "Begamganj",
+            "street": "3G3C+9GJ",
+            "city": "Sandila, Tikra Daudpur",
+            "postal_code": "241204",
+            "state": "Uttar Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPmzyj7-d4zP66JEfxWfxGH85GvRwXqSEonS65Z=w238-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B2aXxAstWSEGzQ4HU5LSkQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=263.2653&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM_-SBk92UNvufdsmM9EBA2mdrNL3XcJZB3m1XN=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+Begamganj/data=!4m7!3m6!1s0x399ebcc7fbfc2047:0x358f063b0706b8c8!8m2!3d27.0534596!4d80.5212551!16s%2Fg%2F11gf49j2fm!19sChIJRyD8-8e8njkRyLgGBzsGjzU?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 27.0534596,
+            "longitude": 80.52125509999999
+        }
+    },
+    {
+        "name": "Mecca Masjid Begumganj",
+        "main_category": "Mosque",
+        "address": "H8WV+4J8 Mecca Masjid Begumganj, Balai, ttekrii maarg, hadaipur, Begumganj, Madhya Pradesh 464881",
+        "detailed_address": {
+            "ward": "hadaipur",
+            "street": "H8WV+4J8, Balai, ttekrii maarg",
+            "city": "Begumganj",
+            "postal_code": "464881",
+            "state": "Madhya Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPFDYMsi4FIr-ldy5Dehwdd5rr2w_t8MtB9nsn-=w661-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOoXHDOEK0Ne9HkC1-3NJOfr7_fYb1sPO3cXKWA=w224-h395-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mecca+Masjid+Begumganj/data=!4m7!3m6!1s0x397ec9fba7506f7d:0x7d953f72fea62af2!8m2!3d23.595292!4d78.3440831!16s%2Fg%2F11j8stxqfz!19sChIJfW9Qp_vJfjkR8iqm_nI_lX0?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 23.595292,
+            "longitude": 78.34408309999999
+        }
+    },
+    {
+        "name": "Shahi masjid begamganj",
+        "main_category": "Mosque",
+        "address": "W5HR+69V Shahi masjid begamganj, Begum Gunj, Barabanki, Uttar Pradesh 225001",
+        "detailed_address": {
+            "ward": "Begum Gunj",
+            "street": "W5HR+69V",
+            "city": "Barabanki",
+            "postal_code": "225001",
+            "state": "Uttar Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMnXPl6uMnsheTYniN9yfnuHZrrAhcefdhaWAIL=w529-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2L3P0eFtvqJ6OOpgkpL0PA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=2.1459317&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Shahi+masjid+begamganj/data=!4m7!3m6!1s0x3999615c4a86a609:0x4a15ec89dc73df78!8m2!3d26.9281186!4d81.1909309!16s%2Fg%2F11swgg2s7x!19sChIJCaaGSlxhmTkReN9z3InsFUo?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 26.928118599999998,
+            "longitude": 81.1909309
+        }
+    }
+]

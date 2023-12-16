@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Mosque",
+        "main_category": "Mosque",
+        "address": "Mosque, C-194, Industrial Area Phase I, Block C, Naraina Industrial Area Phase 1, Naraina, New Delhi, Delhi 110028",
+        "detailed_address": {
+            "ward": "Industrial Area Phase I, Block C, Naraina Industrial Area Phase 1, Naraina",
+            "street": "C-194",
+            "city": "New Delhi",
+            "postal_code": "110028",
+            "state": "Delhi",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipN9ShIAX9AlGwKnHCimE9Ni69z2MQSUKkqP4tqP=w224-h398-k-no"
+            },
+            {
+                "about": "Latest",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNHb2A0jpvoOJYTyg32gDz-jBmmVaep80e7BWyJ=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMzhHXUke8yUPhqf2GuJl6M8KFwCzptoR-ql2sD=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mosque/data=!4m7!3m6!1s0x390d03e44e562277:0xcc16aa56e8c113fd!8m2!3d28.6307669!4d77.137273!16s%2Fg%2F11gl13ryh3!19sChIJdyJWTuQDDTkR_RPB6FaqFsw?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 28.630766899999998,
+            "longitude": 77.137273
+        }
+    },
+    {
+        "name": "Jama Masjid",
+        "main_category": "School",
+        "address": "J4QR+WR2 Jama Masjid, Loha Mandi, Loha Mandi, Block Y, Naraina Industrial Area Phase 1, Naraina, New Delhi, Delhi, 110028",
+        "detailed_address": {
+            "ward": "Loha Mandi, Loha Mandi, Block Y, Naraina Industrial Area Phase 1, Naraina",
+            "street": "J4QR+WR2",
+            "city": "New Delhi, Delhi",
+            "postal_code": "110028",
+            "state": "Delhi",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNZ3mDkv8yeRudWD0vDAKcZMOtC7J2g3kmrNDsC=w224-h495-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DhetrlTwQ3koINOTeufz_g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=200.36526&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNz4Tu_ebABKI4QxuImGyvK95LhzGb3GMd5cGoY=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jama+Masjid/data=!4m7!3m6!1s0x390d034b259707ab:0x85de359704615e40!8m2!3d28.639768!4d77.1420035!16s%2Fg%2F11l4cwf_8t!19sChIJqweXJUsDDTkRQF5hBJc13oU?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 28.639768,
+            "longitude": 77.1420035
+        }
+    }
+]

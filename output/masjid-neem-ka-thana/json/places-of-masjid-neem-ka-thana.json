@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Masjid Neem Kha Thana",
+        "main_category": "Mosque",
+        "address": "PQMC+7W5 Masjid Neem Kha Thana, Shyam Nagar, Neem Ka Thana, Rajasthan 332713",
+        "detailed_address": {
+            "ward": "Shyam Nagar",
+            "street": "PQMC+7W5",
+            "city": "Neem Ka Thana",
+            "postal_code": "332713",
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Masjid+Neem+Kha+Thana/data=!4m7!3m6!1s0x396d262554bd802d:0x65fbcb32085dd1b8!8m2!3d27.7331401!4d75.772359!16s%2Fg%2F11f54krpcj!19sChIJLYC9VCUmbTkRuNFdCDLL-2U?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 27.7331401,
+            "longitude": 75.772359
+        }
+    },
+    {
+        "name": "Masjid Neem Ka Thana",
+        "main_category": "Mosque",
+        "address": "PQMP+J9R Masjid Neem Ka Thana, Purana Bazar, Yadav Colony, Neem Ka Thana, Rajasthan 332713",
+        "detailed_address": {
+            "ward": "Purana Bazar, Yadav Colony",
+            "street": "PQMP+J9R",
+            "city": "Neem Ka Thana",
+            "postal_code": "332713",
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M73_7pLWynHpNQcRn9ev7w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=0.63304067&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M73_7pLWynHpNQcRn9ev7w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=0.63304067&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+Neem+Ka+Thana/data=!4m7!3m6!1s0x396d2772eaecdb8d:0x6f3f7ef2431d79ea!8m2!3d27.7341239!4d75.7858783!16s%2Fg%2F11f7svpdhk!19sChIJjdvs6nInbTkR6nkdQ_J-P28?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 27.7341239,
+            "longitude": 75.7858783
+        }
+    }
+]

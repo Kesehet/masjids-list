@@ -1,0 +1,34 @@
+[
+    {
+        "name": "JAMA MASJID LAKSAR",
+        "main_category": "Mosque",
+        "address": "JAMA MASJID LAKSAR, Jama Masjid, Main Bazaar, Laksar, Uttarakhand 247663",
+        "detailed_address": {
+            "ward": "Main Bazaar",
+            "street": "Jama Masjid",
+            "city": "Laksar",
+            "postal_code": "247663",
+            "state": "Uttarakhand",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oZ2_shtt2rCoCXPv0rNKqg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=46.81024&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMtiwk6oZWgL-zIsKw0pplMb_AIkKopbR5L1bUB=w529-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oZ2_shtt2rCoCXPv0rNKqg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=46.81024&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/JAMA+MASJID+LAKSAR/@29.7529612,78.0215929,17z/data=!3m1!4b1!4m6!3m5!1s0x390951c452361a03:0x23d54d1539f3d93a!8m2!3d29.7529612!4d78.0215929!16s%2Fg%2F11l6f79dj7?authuser=0&entry=ttu",
+        "coordinates": {
+            "latitude": 29.752961199999998,
+            "longitude": 78.0215929
+        }
+    }
+]

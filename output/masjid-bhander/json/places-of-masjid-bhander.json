@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Masjid Bandar",
+        "main_category": null,
+        "address": "Masjid Bandar, Mumbai, Maharashtra",
+        "detailed_address": {
+            "ward": "Masjid Bandar",
+            "street": null,
+            "city": "Mumbai",
+            "postal_code": null,
+            "state": "Maharashtra",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM468Myn1z8xhQzPaxY_TKSKoPZez5wSAP8SY3a=w397-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMmAS664y986aVqEbPUD6T0ITcuhMGpgp_2qzQ=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+Bandar,+Mumbai,+Maharashtra/@18.9510005,72.8378795,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce25bbeff967:0xf5e3d1b502598f92!8m2!3d18.9506004!4d72.8382547!16s%2Fg%2F1tfb9m9m?authuser=0&entry=ttu",
+        "coordinates": {
+            "latitude": 18.9506004,
+            "longitude": 72.8382547
+        }
+    }
+]

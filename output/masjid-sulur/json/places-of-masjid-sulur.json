@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Sulur Mosque",
+        "main_category": "Mosque",
+        "address": "24HC+JXP Sulur Mosque, Sulur, Tamil Nadu 641402",
+        "detailed_address": {
+            "ward": null,
+            "street": "24HC+JXP",
+            "city": "Sulur",
+            "postal_code": "641402",
+            "state": "Tamil Nadu",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNF-A26pE2fDJKirLJ-F-pTGD_0kSn1Iyo5DYwp=w528-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPIy0w1n5Mp6Sw8J0S21rTuatTUm7_nd-M4oUlV=w529-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GcqZBZvyuqTDxUWi97SRQw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=222.28235&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sulur+Mosque/data=!4m7!3m6!1s0x3ba855c8fe4ba301:0x776a219b2515b352!8m2!3d11.0290989!4d77.1224515!16s%2Fg%2F124srg_zn!19sChIJAaNL_shVqDsRUrMVJZshanc?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 11.0290989,
+            "longitude": 77.1224515
+        }
+    },
+    {
+        "name": "Sulur Aero Masjid",
+        "main_category": "Mosque",
+        "address": "Sulur Aero Masjid, No 7/182,Selva Nandhini Complex , Near vinayagar kovil Sulur areo, Sulur, Tamil Nadu 641401",
+        "detailed_address": {
+            "ward": null,
+            "street": "No 7/182,Selva Nandhini Complex , Near vinayagar kovil Sulur areo",
+            "city": "Sulur",
+            "postal_code": "641401",
+            "state": "Tamil Nadu",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNCoBf1n19fumc0_UHgiwYKtnZms1VQRN8dlbkY=w397-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dfdqUB8scCgJoAWk0OqKLQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=315.16736&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sulur+Aero+Masjid/data=!4m7!3m6!1s0x3ba855ed1de6cb11:0xefe5a27ab353d039!8m2!3d11.0313001!4d77.1565875!16s%2Fg%2F11g__0mkcr!19sChIJEcvmHe1VqDsROdBTs3qi5e8?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 11.0313001,
+            "longitude": 77.1565875
+        }
+    },
+    {
+        "name": "Ahmadiyya Masjid, Sulur",
+        "main_category": "Mosque",
+        "address": "24FJ+7HC Ahmadiyya Masjid, Sulur, Sulur, Tamil Nadu 641402",
+        "detailed_address": {
+            "ward": null,
+            "street": "24FJ+7HC",
+            "city": "Sulur",
+            "postal_code": "641402",
+            "state": "Tamil Nadu",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B_5X5SzDYoHmPYp4SITGyw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=250.72432&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B_5X5SzDYoHmPYp4SITGyw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=250.72432&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ahmadiyya+Masjid,+Sulur/data=!4m7!3m6!1s0x3ba855b37d0ef113:0xc492f68ac5522bf6!8m2!3d11.0231788!4d77.131376!16s%2Fg%2F11fxypqmpx!19sChIJE_EOfbNVqDsR9itSxYr2ksQ?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 11.0231788,
+            "longitude": 77.131376
+        }
+    }
+]

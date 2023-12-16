@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Jamia Masjid,Kerur",
+        "main_category": "Mosque",
+        "address": "2H82+84F Jamia Masjid,Kerur, Kerur, Karnataka 587206",
+        "detailed_address": {
+            "ward": null,
+            "street": "2H82+84F",
+            "city": "Kerur",
+            "postal_code": "587206",
+            "state": "Karnataka",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Jamia+Masjid,Kerur/data=!4m7!3m6!1s0x3bb882c0060ed63f:0xd725b43f329750b0!8m2!3d16.0158237!4d75.5502896!16s%2Fg%2F11dzsqj1m2!19sChIJP9YOBsCCuDsRsFCXMj-0Jdc?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 16.0158237,
+            "longitude": 75.5502896
+        }
+    },
+    {
+        "name": "Jama Masjid Kerur",
+        "main_category": "Mosque",
+        "address": "FJ8V+6W8 Jama Masjid Kerur, Kerur, Karnataka 591213",
+        "detailed_address": {
+            "ward": null,
+            "street": "FJ8V+6W8",
+            "city": "Kerur",
+            "postal_code": "591213",
+            "state": "Karnataka",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPVOpDzY53-YweC6nc7nVoxzDt2S4ba0quuhQfy=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jama+Masjid+Kerur/data=!4m7!3m6!1s0x3bc0c3b23c03adc9:0x9be9f824a055e0c5!8m2!3d16.4655348!4d74.6448127!16s%2Fg%2F11c1xgf4x5!19sChIJya0DPLLDwDsRxeBVoCT46Zs?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 16.4655348,
+            "longitude": 74.6448127
+        }
+    },
+    {
+        "name": "Masjid Aashuri Khanam",
+        "main_category": "Mosque",
+        "address": "M67H+MCM Masjid Aashuri Khanam, Chabi Ganj, Mori Gate, Delhi, 110006",
+        "detailed_address": {
+            "ward": "Chabi Ganj, Mori Gate",
+            "street": "M67H+MCM",
+            "city": "Delhi",
+            "postal_code": "110006",
+            "state": "Delhi",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U82hfyw_H-3iB4SRXvPVGw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=166.13504&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U82hfyw_H-3iB4SRXvPVGw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=166.13504&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMAsfxibVT7uzbp21t1OzZVOGd3lJBxSTClI6El=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+Aashuri+Khanam/data=!4m7!3m6!1s0x390cfd6d54f68bab:0x17d18dca963d68ca!8m2!3d28.6642167!4d77.2285366!16s%2Fg%2F11gjkfjw_6!19sChIJq4v2VG39DDkRymg9lsqN0Rc?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 28.664216699999997,
+            "longitude": 77.2285366
+        }
+    }
+]

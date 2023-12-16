@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Babri Masjid",
+        "main_category": "Mosque",
+        "address": "8F34+5XR Babri Masjid, Balamgarh, Sanaur, Punjab 147103",
+        "detailed_address": {
+            "ward": "Balamgarh",
+            "street": "8F34+5XR",
+            "city": "Sanaur",
+            "postal_code": "147103",
+            "state": "Punjab",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPViksdggYYLWOB_2H2thPS3lHkp6tIz6XIvlI7=w224-h485-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Babri+Masjid/data=!4m7!3m6!1s0x390fd70736fadbc9:0x6ddb9bd48dab00cb!8m2!3d30.3029943!4d76.4574025!16s%2Fg%2F11rk248_g3!19sChIJydv6NgfXDzkRywCrjdSb220?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 30.302994299999998,
+            "longitude": 76.4574025
+        }
+    },
+    {
+        "name": "Jama masjid,sanaur",
+        "main_category": "Mosque",
+        "address": "8F33+FQP Jama masjid,sanaur, Ward Number 13, Balamgarh, Sanaur, Punjab 147103",
+        "detailed_address": {
+            "ward": "Ward Number 13, Balamgarh",
+            "street": "8F33+FQP",
+            "city": "Sanaur",
+            "postal_code": "147103",
+            "state": "Punjab",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMH8pE45V398jfqRVEzmaQZZypzjkSGgdnRMEQq=w397-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMdRQXqyyeVeeYdiBAhaU99ey5Y2md2_Mfk9ct-=w397-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNDihg2pnhBdKSQKd6x4R5tAPEFa82DXL-y-jdw=w529-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OrqPo86jMw8RwNVMwTBGvA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=100.87477&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jama+masjid,sanaur/data=!4m7!3m6!1s0x391029cfd558e1ab:0xade205d6d77e6a74!8m2!3d30.3037184!4d76.4544495!16s%2Fg%2F11k4s011kv!19sChIJq-FY1c8pEDkRdGp-19YF4q0?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 30.303718399999998,
+            "longitude": 76.4544495
+        }
+    },
+    {
+        "name": "Umar masjid",
+        "main_category": "Mosque",
+        "address": "8F33+P9V Umar masjid, Balamgarh, Sanaur, Punjab 147103",
+        "detailed_address": {
+            "ward": "Balamgarh",
+            "street": "8F33+P9V",
+            "city": "Sanaur",
+            "postal_code": null,
+            "state": "Punjab",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Umar+masjid/data=!4m7!3m6!1s0x391029da386c4815:0x95999b4bf15c603d!8m2!3d30.3043638!4d76.4534165!16s%2Fg%2F11sk2rzbq6!19sChIJFUhsONopEDkRPWBc8UubmZU?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 30.304363799999997,
+            "longitude": 76.4534165
+        }
+    },
+    {
+        "name": "Manish Kumar Raj",
+        "main_category": "Mosque",
+        "address": "Manish Kumar Raj, dhan se Madhubani, Balamgarh, Sanaur, Punjab 147103",
+        "detailed_address": {
+            "ward": "Balamgarh",
+            "street": "dhan se Madhubani",
+            "city": "Sanaur",
+            "postal_code": null,
+            "state": "Punjab",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Manish+Kumar+Raj/data=!4m7!3m6!1s0x391029548bc30bab:0x431de7ec36383fe9!8m2!3d30.3043638!4d76.4534165!16s%2Fg%2F11t6fsmnj2!19sChIJqwvDi1QpEDkR6T84NuznHUM?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 30.304363799999997,
+            "longitude": 76.4534165
+        }
+    }
+]

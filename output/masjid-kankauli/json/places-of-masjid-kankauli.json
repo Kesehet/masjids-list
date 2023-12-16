@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Masjid",
+        "main_category": "Mosque",
+        "address": "7P89+F47 Masjid, Bandhkarwadi, Maharashtra 416602",
+        "detailed_address": {
+            "ward": "Bandhkarwadi",
+            "street": "7P89+F47",
+            "city": null,
+            "postal_code": "416602",
+            "state": "Maharashtra",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMBBuTA5nz2hGQ-DQ1tZYHUv149g5NVIdZzuBZ7=w224-h398-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipP8JZ1VrUJu64O8dgzoQ64zm7p1G0ZI7r49cxwp=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid/data=!4m7!3m6!1s0x3bc01626b65182cf:0x9e14925873c66855!8m2!3d16.2661643!4d73.7177892!16s%2Fg%2F1tks4sdp!19sChIJz4JRtiYWwDsRVWjGc1iSFJ4?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 16.2661643,
+            "longitude": 73.7177892
+        }
+    },
+    {
+        "name": "kalmath masjid muslimwadi",
+        "main_category": "Mosque",
+        "address": "7MCV+RQP kalmath masjid muslimwadi, Kalmath, Maharashtra 416602",
+        "detailed_address": {
+            "ward": "Kalmath",
+            "street": "7MCV+RQP",
+            "city": null,
+            "postal_code": "416602",
+            "state": "Maharashtra",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOVc1QJF3XX4zrBwVBHHiVPmioyy1ACVkGTRu0v=w224-h482-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPJUMyUTLhzOJJxfTYoaelknrE9DuaDTtwsfe4L=w641-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/kalmath+masjid+muslimwadi/data=!4m7!3m6!1s0x3bc03d8df91938fd:0x7068a393ed51b3d0!8m2!3d16.2720947!4d73.694454!16s%2Fg%2F11f7609knz!19sChIJ_TgZ-Y09wDsR0LNR7ZOjaHA?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 16.2720947,
+            "longitude": 73.694454
+        }
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "name": "JAMA MASJID",
+        "main_category": "Mosque",
+        "address": "V5HR+588 JAMA MASJID, Kodoli, Maharashtra 416114",
+        "detailed_address": {
+            "ward": "Deshmukh Wada",
+            "street": "V5HR+588, JAMA MASJID",
+            "city": "Kodoli",
+            "postal_code": "416114",
+            "state": "Maharashtra",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=x_sONTSpT62771wW6PRTwA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=198.0152&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=x_sONTSpT62771wW6PRTwA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=198.0152&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/JAMA+MASJID/data=!4m7!3m6!1s0x3bc1a7c0f2a326c7:0xce43dda6e13a20e1!8m2!3d16.8779216!4d74.1908257!16s%2Fg%2F11g8ys4kgt!19sChIJxyaj8sCnwTsR4SA64abdQ84?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 16.8779216,
+            "longitude": 74.19082569999999
+        }
+    },
+    {
+        "name": "madina masjid kodoli",
+        "main_category": "Mosque",
+        "address": "V59Q+WMW madina masjid kodoli, Panhala, tal, Kodoli, Maharashtra",
+        "detailed_address": {
+            "ward": null,
+            "street": "V59Q+WMW, Panhala, tal",
+            "city": "Kodoli",
+            "postal_code": null,
+            "state": "Maharashtra",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XMDnQya5_T4-m4cGidemkw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=128.74362&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XMDnQya5_T4-m4cGidemkw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=128.74362&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/madina+masjid+kodoli/data=!4m7!3m6!1s0x3bc1a709aad99c25:0x92a1dea522d595b9!8m2!3d16.8698605!4d74.1892037!16s%2Fg%2F11g0gd6cmd!19sChIJJZzZqgmnwTsRuZXVIqXeoZI?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 16.869860499999998,
+            "longitude": 74.1892037
+        }
+    },
+    {
+        "name": "Jamaa Masjid",
+        "main_category": "Mosque",
+        "address": "M949+52F Jamaa Masjid, Birdev Nagar, Pattan Kodoli, Maharashtra 416202",
+        "detailed_address": {
+            "ward": "Birdev Nagar",
+            "street": "M949+52F",
+            "city": "Pattan Kodoli",
+            "postal_code": null,
+            "state": "Maharashtra",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zL5HZOQeTHliHEsGgV4nyA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=172.6278&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zL5HZOQeTHliHEsGgV4nyA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=172.6278&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jamaa+Masjid/data=!4m7!3m6!1s0x3bc0fd14441df70b:0xf4c4853133d76446!8m2!3d16.6554255!4d74.3675327!16s%2Fg%2F11q_hkxx32!19sChIJC_cdRBT9wDsRRmTXMzGFxPQ?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 16.6554255,
+            "longitude": 74.3675327
+        }
+    },
+    {
+        "name": "Masjid-e-Ammar",
+        "main_category": "Mosque",
+        "address": "M96C+7HX Masjid-e-Ammar, Unnamed Road, Pattan Kodoli, Maharashtra 416202",
+        "detailed_address": {
+            "ward": null,
+            "street": "M96C+7HX, Unnamed Road",
+            "city": "Pattan Kodoli",
+            "postal_code": "416202",
+            "state": "Maharashtra",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Masjid-e-Ammar/data=!4m7!3m6!1s0x3bc0fd15b4914b6f:0xa1a06da39bbb7f6b!8m2!3d16.6607412!4d74.3714723!16s%2Fg%2F11qqwr7zt8!19sChIJb0uRtBX9wDsRa3-7m6NtoKE?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 16.6607412,
+            "longitude": 74.3714723
+        }
+    }
+]

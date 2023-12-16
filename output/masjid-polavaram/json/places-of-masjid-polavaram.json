@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Masjid Centre",
+        "main_category": "Mosque",
+        "address": "Masjid Centre, Masjid centre, Polavaram, Andhra Pradesh 534315",
+        "detailed_address": {
+            "ward": null,
+            "street": "Masjid centre",
+            "city": "Polavaram",
+            "postal_code": "534315",
+            "state": "Andhra Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOtWQYXqVLJUlI8b7al3Xiyrn50STPbeU1_42ho=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+Centre/data=!4m7!3m6!1s0x3a370452fb14bd51:0xb145f6e2fc7f71d1!8m2!3d17.2493689!4d81.6451876!16s%2Fg%2F11c52xy7nd!19sChIJUb0U-1IENzoR0XF__OL2RbE?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 17.2493689,
+            "longitude": 81.6451876
+        }
+    },
+    {
+        "name": "Polavaram Masjid",
+        "main_category": "Mosque",
+        "address": "6JXW+J3R Polavaram Masjid, Polavaram, Andhra Pradesh 534315",
+        "detailed_address": {
+            "ward": null,
+            "street": "6JXW+J3R",
+            "city": "Polavaram",
+            "postal_code": "534315",
+            "state": "Andhra Pradesh",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Polavaram+Masjid/data=!4m7!3m6!1s0x3a37052082191fbb:0x71465bdc6f2720bd!8m2!3d17.2491053!4d81.6451278!16s%2Fg%2F11rr4v9d3b!19sChIJux8ZgiAFNzoRvSAnb9xbRnE?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 17.2491053,
+            "longitude": 81.6451278
+        }
+    }
+]

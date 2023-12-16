@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Bodh Gaya",
+        "main_category": null,
+        "address": "Bodh Gaya, Bihar",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Bodh Gaya",
+            "postal_code": null,
+            "state": "Bihar",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipN4KXPxWZzGzYFkT6oS4THmB6c8sOw2lN2eLK9L=w447-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOYigpkcVHZQEmlQO_mbLKi-kiqvnBCrdTOY_M=w529-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Bodh+Gaya/data=!4m7!3m6!1s0x39f32c5fbc12ed3d:0x9bbc5dccc57d96e!8m2!3d24.6961343!4d84.9869547!16zL20vMDFneXkw!19sChIJPe0SvF8s8zkRbtlXzNzFuwk?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 24.6961343,
+            "longitude": 84.9869547
+        }
+    }
+]
