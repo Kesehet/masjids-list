@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Badi Maszid",
+        "main_category": "Mosque",
+        "address": "Badi Maszid, near Holi Chowk, Sisauli, Uttar Pradesh 251319",
+        "detailed_address": {
+            "ward": null,
+            "street": "near Holi Chowk",
+            "city": "Sisauli",
+            "postal_code": "251319",
+            "state": "Uttar Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPQquCxM5uAZXl1yEC35KHuKj7GZMBz9kC-qAM=w224-h298-k-no"
+            },
+            {
+                "about": "Latest",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMyjR4E3yqQdP_e3o281NzJxZYn8pJI3GgVUTyU=w298-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMyjR4E3yqQdP_e3o281NzJxZYn8pJI3GgVUTyU=w298-h298-k-no"
+            },
+            {
+                "about": "By owner",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMJXF3ubR8af5S46XaIJ0yI1zMQ96RV7HgJvolV=w397-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Badi+Maszid/data=!4m7!3m6!1s0x390c2544ba20fcc7:0x5985b337fd9efae4!8m2!3d29.4133544!4d77.4685627!16s%2Fg%2F11qrflb1fk!19sChIJx_wgukQlDDkR5Pqe_TezhVk?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 29.4133544,
+            "longitude": 77.46856269999999
+        }
+    },
+    {
+        "name": "Chhoti Maszid",
+        "main_category": "Mosque",
+        "address": "Chhoti Maszid, near DAV College, Sisauli, Uttar Pradesh 251319",
+        "detailed_address": {
+            "ward": null,
+            "street": "near DAV College",
+            "city": "Sisauli",
+            "postal_code": "251319",
+            "state": "Uttar Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pOVMvOGsnmvPGrcbWM6QSg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=187.20624&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pOVMvOGsnmvPGrcbWM6QSg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=187.20624&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Chhoti+Maszid/data=!4m7!3m6!1s0x390c25100d34d2ab:0x98872694d048cb!8m2!3d29.4166603!4d77.4660875!16s%2Fg%2F11lrt8ybyv!19sChIJq9I0DRAlDDkRy0jQlCaHmAA?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 29.4166603,
+            "longitude": 77.4660875
+        }
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Jama Mosque Rapar",
+        "main_category": "Mosque",
+        "address": "HJFV+23J Jama Mosque Rapar, Rapar, Gujarat 370165",
+        "detailed_address": {
+            "ward": null,
+            "street": "HJFV+23J",
+            "city": "Rapar",
+            "postal_code": "370165",
+            "state": "Gujarat",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPUFAezuHGJ6S8QI-nMrLpsN28CN09V0fuFP_M8=w300-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wl79HlynryU0LExQrjDy6Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=11.508067&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNXxsxBLacjd7DcLf26Sk-f6BFh27x6OjDDNqia=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jama+Mosque+Rapar/data=!4m7!3m6!1s0x395a635d02913ab5:0xb206f352c0767073!8m2!3d23.5725979!4d70.642641!16s%2Fg%2F11bztc9dkd!19sChIJtTqRAl1jWjkRc3B2wFLzBrI?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 23.572597899999998,
+            "longitude": 70.642641
+        }
+    },
+    {
+        "name": "Rapar gadh Masjid",
+        "main_category": "Mosque",
+        "address": "3RW7+R8P Rapar gadh Masjid, Rapargadh, Pingleshwar, Gujarat 370645",
+        "detailed_address": {
+            "ward": null,
+            "street": "3RW7+R8P",
+            "city": "Rapargadh, Pingleshwar",
+            "postal_code": "370645",
+            "state": "Gujarat",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Rapar+gadh+Masjid/data=!4m7!3m6!1s0x3953df5c26438dd9:0xcda9542d73e9608c!8m2!3d23.0970844!4d68.8133165!16s%2Fg%2F11s16k7wvx!19sChIJ2Y1DJlzfUzkRjGDpcy1Uqc0?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 23.0970844,
+            "longitude": 68.8133165
+        }
+    }
+]

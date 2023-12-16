@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Masoothi",
+        "main_category": "Mosque",
+        "address": "HH7W+Q3G Masoothi, Kurinjipadi, Tamil Nadu 607302",
+        "detailed_address": {
+            "ward": null,
+            "street": "HH7W+Q3G",
+            "city": "Kurinjipadi",
+            "postal_code": "607302",
+            "state": "Tamil Nadu",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPLMQygc9mfGlGXdxQGbtZxpHi32QBt-ohmDlX6=w224-h397-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FlzCRgb3aAz21zn-NKVqiw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=38.500496&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masoothi/data=!4m7!3m6!1s0x3a54b9ad4b385479:0xbf498bfa44a3c0b7!8m2!3d11.5644414!4d79.5951943!16s%2Fg%2F1hjgyb0mh!19sChIJeVQ4S625VDoRt8CjRPqLSb8?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 11.5644414,
+            "longitude": 79.5951943
+        }
+    },
+    {
+        "name": "Mosque",
+        "main_category": "Mosque",
+        "address": "HH7V+QXM Mosque, Kurinjipadi, Tamil Nadu 607302",
+        "detailed_address": {
+            "ward": null,
+            "street": "HH7V+QXM",
+            "city": "Kurinjipadi",
+            "postal_code": "607302",
+            "state": "Tamil Nadu",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ftSMSNafJ1S1CCNS0ZTdkw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=49.866573&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ftSMSNafJ1S1CCNS0ZTdkw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=49.866573&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mosque/data=!4m7!3m6!1s0x3a54b9ad4d2688f5:0x7d69c3cf98902bbf!8m2!3d11.5644535!4d79.5949279!16s%2Fg%2F11f3330m2r!19sChIJ9YgmTa25VDoRvyuQmM_DaX0?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 11.564453499999999,
+            "longitude": 79.5949279
+        }
+    }
+]

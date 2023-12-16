@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Charminar",
+        "main_category": "Monument",
+        "address": "Charminar, Charminar Rd, Char Kaman, Ghansi Bazaar, Hyderabad, Telangana 500002",
+        "detailed_address": {
+            "ward": "Char Kaman, Ghansi Bazaar",
+            "street": "Charminar Rd",
+            "city": "Hyderabad",
+            "postal_code": "500002",
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNEhBrVxLTHb4CM3bzMbymPA1ILDadX-9Db93Y=w397-h298-k-no"
+            },
+            {
+                "about": "Latest",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPtWUr5vMppFXyMGafwcP1e6TcxZ3FWss9VRI0y=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNTOPuwFOEB_gShuuZbiw_yPMuILz4XadRWSS8=w224-h298-k-no"
+            },
+            {
+                "about": "Shukran Pearls",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPsMNa6sfGYuDpqz6PMX8F2vP_EU6erBns9gHXu=w224-h298-k-no"
+            },
+            {
+                "about": "Siddique Book Stall",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPc78X5kcW89hNt345wUsUy5mXbRVUmlC7pxAEN=w397-h298-k-no"
+            },
+            {
+                "about": "Shri Bhagya Laxmi Mandir",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPyv7I7XnhrnEjBgsEDufrAiA9V59m1nKIksIpE=w224-h298-k-no"
+            },
+            {
+                "about": "Monument",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOqhleW7abS9nE3abNypDfIJLSd23NCilO6svXO=w447-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IgBg8uDnT9AAAAQIt6Citg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=59.88746&pitch=-0.11254019&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Charminar/data=!4m7!3m6!1s0x3bcb978a6e1a939b:0xcb5a69e4aaf113fb!8m2!3d17.3615636!4d78.4746645!16zL20vMDNuZmxw!19sChIJm5MaboqXyzsR-xPxquRpWss?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 17.3615636,
+            "longitude": 78.4746645
+        }
+    },
+    {
+        "name": "Mecca Masjid",
+        "main_category": "Mosque",
+        "address": "9F6F+5CG Mecca Masjid, Charminar Rd, Charminar, Ghansi Bazaar, Hyderabad, Telangana 500002",
+        "detailed_address": {
+            "ward": "Charminar, Ghansi Bazaar",
+            "street": "9F6F+5CG, Charminar Rd",
+            "city": "Hyderabad",
+            "postal_code": "500002",
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNq7bKZgYwwPuQf0Mp-LV5nHOtIU3IN5sv65J4r=w483-h298-k-no"
+            },
+            {
+                "about": "Latest",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNX_PRINKpYLE21DTHDZ6cauQwKs2t2OBhdhLkw=w529-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMOFUGzBQW_UdXneErtVkQ3gdlVCPGsSCo9ZKOO=w529-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMeyb8iZ5L0k2aKlAOLL_SB6ameN845staSuZdT=w397-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOMu4l8BKwL-h8chbuXa55Y7u3RyFJTmc9BvyQw=w224-h298-k-no-pi-19.019293-ya38.305656-ro-0-fo100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mecca+Masjid/data=!4m7!3m6!1s0x3bcb978a5f093531:0x78e0f7790007eee2!8m2!3d17.3604416!4d78.4735712!16zL20vMDhscm5j!19sChIJMTUJX4qXyzsR4u4HAHn34Hg?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 17.360441599999998,
+            "longitude": 78.4735712
+        }
+    }
+]

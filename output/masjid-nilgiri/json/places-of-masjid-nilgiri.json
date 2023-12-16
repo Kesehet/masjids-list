@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Noori Masjid",
+        "main_category": "Mosque",
+        "address": "F858+P23 Noori Masjid, Rajeev Nagar, Sector 32, Faridabad, Haryana 121003",
+        "detailed_address": {
+            "ward": "Rajeev Nagar, Sector 32",
+            "street": "F858+P23",
+            "city": "Faridabad",
+            "postal_code": "121003",
+            "state": "Haryana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOIBeaZWRGeef7XFNQ5hgscjmMMZp7Aqnke4qmy=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNmoATt-NYdxkQb120c1qZA1VQLrsQAsFEQpy8=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Noori+Masjid/data=!4m7!3m6!1s0x390ce7666fe98ee7:0xad8e1c427007f1f1!8m2!3d28.4592688!4d77.3150624!16s%2Fg%2F11b6hv8hmk!19sChIJ547pb2bnDDkR8fEHcEIcjq0?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 28.4592688,
+            "longitude": 77.3150624
+        }
+    },
+    {
+        "name": "Niwri Masjid",
+        "main_category": "Mosque",
+        "address": "Niwri Masjid, Alahadadpur Nivry, Shah Jamal, Aligarh, Uttar Pradesh 202001",
+        "detailed_address": {
+            "ward": "Alahadadpur Nivry, Shah Jamal",
+            "street": null,
+            "city": "Aligarh",
+            "postal_code": null,
+            "state": "Uttar Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMPBYt1z9VAX0DQkhpzMgT_yP2gYb05x2_A8wIU=w224-h473-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMJLPCaiFn8YX1h3w2kuM8loqMsNPtlAHVO86cE=w224-h402-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Niwri+Masjid/data=!4m7!3m6!1s0x3974a40fce7b9049:0xd3271e422f1a24a6!8m2!3d27.880189!4d78.0334237!16s%2Fg%2F1pyqgnqd1!19sChIJSZB7zg-kdDkRpiQaL0IeJ9M?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 27.880188999999998,
+            "longitude": 78.0334237
+        }
+    },
+    {
+        "name": "Auliya Masjid",
+        "main_category": "Mosque",
+        "address": "Auliya Masjid, 131/1, Jawaharlal Nehru Camp, Block D, Kalkaji, New Delhi, Delhi 110019",
+        "detailed_address": {
+            "ward": "Jawaharlal Nehru Camp, Block D, Kalkaji",
+            "street": "131/1",
+            "city": "New Delhi",
+            "postal_code": "110019",
+            "state": "Delhi",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-zWf0xqSXZrufD74SEXokQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=269.3012&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-zWf0xqSXZrufD74SEXokQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=269.3012&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Auliya+Masjid/data=!4m7!3m6!1s0x390ce1252a3f4dd3:0x8a821093fffd909d!8m2!3d28.5300582!4d77.2593346!16s%2Fg%2F11tx52z77r!19sChIJ000_KiXhDDkRnZD9_5MQgoo?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 28.5300582,
+            "longitude": 77.2593346
+        }
+    }
+]
