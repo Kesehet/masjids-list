@@ -18,4 +18,5 @@ do
     git add .
     git commit -m "Update: iteration $i with start value $((start + i * increment))"
     git push origin main
+    clear
 done
