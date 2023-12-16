@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Masjid Sidhi",
+        "main_category": "Mosque",
+        "address": "CV3J+PW7 Masjid Sidhi, Sidhi, Madhya Pradesh 486661",
+        "detailed_address": {
+            "ward": null,
+            "street": "CV3J+PW7",
+            "city": "Sidhi",
+            "postal_code": "486661",
+            "state": "Madhya Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNzmd7olzTV97Y5-GWNfeH4Dmw3Kkl7M5ua6Qz4=w529-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOboZzuGXanSxzzR8gqHJTJkfUxzfnrzXul1t0s=w529-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MhlnYQKuaPlYGCZlAJC2pA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=144.02258&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+Sidhi/@24.4042967,81.8822837,17z/data=!3m1!4b1!4m6!3m5!1s0x3985960981c088dd:0x43b3976d0eea7144!8m2!3d24.4042967!4d81.8822837!16s%2Fg%2F11bx4c_hb2?authuser=0&entry=ttu",
+        "coordinates": {
+            "latitude": 24.4042967,
+            "longitude": 81.8822837
+        }
+    }
+]
