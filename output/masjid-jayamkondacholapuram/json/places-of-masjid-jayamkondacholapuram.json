@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Mosque",
+        "main_category": "Mosque",
+        "address": "6977+HJ8 Mosque, Jayankondam, Tamil Nadu 621802",
+        "detailed_address": {
+            "ward": null,
+            "street": "6977+HJ8",
+            "city": "Jayankondam",
+            "postal_code": "621802",
+            "state": "Tamil Nadu",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNho6hYvDQzucuA9dMWbWTAfOTc443HrqNX0GJR=w397-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPv2HVB02Fncy24L9fGEt9pK2mHYF6l6BrUr9m6=w224-h398-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AqP-7oLMHi73XtLIfxgVcQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=233.0552&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mosque/data=!4m7!3m6!1s0x3bab2b3bfaa5f5bb:0x7ed15466156e1f32!8m2!3d11.2139163!4d79.3640891!16s%2Fg%2F11f__ppmwz!19sChIJu_Wl-jsrqzsRMh9uFWZU0X4?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 11.2139163,
+            "longitude": 79.3640891
+        }
+    },
+    {
+        "name": "TNTJ JAYANKONDAM MARKAS",
+        "main_category": "Mosque",
+        "address": "6997+3WG TNTJ JAYANKONDAM MARKAS, Jayankondam, Tamil Nadu 621802",
+        "detailed_address": {
+            "ward": null,
+            "street": "6997+3WG",
+            "city": "Jayankondam",
+            "postal_code": "621802",
+            "state": "Tamil Nadu",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/TNTJ+JAYANKONDAM+MARKAS/data=!4m7!3m6!1s0x3bab2bf6f5b02651:0x1dea45380266c06b!8m2!3d11.217699!4d79.3648361!16s%2Fg%2F11fj31vcfs!19sChIJUSaw9fYrqzsRa8BmAjhF6h0?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 11.217699,
+            "longitude": 79.36483609999999
+        }
+    }
+]

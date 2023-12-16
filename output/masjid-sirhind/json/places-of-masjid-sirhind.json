@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Ahmadiyya Muslim Mosque",
+        "main_category": "Mosque",
+        "address": "J9CR+4JM Ahmadiyya Muslim Mosque, Brahman Majra, Sirhind, Punjab 140406",
+        "detailed_address": {
+            "ward": "Brahman Majra",
+            "street": "J9CR+4JM",
+            "city": "Sirhind",
+            "postal_code": "140406",
+            "state": "Punjab",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMXV91TtH944B3O3JHtf4-XKPn0XQ1-N5Sg_wuK=w397-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOW5GiOVK_YH1KpYmrhPmaK6EK7o17MhwxpLObd=w397-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ahmadiyya+Muslim+Mosque/data=!4m7!3m6!1s0x39101e9723f34f27:0xddc4262704ba32a4!8m2!3d30.6203343!4d76.3915551!16s%2Fg%2F11gbnykzsy!19sChIJJ0_zI5ceEDkRpDK6BCcmxN0?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 30.6203343,
+            "longitude": 76.39155509999999
+        }
+    },
+    {
+        "name": "Sirhindi Masjid Bara",
+        "main_category": "Mosque",
+        "address": "Sirhindi Masjid Bara, Grand Trunk Road, Ward No. 13, Barra, Sirhind, Punjab 140406",
+        "detailed_address": {
+            "ward": "Ward No. 13, Barra",
+            "street": "Grand Trunk Road, Ward No. 13, Barra",
+            "city": "Sirhind",
+            "postal_code": "140406",
+            "state": "Punjab",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNh9GQXufDiPrurZet-l3uiDWdOVQRWxFF7iJA=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sirhindi+Masjid+Bara/data=!4m7!3m6!1s0x39101eb91b334f09:0x62f2ca4001625b4!8m2!3d30.6133783!4d76.3789242!16s%2Fg%2F11dfwykmpv!19sChIJCU8zG7keEDkRtCUWAKQsLwY?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 30.613378299999997,
+            "longitude": 76.3789242
+        }
+    },
+    {
+        "name": "Masjid Fathegrah Hazrat mujaddin",
+        "main_category": "Mosque",
+        "address": "M94R+F8P Masjid Fathegrah Hazrat mujaddin, Talanian, Sirhind, Fatehgarh Sahib, Punjab 140407",
+        "detailed_address": {
+            "ward": "Talanian",
+            "street": "M94R+F8P",
+            "city": "Sirhind, Fatehgarh Sahib",
+            "postal_code": "140407",
+            "state": "Punjab",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPpoJK0y3D4RT8TOyCpJUMmftdVnLVlwy7Yrkut=w224-h398-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOKPBn1CsHcAgzAzj5KDayAhi_Wrj9IOxJRJBK9=w529-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=70pqny8QtqvOCb7xQP-w4A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=28.515818&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+Fathegrah+Hazrat+mujaddin/data=!4m7!3m6!1s0x39101d13deaf87e1:0xfa2e0a4e53604e34!8m2!3d30.6561949!4d76.3907903!16s%2Fg%2F11svk6qr7s!19sChIJ4Yev3hMdEDkRNE5gU04KLvo?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 30.6561949,
+            "longitude": 76.39079029999999
+        }
+    }
+]
