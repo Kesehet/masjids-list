@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Noori Masjid",
+        "main_category": "Mosque",
+        "address": "6XV3+545 Noori Masjid, Mohlla Noori Masjid, Bilsanda, Uttar Pradesh 262202",
+        "detailed_address": {
+            "ward": null,
+            "street": "6XV3+545, Mohlla Noori Masjid",
+            "city": "Bilsanda",
+            "postal_code": "262202",
+            "state": "Uttar Pradesh",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Noori+Masjid/data=!4m7!3m6!1s0x399f8760710e7acf:0x6b96c58ad0b738d9!8m2!3d28.2428873!4d79.9528473!16s%2Fg%2F11t15sf7vk!19sChIJz3oOcWCHnzkR2Ti30IrFlms?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 28.2428873,
+            "longitude": 79.9528473
+        }
+    },
+    {
+        "name": "Jama masjid Bilsanda",
+        "main_category": "Mosque",
+        "address": "6XR3+JCJ Jama masjid Bilsanda, Bilsanda, Uttar Pradesh 262202",
+        "detailed_address": {
+            "ward": null,
+            "street": "6XR3+JCJ",
+            "city": "Bilsanda",
+            "postal_code": "262202",
+            "state": "Uttar Pradesh",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Jama+masjid+Bilsanda/data=!4m7!3m6!1s0x399f873c1f9f5bfd:0x5951fe8f026aa832!8m2!3d28.2416346!4d79.953526!16s%2Fg%2F11v66t5qxz!19sChIJ_VufHzyHnzkRMqhqAo_-UVk?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 28.241634599999998,
+            "longitude": 79.953526
+        }
+    }
+]
