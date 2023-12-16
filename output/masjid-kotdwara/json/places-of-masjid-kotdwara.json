@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Rajpal",
+        "main_category": "Mosque",
+        "address": "PGVF+FMP Rajpal, Kotdwar, Uttarakhand 246149",
+        "detailed_address": {
+            "ward": null,
+            "street": "PGVF+FMP",
+            "city": "Kotdwar",
+            "postal_code": "246149",
+            "state": "Uttarakhand",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Rajpal/data=!4m7!3m6!1s0x39097d50ef6f7787:0x75a780aaf628a78!8m2!3d29.7437631!4d78.5242204!16s%2Fg%2F11vkm3q5hp!19sChIJh3dv71B9CTkReIpirwp4Wgc?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 29.7437631,
+            "longitude": 78.52422039999999
+        }
+    },
+    {
+        "name": "Munna bua kotdwar",
+        "main_category": "Housing society",
+        "address": "QG2G+XQ2 Munna bua kotdwar, Mohabewala Industrial Area, Kotdwar, Uttarakhand 246149",
+        "detailed_address": {
+            "ward": "Mohabewala Industrial Area",
+            "street": "QG2G+XQ2",
+            "city": "Kotdwar",
+            "postal_code": "246149",
+            "state": "Uttarakhand",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Munna+bua+kotdwar/data=!4m7!3m6!1s0x39097b452759f66d:0x591de4a3f6b2351b!8m2!3d29.7523865!4d78.5269025!16s%2Fg%2F11khbprzmb!19sChIJbfZZJ0V7CTkRGzWy9qPkHVk?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 29.7523865,
+            "longitude": 78.52690249999999
+        }
+    }
+]
