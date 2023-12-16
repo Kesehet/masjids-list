@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Hira masjid",
+        "main_category": "Mosque",
+        "address": "C88P+VC9 Hira masjid, padam nagar gali no -1, Tigaon Rd, Padam Nagar, Indra Complex Colony, Neharpar Faridabad, Faridabad, Haryana",
+        "detailed_address": {
+            "ward": "Padam Nagar, Indra Complex Colony, Sector 87, Neharpar Faridabad",
+            "street": "C88P+VC9, padam nagar gali no -1, Tigaon Rd",
+            "city": "Faridabad",
+            "postal_code": null,
+            "state": "Haryana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMnxpK9ZOEoiLloxoNrS0LZzXyBYTQp9xDh33G7=w224-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pANMnGualYBE0d0hodhUpw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=201.49509&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hira+masjid/data=!4m7!3m6!1s0x390cddd463c830ff:0xdb81e8d5b86ed3db!8m2!3d28.4175978!4d77.3354202!16s%2Fg%2F11fq8y8nx4!19sChIJ_zDIY9TdDDkR29NuuNXogds?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 28.4175978,
+            "longitude": 77.3354202
+        }
+    },
+    {
+        "name": "Masjid fidai khan",
+        "main_category": "Mosque",
+        "address": "M58Q+V87 Masjid fidai khan, Azad Rd, Padam Nagar, Sarai Rohilla, Delhi, 110007",
+        "detailed_address": {
+            "ward": "Padam Nagar, Sarai Rohilla",
+            "street": "M58Q+V87, Azad Rd",
+            "city": "Delhi",
+            "postal_code": "110007",
+            "state": "Delhi",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Masjid+fidai+khan/data=!4m7!3m6!1s0x390d0391a554f241:0x248422b9737a385b!8m2!3d28.6671599!4d77.1882916!16s%2Fg%2F11j126mgsw!19sChIJQfJUpZEDDTkRWzh6c7kihCQ?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 28.667159899999998,
+            "longitude": 77.1882916
+        }
+    }
+]
