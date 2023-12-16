@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Habra Masjid",
+        "main_category": "Mosque",
+        "address": "RMR4+VFC Habra Masjid, Taxi Stand, Jessor Road, National Highway 35, Habra, West Bengal 743263",
+        "detailed_address": {
+            "ward": null,
+            "street": "RMR4+VFC, Taxi Stand, Jessor Road, National Highway 35",
+            "city": "Habra",
+            "postal_code": "743263",
+            "state": "West Bengal",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPhiwq0P0oBHzo3cgdLWEZ0CDFJJBomEAhlFojZ=w397-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMEXDfLTpVXdRWXAStI8XieWmLlJ80cj7VfRNft=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNYDHHLDSKGvu4vpSL8FACAr65XzdAUq-DuZTwn=w224-h398-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Dtd_Hf266D2ejB00AzOfvg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=338.86896&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Habra+Masjid/data=!4m7!3m6!1s0x39f8b11ddfa02261:0x6e946c9b05de25de!8m2!3d22.8421842!4d88.6561298!16s%2Fg%2F11h_d71bjp!19sChIJYSKg3x2x-DkR3iXeBZtslG4?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 22.8421842,
+            "longitude": 88.6561298
+        }
+    },
+    {
+        "name": "Masjid E Raihan",
+        "main_category": "Mosque",
+        "address": "Masjid E Raihan, Chakla road, Habra, Uttar Kalsur, West Bengal 743438",
+        "detailed_address": {
+            "ward": null,
+            "street": "Chakla road",
+            "city": "Habra, Uttar Kalsur",
+            "postal_code": "743438",
+            "state": "West Bengal",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t85GBjOztcufwJo0tw8kxg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=141.50902&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=t85GBjOztcufwJo0tw8kxg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=141.50902&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+E+Raihan/data=!4m7!3m6!1s0x39f8ad95a719e629:0x588feadc386ccdb5!8m2!3d22.7837346!4d88.7325819!16s%2Fg%2F11cls6mblk!19sChIJKeYZp5Wt-DkRtc1sONzqj1g?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 22.7837346,
+            "longitude": 88.7325819
+        }
+    }
+]
