@@ -1,0 +1,53 @@
+[
+    {
+        "name": "JAMA Masjid sanawad msjd",
+        "main_category": "Mosque",
+        "address": "Ward no 8, JAMA Masjid sanawad msjd, Azad Rd, Sai Vihar Colony, Sanawad, Madhya Pradesh 451111",
+        "detailed_address": {
+            "ward": "Sai Vihar Colony",
+            "street": "Ward no 8, Azad Rd",
+            "city": "Sanawad",
+            "postal_code": null,
+            "state": "Madhya Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipO21FE8Vu62Oe2dEC5N_RvMp3fOs4IMf-KwOoc=w224-h425-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMwEq3-wakjQMjnXp9pqTQ8DO8UH-QWdt7AuhYn=w298-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPADnQKMhnqqrf1j9ZE2HuEZtKL9ax5IWCNPDA=w529-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/JAMA+Masjid+sanawad+%D9%85%D8%B3%D8%AC%D8%AF%E2%80%AD/data=!4m7!3m6!1s0x3962986f58c15555:0xc2d5e23b94d72300!8m2!3d22.1707633!4d76.0692156!16s%2Fg%2F11c3kqz3cm!19sChIJVVXBWG-YYjkRACPXlDvi1cI?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 22.170763299999997,
+            "longitude": 76.06921559999999
+        }
+    },
+    {
+        "name": "Khanka masjid sanawad",
+        "main_category": "Mosque",
+        "address": "53JG+9QX Khanka masjid sanawad, DM Ave Society Rd, Sanawad, Madhya Pradesh 450551",
+        "detailed_address": {
+            "ward": null,
+            "street": "53JG+9QX, DM Ave Society Rd",
+            "city": "Sanawad",
+            "postal_code": "450551",
+            "state": "Madhya Pradesh",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Khanka+masjid+sanawad/data=!4m7!3m6!1s0x3962999263654c01:0x233ae59505035ca6!8m2!3d22.1810509!4d76.0769699!16s%2Fg%2F11tsz36fhq!19sChIJAUxlY5KZYjkRplwDBZXlOiM?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 22.1810509,
+            "longitude": 76.0769699
+        }
+    }
+]

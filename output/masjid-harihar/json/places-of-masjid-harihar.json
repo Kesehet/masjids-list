@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Harihar Paints",
+        "main_category": "Paint store",
+        "address": "Harihar Paints, Shop No: 3/38, Kaila Bhatta Masjid Road, Hapur Rd, Islam Nagar Village, Madhopura, Ghaziabad, Uttar Pradesh 201001",
+        "detailed_address": {
+            "ward": "Islam Nagar Village, Madhopura",
+            "street": "Shop No: 3/38, Kaila Bhatta Masjid Road, Hapur Rd",
+            "city": "Ghaziabad",
+            "postal_code": "201001",
+            "state": "Uttar Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pn-r0J96uEgumcgbAWL0XA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=299.4012&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pn-r0J96uEgumcgbAWL0XA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=299.4012&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Harihar+Paints/@28.6673004,77.4201631,17z/data=!3m1!4b1!4m6!3m5!1s0x390cf04a46d47eef:0x4a45706f9b996ec6!8m2!3d28.6673004!4d77.4201631!16s%2Fg%2F1ptyvyqyc?authuser=0&entry=ttu",
+        "coordinates": {
+            "latitude": 28.6673004,
+            "longitude": 77.4201631
+        }
+    }
+]

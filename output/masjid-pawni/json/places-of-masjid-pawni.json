@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Masjid Ahmad Pai",
+        "main_category": "Mosque",
+        "address": "Masjid Ahmad Pai, 747, Church Mission Rd, Cloth Market, Katra Ghel, Fatehpuri, Chandni Chowk, New Delhi, Delhi, 110006",
+        "detailed_address": {
+            "ward": "Cloth Market, Katra Ghel, Fatehpuri, Chandni Chowk",
+            "street": "747, Church Mission Rd",
+            "city": "New Delhi, Delhi",
+            "postal_code": "110006",
+            "state": "Delhi",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNNOeiWm3yzIn3t8b1U82ACBCkj1xXUu1O2F4_Q=w224-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0Y4slzxJZ7D3DC03HBjkRw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=236.41214&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+Ahmad+Pai/data=!4m7!3m6!1s0x390cfd0e76610803:0x93acada6516b5c65!8m2!3d28.6602146!4d77.2234393!16s%2Fg%2F11ddy9sfr2!19sChIJAwhhdg79DDkRZVxrUaatrJM?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 28.6602146,
+            "longitude": 77.2234393
+        }
+    },
+    {
+        "name": "Punch Vipan Masjid",
+        "main_category": "Mosque",
+        "address": "H6PR+9F6 Punch Vipan Masjid, Near Scope Complex, Lala Lajpat Rai Rd, New Delhi, Delhi 110013",
+        "detailed_address": {
+            "ward": "Nizamuddin West",
+            "street": "H6PR+9F6, Near Scope Complex, Lala Lajpat Rai Rd",
+            "city": "New Delhi",
+            "postal_code": "110013",
+            "state": "Delhi",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPmgfdcj7c-cjr6xeNSc7GKsaddOUR04ioOU5Ef=w397-h298-k-no"
+            },
+            {
+                "about": "Latest",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M6OKCeNmxekMO9FMmjZ8cw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=98.32654&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M6OKCeNmxekMO9FMmjZ8cw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=98.32654&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Punch+Vipan+Masjid/data=!4m7!3m6!1s0x390ce30814382221:0x717057c3d70cd04b!8m2!3d28.5859097!4d77.241131!16s%2Fg%2F11fjzw_zm2!19sChIJISI4FAjjDDkRS9AM18NXcHE?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 28.5859097,
+            "longitude": 77.241131
+        }
+    }
+]
