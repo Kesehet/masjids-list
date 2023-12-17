@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Kausar Masjid",
+        "main_category": "Mosque",
+        "address": "3G32+XH3 Kausar Masjid, Subhash Nagar, Bellampalle, Telangana 504251",
+        "detailed_address": {
+            "ward": "Subhash Nagar",
+            "street": "3G32+XH3",
+            "city": "Bellampalle",
+            "postal_code": "504251",
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOuFy1p4mGQ0DqhkHCTtVZ2tSycS4-uV4MG1Ter=w529-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOE9sNofroT9aq8tZ8Xu17C6AYlxF1qfeVSoope=w397-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMNyqgDkSPa-OzD9RMSJPnP9boeHxpMoIClJUFn=w529-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EQRWiXaho71mn8P5E4kiog&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=172.86365&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Kausar+Masjid/data=!4m7!3m6!1s0x3a32b1c79d1963ff:0x433868c68e905e51!8m2!3d19.0548975!4d79.5014369!16s%2Fg%2F11g9r54_23!19sChIJ_2MZncexMjoRUV6QjsZoOEM?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.0548975,
+            "longitude": 79.5014369
+        }
+    },
+    {
+        "name": "Masjid-E-Zam Zam",
+        "main_category": "Mosque",
+        "address": "2FXM+WCV Masjid-E-Zam Zam, Bellampalle, Telangana 504251",
+        "detailed_address": {
+            "ward": null,
+            "street": "2FXM+WCV",
+            "city": "Bellampalle",
+            "postal_code": "504251",
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipO0gizcIF7tzFy5Jx1qwc9H9Fc0bHBXPIGwlCI=w397-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TJItv6EtekC3MkGqE8oCGg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=288.52933&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid-E-Zam+Zam/data=!4m7!3m6!1s0x3a32b1925908d747:0xdc5f23a19654e152!8m2!3d19.0498658!4d79.4835516!16s%2Fg%2F11dxbp6v0v!19sChIJR9cIWZKxMjoRUuFUlqEjX9w?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.0498658,
+            "longitude": 79.4835516
+        }
+    },
+    {
+        "name": "Bilal masjid",
+        "main_category": "Mosque",
+        "address": "3FCR+JFF Bilal masjid, Bellampalle, Telangana 504251",
+        "detailed_address": {
+            "ward": null,
+            "street": "3FCR+JFF",
+            "city": "Bellampalle",
+            "postal_code": "504251",
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JUC_PBSRvWV_JRvADas-RQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=150.94923&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JUC_PBSRvWV_JRvADas-RQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=150.94923&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Bilal+masjid/data=!4m7!3m6!1s0x3a32b173bceb72cd:0x6207918c86c64f91!8m2!3d19.0715572!4d79.4911758!16s%2Fg%2F11f62g432g!19sChIJzXLrvHOxMjoRkU_GhoyRB2I?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.0715572,
+            "longitude": 79.4911758
+        }
+    }
+]

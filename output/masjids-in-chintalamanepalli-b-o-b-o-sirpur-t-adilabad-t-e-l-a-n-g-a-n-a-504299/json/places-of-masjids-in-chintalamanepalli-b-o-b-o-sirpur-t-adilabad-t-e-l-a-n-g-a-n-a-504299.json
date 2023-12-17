@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Masjid-e-Irfan",
+        "main_category": "Place of worship",
+        "address": "Masjid-e-Irfan, Irfan Colony, Irfan Nagar Colony, Kagaznagar, Telangana 504296",
+        "detailed_address": {
+            "ward": "Irfan Nagar Colony",
+            "street": "Irfan Colony",
+            "city": "Kagaznagar",
+            "postal_code": "504296",
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOJvdeWm9p2i5WfvXNiGii8yhGZZxH9_OV2h_c=w447-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNgY3baSWiVIs0xEGSTCzABuJgVWWNV57cjjxTY=w224-h298-k-no-pi-0-ya17.000013-ro-0-fo100"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNRCwjIEAf03aVMe7-iR33jYQX5Ch4kmjEjbsz8=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid-e-Irfan/data=!4m7!3m6!1s0x3a2d56aa90d4eb1b:0xf69dc4d8b2934690!8m2!3d19.355791!4d79.4712658!16s%2Fg%2F1ptwyyk68!19sChIJG-vUkKpWLToRkEaTstjEnfY?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.355791,
+            "longitude": 79.4712658
+        }
+    },
+    {
+        "name": "Masjid e Bilal",
+        "main_category": "Mosque",
+        "address": "9F9G+WXM Masjid e Bilal, Dada Nagar, Kagaznagar, Telangana 504296",
+        "detailed_address": {
+            "ward": "Dada Nagar",
+            "street": "9F9G+WXM",
+            "city": "Kagaznagar",
+            "postal_code": "504296",
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMgbVZmH9gRZkvtxr8bgS7SmD5VkC6dCF9dcwHh=w224-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ahvXVwzRVErd3Bw1stgNKQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=276.78717&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+e+Bilal/data=!4m7!3m6!1s0x3a2d515a754c6735:0xd45f0f4ccb45c2ba!8m2!3d19.3698374!4d79.4774318!16s%2Fg%2F11cjc1jzf5!19sChIJNWdMdVpRLToRusJFy0wPX9Q?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.369837399999998,
+            "longitude": 79.47743179999999
+        }
+    }
+]
