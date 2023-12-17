@@ -33,9 +33,9 @@ m_list = df['Full_Address'].tolist()
 prefix = "Masjids in "
 
 # Add the prefix to all items in the list
-queries  = [prefix + str(address) for address in m_list]
+queries  = [prefix + str(address) for address in m_list][i:i+100]
 
-print(queries[i:i+100])
+
 
 
 
