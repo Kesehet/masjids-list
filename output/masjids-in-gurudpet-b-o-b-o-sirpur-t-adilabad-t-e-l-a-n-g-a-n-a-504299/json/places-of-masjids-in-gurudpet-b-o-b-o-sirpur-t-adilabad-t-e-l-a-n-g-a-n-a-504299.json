@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Adilabad",
+        "main_category": null,
+        "address": "Adilabad, Telangana 504001",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Adilabad",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM0P7KBM68bSAR1cMuAh8e5lQ8fHB7cydDhNe5L=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOwqzixTHKga_qk9HfL6OzTBCjVq5H4PYQg529F=w529-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Adilabad/data=!4m7!3m6!1s0x3bd25c756be12b11:0x5b3bd1283e6840ec!8m2!3d19.6765668!4d78.5320841!16zL20vMDVuNHg1!19sChIJESvha3Vc0jsR7EBoPijRO1s?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.6765668,
+            "longitude": 78.53208409999999
+        }
+    },
+    {
+        "name": "Gurudpet",
+        "main_category": null,
+        "address": "Gurudpet, Telangana 504299",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Gurudpet",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Gurudpet/data=!4m7!3m6!1s0x3a2d681b252be043:0x23718f681e7e900e!8m2!3d19.4850973!4d79.7455956!16s%2Fg%2F12hl7x75d!19sChIJQ-ArJRtoLToRDpB-HmiPcSM?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.4850973,
+            "longitude": 79.7455956
+        }
+    },
+    {
+        "name": "Sirpur",
+        "main_category": null,
+        "address": "Sirpur, Telangana 504299",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Sirpur",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMvM96rBHvbYsufYRhegFVn4rViM0-dwpDKp205=w224-h397-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipN0_zdvJvlMtISkXeckIfBfKjq5I8d_xDY3aZmT=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sirpur/data=!4m7!3m6!1s0x3a2d453f48b9922d:0xb16e7549c333b4b2!8m2!3d19.4769446!4d79.5711655!16s%2Fm%2F02qy3qm!19sChIJLZK5SD9FLToRsrQzw0l1brE?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.4769446,
+            "longitude": 79.57116549999999
+        }
+    }
+]

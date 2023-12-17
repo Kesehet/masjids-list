@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Adilabad",
+        "main_category": null,
+        "address": "Adilabad, Telangana 504001",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Adilabad",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM0P7KBM68bSAR1cMuAh8e5lQ8fHB7cydDhNe5L=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOwqzixTHKga_qk9HfL6OzTBCjVq5H4PYQg529F=w529-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Adilabad/data=!4m7!3m6!1s0x3bd25c756be12b11:0x5b3bd1283e6840ec!8m2!3d19.6765668!4d78.5320841!16zL20vMDVuNHg1!19sChIJESvha3Vc0jsR7EBoPijRO1s?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.6765668,
+            "longitude": 78.53208409999999
+        }
+    },
+    {
+        "name": "Girvelli",
+        "main_category": null,
+        "address": "Girvelli, Telangana",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Girvelli",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMCOcAks-vIMDxczjPypbj5-ZPK2qD737j186_R=w529-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Girvelli/data=!4m7!3m6!1s0x3a329be2d9054e53:0x945ee7765901823a!8m2!3d19.1789264!4d79.8408787!16s%2Fg%2F12hr00dbg!19sChIJU04F2eKbMjoROoIBWXbnXpQ?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.178926399999998,
+            "longitude": 79.84087869999999
+        }
+    },
+    {
+        "name": "Luxettipet",
+        "main_category": null,
+        "address": "Luxettipet, Telangana",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Luxettipet",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM6N9vP9LZSn0jIaAo4qQJMdsnCFWCvu9B74EPH=w529-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOxKgc_9QKaodTu304RNdISfspcpeuWpJwgh9w6=w224-h470-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Luxettipet/data=!4m7!3m6!1s0x3bcd480804d70df9:0x8e7f455ecb5ac1a0!8m2!3d18.8754757!4d79.2028155!16s%2Fg%2F1223wnyy!19sChIJ-Q3XBAhIzTsRoMFay15Ff44?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 18.8754757,
+            "longitude": 79.2028155
+        }
+    }
+]
