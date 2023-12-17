@@ -90,6 +90,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+env_name/
 
 # Spyder project settings
 .spyderproject
@@ -113,3 +114,8 @@ NEXT-STEPS
 cache/
 local_storage.json
 error_logs/
+src/
+screenshots/
+*.md
+*.yml
+LICENSE
