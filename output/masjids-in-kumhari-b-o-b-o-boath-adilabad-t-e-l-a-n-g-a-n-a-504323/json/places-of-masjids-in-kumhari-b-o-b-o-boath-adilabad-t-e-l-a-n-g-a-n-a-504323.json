@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Kumhari",
+        "main_category": null,
+        "address": "Ward Number 15, Kumhari, Chhattisgarh 490042",
+        "detailed_address": {
+            "ward": "Ward Number 15",
+            "street": null,
+            "city": "Kumhari",
+            "postal_code": null,
+            "state": "Chhattisgarh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMc47GkoP59mHgXZcQlzMvOxCRchMWC1XqpYHBL=w662-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNY-BxoHUQy1LYZ7ZMf1SuGbTe9HtDrDk_rWgD4=w224-h407-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Kumhari/data=!4m7!3m6!1s0x3a28dffcc571613f:0xa36014b6cb7493e6!8m2!3d21.2477322!4d81.5161238!16zL20vMGY1Ynpy!19sChIJP2FxxfzfKDoR5pN0y7YUYKM?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 21.247732199999998,
+            "longitude": 81.5161238
+        }
+    },
+    {
+        "name": "Anduru, Telangana 504323",
+        "main_category": "Postal code",
+        "address": "Anduru, Telangana 504323",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Anduru",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOgH86rdZt7fo_YFybvRLj80czV_CmVHcL-UFsr=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipO3MMfvYnqt8kjv7sheJJVdDYl4u17nFsoyVNGP=w529-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Anduru,+Telangana+504323/data=!4m7!3m6!1s0x3bd274f348a22693:0x6b8649848dfbca00!8m2!3d19.2634266!4d78.3159411!16s%2Fg%2F1hhxqnkld!19sChIJkyaiSPN00jsRAMr7jYRJhms?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.2634266,
+            "longitude": 78.3159411
+        }
+    }
+]

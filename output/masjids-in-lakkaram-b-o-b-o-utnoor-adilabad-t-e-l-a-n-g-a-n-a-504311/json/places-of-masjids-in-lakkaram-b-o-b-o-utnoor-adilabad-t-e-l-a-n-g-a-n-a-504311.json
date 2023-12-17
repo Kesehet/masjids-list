@@ -1,0 +1,30 @@
+[
+    {
+        "name": "masjid e noor",
+        "main_category": "Mosque",
+        "address": "MG4Q+H92 masjid e noor, Sri Rama Colony, Adilabad, Telangana 504001",
+        "detailed_address": {
+            "ward": "Sri Rama Colony",
+            "street": "MG4Q+H92",
+            "city": "Adilabad",
+            "postal_code": "504001",
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4b8mR5XHOU1VveslwwKjJQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=150.0055&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4b8mR5XHOU1VveslwwKjJQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=150.0055&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/masjid+e+noor/@19.6563983,78.5384053,17z/data=!3m1!4b1!4m6!3m5!1s0x3bd25c6bd009a42f:0x83777eaad70e454d!8m2!3d19.6563983!4d78.5384053!16s%2Fg%2F11c5t1smfj?authuser=0&entry=ttu",
+        "coordinates": {
+            "latitude": 19.6563983,
+            "longitude": 78.5384053
+        }
+    }
+]

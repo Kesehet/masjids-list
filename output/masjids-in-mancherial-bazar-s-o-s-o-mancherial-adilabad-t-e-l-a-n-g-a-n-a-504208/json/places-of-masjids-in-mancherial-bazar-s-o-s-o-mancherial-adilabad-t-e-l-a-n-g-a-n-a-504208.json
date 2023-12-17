@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Adilabad",
+        "main_category": null,
+        "address": "Adilabad, Telangana 504001",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Adilabad",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM0P7KBM68bSAR1cMuAh8e5lQ8fHB7cydDhNe5L=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOwqzixTHKga_qk9HfL6OzTBCjVq5H4PYQg529F=w529-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Adilabad/data=!4m7!3m6!1s0x3bd25c756be12b11:0x5b3bd1283e6840ec!8m2!3d19.6765668!4d78.5320841!16zL20vMDVuNHg1!19sChIJESvha3Vc0jsR7EBoPijRO1s?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.6765668,
+            "longitude": 78.53208409999999
+        }
+    },
+    {
+        "name": "Mancherial, Telangana 504208",
+        "main_category": "Postal code",
+        "address": "Reddy Colony, Mancherial, Telangana 504208",
+        "detailed_address": {
+            "ward": "Reddy Colony",
+            "street": null,
+            "city": "Mancherial",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMo9TuJty1FobOgbVHrDrbRhCcGtnPEVjREhlm4=w541-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipO3wCfgHLuLRxI1ilzsvd5WjcB6SQWjglX1afs6=w541-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mancherial,+Telangana+504208/data=!4m7!3m6!1s0x3a32ca9e090bb79d:0xacc92faf4b34697a!8m2!3d18.874312!4d79.4366324!16s%2Fg%2F1hhvwv8p7!19sChIJnbcLCZ7KMjoRemk0S68vyaw?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 18.874312,
+            "longitude": 79.4366324
+        }
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Keslapur",
+        "main_category": null,
+        "address": "Keslapur, Telangana 504346",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Keslapur",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Keslapur/data=!4m7!3m6!1s0x3bd261f766eff565:0x8621801bafbeda3a!8m2!3d19.5057428!4d78.6469659!16s%2Fg%2F12hx_m_st!19sChIJZfXvZvdh0jsROtq-rxuAIYY?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.5057428,
+            "longitude": 78.6469659
+        }
+    },
+    {
+        "name": "Utnur",
+        "main_category": null,
+        "address": "Utnur, Telangana 504311",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Utnur",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOu_O_y31WXunDESJqujgALi-xAWUozjprHwTiK=w397-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Utnur/data=!4m7!3m6!1s0x3bd285afb4dc33b3:0xa615f08fe745a4f8!8m2!3d19.3718044!4d78.7787889!16s%2Fm%2F02prl_5!19sChIJszPctK-F0jsR-KRF54_wFaY?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.3718044,
+            "longitude": 78.7787889
+        }
+    }
+]
