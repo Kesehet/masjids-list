@@ -1,0 +1,635 @@
+{
+    "query": "masjid anthiyur",
+    "places": [
+        {
+            "place_id": "ChIJ9de3NaRHqTsRAd9nr1jGqw0",
+            "name": "Anthiyur Eidka Ground",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Masjid Al Aqsa, Kundhubayur",
+                    "link": "https://www.google.com/maps/search/Masjid+Al+Aqsa%2C+Kundhubayur/@11.5666589,77.6218604?authuser=0&hl=en&entry=ttu",
+                    "reviews": 20,
+                    "rating": 4.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Majith E Noor Anthiyur",
+                    "link": "https://www.google.com/maps/search/Majith+E+Noor+Anthiyur/@11.579408599999999,77.5880087?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Eidga Masque",
+                    "link": "https://www.google.com/maps/search/Eidga+Masque/@11.4545893,77.4340337?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Guganesh",
+                    "link": "https://www.google.com/maps/search/Guganesh/@11.5864002,77.585171?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Place of worship"
+                },
+                {
+                    "name": "teeveentirnnn tirukkoovil periy eerikkrai",
+                    "link": "https://www.google.com/maps/search/%E0%AE%A4%E0%AF%87%E0%AE%B5%E0%AF%87%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%A9%E0%AF%8D+%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%B5%E0%AE%BF%E0%AE%B2%E0%AF%8D+%E0%AE%AA%E0%AF%86%E0%AE%B0%E0%AE%BF%E0%AE%AF+%E0%AE%8F%E0%AE%B0%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%B0%E0%AF%88/@11.583053399999999,77.5951042?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Hindu temple"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Anthiyur Eidka Ground (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PrW6oeh1DPpN2v0XQGJ8Yg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=150.11201&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "HHJV+G7W Anthiyur Eidka Ground, Anthiyur, Tamil Nadu 638501",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Anthiyur+Eidka+Ground/data=!4m7!3m6!1s0x3ba947a435b7d7f5:0xdabc658af67df01!8m2!3d11.5813547!4d77.5931938!16s%2Fg%2F11fy2q3lvl!19sChIJ9de3NaRHqTsRAd9nr1jGqw0?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9de3NaRHqTsRAd9nr1jGqw0&q=Anthiyur+Eidka+Ground&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 11.5813547,
+                "longitude": 77.5931938
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "HHJV+G7W",
+                "city": "Anthiyur",
+                "postal_code": "638501",
+                "state": "Tamil Nadu",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "985099027712827137",
+            "data_id": "0x3ba947a435b7d7f5:0xdabc658af67df01",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PrW6oeh1DPpN2v0XQGJ8Yg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=150.11201&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PrW6oeh1DPpN2v0XQGJ8Yg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=150.11201&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "prakash riyasri",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-09-19T11:41:53.356000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 15,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111921695561719035458/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWzLkyDzNeU7EPu9LEUyFJNv6S4fakgN1EmnNiD_FWRkl4=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ9QmctVVHqTsRgze1wmSE7s0",
+            "name": "Majith E Noor Anthiyur",
+            "description": null,
+            "reviews": 2,
+            "competitors": [
+                {
+                    "name": "Masjid Al Aqsa, Kundhubayur",
+                    "link": "https://www.google.com/maps/search/Masjid+Al+Aqsa%2C+Kundhubayur/@11.5666589,77.6218604?authuser=0&hl=en&entry=ttu",
+                    "reviews": 20,
+                    "rating": 4.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Sunnath Jamath",
+                    "link": "https://www.google.com/maps/search/Sunnath+Jamath/@11.5006464,77.5307833?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Muthukumara Samy Temple",
+                    "link": "https://www.google.com/maps/search/Muthukumara+Samy+Temple/@11.577369299999999,77.587257?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Muniyappan kovil ,pudukadu",
+                    "link": "https://www.google.com/maps/search/Muniyappan+kovil+%2Cpudukadu/@11.5771037,77.587805?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 3,
+                    "main_category": "Hindu temple"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Majith E Noor Anthiyur (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOXZAXYMkT0-DFh2sB21ODl57D9lE1LD1r_PeE=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "HHHQ+Q66 Majith E Noor Anthiyur, Ther Veethi, Anthiyur, Tamil Nadu 638501",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Majith+E+Noor+Anthiyur/data=!4m7!3m6!1s0x3ba94755b59c09f5:0xcdee8464c2b53783!8m2!3d11.5794086!4d77.5880087!16s%2Fg%2F11g044v6c0!19sChIJ9QmctVVHqTsRgze1wmSE7s0?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 2
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9QmctVVHqTsRgze1wmSE7s0&q=Majith+E+Noor+Anthiyur&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 11.579408599999999,
+                "longitude": 77.5880087
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Ther Veethi",
+                "street": "HHHQ+Q66, Ther Veethi",
+                "city": "Anthiyur",
+                "postal_code": "638501",
+                "state": "Tamil Nadu",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "14838943390530615171",
+            "data_id": "0x3ba94755b59c09f5:0xcdee8464c2b53783",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOXZAXYMkT0-DFh2sB21ODl57D9lE1LD1r_PeE=w529-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ImEu4A9Oiy0aTYFCX1SrWw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=301.70273&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Okay",
+                    "reviewer_name": "raj cma",
+                    "rating": 5,
+                    "review_text": "Okay",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-07-22T15:59:55.269000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 585,
+                    "total_number_of_photos_by_reviewer": 407,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103795083444077552900/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWhttfTyAY4Wa8xj9dE81JWKUdhyeg5YVPdTdDMAu1Etg=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice masjid",
+                    "reviewer_name": "KEENA SYED",
+                    "rating": 5,
+                    "review_text": "Nice masjid",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-29T14:57:39.740000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111634562447640796407/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVB1Qsag4KRvTOOKlKToumzKY7SMG8gy8hIpKKcZoelQu4=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Nice mosque",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJM2Y-xdBHqTsRK2vLnizeVNo",
+            "name": "Anthiyur Sunnath Jamath masjid",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Anthiyur Sunnath Jamath masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ImEu4A9Oiy0aTYFCX1SrWw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=304.29773&pitch=0&thumbfov=100",
+            "main_category": null,
+            "categories": null,
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "HHHQ+Q6C Anthiyur Sunnath Jamath masjid, Ther Veethi, Anthiyur, Tamil Nadu 638501",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Anthiyur+Sunnath+Jamath+masjid/data=!4m7!3m6!1s0x3ba947d0c53e6633:0xda54de2c9ecb6b2b!8m2!3d11.5794385!4d77.5880004!16s%2Fg%2F11l2y17rt2!19sChIJM2Y-xdBHqTsRK2vLnizeVNo?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJM2Y-xdBHqTsRK2vLnizeVNo&q=Anthiyur+Sunnath+Jamath+masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 11.5794385,
+                "longitude": 77.5880004
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Ther Veethi",
+                "street": "HHHQ+Q6C",
+                "city": "Anthiyur",
+                "postal_code": "638501",
+                "state": "Tamil Nadu",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "15732443681536043819",
+            "data_id": "0x3ba947d0c53e6633:0xda54de2c9ecb6b2b",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ImEu4A9Oiy0aTYFCX1SrWw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=304.29773&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ImEu4A9Oiy0aTYFCX1SrWw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=304.29773&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJuV-ZTfBGqTsRl1wPGTwMbL4",
+            "name": "Masjid Al Aqsa, Kundhubayur",
+            "description": null,
+            "reviews": 20,
+            "competitors": [
+                {
+                    "name": "Jannathul bakkiyath masjid",
+                    "link": "https://www.google.com/maps/search/Jannathul+bakkiyath+masjid/@11.3371848,77.7301222?authuser=0&hl=en&entry=ttu",
+                    "reviews": 74,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Mosque (masjid)",
+                    "link": "https://www.google.com/maps/search/Mosque+%28masjid%29/@11.620439699999999,77.7425605?authuser=0&hl=en&entry=ttu",
+                    "reviews": 8,
+                    "rating": 4.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Majith E Noor Anthiyur",
+                    "link": "https://www.google.com/maps/search/Majith+E+Noor+Anthiyur/@11.579408599999999,77.5880087?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Anthiyur Eidka Ground",
+                    "link": "https://www.google.com/maps/search/Anthiyur+Eidka+Ground/@11.5813547,77.5931938?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid Al Aqsa, Kundhubayur (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPgKT5R2LpBcJiMvTeZaQ2TsIOzazeJNk628Htx=w408-h544-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.8,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "HJ8C+MP9 Masjid Al Aqsa, Kundhubayur, Erode, Tamil Nadu 638314",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Al+Aqsa,+Kundhubayur/data=!4m7!3m6!1s0x3ba946f04d995fb9:0xbe6c0c3c190f5c97!8m2!3d11.5666589!4d77.6218604!16s%2Fg%2F11g9gnzy7h!19sChIJuV-ZTfBGqTsRl1wPGTwMbL4?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 19
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJuV-ZTfBGqTsRl1wPGTwMbL4&q=Masjid+Al+Aqsa,+Kundhubayur&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 11.5666589,
+                "longitude": 77.6218604
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "HJ8C+MP9",
+                "city": "Erode",
+                "postal_code": "638314",
+                "state": "Tamil Nadu",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "13721355616949066903",
+            "data_id": "0x3ba946f04d995fb9:0xbe6c0c3c190f5c97",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPgKT5R2LpBcJiMvTeZaQ2TsIOzazeJNk628Htx=w224-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM6u67vogZ9XSfglDVHVezM2-_StDtDkmnULw36=w432-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM6u67vogZ9XSfglDVHVezM2-_StDtDkmnULw36=w432-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YS1CMDQALvwGcRDlvndI5w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=196.9955&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Love it",
+                    "reviewer_name": "Inthi Yaj",
+                    "rating": 5,
+                    "review_text": "Love it",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-09-15T14:45:40.022000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105738639320222854998/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXB8u59NwgXU9iVBo-njcCbm2rRss22GN6WXKKSsLuufHo=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "House of Allah...",
+                    "reviewer_name": "Riyasahamed Sadhikbatcha",
+                    "rating": 5,
+                    "review_text": "House of Allah...",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-09-04T02:56:40.378000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 21,
+                    "total_number_of_photos_by_reviewer": 9,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111185585764315866716/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWD4XmUOCQEulMaiiFgdLYdVmW2X-H5AX6xccGtBBdZruM=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice",
+                    "reviewer_name": "Safeen Nihal",
+                    "rating": 5,
+                    "review_text": "Nice",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-09-05T15:48:48.903000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101021434144114407661/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXVJD00aosXzHTOBboN3CQs2YVf55wUI3CXB_4jYsLbFHw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice",
+                    "reviewer_name": "azeem monisha",
+                    "rating": 5,
+                    "review_text": "Nice",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-11-28T13:25:02.207000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 24,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108020301780347479725/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJXvKuYrBQN21C63lYWOw4pihYr8J6JZM-2vu6Vzs6K=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Ya allah",
+                    "reviewer_name": "alees ahamed",
+                    "rating": 5,
+                    "review_text": "Ya allah",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-01-13T05:39:09.262000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104047861977831957713/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUxoqBpO3OiTjQi09hrApq59Ja-9CuASuD9CaVG6yLiEw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Oh God",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masha Allah...",
+                    "reviewer_name": "NisarAhamed A",
+                    "rating": 5,
+                    "review_text": "Masha Allah...",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-17T10:45:31.896000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107470444377693444467/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWskSRcplS2xwyfaaY93YAaC-l8D2ghDZplfFKzlIEYmE14=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "saalaamuaalaaikum",
+                    "reviewer_name": "Sahadat Ali",
+                    "rating": 5,
+                    "review_text": "saalaamuaalaaikum",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-07-19T04:18:50.644000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112801267014155744316/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJfEpNITber9sTHyRcvU1NAg6V_6CkdL-ycTaB1WlPv=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Salamualaikum",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Safi Safi",
+                    "rating": 1,
+                    "review_text": null,
+                    "published_at": "5 years ago",
+                    "published_at_date": "2017-12-26T15:46:47.476000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106135326183695440761/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJOj1hJXk0x4YpSXLNpxpKJF0rPp54_6oRaP6e2omEZ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

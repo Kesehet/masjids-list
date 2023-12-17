@@ -1,0 +1,132 @@
+{
+    "query": "masjid chodavaram",
+    "places": [
+        {
+            "place_id": "ChIJjWDjCSt_OToRWIqlnrjPXaw",
+            "name": "Jamiya masjid",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Jamia Masjid",
+                    "link": "https://www.google.com/maps/search/Jamia+Masjid/@17.6687667,82.6107081?authuser=0&entry=ttu",
+                    "reviews": 34,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "MADINA MASJID",
+                    "link": "https://www.google.com/maps/search/MADINA+MASJID/@17.6910336,82.9921671?authuser=0&entry=ttu",
+                    "reviews": 27,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "JIH MOSQUE MASJID A HERA",
+                    "link": "https://www.google.com/maps/search/JIH+MOSQUE+MASJID+A+HERA/@17.7196331,83.14502739999999?authuser=0&entry=ttu",
+                    "reviews": 5,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Hanuman Temple",
+                    "link": "https://www.google.com/maps/search/Hanuman+Temple/@17.8265931,82.9421947?authuser=0&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Masjid Al Madina Kothakota",
+                    "link": "https://www.google.com/maps/search/Masjid+Al+Madina+Kothakota/@17.750303,82.697296?authuser=0&entry=ttu",
+                    "reviews": 1,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": "114604791829075807489",
+                "name": "Jamiya masjid (Owner)",
+                "link": "https://www.google.com/maps/contrib/114604791829075807489"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNFc747GKTrVunIhS9K9Zz6mTeAk57_fQgP2ITA=w408-h306-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Jamiya masjid, Kotthuru, Chodavaram, Andhra Pradesh 531036",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jamiya+masjid/@17.8270783,82.9403149,17z/data=!3m1!4b1!4m6!3m5!1s0x3a397f2b09e3608d:0xac5dcfb89ea58a58!8m2!3d17.8270783!4d82.9403149!16s%2Fg%2F11fl90jwg_?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJjWDjCSt_OToRWIqlnrjPXaw&q=Jamiya+masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 17.8270783,
+                "longitude": 82.94031489999999
+            },
+            "plus_code": "RWGR+R4 Chodavaram, Andhra Pradesh",
+            "detailed_address": {
+                "ward": "Kandrapa Colony, Venkannapalem",
+                "street": "Kotthuru",
+                "city": "Chodavaram",
+                "postal_code": "531036",
+                "state": "Andhra Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "12420311739200277080",
+            "data_id": "0x3a397f2b09e3608d:0xac5dcfb89ea58a58",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNFc747GKTrVunIhS9K9Zz6mTeAk57_fQgP2ITA=w397-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "Mumtaz Ali",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "11 months ago",
+                    "published_at_date": "2022-12-26T16:33:53.343000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115871971447800943795/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUy_yunPxC9iFd00zTe3LZZ1ZgsmwNXGux2qtTZDTSho6g=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

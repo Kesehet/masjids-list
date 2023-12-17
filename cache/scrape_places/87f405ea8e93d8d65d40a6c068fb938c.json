@@ -1,0 +1,640 @@
+{
+    "query": "masjid surajgarh",
+    "places": [
+        {
+            "place_id": "ChIJ1VNMsJDhEjkRatI7yCN7dy4",
+            "name": "Surajgarh Mosque",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Hanuman Ji Temple",
+                    "link": "https://www.google.com/maps/search/Hanuman+Ji+Temple/@28.3111236,75.72822169999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 6,
+                    "rating": 5,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "loharan Masjid",
+                    "link": "https://www.google.com/maps/search/loharan+Masjid/@28.313619199999998,75.731826?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@28.3072348,75.7345677?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Place of worship"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Surajgarh Mosque (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMd4B2ek7QfiIRT34FNcM9tmUaOWUqH6KPjczsh=w408-h306-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "8P5J+JQ4 Surajgarh Mosque, Post Office Road, Surajgarh, Rajasthan 333029",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Surajgarh+Mosque/data=!4m7!3m6!1s0x3912e190b04c53d5:0x2e777b23c83bd26a!8m2!3d28.3090133!4d75.7319375!16s%2Fg%2F11g0gd6r0g!19sChIJ1VNMsJDhEjkRatI7yCN7dy4?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1VNMsJDhEjkRatI7yCN7dy4&q=Surajgarh+Mosque&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.3090133,
+                "longitude": 75.7319375
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "8P5J+JQ4, Post Office Road",
+                "city": "Surajgarh",
+                "postal_code": "333029",
+                "state": "Rajasthan",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "3348280241586688618",
+            "data_id": "0x3912e190b04c53d5:0x2e777b23c83bd26a",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMd4B2ek7QfiIRT34FNcM9tmUaOWUqH6KPjczsh=w397-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMd4B2ek7QfiIRT34FNcM9tmUaOWUqH6KPjczsh=w397-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dQzA-CUT7eWUrdMzZ7dkFw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=2.809015&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Nice",
+                    "reviewer_name": "Kings Yi euS",
+                    "rating": 5,
+                    "review_text": "Nice",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-09-18T09:32:21.093000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107404723816116159721/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWBL2YF8VR_JD5SvcCeJIRMoXyivJ3ChEwycKOtBjSNksw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJvbFCN6_hEjkRYoKo6Up6zKQ",
+            "name": "Masjid",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Surajgarh Mosque",
+                    "link": "https://www.google.com/maps/search/Surajgarh+Mosque/@28.3090133,75.7319375?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "loharan Masjid",
+                    "link": "https://www.google.com/maps/search/loharan+Masjid/@28.313619199999998,75.731826?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "majid",
+                    "link": "https://www.google.com/maps/search/majid/@28.2389135,75.65341149999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FP4tswSSxB2BjEQOjsGbwg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=320.03214&pitch=0&thumbfov=100",
+            "main_category": "Place of worship",
+            "categories": [
+                "Place of worship"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "8P4M+VRW Masjid, Surajgarh, Rajasthan 333029",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid/data=!4m7!3m6!1s0x3912e1af3742b1bd:0xa4cc7a4ae9a88262!8m2!3d28.3072348!4d75.7345677!16s%2Fg%2F11t154rjg6!19sChIJvbFCN6_hEjkRYoKo6Up6zKQ?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJvbFCN6_hEjkRYoKo6Up6zKQ&q=Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.3072348,
+                "longitude": 75.7345677
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "8P4M+VRW",
+                "city": "Surajgarh",
+                "postal_code": null,
+                "state": "Rajasthan",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "11875000779635458658",
+            "data_id": "0x3912e1af3742b1bd:0xa4cc7a4ae9a88262",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FP4tswSSxB2BjEQOjsGbwg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=320.03214&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FP4tswSSxB2BjEQOjsGbwg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=320.03214&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "Kings Yi euS",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-06-22T14:16:13.689000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107404723816116159721/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWBL2YF8VR_JD5SvcCeJIRMoXyivJ3ChEwycKOtBjSNksw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJY3QzpSPhEjkRSe4gWCFxc8A",
+            "name": "loharan Masjid",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Muslim Masjid",
+                    "link": "https://www.google.com/maps/search/Muslim+Masjid/@28.4083279,75.68679900000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Station Wali Masjid",
+                    "link": "https://www.google.com/maps/search/Station+Wali+Masjid/@28.428679199999998,75.80268509999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Surajgarh Mosque",
+                    "link": "https://www.google.com/maps/search/Surajgarh+Mosque/@28.3090133,75.7319375?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@28.3072348,75.7345677?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Place of worship"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "loharan Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wThLyP8P0PsaoAVWzIlC7A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=126.91746&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "8P7J+CPW loharan Masjid, near Shekhawati restaurant, Surajgarh, Rajasthan 333029",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/loharan+Masjid/data=!4m7!3m6!1s0x3912e123a5337463:0xc07371215820ee49!8m2!3d28.3136192!4d75.731826!16s%2Fg%2F11h3spwhmw!19sChIJY3QzpSPhEjkRSe4gWCFxc8A?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJY3QzpSPhEjkRSe4gWCFxc8A&q=loharan+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.313619199999998,
+                "longitude": 75.731826
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "8P7J+CPW, near Shekhawati restaurant",
+                "city": "Surajgarh",
+                "postal_code": null,
+                "state": "Rajasthan",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "13867552065630301769",
+            "data_id": "0x3912e123a5337463:0xc07371215820ee49",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wThLyP8P0PsaoAVWzIlC7A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=126.91746&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wThLyP8P0PsaoAVWzIlC7A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=126.91746&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "nice place",
+                    "reviewer_name": "Azam kapoor",
+                    "rating": 5,
+                    "review_text": "nice place",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-08-17T05:59:45.522000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100440184286760312436/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK_sUusnB5HtF5EePvYGx7lC5reBiCGIuQUB9ID3r0L=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJFbF45RfgEjkRWdS7fEQX4x8",
+            "name": "Markaj Masjid",
+            "description": null,
+            "reviews": 7,
+            "competitors": [
+                {
+                    "name": "Umar Faruque Masjid",
+                    "link": "https://www.google.com/maps/search/Umar+Faruque+Masjid/@28.113530599999997,75.4007507?authuser=0&hl=en&entry=ttu",
+                    "reviews": 9,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Surajgarh Mosque",
+                    "link": "https://www.google.com/maps/search/Surajgarh+Mosque/@28.3090133,75.7319375?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@28.3072348,75.7345677?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Place of worship"
+                },
+                {
+                    "name": "loharan Masjid",
+                    "link": "https://www.google.com/maps/search/loharan+Masjid/@28.313619199999998,75.731826?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Markaj Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOsxFadA9xWZ0oQ4K7YTcuBENrgg-iMudMu2Io9=w408-h306-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.4,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Markaj Masjid, ward no 2, near police station, Surajgarh, Rajasthan",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Markaj+Masjid/data=!4m7!3m6!1s0x3912e017e578b115:0x1fe317447cbbd459!8m2!3d28.3119825!4d75.7264103!16s%2Fg%2F11d_nhffnp!19sChIJFbF45RfgEjkRWdS7fEQX4x8?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 6
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJFbF45RfgEjkRWdS7fEQX4x8&q=Markaj+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.3119825,
+                "longitude": 75.7264103
+            },
+            "plus_code": "8P6G+QH Surajgarh, Rajasthan",
+            "detailed_address": {
+                "ward": null,
+                "street": "ward no 2, near police station",
+                "city": "Surajgarh",
+                "postal_code": null,
+                "state": "Rajasthan",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "2297705817806984281",
+            "data_id": "0x3912e017e578b115:0x1fe317447cbbd459",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOsxFadA9xWZ0oQ4K7YTcuBENrgg-iMudMu2Io9=w397-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fj1iqOzZhjPW8ww_u6bfYA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=321.05032&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNtM8lEC9KOEo1Nb1qE8QeByTlvhWDOVqaY8nOP=w224-h398-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Fine reality good masjid religion muslim very good",
+                    "reviewer_name": "SAHIL SOMRA",
+                    "rating": 5,
+                    "review_text": "Fine reality good masjid religion muslim very good",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-09-20T10:44:06.089000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 102,
+                    "total_number_of_photos_by_reviewer": 53,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108070762474796136304/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUsxjR8Z6-M-FEZ58t6sjB2jSoyTR5FFLfkWz5DSksG7EpH=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Pata nahi kha h",
+                    "reviewer_name": "Manjeet Jangir",
+                    "rating": 1,
+                    "review_text": "Pata nahi kha h",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-21T09:54:02.788000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 46,
+                    "total_number_of_photos_by_reviewer": 7,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117219423692771913736/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWtILSZb9DEKvnc6emTThm0s102b-FGOTRgWunk3cBmkLA=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Pata nahi hai hai",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masha allah",
+                    "reviewer_name": "Ashraf Rayeen",
+                    "rating": 5,
+                    "review_text": "Masha allah",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-02-02T10:33:57.405000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106577478750506043124/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWoiTFCQfSzUZrjWCCiqbhcyRaqF27BmrD8ozdirpxsJA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masha Allah",
+                    "reviewer_name": "Javid Khan",
+                    "rating": 5,
+                    "review_text": "Masha Allah",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-02-09T14:50:07.323000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115115320379962249594/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLP6qYSTOaGc8fKx2u7ZAX9uh1diPevRujMDeL7WKN8=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Kings Yi euS",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-09-18T09:35:40.138000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107404723816116159721/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWBL2YF8VR_JD5SvcCeJIRMoXyivJ3ChEwycKOtBjSNksw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Ishak Rayeen",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-25T14:45:15.153000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113636744135142434298/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUL8mp0O_qAne85af2YBYXOq-6edTPeNjqa8_q04QDdZeo=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Ashraf Rayeen",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-08-21T10:11:46.023000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 38,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100130424846659160725/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWJsPs1qMx-L4-wOvDesqmKGLdDDLmuHUtXR_5KZsd-kz4=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOpfKLKM-HFNIFBLrlfZYfb8EObAUYbI1VOa1wY=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOg6K4xk-PMWl_BxjnjlTYlzmCdzPXwcZi0_BlJ=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

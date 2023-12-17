@@ -1,0 +1,99 @@
+{
+    "query": "masjid gunupur",
+    "places": [
+        {
+            "place_id": "ChIJ9W1wyPaXPDoR5yTSdnExOw4",
+            "name": "Akshay",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Jay Kay Pur Masjid",
+                    "link": "https://www.google.com/maps/search/Jay+Kay+Pur+Masjid/@19.2440356,83.4213067?authuser=0&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.2,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "EidGah Jaykaypur",
+                    "link": "https://www.google.com/maps/search/EidGah+Jaykaypur/@19.242055099999998,83.4232455?authuser=0&entry=ttu",
+                    "reviews": 1,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "S K Masjid",
+                    "link": "https://www.google.com/maps/search/S+K+Masjid/@19.1653365,83.40974810000002?authuser=0&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Spiritist center"
+                },
+                {
+                    "name": "oldd girjaa buddunni",
+                    "link": "https://www.google.com/maps/search/%E0%AC%93%E0%AC%B2%E0%AD%8D%E0%AC%A1+%E0%AC%97%E0%AC%BF%E0%AC%B0%E0%AD%8D%E0%AC%9C%E0%AC%BE+%E0%AC%AC%E0%AD%81%E0%AC%A1%E0%AD%81%E0%AC%A3%E0%AC%BF/@19.336990999999998,84.2277?authuser=0&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Church"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Akshay (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "3RG7+54P Akshay, Gunupur, Odisha 765022",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Akshay/@19.0754648,83.8128265,17z/data=!3m1!4b1!4m6!3m5!1s0x3a3c97f6c8706df5:0xe3b317176d224e7!8m2!3d19.0754648!4d83.8128265!16s%2Fg%2F11k3tsshm4?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9W1wyPaXPDoR5yTSdnExOw4&q=Akshay&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 19.0754648,
+                "longitude": 83.8128265
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "3RG7+54P",
+                "city": "Gunupur",
+                "postal_code": null,
+                "state": "Odisha",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "1025467703551468775",
+            "data_id": "0x3a3c97f6c8706df5:0xe3b317176d224e7",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

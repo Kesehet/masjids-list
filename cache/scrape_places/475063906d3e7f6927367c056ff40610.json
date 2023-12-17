@@ -1,0 +1,921 @@
+{
+    "query": "masjid parola",
+    "places": [
+        {
+            "place_id": "ChIJpz2B_lA32TsRpoQEkNpEGf0",
+            "name": "Jamaliya Masjid",
+            "description": null,
+            "reviews": 9,
+            "competitors": [
+                {
+                    "name": "Sunni Masjid e Aqsa Parola",
+                    "link": "https://www.google.com/maps/search/Sunni+Masjid+e+Aqsa+Parola/@20.882835099999998,75.1194702?authuser=0&hl=en&entry=ttu",
+                    "reviews": 28,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Miskin Shah Baba (R.A.) Dargah",
+                    "link": "https://www.google.com/maps/search/Miskin+Shah+Baba+%28R.A.%29+Dargah/@20.878869299999998,75.12337579999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 11,
+                    "rating": 4.3,
+                    "main_category": "Religious destination"
+                },
+                {
+                    "name": "Markaz Masjid",
+                    "link": "https://www.google.com/maps/search/Markaz+Masjid/@20.882216099999997,75.1185938?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjide-E-Tahira_hajjin",
+                    "link": "https://www.google.com/maps/search/Masjide-E-Tahira_hajjin/@20.673569,75.3566743?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama masjid pachora",
+                    "link": "https://www.google.com/maps/search/Jama+masjid+pachora/@20.665011099999997,75.34379779999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Religious institution"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jamaliya Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMMKI0VzNLmooJgSBHLEi9q2PVpg9CnWKlUw3sb=w408-h544-k-no",
+            "main_category": "School",
+            "categories": [
+                "School"
+            ],
+            "rating": 4.7,
+            "workday_timing": "Open 24 hours",
+            "closed_on": [
+                "Tuesday"
+            ],
+            "phone": null,
+            "address": "V4M8+52W Jamaliya Masjid, Parola, Maharashtra 425111",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jamaliya+Masjid/data=!4m7!3m6!1s0x3bd93750fe813da7:0xfd1944da900484a6!8m2!3d20.8829759!4d75.1150722!16s%2Fg%2F11h90x7bmf!19sChIJpz2B_lA32TsRpoQEkNpEGf0?authuser=0&hl=en&rclk=1",
+            "status": "Open 24 hours",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1,
+                "5": 7
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJpz2B_lA32TsRpoQEkNpEGf0&q=Jamaliya+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 20.882975899999998,
+                "longitude": 75.1150722
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "V4M8+52W",
+                "city": "Parola",
+                "postal_code": "425111",
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "18237683871523308710",
+            "data_id": "0x3bd93750fe813da7:0xfd1944da900484a6",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMMKI0VzNLmooJgSBHLEi9q2PVpg9CnWKlUw3sb=w224-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=md5MFPI5is2OjUl67h6VYg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=333.78912&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "Closed"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Any time any where",
+                    "reviewer_name": "Javed Khan",
+                    "rating": 5,
+                    "review_text": "Any time any where",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-10-31T08:04:59.269000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109087450094952761983/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKW14mcvfK-oUNhqAzs7h44icsWJR5Cu24WdBcTdtuz=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPg9TimP20IDBe7vntoiNo44wGyDDVyDP5Krr7T=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Most beautiful",
+                    "reviewer_name": "Tousif Khan",
+                    "rating": 5,
+                    "review_text": "Most beautiful",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-02-24T15:14:32.735000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106615710135817294215/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVtd5dFQiOk_cggEUDBrSlAW9Jkn0HjCJDBiD2eoKkE0O8=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Mashallah",
+                    "reviewer_name": "Sharukh Khan",
+                    "rating": 5,
+                    "review_text": "Mashallah",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-12-10T13:31:24.507000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107887974521123533013/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKQBryOBEeaT9G6DCWovnrzUKu-GixpHUr44kQ8TggS=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Rahat Beldar",
+                    "rating": 4,
+                    "review_text": null,
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-04-06T14:46:41.023000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113556979684573006745/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVFQimFRWTXeqBiOUAH1rqce0ihNVL4bK1lLXDZtxmLBg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Nadim Hacker",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "11 months ago",
+                    "published_at_date": "2023-01-08T09:19:04.499000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100152381878044666055/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXM5YsXSDHmJ7sv2m-xHW2qbJv46k56w3s99g1zDDNvkZk=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Rasul Shaikh",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-07-14T08:11:00.001000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101025151624489570356/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWs_FPRGpxe21baIwwcKHYxpAPUL8Cnkqb7U6VgCq2SMy4=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Ubaid Khan",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-11-24T10:24:15.152000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104908656801868249881/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJTI3ah7EQADeK1STbx5OoQ8aUCDl0RemvBAE2YAJ2h=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Altaf khan RAHAT BELDAR",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-07-29T06:44:49.637000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 9,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103879565990384633065/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUZxodqhSjNRXIgxTX3ffP5zMIGYdcD74sOg-I_mvpPwew=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ95J-4hk32TsRDgd-ZsyK1ck",
+            "name": "Sunni Masjid e Aqsa Parola",
+            "description": null,
+            "reviews": 28,
+            "competitors": [
+                {
+                    "name": "Jamaliya Masjid",
+                    "link": "https://www.google.com/maps/search/Jamaliya+Masjid/@20.8829759,75.1150722?authuser=0&hl=en&entry=ttu",
+                    "reviews": 9,
+                    "rating": 4.7,
+                    "main_category": "School"
+                },
+                {
+                    "name": "Ahle'Sunnat Shishgar Masjid",
+                    "link": "https://www.google.com/maps/search/Ahle%27Sunnat+Shishgar+Masjid/@21.036603500000002,75.06565499999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 9,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Ahle'Sunnat Noorani Masjid",
+                    "link": "https://www.google.com/maps/search/Ahle%27Sunnat+Noorani+Masjid/@20.64996,75.3033742?authuser=0&hl=en&entry=ttu",
+                    "reviews": 6,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Markaz Masjid",
+                    "link": "https://www.google.com/maps/search/Markaz+Masjid/@20.882216099999997,75.1185938?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Sunni Masjid e Aqsa Parola (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMHv4UjLKXDUZw1oOtAgy39It-3wjYYl_F6ftwn=w408-h306-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": "099709 29234",
+            "address": "V4M9+4QQ Sunni Masjid e Aqsa Parola, quraishi street, Parola, Maharashtra",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Sunni+Masjid+e+Aqsa+Parola/data=!4m7!3m6!1s0x3bd93719e27e92f7:0xc9d58acc667e070e!8m2!3d20.8828351!4d75.1194702!16s%2Fg%2F11d_bhsdyk!19sChIJ95J-4hk32TsRDgd-ZsyK1ck?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 2,
+                "2": 2,
+                "3": 0,
+                "4": 1,
+                "5": 23
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ95J-4hk32TsRDgd-ZsyK1ck&q=Sunni+Masjid+e+Aqsa+Parola&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 20.882835099999998,
+                "longitude": 75.1194702
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "V4M9+4QQ, quraishi street",
+                "city": "Parola",
+                "postal_code": null,
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "14543683182160381710",
+            "data_id": "0x3bd93719e27e92f7:0xc9d58acc667e070e",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMHv4UjLKXDUZw1oOtAgy39It-3wjYYl_F6ftwn=w397-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMy3ZLohe3pGHOxd04k5l1RnDdT1DHKP59pYqTf=w237-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPynq4FNMleW6nM1U6YMthaIIiEK_NeNMJRnW2N=w224-h407-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bIm92AcsXQo0xzugCT_mYA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=320.85748&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Juma prayer hoti hai.",
+                    "reviewer_name": "ismail shaikh",
+                    "rating": 5,
+                    "review_text": "Juma prayer hoti hai.",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-23T08:56:27.646000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 16,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111589442332501220181/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUzxJLr0Vl5Y2GT-cEkFJMvFmUOiGYI_a-IQi8Q4vWQrNw=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "There is Friday prayer.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "SUNNI MASJID-E-AQSA From Parola buss stand 1KM",
+                    "reviewer_name": "md raza",
+                    "rating": 5,
+                    "review_text": "SUNNI MASJID-E-AQSA From Parola buss stand 1KM",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-26T08:44:18.417000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103310453133650857171/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLnt90oia7n7Cgt2GtLZe6_kmCSKgl3h1haf2lnzYtr9Q=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Parola is a big mosqeu",
+                    "reviewer_name": "Toufiqe Khan",
+                    "rating": 5,
+                    "review_text": "Parola is a big mosqeu",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-11-15T06:11:40.841000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110085413190058786038/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWvbKGHnx8AvrX3WvWiS6joE4ZE704Omy1pEDitMFhyzw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Love it",
+                    "reviewer_name": "shaikh junaid",
+                    "rating": 5,
+                    "review_text": "Love it",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-11-11T10:10:07.344000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100661720731611295813/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVEh8blW1dZFetOeBOS55RhgvlUrwonZkvoopDc_pGZ4Q=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPw6hJuYZ7bcz7zwTwiKsKBuxa0Ny86yLMsxhDs=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Very beautiful..... AQSA MASJID ",
+                    "reviewer_name": "Tauqir Khatik",
+                    "rating": 5,
+                    "review_text": "Very beautiful..... AQSA MASJID ",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-07-23T13:56:12.811000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117147550226603430809/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIWNkmfdsM7AJdtGTzfKF5ywFq6vRmXYJjlD5zX7bgl=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Muslim prayer mosque",
+                    "reviewer_name": "Abdul khan",
+                    "rating": 5,
+                    "review_text": "Muslim prayer mosque",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-06-22T18:39:41.054000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 159,
+                    "total_number_of_photos_by_reviewer": 32,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114223115785662081717/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXkFZoZtnexg4KF66yYuS4ioH2qv54-Q3FYv7--YRajKQ=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I LOVE This Masjid",
+                    "reviewer_name": "M S Quraishi",
+                    "rating": 5,
+                    "review_text": "I LOVE This Masjid",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-07-20T13:27:28.089000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113383601566714448279/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX-XN0fZG0NKLvUZkjCGQdyk0mI5MRuTeL9RXzwdaD8CQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Beautiful masjid",
+                    "reviewer_name": "HERA ISLAMIC CHANNEL PAROLA",
+                    "rating": 5,
+                    "review_text": "Beautiful masjid",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-21T18:16:47.956000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 8,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109707295243712055745/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVlAtKoA0NXDhCVJt1Wz4ZYfiA8A2B9XQT9bHN73xO8t5k=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJNcm6jbvfZDkRTA5aX6oSWc4",
+            "name": "Bada mohalla masjid Parola",
+            "description": null,
+            "reviews": 2,
+            "competitors": [
+                {
+                    "name": "Eidgah",
+                    "link": "https://www.google.com/maps/search/Eidgah/@24.1852375,76.1623345?authuser=0&hl=en&entry=ttu",
+                    "reviews": 10,
+                    "rating": 4.1,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama msjid soyat kalan",
+                    "link": "https://www.google.com/maps/search/Jama+msjid+soyat+kalan/@24.1896134,76.17539479999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 8,
+                    "rating": 3.6,
+                    "main_category": "Place of worship"
+                },
+                {
+                    "name": "Kazi Mohalla Maszid",
+                    "link": "https://www.google.com/maps/search/Kazi+Mohalla+Maszid/@24.189894499999998,76.17838619999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Madina Masjid, Sheikh Mohalla",
+                    "link": "https://www.google.com/maps/search/Madina+Masjid%2C+Sheikh+Mohalla/@24.1876025,76.1751733?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "bddaa mohllaa msjid",
+                    "link": "https://www.google.com/maps/search/%E0%A4%AC%E0%A4%A1%E0%A4%BE+%E0%A4%AE%E0%A5%8B%E0%A4%B9%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A4%BE+%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%A6/@24.1879167,76.17662349999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Bada mohalla masjid Parola (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPY3AOOUF-shvRARiJhgu2-29AyFQSaDWlmQoHI=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 3,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "55QG+5JG Bada mohalla masjid Parola, Soyat Kalan, Madhya Pradesh 465449",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Bada+mohalla+masjid+Parola/data=!4m7!3m6!1s0x3964dfbb8dbac935:0xce5912aa5f5a0e4c!8m2!3d24.1879396!4d76.1765689!16s%2Fg%2F11h38mw_g4!19sChIJNcm6jbvfZDkRTA5aX6oSWc4?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNcm6jbvfZDkRTA5aX6oSWc4&q=Bada+mohalla+masjid+Parola&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 24.1879396,
+                "longitude": 76.17656889999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "55QG+5JG",
+                "city": "Soyat Kalan",
+                "postal_code": "465449",
+                "state": "Madhya Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "14868936167693880908",
+            "data_id": "0x3964dfbb8dbac935:0xce5912aa5f5a0e4c",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPY3AOOUF-shvRARiJhgu2-29AyFQSaDWlmQoHI=w529-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Nice",
+                    "reviewer_name": "Aamir Khan",
+                    "rating": 5,
+                    "review_text": "Nice",
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-07-12T07:43:31.890000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101485845214824425858/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKI48roxnuHc9meyIOwL4aRTB6UX2DdoQ5Yo7W0ffY=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Kumar Kumar",
+                    "rating": 1,
+                    "review_text": null,
+                    "published_at": "8 months ago",
+                    "published_at_date": "2023-04-02T07:07:04.392000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108963878966541511933/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKgHTKJfHFOOdQQATNKEqzUNbPZXGlbqYLy4mp7vO_m=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJySQ1eiA32TsRLgoXJoy3zOE",
+            "name": "Markaz Masjid",
+            "description": null,
+            "reviews": 2,
+            "competitors": [
+                {
+                    "name": "Sunni Masjid e Aqsa Parola",
+                    "link": "https://www.google.com/maps/search/Sunni+Masjid+e+Aqsa+Parola/@20.882835099999998,75.1194702?authuser=0&hl=en&entry=ttu",
+                    "reviews": 28,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Miskin Shah Baba (R.A.) Dargah",
+                    "link": "https://www.google.com/maps/search/Miskin+Shah+Baba+%28R.A.%29+Dargah/@20.878869299999998,75.12337579999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 11,
+                    "rating": 4.3,
+                    "main_category": "Religious destination"
+                },
+                {
+                    "name": "MARKAZ MASJID",
+                    "link": "https://www.google.com/maps/search/MARKAZ+MASJID/@20.4472904,75.4193331?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Ahle'Sunnat Masjid Aala'Hazrat",
+                    "link": "https://www.google.com/maps/search/Ahle%27Sunnat+Masjid+Aala%27Hazrat/@20.8154216,75.3047431?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Markaz Sunni Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Markaz+Sunni+Jama+Masjid/@20.8217909,75.2969603?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Markaz Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EzeF0ZXWgD2QQ0pSIkXCkw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=231.19626&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "V4J9+VCQ Markaz Masjid, Parola, Maharashtra 425111",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Markaz+Masjid/data=!4m7!3m6!1s0x3bd937207a3524c9:0xe1ccb78c26170a2e!8m2!3d20.8822161!4d75.1185938!16s%2Fg%2F11h3jhsd24!19sChIJySQ1eiA32TsRLgoXJoy3zOE?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 2
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJySQ1eiA32TsRLgoXJoy3zOE&q=Markaz+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 20.882216099999997,
+                "longitude": 75.1185938
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "V4J9+VCQ",
+                "city": "Parola",
+                "postal_code": "425111",
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "16270581366345108014",
+            "data_id": "0x3bd937207a3524c9:0xe1ccb78c26170a2e",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EzeF0ZXWgD2QQ0pSIkXCkw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=231.19626&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EzeF0ZXWgD2QQ0pSIkXCkw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=231.19626&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Markaz masjid",
+                    "reviewer_name": "Tanveer Shaikh",
+                    "rating": 5,
+                    "review_text": "Markaz masjid",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-05-11T18:46:20.730000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118068590273764710439/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKXyhPrwgGhSeg-0PnZYpA3uM5cvjVbQlHa_O0jb7kV=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "The center of the mosque",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Markaz masjid",
+                    "reviewer_name": "ASIF SHAIKH",
+                    "rating": 5,
+                    "review_text": "Markaz masjid",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-05-08T13:25:05.603000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 15,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109354736516208616920/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWmznIZ2QA5I671oCDqCvoJVPzOKXFEEyZSH6QJ7gR92FQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "The center of the mosque",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

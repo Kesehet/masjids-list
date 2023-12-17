@@ -1,0 +1,111 @@
+{
+    "query": "masjid bhawanipatna",
+    "places": [
+        {
+            "place_id": "ChIJAameYrDpJDoRVnU7CfkFTpE",
+            "name": "Jamia Masjid",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@19.86047,82.9404459?authuser=0&entry=ttu",
+                    "reviews": 17,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jagannath Temple",
+                    "link": "https://www.google.com/maps/search/Jagannath+Temple/@20.074014299999998,83.0960456?authuser=0&entry=ttu",
+                    "reviews": 9,
+                    "rating": 4.2,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Masjid-e-Aayisha Ahl-e-hadees",
+                    "link": "https://www.google.com/maps/search/Masjid-e-Aayisha+Ahl-e-hadees/@20.2870675,83.1466705?authuser=0&entry=ttu",
+                    "reviews": 7,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Chinmaya Mission, Bhawanipatna",
+                    "link": "https://www.google.com/maps/search/Chinmaya+Mission%2C+Bhawanipatna/@19.904977799999998,83.1709242?authuser=0&entry=ttu",
+                    "reviews": 7,
+                    "rating": 4.3,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "MASJID msjid",
+                    "link": "https://www.google.com/maps/search/MASJID+%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%A6/@20.2344738,82.75204959999999?authuser=0&entry=ttu",
+                    "reviews": 5,
+                    "rating": 3.6,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jamia Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP-xLmdRVuALu5LM752-ilvZE7g0p343pNr5GjI=w408-h544-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "W536+J65 Jamia Masjid, OSRTC Depo, Chanchara Para, Bhawanipatna, Odisha 766002",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jamia+Masjid/@19.9040154,83.1605969,17z/data=!3m1!4b1!4m6!3m5!1s0x3a24e9b0629ea901:0x914e05f9093b7556!8m2!3d19.9040154!4d83.1605969!16s%2Fg%2F11s0jn_s0j?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAameYrDpJDoRVnU7CfkFTpE&q=Jamia+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 19.9040154,
+                "longitude": 83.1605969
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Chanchara Para",
+                "street": "W536+J65 OSRTC Depo",
+                "city": "Bhawanipatna",
+                "postal_code": "766002",
+                "state": "Odisha",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "10470312750842869078",
+            "data_id": "0x3a24e9b0629ea901:0x914e05f9093b7556",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipP-xLmdRVuALu5LM752-ilvZE7g0p343pNr5GjI=w224-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

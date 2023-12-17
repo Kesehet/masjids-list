@@ -1,0 +1,211 @@
+{
+    "query": "masjid bhikangaon",
+    "places": [
+        {
+            "place_id": "ChIJD5NeRjJx2DsRogDg3jK093k",
+            "name": "Jama Masjid Bhikangaon",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama Masjid Bhikangaon (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A3mwZDulWhArfsjnxav3NA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=184.2483&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "VX88+P4C Jama Masjid Bhikangaon, Bhikangaon, Madhya Pradesh 451331",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+Masjid+Bhikangaon/data=!4m7!3m6!1s0x3bd87132465e930f:0x79f7b432dee000a2!8m2!3d21.8668105!4d75.9652515!16s%2Fg%2F11y1d5gyp8!19sChIJD5NeRjJx2DsRogDg3jK093k?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJD5NeRjJx2DsRogDg3jK093k&q=Jama+Masjid+Bhikangaon&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 21.8668105,
+                "longitude": 75.9652515
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "VX88+P4C",
+                "city": "Bhikangaon",
+                "postal_code": "451331",
+                "state": "Madhya Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "8788691328417398946",
+            "data_id": "0x3bd87132465e930f:0x79f7b432dee000a2",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A3mwZDulWhArfsjnxav3NA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=184.2483&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=A3mwZDulWhArfsjnxav3NA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=184.2483&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJrUgUji5x2DsR2NSypPzI1Gs",
+            "name": "msjd qrysh",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "nrsiNh mNdir",
+                    "link": "https://www.google.com/maps/search/%E0%A4%A8%E0%A4%B0%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9+%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0/@21.8658355,75.962136?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 3.8,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Muslim Eidgah",
+                    "link": "https://www.google.com/maps/search/Muslim+Eidgah/@22.026408,76.13593519999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 2.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "iidgaah evN jmaatkhaanaa bhiikngaaNv",
+                    "link": "https://www.google.com/maps/search/%E0%A4%88%E0%A4%A6%E0%A4%97%E0%A4%BE%E0%A4%B9+%E0%A4%8F%E0%A4%B5%E0%A4%82+%E0%A4%9C%E0%A4%AE%E0%A4%BE%E0%A4%A4%E0%A4%96%E0%A4%BE%E0%A4%A8%E0%A4%BE+%E0%A4%AD%E0%A5%80%E0%A4%95%E0%A4%A8%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%B5/@21.8683355,75.96697209999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Musalla"
+                },
+                {
+                    "name": "husainii msjid bhuulgaaNv",
+                    "link": "https://www.google.com/maps/search/%E0%A4%B9%E0%A5%81%E0%A4%B8%E0%A5%88%E0%A4%A8%E0%A5%80+%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%A6+%E0%A4%AD%E0%A5%82%E0%A4%B2%E0%A4%97%E0%A4%BE%E0%A4%81%E0%A4%B5/@22.1289171,75.9648986?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "mszid kaaNkriyaa",
+                    "link": "https://www.google.com/maps/search/%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A5%9B%E0%A4%BF%E0%A4%A6+%E0%A4%95%E0%A4%BE%E0%A4%82%E0%A4%95%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE/@22.0354048,76.2370313?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "msjd qrysh (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N-EfcSc6lH9p1OPvXaTTag&cb_client=search.gws-prod.gps&w=408&h=240&yaw=131.52916&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "VX98+6W4 msjd qrysh, Bhikangaon, Madhya Pradesh 451331",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/%D9%85%D8%B3%D8%AC%D8%AF+%D9%82%D8%B1%DB%8C%D8%B4%E2%80%AD/data=!4m7!3m6!1s0x3bd8712e8e1448ad:0x6bd4c8fca4b2d4d8!8m2!3d21.86802!4d75.9673312!16s%2Fg%2F11nfq58klx!19sChIJrUgUji5x2DsR2NSypPzI1Gs?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJrUgUji5x2DsR2NSypPzI1Gs&q=%D9%85%D8%B3%D8%AC%D8%AF+%D9%82%D8%B1%DB%8C%D8%B4%E2%80%AD&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 21.868019999999998,
+                "longitude": 75.96733119999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "VX98+6W4",
+                "city": "Bhikangaon",
+                "postal_code": "451331",
+                "state": "Madhya Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "7770056244541445336",
+            "data_id": "0x3bd8712e8e1448ad:0x6bd4c8fca4b2d4d8",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N-EfcSc6lH9p1OPvXaTTag&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=131.52916&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N-EfcSc6lH9p1OPvXaTTag&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=131.52916&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

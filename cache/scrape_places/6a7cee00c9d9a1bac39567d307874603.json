@@ -1,0 +1,79 @@
+{
+    "query": "masjid mahad",
+    "places": [
+        {
+            "place_id": "ChIJ_X-EFIMSQBgR1b0CTwJAv1E",
+            "name": "Masjid Mahad",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": null,
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NFa6qWj6jTC9y2hJ2_udXA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=318.73468&pitch=0&thumbfov=100",
+            "main_category": "Building",
+            "categories": [
+                "Building"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Masjid Mahad, Old Malindi Rd, Mombasa, Kenya",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Mahad,+Old+Malindi+Rd,+Mombasa,+Kenya/@-4.0297876,39.6843468,17z/data=!3m1!4b1!4m6!3m5!1s0x1840128314847ffd:0x51bf40024f02bdd5!8m2!3d-4.0297876!4d39.6843468!16s%2Fg%2F11g_w9p37?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ_X-EFIMSQBgR1b0CTwJAv1E&q=Masjid+Mahad,+Old+Malindi+Rd,+Mombasa,+Kenya&authuser=0&hl=en&gl=KE",
+            "coordinates": {
+                "latitude": -4.0297876,
+                "longitude": 39.6843468
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Kisauni",
+                "street": "Old Malindi Rd",
+                "city": "Mombasa",
+                "postal_code": null,
+                "state": null,
+                "country_code": "KE"
+            },
+            "time_zone": "Africa/Nairobi",
+            "cid": "5890497216283590101",
+            "data_id": "0x1840128314847ffd:0x51bf40024f02bdd5",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NFa6qWj6jTC9y2hJ2_udXA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=322.43597&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NFa6qWj6jTC9y2hJ2_udXA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=322.43597&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

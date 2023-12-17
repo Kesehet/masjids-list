@@ -1,0 +1,570 @@
+{
+    "query": "masjid garhshankar",
+    "places": [
+        {
+            "place_id": "ChIJ1_Aq0Ay_GjkRfkTjVnWp8BM",
+            "name": "Jama Masjid",
+            "description": null,
+            "reviews": 2,
+            "competitors": [
+                {
+                    "name": "Jama masjid baradari",
+                    "link": "https://www.google.com/maps/search/Jama+masjid+baradari/@31.1234637,76.11884309999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid Hazrat Ameer Muawiya R.H",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid+Hazrat+Ameer+Muawiya+R.H/@31.162372700000002,76.1897674?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@31.345802399999997,76.149658?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP_7BkrwQWaUyt1JhPqjIL_6fZ4myadtxDuhFwT=w426-h240-k-no",
+            "main_category": "Religious school",
+            "categories": [
+                "Religious school"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "647Q+HXX Jama Masjid, ROZA Rd, Garhshankar, Punjab 144527",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+Masjid/data=!4m7!3m6!1s0x391abf0cd02af0d7:0x13f0a97556e3447e!8m2!3d31.2139916!4d76.1399862!16s%2Fg%2F11bzq92lf9!19sChIJ1_Aq0Ay_GjkRfkTjVnWp8BM?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 2
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1_Aq0Ay_GjkRfkTjVnWp8BM&q=Jama+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 31.2139916,
+                "longitude": 76.1399862
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "647Q+HXX, ROZA Rd",
+                "city": "Garhshankar",
+                "postal_code": "144527",
+                "state": "Punjab",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "1436834602565190782",
+            "data_id": "0x391abf0cd02af0d7:0x13f0a97556e3447e",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipP_7BkrwQWaUyt1JhPqjIL_6fZ4myadtxDuhFwT=w529-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "Amandeep Kumar",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-05-30T03:01:09.450000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106190545819548917458/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWyNP7hqKQVmkPfvM_b9NZi7-LqKwvRitiNIUedMZyQzp1A=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Rahman Ali",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-05-20T18:03:38.788000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 61,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104548042944555883220/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKzXRBqAWl27BAykR4hYBIshhDT0II5cj_2EVZ4fY2P=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJbR2K6Vq_GjkR2T5VZQuPSU4",
+            "name": "Peera di jagah",
+            "description": null,
+            "reviews": 2,
+            "competitors": [
+                {
+                    "name": "Lakh Data Peer",
+                    "link": "https://www.google.com/maps/search/Lakh+Data+Peer/@31.1308655,76.1191786?authuser=0&hl=en&entry=ttu",
+                    "reviews": 16,
+                    "rating": 4.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jhidi Baba shahzada ji",
+                    "link": "https://www.google.com/maps/search/Jhidi+Baba+shahzada+ji/@31.153766199999996,76.1258034?authuser=0&hl=en&entry=ttu",
+                    "reviews": 7,
+                    "rating": 5,
+                    "main_category": "Place of worship"
+                },
+                {
+                    "name": "rooj'aa baabaa keesr s'aah srkaar drbaar",
+                    "link": "https://www.google.com/maps/search/%E0%A8%B0%E0%A9%8B%E0%A8%9C%E0%A8%BC%E0%A8%BE+%E0%A8%AC%E0%A8%BE%E0%A8%AC%E0%A8%BE+%E0%A8%95%E0%A9%87%E0%A8%B8%E0%A8%B0+%E0%A8%B8%E0%A8%BC%E0%A8%BE%E0%A8%B9+%E0%A8%B8%E0%A8%B0%E0%A8%95%E0%A8%BE%E0%A8%B0+%E0%A8%A6%E0%A8%B0%E0%A8%AC%E0%A8%BE%E0%A8%B0/@31.0649222,76.14583309999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Dargah Baba Kesar Shah Ji",
+                    "link": "https://www.google.com/maps/search/Dargah+Baba+Kesar+Shah+Ji/@31.065034999999998,76.145686?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Baba Lakh Data Sakhi Sarwar Ji Darbar",
+                    "link": "https://www.google.com/maps/search/Baba+Lakh+Data+Sakhi+Sarwar+Ji+Darbar/@31.267437500000003,76.0915625?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Peera di jagah (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMAFErDzbg9_ahnWmo3vmljoJjl8JosRoiSgms=w408-h306-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "54RQ+HV4 Peera di jagah, Khanna - Samrala - Garhshankar Rd, Punjab 144527",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Peera+di+jagah/data=!4m7!3m6!1s0x391abf5ae98a1d6d:0x4e498f0b65553ed9!8m2!3d31.1913978!4d76.1397118!16s%2Fg%2F11ftbhj0br!19sChIJbR2K6Vq_GjkR2T5VZQuPSU4?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 2
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJbR2K6Vq_GjkR2T5VZQuPSU4&q=Peera+di+jagah&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 31.191397799999997,
+                "longitude": 76.1397118
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "54RQ+HV4, Khanna - Samrala - Garhshankar Rd",
+                "city": null,
+                "postal_code": "144527",
+                "state": "Punjab",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "5641197287365754585",
+            "data_id": "0x391abf5ae98a1d6d:0x4e498f0b65553ed9",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMAFErDzbg9_ahnWmo3vmljoJjl8JosRoiSgms=w397-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMAFErDzbg9_ahnWmo3vmljoJjl8JosRoiSgms=w397-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM4gzr-NLlA53YHDeZENWfFaqKPbtmM3_2Dfpz9=w224-h398-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Beautiful mosque. My great grandfather used to frequent here and my dad did as well. We came here to drop some prashad, a chunni and some diyas. This place is extremely peaceful and welcoming of all religions.",
+                    "reviewer_name": "Naina Sharma",
+                    "rating": 5,
+                    "review_text": "Beautiful mosque. My great grandfather used to frequent here and my dad did as well. We came here to drop some prashad, a chunni and some diyas. This place is extremely peaceful and welcoming of all religions.",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-02-23T13:41:55.357000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 42,
+                    "total_number_of_photos_by_reviewer": 15,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116899732292617802516/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIDPKcIImCxY3yZKEXn0cOrtZZZ6TZvhYknazgTH59l=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Op",
+                    "reviewer_name": "Lovepreet Singh",
+                    "rating": 5,
+                    "review_text": "Op",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-03-07T09:43:20.683000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107895609891521371361/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIPeRFQ94E-M4FsvGAO7iSnUdOPZaLm8T9IVLR4eGhO=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "On",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJT8sA0gy_GjkRe44Iy5jeQYE",
+            "name": "Bada Roza Ali Muhammad Qadri Ji",
+            "description": null,
+            "reviews": 35,
+            "competitors": [
+                {
+                    "name": "Dhera Baba Dudhadhari Ji ddeeraa baabaa dHdhaadhaarii jii",
+                    "link": "https://www.google.com/maps/search/Dhera+Baba+Dudhadhari+Ji+%E0%A8%A1%E0%A9%87%E0%A8%B0%E0%A8%BE+%E0%A8%AC%E0%A8%BE%E0%A8%AC%E0%A8%BE+%E0%A8%A6%E0%A9%B1%E0%A8%A7%E0%A8%BE%E0%A8%A7%E0%A8%BE%E0%A8%B0%E0%A9%80+%E0%A8%9C%E0%A9%80/@31.194188599999993,76.1468209?authuser=0&hl=en&entry=ttu",
+                    "reviews": 12,
+                    "rating": 5,
+                    "main_category": "Religious destination"
+                },
+                {
+                    "name": "Gaddi Nashin Baba Darbara Ji",
+                    "link": "https://www.google.com/maps/search/Gaddi+Nashin+Baba+Darbara+Ji/@31.211827900000003,76.1439022?authuser=0&hl=en&entry=ttu",
+                    "reviews": 8,
+                    "rating": 5,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Dargah Sharif Baba Rza Bali Qadri Sai Muskeen Ji Muskeen Qadri",
+                    "link": "https://www.google.com/maps/search/Dargah+Sharif+Baba+Rza+Bali+Qadri+Sai+Muskeen+Ji+Muskeen+Qadri/@31.196939299999993,76.1405429?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 5,
+                    "main_category": "Spiritist center"
+                },
+                {
+                    "name": "Peera di jagah",
+                    "link": "https://www.google.com/maps/search/Peera+di+jagah/@31.191397799999997,76.1397118?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Baba Lakh Data Sakhi Sarwar Ji Darbar",
+                    "link": "https://www.google.com/maps/search/Baba+Lakh+Data+Sakhi+Sarwar+Ji+Darbar/@31.267437500000003,76.0915625?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Bada Roza Ali Muhammad Qadri Ji (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM6k2Wda23rJOYeX-UFOGsRw27aY0g0q6t5IsGR=w408-h306-k-no",
+            "main_category": "Religious destination",
+            "categories": [
+                "Religious destination"
+            ],
+            "rating": 4.5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "647R+Q22 Bada Roza Ali Muhammad Qadri Ji, ROZA Rd, Garhshankar, Punjab 144527",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Bada+Roza+Ali+Muhammad+Qadri+Ji/data=!4m7!3m6!1s0x391abf0cd200cb4f:0x8141de98cb088e7b!8m2!3d31.2143864!4d76.1400041!16s%2Fg%2F1q5bs1kvh!19sChIJT8sA0gy_GjkRe44Iy5jeQYE?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 2,
+                "2": 0,
+                "3": 2,
+                "4": 4,
+                "5": 27
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJT8sA0gy_GjkRe44Iy5jeQYE&q=Bada+Roza+Ali+Muhammad+Qadri+Ji&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 31.2143864,
+                "longitude": 76.1400041
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "647R+Q22, ROZA Rd",
+                "city": "Garhshankar",
+                "postal_code": "144527",
+                "state": "Punjab",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "9313970252201627259",
+            "data_id": "0x391abf0cd200cb4f:0x8141de98cb088e7b",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM6k2Wda23rJOYeX-UFOGsRw27aY0g0q6t5IsGR=w397-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOhYAns34XPmLLqOyTMMyDuC87QJqxuNfbVmx4Y=w529-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Kali Masjid Required to New Construction in Garhshankar District Hoshiarpur Punjab",
+                    "reviewer_name": "WALI SHIMALI",
+                    "rating": 1,
+                    "review_text": "Kali Masjid Required to New Construction in Garhshankar District Hoshiarpur Punjab",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-06-28T00:04:53.095000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 101,
+                    "total_number_of_photos_by_reviewer": 254,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113505237465968663391/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWhgs8fo8ciqtfiVOnc__kRXccQCr7OXo087xkLXtAgDoI=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "One of the biggest place in my area",
+                    "reviewer_name": "Surinder Singh",
+                    "rating": 5,
+                    "review_text": "One of the biggest place in my area",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-02-01T14:56:11.906000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 197,
+                    "total_number_of_photos_by_reviewer": 482,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116441198924552286948/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU8ksWY5L_a8kNRpEF7jKNC5ZI-2dKJahHxSqgrBRywjeLR=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNFRA33hUEfjL4zUa56MXQlbQT-JM4qKANUHev4=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOn34cNky9iEDtIWgp5a7w5Ms5rBL9yyZtxvRoI=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOd5cjA8pZgxlykqopPtGyewoUxn4ZKtnJzisp4=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "It is historic place of baba ali muaajam kadri sahab ji",
+                    "reviewer_name": "BHUPINDER PAWAR",
+                    "rating": 5,
+                    "review_text": "It is historic place of baba ali muaajam kadri sahab ji",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-18T06:11:13.610000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104467884920340687940/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXmCDTHlravogSMZ-_e0ZIDpuAecTq8PU-ZenZPD_Uo48MZ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "This place is very nice\nJai peer Baba g",
+                    "reviewer_name": "Technical Nitin",
+                    "rating": 5,
+                    "review_text": "This place is very nice\nJai peer Baba g",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-01-29T10:12:22.829000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101417362592661921166/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVMEg_fT4EdcDT28bBXdi9o5k97zXMRkFUhNL99Esm4Gw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Murshid Pak.Allah un ke darjaat buland farmae.Ameen.",
+                    "reviewer_name": "Shahid Iqbal",
+                    "rating": 5,
+                    "review_text": "Murshid Pak.Allah un ke darjaat buland farmae.Ameen.",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-01-26T07:50:16.589000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105217660728363155042/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU9bT4X5fDoc_7lRzQkEnDNQ8pEkC_X-qORmAgRRIK_e3w=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Murshid Pak.Allah raise his status.Ameen.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPStycQi8nrC-_VNk-Opg8B0YoYL0yEK18e2BEY=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "yh ek bhut hii acchaa dekhne yogy sthaan hai",
+                    "reviewer_name": "Ranjit Kumar",
+                    "rating": 5,
+                    "review_text": "yh ek bhut hii acchaa dekhne yogy sthaan hai",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-01-11T12:48:28.803000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108889889995276238042/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU6zes1uP6fwbODyJ7fn5YPOhGiiqOdTgOA_oH6LE8RiUY=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "This is a very nice place to visit",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good",
+                    "reviewer_name": "Dilpreet Singh",
+                    "rating": 3,
+                    "review_text": "Good",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-04-23T01:19:28.385000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109350161617351828193/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKH5Kgy6stpK5at5CnhkqCNT31SINL1ZRVdczZGlhm8=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Jai Sarkar Ali Muazzam Shah Kadri Ji",
+                    "reviewer_name": "Mani Sultan",
+                    "rating": 5,
+                    "review_text": "Jai Sarkar Ali Muazzam Shah Kadri Ji",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-02-03T15:48:17.529000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110568473178159127092/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXjx5SspO9On_esnmHKzLDEHY-HrOSoBxjz2AqktRLSyd8=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

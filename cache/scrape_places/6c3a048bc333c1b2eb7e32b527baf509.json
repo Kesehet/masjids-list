@@ -1,0 +1,287 @@
+{
+    "query": "masjid andippatti",
+    "places": [
+        {
+            "place_id": "ChIJXe4BdA0_BzsRUP2wK-4PLUg",
+            "name": "Mosque Aundipatti",
+            "description": null,
+            "reviews": 28,
+            "competitors": [
+                {
+                    "name": "masjid noor pallivaasal",
+                    "link": "https://www.google.com/maps/search/masjid+noor+pallivaasal/@10.0095697,77.54955389999999?authuser=0&entry=ttu",
+                    "reviews": 12,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Devadanapatti Jumma Big Masjid",
+                    "link": "https://www.google.com/maps/search/Devadanapatti+Jumma+Big+Masjid/@10.147213599999999,77.64424930000001?authuser=0&entry=ttu",
+                    "reviews": 9,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Al Ameen Jumma Masjid",
+                    "link": "https://www.google.com/maps/search/Al+Ameen+Jumma+Masjid/@10.1480385,77.6468661?authuser=0&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Old Mosque",
+                    "link": "https://www.google.com/maps/search/Old+Mosque/@10.0097807,77.4751595?authuser=0&entry=ttu",
+                    "reviews": 4,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jumma Masjid",
+                    "link": "https://www.google.com/maps/search/Jumma+Masjid/@10.1706618,77.6997573?authuser=0&entry=ttu",
+                    "reviews": 2,
+                    "rating": 3,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Mosque Aundipatti (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MBRL9hN_D2MElAawtUz_JQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=214.94131&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.4,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "2J29+Q77 Mosque Aundipatti, Andippatti, Tamil Nadu 625536",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Mosque+Aundipatti/@10.0019077,77.6181668,17z/data=!3m1!4b1!4m6!3m5!1s0x3b073f0d7401ee5d:0x482d0fee2bb0fd50!8m2!3d10.0019077!4d77.6181668!16s%2Fg%2F11g6xhztny?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 0,
+                "3": 4,
+                "4": 6,
+                "5": 17
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJXe4BdA0_BzsRUP2wK-4PLUg&q=Mosque+Aundipatti&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 10.0019077,
+                "longitude": 77.6181668
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "2J29+Q77",
+                "city": "Andippatti",
+                "postal_code": "625536",
+                "state": "Tamil Nadu",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "5200830660292443472",
+            "data_id": "0x3b073f0d7401ee5d:0x482d0fee2bb0fd50",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MBRL9hN_D2MElAawtUz_JQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=214.94131&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MBRL9hN_D2MElAawtUz_JQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=214.94131&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Jumma Namaz is at 01:35pm.",
+                    "reviewer_name": "Abdul Ahad",
+                    "rating": 5,
+                    "review_text": "Jumma Namaz is at 01:35pm.",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-02-24T08:00:58.018000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111660418620737619857/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIiowpG2Mbm9KhDGxVMf0Au7PHMaCR55rtrw4UPTOBe=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "It is good but required to built big one",
+                    "reviewer_name": "Arunkumar S",
+                    "rating": 5,
+                    "review_text": "It is good but required to built big one",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-05-10T07:07:38.574000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 39,
+                    "total_number_of_photos_by_reviewer": 27,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108705691124621783550/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXz553M_heJS3kEzDKg6BKvgn1-bOn5V4BcwsW160INJe2F=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Jumma Namaz Starts at 01:35pm",
+                    "reviewer_name": "Abdul Ahad",
+                    "rating": 5,
+                    "review_text": "Jumma Namaz Starts at 01:35pm",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-02-24T08:01:39.334000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 71,
+                    "total_number_of_photos_by_reviewer": 10,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105923624677230635884/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocICsSH-urmeIQgW_tzZMMqIA_F4Uv9eaoPpEr__swvV=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice mosque",
+                    "reviewer_name": "Bala Murugan",
+                    "rating": 3,
+                    "review_text": "Nice mosque",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-05-04T08:01:05.738000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 24,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109162535330136695687/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXf3o1CLj6O-FXoGj4hgFiTJgRL8VxAZxV20DLGHip9fDo=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very good...",
+                    "reviewer_name": "Asith Azam",
+                    "rating": 5,
+                    "review_text": "Very good...",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-01-11T07:10:29.644000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107783589771951154901/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX6EpmVCCPMIhVrMphFzYpkeZlQJ_QZ_SYYVMcM0hYAaA4=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Spr",
+                    "reviewer_name": "vickyadhi",
+                    "rating": 5,
+                    "review_text": "Spr",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-08-29T14:40:28.744000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 17,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115961480927826553456/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLZqOllaIqzsWaLuh6V1ENJID_Q_Gx-5-2s6vEhNocH=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Peaceful",
+                    "reviewer_name": "D A M U fanss",
+                    "rating": 5,
+                    "review_text": "Peaceful",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-06T09:34:11.980000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108953678537681291177/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJckq7Cm7teiVtv7hQRIgMK7WkiJMZu58S5hrjEOi_9=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice place",
+                    "reviewer_name": "Rasikapoor A",
+                    "rating": 5,
+                    "review_text": "Nice place",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-06-17T12:14:14.642000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 53,
+                    "total_number_of_photos_by_reviewer": 97,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104299080068155200014/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV_yZbOjfuK6FErvHX4Z7FuhdDnmv8OavUwfgWQFdV0SBfR=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

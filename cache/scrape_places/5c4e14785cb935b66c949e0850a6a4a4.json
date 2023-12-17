@@ -1,0 +1,692 @@
+{
+    "query": "masjid selu",
+    "places": [
+        {
+            "place_id": "ChIJn4djTnIfbjkRgveZ3I52MtM",
+            "name": "Masjid Selu",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@26.1024371,76.3617924?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "JAMA MASJID DHANOLI",
+                    "link": "https://www.google.com/maps/search/JAMA+MASJID+DHANOLI/@26.1134874,76.3996499?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Museum"
+                },
+                {
+                    "name": "Masjid-e ruqaiya",
+                    "link": "https://www.google.com/maps/search/Masjid-e+ruqaiya/@26.1529059,76.42117209999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid Selu (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Museum",
+            "categories": [
+                "Museum"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "5C38+H8G Masjid Selu, Selu, Rajasthan 322034",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Selu/data=!4m7!3m6!1s0x396e1f724e63879f:0xd332768edc99f782!8m2!3d26.1539278!4d76.4158129!16s%2Fg%2F11g_x0qw6l!19sChIJn4djTnIfbjkRgveZ3I52MtM?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJn4djTnIfbjkRgveZ3I52MtM&q=Masjid+Selu&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 26.153927799999998,
+                "longitude": 76.41581289999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "5C38+H8G",
+                "city": "Selu",
+                "postal_code": "322034",
+                "state": "Rajasthan",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "15218356446796838786",
+            "data_id": "0x396e1f724e63879f:0xd332768edc99f782",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJt3glHAcfbjkR-kBM70HHAR0",
+            "name": "Masjid Selu",
+            "description": null,
+            "reviews": 3,
+            "competitors": [
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@26.1024371,76.3617924?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "shrii mhaadevjii mndir",
+                    "link": "https://www.google.com/maps/search/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A4%9C%E0%A5%80+%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%B0/@26.1506699,76.418312?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 3.5,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "JAMA MASJID DHANOLI",
+                    "link": "https://www.google.com/maps/search/JAMA+MASJID+DHANOLI/@26.1134874,76.3996499?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Museum"
+                },
+                {
+                    "name": "Masjid-e ruqaiya",
+                    "link": "https://www.google.com/maps/search/Masjid-e+ruqaiya/@26.1529059,76.42117209999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid Selu (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN9lnpnI0h2CZo2RvoP-BgIVIcjJIrD40ny8kGz=w426-h240-k-no",
+            "main_category": "Museum",
+            "categories": [
+                "Museum"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "5C39+8R7 Masjid Selu, Seloo, Selu, Rajasthan 322027",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Selu/data=!4m7!3m6!1s0x396e1f071c2578b7:0x1d01c741ef4c40fa!8m2!3d26.1532979!4d76.4195401!16s%2Fg%2F11h4nk_dzm!19sChIJt3glHAcfbjkR-kBM70HHAR0?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 3
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJt3glHAcfbjkR-kBM70HHAR0&q=Masjid+Selu&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 26.1532979,
+                "longitude": 76.41954009999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "5C39+8R7",
+                "city": "Seloo, Selu",
+                "postal_code": "322027",
+                "state": "Rajasthan",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "2090170788078174458",
+            "data_id": "0x396e1f071c2578b7:0x1d01c741ef4c40fa",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipN9lnpnI0h2CZo2RvoP-BgIVIcjJIrD40ny8kGz=w529-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNdhXnwgQbLtPQSiI50Znb1-p1zEVC2ItWTe44a=w224-h398-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Good",
+                    "reviewer_name": "Rajesh Meena",
+                    "rating": 5,
+                    "review_text": "Good",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-04-22T11:00:09.528000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 33,
+                    "total_number_of_photos_by_reviewer": 21,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115837986190560372718/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU2BvdpSq7-9swCbQL2kd8deD6kGos5pQ-SZBTJocrCP0Q-=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good",
+                    "reviewer_name": "Tahir Khan",
+                    "rating": 5,
+                    "review_text": "Good",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-10-02T11:10:29.120000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116214395838972253322/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW1-VHnN6pXzm0W3BMRXqyG9PbSTutPaB7sOvzD9UVtTTE=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Asrar Khan",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-10-14T17:44:12.808000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117644618817253234994/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX4JaGxUPSeL2EJMuAAoPq3t738yAQ3DFhN5a6gMebOIoU=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJs5uycucfbjkRX94mbNfFI0M",
+            "name": "Masjid-e ruqaiya",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "USMANIYA MASJID Taliyan",
+                    "link": "https://www.google.com/maps/search/USMANIYA+MASJID+Taliyan/@26.0498069,76.1533601?authuser=0&hl=en&entry=ttu",
+                    "reviews": 7,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Ayesha Masjid",
+                    "link": "https://www.google.com/maps/search/Ayesha+Masjid/@26.259231999999997,76.3255375?authuser=0&hl=en&entry=ttu",
+                    "reviews": 6,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "mdrsaa",
+                    "link": "https://www.google.com/maps/search/%E0%A4%AE%E0%A4%A6%E0%A4%B0%E0%A4%B8%E0%A4%BE/@26.0844769,76.3836228?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid-e ruqaiya (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "5C3C+67W Masjid-e ruqaiya, Selu Rd, Selu, Rajasthan 322027",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid-e+ruqaiya/data=!4m7!3m6!1s0x396e1fe772b29bb3:0x4323c5d76c26de5f!8m2!3d26.1529059!4d76.4211721!16s%2Fg%2F11t6r9zmkj!19sChIJs5uycucfbjkRX94mbNfFI0M?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJs5uycucfbjkRX94mbNfFI0M&q=Masjid-e+ruqaiya&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 26.1529059,
+                "longitude": 76.42117209999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "5C3C+67W, Selu Rd",
+                "city": "Selu",
+                "postal_code": "322027",
+                "state": "Rajasthan",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "4837927953749171807",
+            "data_id": "0x396e1fe772b29bb3:0x4323c5d76c26de5f",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJJdxBF-2f2jsR-Dod60ROAno",
+            "name": "Madina Masjid (mdynh msjd sylw)",
+            "description": null,
+            "reviews": 24,
+            "competitors": [
+                {
+                    "name": "Masjid Rahmanya( msjdi rHmnyh )",
+                    "link": "https://www.google.com/maps/search/Masjid+Rahmanya%28+%D9%85%D8%B3%D8%AC%D8%AF%D9%90+%D8%B1%D8%AD%D9%85%D8%A7%D9%86%DB%8C%DB%81+%29/@19.4489307,76.4458988?authuser=0&hl=en&entry=ttu",
+                    "reviews": 12,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid E Inamul Hasan ( msjdi n`m lHsn",
+                    "link": "https://www.google.com/maps/search/Masjid+E+Inamul+Hasan+%28+%D9%85%D8%B3%D8%AC%D8%AF%D9%90+%D8%A7%D9%86%D8%B9%D8%A7%D9%85+%D8%A7%D9%84%D8%AD%D8%B3%D9%86/@19.4534621,76.4450816?authuser=0&hl=en&entry=ttu",
+                    "reviews": 7,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@19.4512896,76.4431578?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 2.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid e Mecca msjdyN mkhWh",
+                    "link": "https://www.google.com/maps/search/Masjid+e+Mecca+%D9%85%D8%B3%D8%AC%D8%AF%DB%8C%DA%BA+%D9%85%DA%A9%D9%91%DB%81/@19.4433862,76.4443704?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Sulemania Masjid (slymnyh msjd)",
+                    "link": "https://www.google.com/maps/search/Sulemania+Masjid+%28%D8%B3%D9%84%DB%8C%D9%85%D8%A7%D9%86%DB%8C%DB%81+%D9%85%D8%B3%D8%AC%D8%AF%29/@19.4483603,76.44451?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Madina Masjid (mdynh msjd sylw) (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNYydh3PJPwjugv_e6o7cyCoFIQtFXRuyLLKzM-=w439-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.6,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "CCXM+MXC Madina Masjid (mdynh msjd sylw), Selu, Maharashtra 431503",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Madina+Masjid+%28%D9%85%D8%AF%DB%8C%D9%86%DB%81+%D9%85%D8%B3%D8%AC%D8%AF+%D8%B3%DB%8C%D9%84%D9%88%29%E2%80%AD/data=!4m7!3m6!1s0x3bda9fed1741dc25:0x7a024e44eb1d3af8!8m2!3d19.4491761!4d76.4348888!16s%2Fg%2F124ydtgml!19sChIJJdxBF-2f2jsR-Dod60ROAno?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 20
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJdxBF-2f2jsR-Dod60ROAno&q=Madina+Masjid+%28%D9%85%D8%AF%DB%8C%D9%86%DB%81+%D9%85%D8%B3%D8%AC%D8%AF+%D8%B3%DB%8C%D9%84%D9%88%29%E2%80%AD&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 19.4491761,
+                "longitude": 76.4348888
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Selu",
+                "street": "CCXM+MXC",
+                "city": "Selu",
+                "postal_code": "431503",
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "8791675480489933560",
+            "data_id": "0x3bda9fed1741dc25:0x7a024e44eb1d3af8",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNYydh3PJPwjugv_e6o7cyCoFIQtFXRuyLLKzM-=w545-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bU14FsQVK0bynywf62bGxg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=85.71109&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Railway station se najdeek Hai..",
+                    "reviewer_name": "Akbar Md",
+                    "rating": 5,
+                    "review_text": "Railway station se najdeek Hai..",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-27T09:22:09.082000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111494415083870115180/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL9bHEjzAevXbV2zl1Bq7qMxFtC-yM1Vw6tbBPCjR6P=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Can be seen from the railway station..",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Beautiful masjid near to railway station and also nearest masjid of bus stand",
+                    "reviewer_name": "Mohammed Abdul Baseer M.A. Rasheed Ansari",
+                    "rating": 5,
+                    "review_text": "Beautiful masjid near to railway station and also nearest masjid of bus stand",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-10-10T01:16:04.824000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 310,
+                    "total_number_of_photos_by_reviewer": 605,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108501717222261133236/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVYIOrW25od3t5Bkv9QFhWLveerxkI5zJRD2CxK9MCX5M4=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNOXYlfHLoQlEDzOrfDplteyfLCj4-9onKVqwnD=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Historic Masjid\nOne Hundred years old Mosque Masjid",
+                    "reviewer_name": "Adv Vahid H Shaikh",
+                    "rating": 5,
+                    "review_text": "Historic Masjid\nOne Hundred years old Mosque Masjid",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-09-15T05:29:48.380000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 48,
+                    "total_number_of_photos_by_reviewer": 304,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109006172600814913873/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXyuIisOhdpVspPvIaPlf_IBDngxyI-KDosaNhci6H1ogo=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very good masjid large space for car parking two wheelers parking",
+                    "reviewer_name": "Happiness4Health",
+                    "rating": 5,
+                    "review_text": "Very good masjid large space for car parking two wheelers parking",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-08-27T18:11:51.745000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 31,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107633322091448382205/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXnXYxEi_NmPxn5YLcr2xqhNoOMymZLH2mksvyiJIdB8A=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very old mosque in city.",
+                    "reviewer_name": "PATHAN JAWED",
+                    "rating": 5,
+                    "review_text": "Very old mosque in city.",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-02-27T16:02:20.454000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 16,
+                    "total_number_of_photos_by_reviewer": 31,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113885909887878462239/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUvSY5qHA37p_ZcbwLdbSu-WHxqjYSWX_owEq8Byi9sdWg=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Its a beutiful masjid of selu",
+                    "reviewer_name": "Aasef Pathan",
+                    "rating": 5,
+                    "review_text": "Its a beutiful masjid of selu",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-06-19T04:19:22.887000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110360242171851892233/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWIPJNKy6fQitv4eG3JXz-tN85Sky3jTtPH6sbwbzbSWOw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "This is the masjid for the pray",
+                    "reviewer_name": "Spread oF Peace",
+                    "rating": 5,
+                    "review_text": "This is the masjid for the pray",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-10-05T21:32:55.237000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116755617829325017183/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVR5zukNz149kfRaSggFB61Nkaa8QrQ38rVQ2F6XalFAw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good",
+                    "reviewer_name": "Kaleem Qureshi",
+                    "rating": 5,
+                    "review_text": "Good",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-11-05T14:43:56.705000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 256,
+                    "total_number_of_photos_by_reviewer": 57,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116033038734354176450/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU8qEnrBpaoKudA-isHcBoxgDR2SQOU1UAU_yol35fbjg=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJpetZg7UfbjkRjggf75vAkfM",
+            "name": "Makka masjid",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Makka masjid (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "5C39+5V2 Makka masjid, Selu Rd, Selu, Rajasthan 322027",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Makka+masjid/data=!4m7!3m6!1s0x396e1fb58359eba5:0xf391c09bef1f088e!8m2!3d26.1528775!4d76.4196324!16s%2Fg%2F11txy0qk5y!19sChIJpetZg7UfbjkRjggf75vAkfM?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJpetZg7UfbjkRjggf75vAkfM&q=Makka+masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 26.1528775,
+                "longitude": 76.4196324
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "5C39+5V2, Selu Rd",
+                "city": "Selu",
+                "postal_code": "322027",
+                "state": "Rajasthan",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "17551020998803785870",
+            "data_id": "0x396e1fb58359eba5:0xf391c09bef1f088e",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

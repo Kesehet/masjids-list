@@ -1,0 +1,41 @@
+Traceback (most recent call last):
+  File "C:\Users\user\Documents\Hamood\google-maps-scraper\env_name\lib\site-packages\botasaurus\decorators.py", line 366, in run_task
+    result = func(driver, data)
+  File "C:\Users\user\Documents\Hamood\google-maps-scraper\src\scraper.py", line 279, in scrape_places
+    retry_if_is_error(put_links, [StaleElementReferenceException, StuckInGmapsException], RETRIES, raise_exception=False, on_failed_after_retry_exhausted=on_failed_after_retry_exhausted)
+  File "C:\Users\user\Documents\Hamood\google-maps-scraper\env_name\lib\site-packages\botasaurus\utils.py", line 84, in retry_if_is_error
+    raise e
+  File "C:\Users\user\Documents\Hamood\google-maps-scraper\env_name\lib\site-packages\botasaurus\utils.py", line 77, in retry_if_is_error
+    created_result = func()
+  File "C:\Users\user\Documents\Hamood\google-maps-scraper\src\scraper.py", line 214, in put_links
+    if driver.is_in_page("/maps/search/"):
+  File "C:\Users\user\Documents\Hamood\google-maps-scraper\env_name\lib\site-packages\botasaurus\anti_detect_driver.py", line 400, in is_in_page
+    return check_page(self, target)
+  File "C:\Users\user\Documents\Hamood\google-maps-scraper\env_name\lib\site-packages\botasaurus\anti_detect_driver.py", line 392, in check_page
+    return target in driver.current_url
+  File "C:\Users\user\Documents\Hamood\google-maps-scraper\env_name\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 528, in current_url
+    return self.execute(Command.GET_CURRENT_URL)['value']
+  File "C:\Users\user\Documents\Hamood\google-maps-scraper\env_name\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\user\Documents\Hamood\google-maps-scraper\env_name\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 243, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00576E73+174291]
+	(No symbol) [0x004A0AC1]
+	(No symbol) [0x001B6E8A]
+	(No symbol) [0x001E0980]
+	(No symbol) [0x001E1F8D]
+	GetHandleVerifier [0x006149CC+820268]
+	sqlite3_dbdata_init [0x006D4EBE+652494]
+	sqlite3_dbdata_init [0x006D48D9+650985]
+	sqlite3_dbdata_init [0x006C962C+605244]
+	sqlite3_dbdata_init [0x006D586B+654971]
+	(No symbol) [0x004AFEBC]
+	(No symbol) [0x004A8428]
+	(No symbol) [0x004A854D]
+	(No symbol) [0x00495858]
+	BaseThreadInitThunk [0x75CEFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77C87C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77C87C3E+238]
+

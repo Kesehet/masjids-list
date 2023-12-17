@@ -1,0 +1,127 @@
+{
+    "query": "masjid amli",
+    "places": [
+        {
+            "place_id": "ChIJ-dToswz9DDkRhlosIvPprQU",
+            "name": "Masjid Amaanullah",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Chabi Ganj Mosque msjd",
+                    "link": "https://www.google.com/maps/search/Chabi+Ganj+Mosque+%D9%85%D8%B3%D8%AC%D8%AF/@28.6647546,77.22803150000001?authuser=0&entry=ttu",
+                    "reviews": 49,
+                    "rating": 3.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Fakhrul Masjid msjd",
+                    "link": "https://www.google.com/maps/search/Fakhrul+Masjid+%D9%85%D8%B3%D8%AC%D8%AF/@28.665011999999994,77.2295583?authuser=0&entry=ttu",
+                    "reviews": 26,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Mosque msjd",
+                    "link": "https://www.google.com/maps/search/Mosque+%D9%85%D8%B3%D8%AC%D8%AF/@28.663501699999998,77.2212005?authuser=0&entry=ttu",
+                    "reviews": 9,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "chhoti masjid chhwtty msjd",
+                    "link": "https://www.google.com/maps/search/chhoti+masjid+%DA%86%DA%BE%D9%88%D9%B9%DB%8C+%D9%85%D8%B3%D8%AC%D8%AF/@28.667250799999998,77.2282263?authuser=0&entry=ttu",
+                    "reviews": 6,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid Ghulam Nabi",
+                    "link": "https://www.google.com/maps/search/Masjid+Ghulam+Nabi/@28.6638527,77.22350879999999?authuser=0&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid Amaanullah (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Masjid Amaanullah, 216 Prem Gali, Punja Sharif Rd, Kashmere Gate, New Delhi, Delhi 110006",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Amaanullah/@28.6644081,77.2266476,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfd0cb3e8d4f9:0x5ade9f3222c5a86!8m2!3d28.6644081!4d77.2266476!16s%2Fg%2F11gnpfq15m?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-dToswz9DDkRhlosIvPprQU&q=Masjid+Amaanullah&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.6644081,
+                "longitude": 77.22664759999999
+            },
+            "plus_code": "M67G+QM New Delhi, Delhi",
+            "detailed_address": {
+                "ward": "Kashmere Gate",
+                "street": "216 Prem Gali, Punja Sharif Rd",
+                "city": "New Delhi, Delhi",
+                "postal_code": "110006",
+                "state": "Delhi",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "409240371620240006",
+            "data_id": "0x390cfd0cb3e8d4f9:0x5ade9f3222c5a86",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "afzal ahmad",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "11 months ago",
+                    "published_at_date": "2023-01-05T15:35:48.378000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 300,
+                    "total_number_of_photos_by_reviewer": 40,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109671811456799522705/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKmlhYKtqKyrkbPsHcwGtYbQlhP-12iqeztuSljKFGnkiA=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

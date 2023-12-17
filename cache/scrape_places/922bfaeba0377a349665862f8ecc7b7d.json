@@ -1,0 +1,73 @@
+{
+    "query": "masjid etawa",
+    "places": [
+        {
+            "place_id": "ChIJGWLPhNjfdTkRxQT8TDM2oWo",
+            "name": "Etawah",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": null,
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMShvpLZmSOiYJ9MLxwTz9biFmqir-1EV5O_dyF=w408-h273-k-no",
+            "main_category": null,
+            "categories": null,
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Etawah, Uttar Pradesh",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Etawah/data=!4m7!3m6!1s0x3975dfd884cf6219:0x6aa136334cfc04c5!8m2!3d26.7829103!4d79.027659!16zL20vMDJ6Y2Ny!19sChIJGWLPhNjfdTkRxQT8TDM2oWo?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJGWLPhNjfdTkRxQT8TDM2oWo&q=Etawah&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 26.782910299999998,
+                "longitude": 79.027659
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": null,
+                "city": "Etawah",
+                "postal_code": null,
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "7683482033233593541",
+            "data_id": "0x3975dfd884cf6219:0x6aa136334cfc04c5",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMShvpLZmSOiYJ9MLxwTz9biFmqir-1EV5O_dyF=w445-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

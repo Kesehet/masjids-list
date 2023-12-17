@@ -1,0 +1,311 @@
+{
+    "query": "masjid arangaon",
+    "places": [
+        {
+            "place_id": "ChIJh6e3DhoHzzsRAVbrr-Tyafg",
+            "name": "Jama masjid Dawangaon",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama masjid Dawangaon (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-6H2wrPxX5egndnlbgXwVQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=5.860556&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "83M4+QQH Jama masjid Dawangaon, Dawangaon, Maharashtra 413517",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+masjid+Dawangaon/data=!4m7!3m6!1s0x3bcf071a0eb7a787:0xf869f2e4afeb5601!8m2!3d18.334431!4d77.0569796!16s%2Fg%2F11vd890ynz!19sChIJh6e3DhoHzzsRAVbrr-Tyafg?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJh6e3DhoHzzsRAVbrr-Tyafg&q=Jama+masjid+Dawangaon&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 18.334431,
+                "longitude": 77.05697959999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "83M4+QQH",
+                "city": "Dawangaon",
+                "postal_code": null,
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "17900105257978648065",
+            "data_id": "0x3bcf071a0eb7a787:0xf869f2e4afeb5601",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-6H2wrPxX5egndnlbgXwVQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=5.860556&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-6H2wrPxX5egndnlbgXwVQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=5.860556&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJHQxRV2PFzzsRYM-d0me9nWk",
+            "name": "Noorani Masjid Risangaon",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Noorani Masjid",
+                    "link": "https://www.google.com/maps/search/Noorani+Masjid/@19.183146699999998,77.0287467?authuser=0&hl=en&entry=ttu",
+                    "reviews": 18,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid -E- Nurani",
+                    "link": "https://www.google.com/maps/search/Masjid+-E-+Nurani/@18.6306652,76.6280625?authuser=0&hl=en&entry=ttu",
+                    "reviews": 9,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noorani Mosque",
+                    "link": "https://www.google.com/maps/search/Noorani+Mosque/@19.0175123,76.5831333?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "msjid sunegaa'v",
+                    "link": "https://www.google.com/maps/search/%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%A6+%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A5%87%E0%A4%97%E0%A4%BE%E0%A4%BC%E0%A4%B5/@18.968285599999998,77.1069041?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Hanuman Temple",
+                    "link": "https://www.google.com/maps/search/Hanuman+Temple/@18.9082886,77.00846550000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 4,
+                    "main_category": "Hindu temple"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Noorani Masjid Risangaon (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "WX4Q+FJH Noorani Masjid Risangaon, Risangaon, Maharashtra 431708",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Noorani+Masjid+Risangaon/data=!4m7!3m6!1s0x3bcfc56357510c1d:0x699dbd67d29dcf60!8m2!3d18.9061854!4d76.9891212!16s%2Fg%2F11r91lh72q!19sChIJHQxRV2PFzzsRYM-d0me9nWk?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJHQxRV2PFzzsRYM-d0me9nWk&q=Noorani+Masjid+Risangaon&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 18.9061854,
+                "longitude": 76.9891212
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "WX4Q+FJH",
+                "city": "Risangaon",
+                "postal_code": "431708",
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "7610447198938845024",
+            "data_id": "0x3bcfc56357510c1d:0x699dbd67d29dcf60",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "sayyad yusuf",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-24T02:15:15.313000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116807375050590775471/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXFjPAYFPmK_XMWR_1dtYGEHwH9o2_OBdm_dw8ogN4Goes=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJsy0DMKex3DsRxA9oqMgqesI",
+            "name": "Arangaon Masjid",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Nagapur Masjid",
+                    "link": "https://www.google.com/maps/search/Nagapur+Masjid/@19.1465653,74.71312189999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 38,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@19.0636874,74.7085547?authuser=0&hl=en&entry=ttu",
+                    "reviews": 16,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Aamina Masjid bramhanagar alamgir",
+                    "link": "https://www.google.com/maps/search/Aamina+Masjid+bramhanagar+alamgir/@19.1029631,74.7845911?authuser=0&hl=en&entry=ttu",
+                    "reviews": 9,
+                    "rating": 4.9,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid A Firdos",
+                    "link": "https://www.google.com/maps/search/Masjid+A+Firdos/@19.0610075,74.6962471?authuser=0&hl=en&entry=ttu",
+                    "reviews": 9,
+                    "rating": 4.2,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Hanuman Temple",
+                    "link": "https://www.google.com/maps/search/Hanuman+Temple/@19.0233483,74.7161452?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 4.7,
+                    "main_category": "Hindu temple"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Arangaon Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=D11ecVvht-dIaUVUHiRJPA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=52.36929&pitch=0&thumbfov=100",
+            "main_category": "Museum",
+            "categories": [
+                "Museum"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "2PF8+8J8 Arangaon Masjid, Arangaon, Maharashtra 414006",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Arangaon+Masjid/data=!4m7!3m6!1s0x3bdcb1a730032db3:0xc27a2ac8a8680fc4!8m2!3d19.0232983!4d74.7165705!16s%2Fg%2F11jn2lqt06!19sChIJsy0DMKex3DsRxA9oqMgqesI?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJsy0DMKex3DsRxA9oqMgqesI&q=Arangaon+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 19.0232983,
+                "longitude": 74.7165705
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "2PF8+8J8",
+                "city": "Arangaon",
+                "postal_code": "414006",
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "14013560231823937476",
+            "data_id": "0x3bdcb1a730032db3:0xc27a2ac8a8680fc4",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=D11ecVvht-dIaUVUHiRJPA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=52.36929&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=D11ecVvht-dIaUVUHiRJPA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=52.36929&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

@@ -1,0 +1,800 @@
+{
+    "query": "masjid gadarwara",
+    "places": [
+        {
+            "place_id": "ChIJDXDDyhqpfzkRkUE2--m0K_M",
+            "name": "Jama Masjid",
+            "description": null,
+            "reviews": 29,
+            "competitors": [
+                {
+                    "name": "JAMA MASJID KARELI",
+                    "link": "https://www.google.com/maps/search/JAMA+MASJID+KARELI/@22.9328185,79.064081?authuser=0&hl=en&entry=ttu",
+                    "reviews": 28,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Chhoti Masjid",
+                    "link": "https://www.google.com/maps/search/Chhoti+Masjid/@22.917965,78.78619379999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 13,
+                    "rating": 4.1,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jaama Masjid Ahle Sunnat Wal Jamaat Salichouka Road",
+                    "link": "https://www.google.com/maps/search/Jaama+Masjid+Ahle+Sunnat+Wal+Jamaat+Salichouka+Road/@22.834328199999998,78.6747264?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Faizan-e-Madina Maszid",
+                    "link": "https://www.google.com/maps/search/Faizan-e-Madina+Maszid/@22.9223361,78.7845133?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Eidgaah",
+                    "link": "https://www.google.com/maps/search/Eidgaah/@22.921972699999998,78.77919589999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOizZwkbc2uxmKm6BklsUnXHAbsvNZRSlR8krfU=w408-h306-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 3.3,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Jama Masjid, jama masjid, near shukrwara bazar, Gadarwara, Madhya Pradesh 487551",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+Masjid/data=!4m7!3m6!1s0x397fa91acac3700d:0xf32bb4e9fb364191!8m2!3d22.9238569!4d78.7830757!16s%2Fg%2F11ddxvcgy8!19sChIJDXDDyhqpfzkRkUE2--m0K_M?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 7,
+                "2": 3,
+                "3": 4,
+                "4": 3,
+                "5": 12
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJDXDDyhqpfzkRkUE2--m0K_M&q=Jama+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 22.9238569,
+                "longitude": 78.7830757
+            },
+            "plus_code": "WQFM+G6 Gadarwara, Madhya Pradesh",
+            "detailed_address": {
+                "ward": null,
+                "street": "jama masjid, near shukrwara bazar",
+                "city": "Gadarwara",
+                "postal_code": "487551",
+                "state": "Madhya Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "17522297692250063249",
+            "data_id": "0x397fa91acac3700d:0xf32bb4e9fb364191",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOizZwkbc2uxmKm6BklsUnXHAbsvNZRSlR8krfU=w397-h298-k-no"
+                },
+                {
+                    "about": "Latest",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNn69zAIE_mZHLkN8MGMNFge4PG-ftNQateSP2Y=w224-h398-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNtHr7F76C5e7bNLZgxfAGwmUeMzMHsS33Pr05y=w529-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNzJ8EdDfIcWn8QFR-XGVP_nS1h5wC8Tz3OgKU6=w224-h319-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2viZpczZIEZ3uODqOb4Sbw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=8.726201&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "#secular masjid\ninfrastructure not well developed",
+                    "reviewer_name": "Syed Arfin Hussain",
+                    "rating": 3,
+                    "review_text": "#secular masjid\ninfrastructure not well developed",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-11-20T11:22:33.558000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 72,
+                    "total_number_of_photos_by_reviewer": 156,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100178250895558265296/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXO7slmBMRT33Dyz8465Pq6oXzas8ORRsootZWrXIexRdo=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOSBMyq7Pb7HXKOTVKWYXAwaVshO4ANv4mdLZHZ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPxFm82Jnw-DuKi_d-0twm0zk1YsKpTag5GAKhF=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMEJeE5rST85ztSU6Q2uYd2-DliVoKV07L51f5s=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOizZwkbc2uxmKm6BklsUnXHAbsvNZRSlR8krfU=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Too good  google  map",
+                    "reviewer_name": "Imran Diesel",
+                    "rating": 4,
+                    "review_text": "Too good  google  map",
+                    "published_at": "a week ago",
+                    "published_at_date": "2023-12-08T06:46:00.401000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 39,
+                    "total_number_of_photos_by_reviewer": 5,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109355595997898357629/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWHm9nxqAsjtCiqhA1sEWxMcogfq_5r6g40FCzMmYkX2zY=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "This is a sunni mosque  best place in gadarwara in Muslim community",
+                    "reviewer_name": "Mohammad shahzaib",
+                    "rating": 5,
+                    "review_text": "This is a sunni mosque  best place in gadarwara in Muslim community",
+                    "published_at": "a year ago",
+                    "published_at_date": "2021-12-31T08:35:51.992000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 47,
+                    "total_number_of_photos_by_reviewer": 86,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105120337229532583322/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUIxzyL8wWCbYjiT2AD_zOwUt9OjHuDWrYKmTO8ALvMiLk=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPZUFrktqnHlhSMZOCpc8uUW5z3DQccwqPmOw5o=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMpjNS6AusxxALXWQ5Ex2-2dAB-kzSTuInaHqi8=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPnZMUbfT0slWdEeEHwyP2_umtn2y1AfIG3GOwm=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Too much noise pollution because of loud speakers of the masjid",
+                    "reviewer_name": "Bhi Kam",
+                    "rating": 1,
+                    "review_text": "Too much noise pollution because of loud speakers of the masjid",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-12-11T12:05:45.198000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 9,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107269660981339166499/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXGqqsi9LNeRUUsz5YEA22-jJsquSThXlZUGw3FfiujP18=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Too loud are the loudspeakers which are used here",
+                    "reviewer_name": "naresh parchani",
+                    "rating": 1,
+                    "review_text": "Too loud are the loudspeakers which are used here",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-10-27T07:37:00.611000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 21,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108153438399714083686/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWoOoMfo8GaHyvcUfOz2iOPUrcUJX_c6XgEw0MlaEtBAEM=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Not well constructed",
+                    "reviewer_name": "Saloni P. Aagal",
+                    "rating": 3,
+                    "review_text": "Not well constructed",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-05-17T08:46:34.097000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 49,
+                    "total_number_of_photos_by_reviewer": 46,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115811795305756562013/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUPP2t7wszoP7J0qBIFDOoonoGw_rcajQXAKUQqYUFAkjA=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice",
+                    "reviewer_name": "Pawan Batham",
+                    "rating": 1,
+                    "review_text": "Nice",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-16T09:49:10.130000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 160,
+                    "total_number_of_photos_by_reviewer": 84,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102797281353229140065/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVwFZ-3rjLP7_1SaN5Zo_SYEfAAfKur1llO3FfNrrjeNe-I=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Mashaallah",
+                    "reviewer_name": "CHISHTY SOURAB",
+                    "rating": 5,
+                    "review_text": "Mashaallah",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-02-17T18:28:06.427000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 13,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108418108302530539346/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXzW8geO_lQgIjjo3jcl6krmHuK3n7VhMZObFwgzKfeFAA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Mashallah",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJazE2XxmpfzkRtyIMfB0rR0w",
+            "name": "Chhoti Masjid",
+            "description": null,
+            "reviews": 13,
+            "competitors": [
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@22.9238569,78.7830757?authuser=0&hl=en&entry=ttu",
+                    "reviews": 29,
+                    "rating": 3.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Ganesh Mandir Jhanda Chowk Gadarwara",
+                    "link": "https://www.google.com/maps/search/Ganesh+Mandir+Jhanda+Chowk+Gadarwara/@22.924629900000003,78.7850765?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 3.4,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Faizan-e-Madina Maszid",
+                    "link": "https://www.google.com/maps/search/Faizan-e-Madina+Maszid/@22.9223361,78.7845133?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Eidgaah",
+                    "link": "https://www.google.com/maps/search/Eidgaah/@22.921972699999998,78.77919589999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Choti masjid",
+                    "link": "https://www.google.com/maps/search/Choti+masjid/@22.832267299999998,78.82542000000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Place of worship"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Chhoti Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipODCakrz5NnoYtH7niixpUdmn64LzRg2pQcKspS=w408-h544-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.1,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "WQ9P+5FP Chhoti Masjid, Gadarwara, Madhya Pradesh 487551",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Chhoti+Masjid/data=!4m7!3m6!1s0x397fa9195f36316b:0x4c472b1d7c0c22b7!8m2!3d22.917965!4d78.7861938!16s%2Fg%2F11dfjs_j8p!19sChIJazE2XxmpfzkRtyIMfB0rR0w?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 3,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 10
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJazE2XxmpfzkRtyIMfB0rR0w&q=Chhoti+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 22.917965,
+                "longitude": 78.78619379999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "WQ9P+5FP",
+                "city": "Gadarwara",
+                "postal_code": "487551",
+                "state": "Madhya Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "5496409275864195767",
+            "data_id": "0x397fa9195f36316b:0x4c472b1d7c0c22b7",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipODCakrz5NnoYtH7niixpUdmn64LzRg2pQcKspS=w224-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yMksg7yJAbk65hDtCqr6Dw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=91.796&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Great masjid and it's too old and it's the markaz of gadarwara",
+                    "reviewer_name": "Beard_boy_fitness",
+                    "rating": 5,
+                    "review_text": "Great masjid and it's too old and it's the markaz of gadarwara",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-01-22T07:42:50.307000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 38,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101308755363740606795/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV4eRxN8QwEey5PIH4ByZyRiCvTY2nVwYKvJK6V26tFtU6X=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice.",
+                    "reviewer_name": "AZAM KHAN",
+                    "rating": 5,
+                    "review_text": "Nice.",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-05T06:10:37.328000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112174969467391195587/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIVV697ljZ006sh6RbHxrTB9As_uXTF2UFVZ-zwtVJn=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Mashallha",
+                    "reviewer_name": "shaiksha vali",
+                    "rating": 5,
+                    "review_text": "Mashallha",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-10-01T21:27:25.765000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 9,
+                    "total_number_of_photos_by_reviewer": 19,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109775256079646557471/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUpSXA9YfOs4x0sxVtac28PgFbxaAkRexzzbB-w23BWSojy=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Mashallah",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Hh",
+                    "reviewer_name": "Sohil Khan",
+                    "rating": 5,
+                    "review_text": "Hh",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-05-04T20:22:30.322000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101709654019980692294/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKlqhDNbjTPOf-CELboomAFvpDr811xYDQGCPvzGS58=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Deepak Patel",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-01-27T21:58:56.124000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 89,
+                    "total_number_of_photos_by_reviewer": 83,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109803225534340448219/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXGM4hYmcAfXQoeJD7YixuZY7BfwZ5hId3H-TIsloddA4A=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "OS PRESIDENT",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-02-01T07:25:28.179000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 95,
+                    "total_number_of_photos_by_reviewer": 207,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110662337081320706472/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJnndOU_x-erX1hiULC_GFk8oVfDq3unI6jnTD8UhNkFA=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Himanshu Namdeo",
+                    "rating": 1,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-10T10:05:20.772000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 24,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116287025733658356213/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK7_UzCzdNZcbTcNzvbCHjtJibY9kC_BcTjN8lYgX-s=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Harsh Tiwari",
+                    "rating": 1,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-09T08:46:04.243000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 20,
+                    "total_number_of_photos_by_reviewer": 17,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105321273525390293347/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUpHi06Nouk7eTpgtrCeVVWyH-nhRe1cfBaQ0D7xzackpk=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJJ6vIrYupfzkRMhQX7CztAfw",
+            "name": "Faizan-e-Madina Maszid",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@22.9238569,78.7830757?authuser=0&hl=en&entry=ttu",
+                    "reviews": 29,
+                    "rating": 3.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Chhoti Masjid",
+                    "link": "https://www.google.com/maps/search/Chhoti+Masjid/@22.917965,78.78619379999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 13,
+                    "rating": 4.1,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Madina masjid",
+                    "link": "https://www.google.com/maps/search/Madina+masjid/@22.928590699999997,79.06168079999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid bilal",
+                    "link": "https://www.google.com/maps/search/Masjid+bilal/@23.070226899999998,78.5165708?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 3.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Eidgaah",
+                    "link": "https://www.google.com/maps/search/Eidgaah/@22.921972699999998,78.77919589999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Faizan-e-Madina Maszid (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Faizan-e-Madina Maszid, 8, Alka Talkies Road, Gadarwara, Madhya Pradesh 487551",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Faizan-e-Madina+Maszid/data=!4m7!3m6!1s0x397fa98badc8ab27:0xfc01ed2cec171432!8m2!3d22.9223361!4d78.7845133!16s%2Fg%2F11jsj95gsc!19sChIJJ6vIrYupfzkRMhQX7CztAfw?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJ6vIrYupfzkRMhQX7CztAfw&q=Faizan-e-Madina+Maszid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 22.9223361,
+                "longitude": 78.7845133
+            },
+            "plus_code": "WQCM+WR Gadarwara, Madhya Pradesh",
+            "detailed_address": {
+                "ward": null,
+                "street": "8, Alka Talkies Road",
+                "city": "Gadarwara",
+                "postal_code": "487551",
+                "state": "Madhya Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "18159055949729829938",
+            "data_id": "0x397fa98badc8ab27:0xfc01ed2cec171432",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Masjid noori mustafai ahle sunnat",
+                    "reviewer_name": "Mohammad Firdous",
+                    "rating": 5,
+                    "review_text": "Masjid noori mustafai ahle sunnat",
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-07-09T10:48:11.492000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 11,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109869707589885871595/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUNvk84nnghfqYP8K-6E635PhyQepkqAFkdzf4Q6bD90gI=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Masjid noori mustafai ahle sunnah",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJVU9NC3apfzkRnTKmAMzfeHc",
+            "name": "Eidgaah",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@22.9238569,78.7830757?authuser=0&hl=en&entry=ttu",
+                    "reviews": 29,
+                    "rating": 3.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Chhoti Masjid",
+                    "link": "https://www.google.com/maps/search/Chhoti+Masjid/@22.917965,78.78619379999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 13,
+                    "rating": 4.1,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Mosque",
+                    "link": "https://www.google.com/maps/search/Mosque/@22.915424899999998,79.082326?authuser=0&hl=en&entry=ttu",
+                    "reviews": 8,
+                    "rating": 3.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Faizan-e-Madina Maszid",
+                    "link": "https://www.google.com/maps/search/Faizan-e-Madina+Maszid/@22.9223361,78.7845133?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "imam chowk Gangai",
+                    "link": "https://www.google.com/maps/search/imam+chowk+Gangai/@22.8501589,78.8382893?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Eidgaah (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FrkvTY347KubeNWm2VB-UA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=341.27814&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "WQCH+QMP Eidgaah, Gadarwara, Madhya Pradesh 487551",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Eidgaah/data=!4m7!3m6!1s0x397fa9760b4d4f55:0x7778dfcc00a6329d!8m2!3d22.9219727!4d78.7791959!16s%2Fg%2F11h8jq4tz3!19sChIJVU9NC3apfzkRnTKmAMzfeHc?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJVU9NC3apfzkRnTKmAMzfeHc&q=Eidgaah&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 22.921972699999998,
+                "longitude": 78.77919589999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "WQCH+QMP",
+                "city": "Gadarwara",
+                "postal_code": "487551",
+                "state": "Madhya Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "8608876754995917469",
+            "data_id": "0x397fa9760b4d4f55:0x7778dfcc00a6329d",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FrkvTY347KubeNWm2VB-UA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=341.27814&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FrkvTY347KubeNWm2VB-UA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=341.27814&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

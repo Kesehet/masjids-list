@@ -1,0 +1,329 @@
+{
+    "query": "masjid rahimatpur",
+    "places": [
+        {
+            "place_id": "ChIJ2Vy86l4twjsRFDQPF4YX7as",
+            "name": "Masjid",
+            "description": null,
+            "reviews": 5,
+            "competitors": [
+                {
+                    "name": "Madina Masjid, Nagthane",
+                    "link": "https://www.google.com/maps/search/Madina+Masjid%2C+Nagthane/@17.567660399999998,74.0514774?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Rehmaniya Masjid (rHmnyh msjd)",
+                    "link": "https://www.google.com/maps/search/Rehmaniya+Masjid+%28%D8%B1%D8%AD%D9%85%D8%A7%D9%86%DB%8C%DB%81+%D9%85%D8%B3%D8%AC%D8%AF%29/@17.0538788,74.2554559?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "jaamaa msjid",
+                    "link": "https://www.google.com/maps/search/%E0%A4%9C%E0%A4%BE%E0%A4%AE%E0%A4%BE+%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%A6/@17.511388399999998,74.14712159999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 1,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noori masjid",
+                    "link": "https://www.google.com/maps/search/Noori+masjid/@17.5908506,74.19869419999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Hajrat jahangir ma saheb godad pir dargah",
+                    "link": "https://www.google.com/maps/search/Hajrat+jahangir+ma+saheb+godad+pir+dargah/@17.5908388,74.1890702?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMZRXHY4PJzw3YLFHnadB_24cXVHlFKRXDku18C=w408-h544-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.6,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "H5QX+2GV Masjid, Rahimatpur, Maharashtra 415511",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid/data=!4m7!3m6!1s0x3bc22d5eeabc5cd9:0xabed1786170f3414!8m2!3d17.5876041!4d74.1987956!16s%2Fg%2F124yg8x8r!19sChIJ2Vy86l4twjsRFDQPF4YX7as?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 0,
+                "5": 4
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ2Vy86l4twjsRFDQPF4YX7as&q=Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 17.5876041,
+                "longitude": 74.1987956
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "H5QX+2GV",
+                "city": "Rahimatpur",
+                "postal_code": "415511",
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "12388584014646031380",
+            "data_id": "0x3bc22d5eeabc5cd9:0xabed1786170f3414",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMZRXHY4PJzw3YLFHnadB_24cXVHlFKRXDku18C=w224-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPF0ENunk-2eMzs00aDZ-bGIaAzfF6D4_yTFkBu=w224-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOXQTl4SmTuQZRMgCu9254LoJ2nAWW1K7y5uV0K=w224-h398-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4w4GdPuvye4AuWlIm-EoDA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=33.944584&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Very beautiful masjid bhaut purani he juma time 2:00 pm",
+                    "reviewer_name": "Aadil Malik",
+                    "rating": 5,
+                    "review_text": "Very beautiful masjid bhaut purani he juma time 2:00 pm",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-01-30T12:03:40.861000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 29,
+                    "total_number_of_photos_by_reviewer": 89,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115579357511878753855/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXxD-3UPLAkFL1NVhqhlvipw3tCKJiZwCAb0N-UV8axyQ=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMUX9xieJSLG6DSIHqQR0LBddn2yVs0rE4QOqY=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPUKQnys0WCRViECYEdi0Y_IOd9BCim8Cb5QLs=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPeUo4laOwNndj0PKi7ZxeGY1kJliodSjUAIbU=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Historical building structure....",
+                    "reviewer_name": "Gaurav Sankpal",
+                    "rating": 3,
+                    "review_text": "Historical building structure....",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-08-20T11:32:48.744000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 78,
+                    "total_number_of_photos_by_reviewer": 28,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117127051774523807059/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXs_J7nOSlK3Z-DtGGr0m5wkvJIEtFfTvQOV4X-JlV32A=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice place...",
+                    "reviewer_name": "saqib mulla",
+                    "rating": 5,
+                    "review_text": "Nice place...",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-02-20T10:33:31.703000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 10,
+                    "total_number_of_photos_by_reviewer": 8,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101413534023297692411/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW61Esm8oW28oiFC9AS5H6dyHDpptPtRfy_BTN8Jr6QehI=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Firoj Mulla",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-09-20T14:39:01.151000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103572665698648547539/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUGBtpcjIKs0mn0wOunclYUGoREc97dxCk3kqOcBdTWgyo=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Haidar Mulani",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-26T15:33:18.067000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104686606808146766289/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ88EKaVbJDqjOL3jbTMh4UwvWKW_43iRrqqID01O3W=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJaa57VsMtwjsRbuc1iE6hLT8",
+            "name": "Noori masjid",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Chaundeshwari Devi Mandir",
+                    "link": "https://www.google.com/maps/search/Chaundeshwari+Devi+Mandir/@17.5886995,74.19319589999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 25,
+                    "rating": 4.4,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@17.5876041,74.1987956?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noor Masjid",
+                    "link": "https://www.google.com/maps/search/Noor+Masjid/@17.059072,74.250463?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Religious destination"
+                },
+                {
+                    "name": "jaamaa msjid",
+                    "link": "https://www.google.com/maps/search/%E0%A4%9C%E0%A4%BE%E0%A4%AE%E0%A4%BE+%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%A6/@17.511388399999998,74.14712159999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 1,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shri Khanderaya Mandir",
+                    "link": "https://www.google.com/maps/search/Shri+Khanderaya+Mandir/@17.6055747,74.19591679999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Hindu temple"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Noori masjid (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "H5RX+8FW Noori masjid, Unnamed Road, Rahimatpur, Maharashtra 415511",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Noori+masjid/data=!4m7!3m6!1s0x3bc22dc3567bae69:0x3f2da14e8835e76e!8m2!3d17.5908506!4d74.1986942!16s%2Fg%2F11hk0mdcp9!19sChIJaa57VsMtwjsRbuc1iE6hLT8?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJaa57VsMtwjsRbuc1iE6hLT8&q=Noori+masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 17.5908506,
+                "longitude": 74.19869419999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "H5RX+8FW, Unnamed Road",
+                "city": "Rahimatpur",
+                "postal_code": "415511",
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "4552472157006194542",
+            "data_id": "0x3bc22dc3567bae69:0x3f2da14e8835e76e",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

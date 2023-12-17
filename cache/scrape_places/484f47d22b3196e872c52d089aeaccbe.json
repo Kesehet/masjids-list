@@ -1,0 +1,543 @@
+{
+    "query": "masjid talwandi bhai",
+    "places": [
+        {
+            "place_id": "ChIJl9JwotAJGjkRIpBif31m4-4",
+            "name": "talwandi Masjid",
+            "description": null,
+            "reviews": 5,
+            "competitors": [
+                {
+                    "name": "Jama masjid",
+                    "link": "https://www.google.com/maps/search/Jama+masjid/@30.881940800000002,75.2111594?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@30.8062367,75.1695347?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Madina Masjid",
+                    "link": "https://www.google.com/maps/search/Madina+Masjid/@30.801221299999998,75.17651099999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "talwandi Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMwSFHMUUZOp-c7ZlWgVRd6qV78iC8aX3x251hw=w408-h544-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.6,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "R6R7+QH8 talwandi Masjid, Unnamed Road, Talwandi Bhangerian, Moga, Punjab 142001",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/talwandi+Masjid/data=!4m7!3m6!1s0x391a09d0a270d297:0xeee3667d7f629022!8m2!3d30.841908!4d75.2139564!16s%2Fg%2F11gk8xq5zs!19sChIJl9JwotAJGjkRIpBif31m4-4?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 0,
+                "5": 4
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJl9JwotAJGjkRIpBif31m4-4&q=talwandi+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 30.841908,
+                "longitude": 75.2139564
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Talwandi Bhangerian",
+                "street": "R6R7+QH8, Unnamed Road",
+                "city": "Moga",
+                "postal_code": "142001",
+                "state": "Punjab",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "17213714889934278690",
+            "data_id": "0x391a09d0a270d297:0xeee3667d7f629022",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMwSFHMUUZOp-c7ZlWgVRd6qV78iC8aX3x251hw=w224-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "It is very nice place with AC inside.",
+                    "reviewer_name": "NAFEES ALAM",
+                    "rating": 3,
+                    "review_text": "It is very nice place with AC inside.",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-01-29T09:39:11.247000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 132,
+                    "total_number_of_photos_by_reviewer": 111,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115867678456016455270/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUADYTQCvK_qvDkhb3FpqwhILfONvwYvkeEdWjsoXaMwmQ=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Correct location",
+                    "reviewer_name": "Istkar Ahmed",
+                    "rating": 5,
+                    "review_text": "Correct location",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-25T18:02:26.255000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 86,
+                    "total_number_of_photos_by_reviewer": 248,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106448933617130869901/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWS-stpLDiIISlo1JE4ZO1rSJDY4o0AaEmcRxsuMkmm-1g=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "JAMA MADINA MASJID TALWANDI BHANGERIAN",
+                    "reviewer_name": "MD. Abuzar",
+                    "rating": 5,
+                    "review_text": "JAMA MADINA MASJID TALWANDI BHANGERIAN",
+                    "published_at": "8 months ago",
+                    "published_at_date": "2023-03-30T13:18:09.199000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115422522229602879780/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLoBYqYPENPVGRwn2zhMhdWZEiuVIlKcmKOoqNadkxZ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Muhammad Iqbal",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-01-14T05:58:03.557000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105705236135128680805/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKpmxlDAII2EEjHsZ1Xvus3UXBwXW7v6wn7sG65T2sy=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Azad Ali",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-10-03T01:07:15.828000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112893231621194739955/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV1EmoPz9UDjSfPCyhBkuW2RmuJs1R1BDxEcAtGPLFXMSg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJMXiEMvQzGDkRmGhXv7pOIlM",
+            "name": "Masjid ameer maviya",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "jm`h msjd `thmnyh",
+                    "link": "https://www.google.com/maps/search/%D8%AC%D8%A7%D9%85%D8%B9%DB%81+%D9%85%D8%B3%D8%AC%D8%AF+%D8%B9%D8%AB%D9%85%D8%A7%D9%86%DB%8C%DB%81/@30.90986,74.1361775?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jamia Masjid",
+                    "link": "https://www.google.com/maps/search/Jamia+Masjid/@30.907371599999998,74.13702219999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 1,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "msjd",
+                    "link": "https://www.google.com/maps/search/%D9%85%D8%B3%D8%AC%D8%AF/@30.904962,74.14296019999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid Ayesha Al Noor City",
+                    "link": "https://www.google.com/maps/search/Masjid+Ayesha+Al+Noor+City/@30.908523,74.13991899999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jamia Masjid Faridya",
+                    "link": "https://www.google.com/maps/search/Jamia+Masjid+Faridya/@30.910397099999994,74.1372657?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid ameer maviya (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLaIsr-PTHk3ECp4vQ_H1oIanDGVfwx8dfzCIK=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "W43R+C94 Masjid ameer maviya, Talwandi, Kasur, Punjab, Pakistan",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+ameer+maviya/data=!4m7!3m6!1s0x391833f432847831:0x53224ebabf576898!8m2!3d30.9035109!4d74.140939!16s%2Fg%2F11hzl2n388!19sChIJMXiEMvQzGDkRmGhXv7pOIlM?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJMXiEMvQzGDkRmGhXv7pOIlM&q=Masjid+ameer+maviya&authuser=0&hl=en&gl=PK",
+            "coordinates": {
+                "latitude": 30.903510899999997,
+                "longitude": 74.140939
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "W43R+C94",
+                "city": "Talwandi",
+                "postal_code": null,
+                "state": "Kasur, Punjab",
+                "country_code": "PK"
+            },
+            "time_zone": "Asia/Karachi",
+            "cid": "5990437018337241240",
+            "data_id": "0x391833f432847831:0x53224ebabf576898",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNLaIsr-PTHk3ECp4vQ_H1oIanDGVfwx8dfzCIK=w529-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNLaIsr-PTHk3ECp4vQ_H1oIanDGVfwx8dfzCIK=w529-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJsf0OvuX4GTkR1kHN6KhRg7k",
+            "name": "Talwandi Bhai",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": null,
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOOCRkHgJrCORZ_P-PO7zQy683VWfBvfzWczr4=w408-h680-k-no",
+            "main_category": null,
+            "categories": null,
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Talwandi Bhai, Punjab 142050",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Talwandi+Bhai/data=!4m7!3m6!1s0x3919f8e5be0efdb1:0xb98351a8e8cd41d6!8m2!3d30.8575607!4d74.9267229!16zL20vMGY2ZHA4!19sChIJsf0OvuX4GTkR1kHN6KhRg7k?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJsf0OvuX4GTkR1kHN6KhRg7k&q=Talwandi+Bhai&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 30.857560699999997,
+                "longitude": 74.9267229
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": null,
+                "city": "Talwandi Bhai",
+                "postal_code": null,
+                "state": "Punjab",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "13367617904867885526",
+            "data_id": "0x3919f8e5be0efdb1:0xb98351a8e8cd41d6",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOOCRkHgJrCORZ_P-PO7zQy683VWfBvfzWczr4=w224-h373-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOj8hJak4yju1OoVYiuN4Wiuak5eHBrFDT79zoD=w224-h298-k-no-pi-20-ya321-ro-0-fo100"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipN5Ty64BL_XcEqFLWQbu16I2hXuesoZWqO1Xyvf=w224-h398-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJzV3Qfp9rIjkR3FWDCIxOhvc",
+            "name": "Masjid Madina",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Jamia Masjid Tajdar e Madina Ghousia Town",
+                    "link": "https://www.google.com/maps/search/Jamia+Masjid+Tajdar+e+Madina+Ghousia+Town/@31.484014499999997,73.066261?authuser=0&hl=en&entry=ttu",
+                    "reviews": 11,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jamia Madina Masjid",
+                    "link": "https://www.google.com/maps/search/Jamia+Madina+Masjid/@31.4809002,73.10626859999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jamia Masjid Muhammadi (Ahle Hadith)",
+                    "link": "https://www.google.com/maps/search/Jamia+Masjid+Muhammadi+%28Ahle+Hadith%29/@31.377162600000002,73.2780547?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Faizan e Madina Masjid",
+                    "link": "https://www.google.com/maps/search/Faizan+e+Madina+Masjid/@31.5452725,73.1015877?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid Madina (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "H48P+325 Masjid Madina, Unnamed Road, Faisalabad, Punjab, Pakistan",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Madina/data=!4m7!3m6!1s0x39226b9f7ed05dcd:0xf7864e8c088355dc!8m2!3d31.5651284!4d73.135098!16s%2Fg%2F11fn95syqk!19sChIJzV3Qfp9rIjkR3FWDCIxOhvc?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJzV3Qfp9rIjkR3FWDCIxOhvc&q=Masjid+Madina&authuser=0&hl=en&gl=PK",
+            "coordinates": {
+                "latitude": 31.5651284,
+                "longitude": 73.135098
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "H48P+325, Unnamed Road",
+                "city": "Faisalabad",
+                "postal_code": null,
+                "state": "Faisalabad, Punjab",
+                "country_code": "PK"
+            },
+            "time_zone": "Asia/Karachi",
+            "cid": "17836029737592640988",
+            "data_id": "0x39226b9f7ed05dcd:0xf7864e8c088355dc",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJk7H0cwD5GTkRXNrWCvcSxaI",
+            "name": "Talwandi bhai",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Talwandi bhai (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Store",
+            "categories": [
+                "Store"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "VW5G+2MH Talwandi bhai, Talwandi Bhai, Punjab 142050",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Talwandi+bhai/data=!4m7!3m6!1s0x3919f90073f4b193:0xa2c512f70ad6da5c!8m2!3d30.8575606!4d74.9267229!16s%2Fg%2F11vlz5lsb7!19sChIJk7H0cwD5GTkRXNrWCvcSxaI?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJk7H0cwD5GTkRXNrWCvcSxaI&q=Talwandi+bhai&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 30.8575606,
+                "longitude": 74.9267229
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "VW5G+2MH",
+                "city": "Talwandi Bhai",
+                "postal_code": "142050",
+                "state": "Punjab",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "11728801656804399708",
+            "data_id": "0x3919f90073f4b193:0xa2c512f70ad6da5c",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

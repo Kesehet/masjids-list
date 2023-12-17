@@ -1,0 +1,1664 @@
+{
+    "query": "masjid rohtak",
+    "places": [
+        {
+            "place_id": "ChIJbyBz8LiFDTkRxAnhIrQa4Rw",
+            "name": "MD Shadaab",
+            "description": null,
+            "reviews": 54,
+            "competitors": [
+                {
+                    "name": "Lal Masjid",
+                    "link": "https://www.google.com/maps/search/Lal+Masjid/@28.897572,76.5794456?authuser=0&hl=en&entry=ttu",
+                    "reviews": 181,
+                    "rating": 3.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shishe Wali Masjid",
+                    "link": "https://www.google.com/maps/search/Shishe+Wali+Masjid/@28.8999383,76.5770015?authuser=0&hl=en&entry=ttu",
+                    "reviews": 96,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@28.774878299999997,76.7713873?authuser=0&hl=en&entry=ttu",
+                    "reviews": 32,
+                    "rating": 4.2,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noorani Mosque",
+                    "link": "https://www.google.com/maps/search/Noorani+Mosque/@28.9087622,76.5720171?authuser=0&hl=en&entry=ttu",
+                    "reviews": 16,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid e Rehmania",
+                    "link": "https://www.google.com/maps/search/Masjid+e+Rehmania/@28.8986865,76.5790194?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": "115572284675584621956",
+                "name": "MD Shadaab (Owner)",
+                "link": "https://www.google.com/maps/contrib/115572284675584621956"
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c0R--e9440rXLkVP6vBHLg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=183.02737&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque",
+                "Tourist attraction"
+            ],
+            "rating": 4.3,
+            "workday_timing": "8 am-9 pm",
+            "closed_on": [
+                "Sunday"
+            ],
+            "phone": "098962 41658",
+            "address": "MD Shadaab, Rohtak Station Diary Mohalla, Rohtak, Haryana 124001",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/MD+Shadaab/data=!4m7!3m6!1s0x390d85b8f073206f:0x1ce11ab422e109c4!8m2!3d28.8959919!4d76.5740508!16s%2Fg%2F1pyqmp_j1!19sChIJbyBz8LiFDTkRxAnhIrQa4Rw?authuser=0&hl=en&rclk=1",
+            "status": "Open  Closes 9 pm",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 4,
+                "2": 2,
+                "3": 5,
+                "4": 5,
+                "5": 38
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJbyBz8LiFDTkRxAnhIrQa4Rw&q=MD+Shadaab&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.8959919,
+                "longitude": 76.5740508
+            },
+            "plus_code": "VHWF+9J Rohtak, Haryana",
+            "detailed_address": {
+                "ward": "Rohtak Station Diary Mohalla",
+                "street": null,
+                "city": "Rohtak",
+                "postal_code": "124001",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "2080973863803488708",
+            "data_id": "0x390d85b8f073206f:0x1ce11ab422e109c4",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c0R--e9440rXLkVP6vBHLg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=183.02737&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c0R--e9440rXLkVP6vBHLg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=183.02737&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "8 am-9 pm"
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "8 am-9 pm"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "8 am-9 pm"
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "8 am-9 pm"
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "8 am-9 pm"
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "8 am-9 pm"
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "Closed"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Masjid Allah ka ghar hai\nLekin yahan to logo ne kabza hee kar liya Allah hame apne hifzo amaan mein rakhe aamen",
+                    "reviewer_name": "Asif Saleem",
+                    "rating": 5,
+                    "review_text": "Masjid Allah ka ghar hai\nLekin yahan to logo ne kabza hee kar liya Allah hame apne hifzo amaan mein rakhe aamen",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-03-11T10:02:47.697000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 29,
+                    "total_number_of_photos_by_reviewer": 151,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115368057930475826035/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocISoH4RDyWr7ex6rnO56uozZdW0mR37H0nwQ8C0UbNK=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Masjid is the house of Allah\nBut this place has been taken over by the people, may Allah keep us safe in peace, amen.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good place for visit. But the crowd is so much.",
+                    "reviewer_name": "PRAVEEN KUNDU",
+                    "rating": 5,
+                    "review_text": "Good place for visit. But the crowd is so much.",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-08-11T05:01:45.902000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 22,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104985126455982186599/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLBO2bv03gwVeD0B8TU483gO8Di2wN4knfBhCHv6e59=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Jumme ki namaz ka waqt 1.30",
+                    "reviewer_name": "Sharik nabi nabi",
+                    "rating": 4,
+                    "review_text": "Jumme ki namaz ka waqt 1.30",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-06-04T13:50:39.335000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 12,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101225428884066987693/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUiTbqxcG29rzZxMbCfC4zjMhCCcuW2F6M6gJQr_Ak5tQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Jumma namaz time 1.30",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipO04VtaizV3-pxDZ6NTzd0C1-iSb0nVchCvY7P5=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Masjid mein kya kaam hota h?",
+                    "reviewer_name": "Shivaay katyal",
+                    "rating": 5,
+                    "review_text": "Masjid mein kya kaam hota h?",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-02-12T11:47:17.252000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116405205399563970907/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW6bm4bmt74ZcvINEA5IV2BK7rN_BGCsTlSGpGXcrN7Qw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "What is the use in the mosque?",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "It's good place for prayer",
+                    "reviewer_name": "Dinesh Madaan",
+                    "rating": 5,
+                    "review_text": "It's good place for prayer",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-05-21T02:46:39.945000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 34,
+                    "total_number_of_photos_by_reviewer": 32,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118114522716628934715/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXvEQ8oFKeB8uLwtOxFpxoq3Encw2SDTQ14ybJajz0UM2k-=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good place for peaceful environment",
+                    "reviewer_name": "Jagdish Chandra",
+                    "rating": 4,
+                    "review_text": "Good place for peaceful environment",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-02-01T07:44:51.847000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 69,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101001682557949608962/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXrmmmxZOowurxTwHq2RvHV8aRrGFJG-RNEqDYJ2-dLmzs=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "My fevrate my masjid",
+                    "reviewer_name": "DOCTOR M I KHAN RAJPUT",
+                    "rating": 5,
+                    "review_text": "My fevrate my masjid",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-01-24T01:56:43.951000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 8,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109487804339251723001/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW-wzsnI2NnDjd1CqEyc_l1cndl_zmeH5LRzfcyT_B-C4-U=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very powerful",
+                    "reviewer_name": "Mission success",
+                    "rating": 5,
+                    "review_text": "Very powerful",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-09-17T09:59:12.161000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102954136477736021376/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXE6XmY4gV86gRkJ7tSJYcNVNPaVzUzznsHHKbk9crR9No=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJwRXGk7uFDTkR8YA_j_fbtLI",
+            "name": "Lal Masjid",
+            "description": null,
+            "reviews": 181,
+            "competitors": [
+                {
+                    "name": "Shishe Wali Masjid",
+                    "link": "https://www.google.com/maps/search/Shishe+Wali+Masjid/@28.8999383,76.5770015?authuser=0&hl=en&entry=ttu",
+                    "reviews": 96,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "MD Shadaab",
+                    "link": "https://www.google.com/maps/search/MD+Shadaab/@28.895991899999995,76.5740508?authuser=0&hl=en&entry=ttu",
+                    "reviews": 54,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noorani Mosque",
+                    "link": "https://www.google.com/maps/search/Noorani+Mosque/@28.9087622,76.5720171?authuser=0&hl=en&entry=ttu",
+                    "reviews": 16,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Dargah Shareef Kamal Shah",
+                    "link": "https://www.google.com/maps/search/Dargah+Shareef+Kamal+Shah/@28.8998397,76.5800033?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid e Rehmania",
+                    "link": "https://www.google.com/maps/search/Masjid+e+Rehmania/@28.8986865,76.5790194?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Lal Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMQvOaYVdqEE7A4KDGjQIxjw1hcEtXzA2Zusyqd=w408-h305-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque",
+                "Tourist attraction"
+            ],
+            "rating": 3.8,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": "093103 70121",
+            "address": "Lal Masjid, BHIWANI STAND, Quilla Rd, Babra Mohalla, Rohtak, Haryana 124001",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Lal+Masjid/data=!4m7!3m6!1s0x390d85bb93c615c1:0xb2b4dbf78f3f80f1!8m2!3d28.897572!4d76.5794456!16s%2Fg%2F1hjh6p95f!19sChIJwRXGk7uFDTkR8YA_j_fbtLI?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 24,
+                "2": 11,
+                "3": 23,
+                "4": 39,
+                "5": 84
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwRXGk7uFDTkR8YA_j_fbtLI&q=Lal+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.897572,
+                "longitude": 76.5794456
+            },
+            "plus_code": "VHXH+2Q Rohtak, Haryana",
+            "detailed_address": {
+                "ward": "Babra Mohalla",
+                "street": "BHIWANI STAND, Quilla Rd",
+                "city": "Rohtak",
+                "postal_code": "124001",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "12877159090865799409",
+            "data_id": "0x390d85bb93c615c1:0xb2b4dbf78f3f80f1",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMQvOaYVdqEE7A4KDGjQIxjw1hcEtXzA2Zusyqd=w397-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Y_SEAjTq_JHbYbEQx_55Bw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=275.2105&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOZlebXkPRStJ_nQp_iVNCOAS8swWbXKvCQWzEh=w224-h398-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Only one of the few historic places in Rohtak city...\nWe must preserve these kind of historical monuments and arts...",
+                    "reviewer_name": "Arin Nara",
+                    "rating": 5,
+                    "review_text": "Only one of the few historic places in Rohtak city...\nWe must preserve these kind of historical monuments and arts...",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-07-29T01:23:51.848000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 93,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110869351529434730175/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVGLKaaQGKyfiY65ZpwGAaIoyNiLgri7kO4zUEsDUr5S7pi=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOpRFNo6Nuu-APFbKsAshJm-vF4HZEtHIOkX9AK=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOYf9n_nGAd-bYndmWHcJ_LcYtDl4t4Ls81H8o7=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Bhai jumma ke namaz kite baje hai Majid my",
+                    "reviewer_name": "Mohammed Afroz786",
+                    "rating": 5,
+                    "review_text": "Bhai jumma ke namaz kite baje hai Majid my",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-25T05:56:22.002000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110620207619613351204/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUzN_RGLPCBYp-Gye51cxUuJ_olyvpVOjm6xZa2twGZT8c=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Brother jumma ke namaz kit baje hai Majid my",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very old Mosque.\nOn the ground floor there are shops, while first floor is the proper mosque. Quite a number of devotees come here for prayers.\nIt is said that once revolutionary Sh. Bhagat Singh and his friends also stayed here for some days.\nNeeds more attention on cleanliness front.",
+                    "reviewer_name": "Dr. Surinder Bharti",
+                    "rating": 3,
+                    "review_text": "Very old Mosque.\nOn the ground floor there are shops, while first floor is the proper mosque. Quite a number of devotees come here for prayers.\nIt is said that once revolutionary Sh. Bhagat Singh and his friends also stayed here for some days.\nNeeds more attention on cleanliness front.",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-08-18T03:14:29.809000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 6,
+                    "total_number_of_reviews_by_reviewer": 218,
+                    "total_number_of_photos_by_reviewer": 64,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117467296932884731063/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX1VWEiLDjPQoZCWnKLx2l3ZKmvm-P44Eei3jYMAXj1Tw=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Mashaallha bahoot kubsurat masjid hai",
+                    "reviewer_name": "kamran pathan",
+                    "rating": 5,
+                    "review_text": "Mashaallha bahoot kubsurat masjid hai",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-17T06:51:34.436000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 23,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109115365352668077094/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW43_ZAZlE3HLCCP_a2QfnOP-P7Xn1k5W0AS4PGaR9mIks=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Mashaallah, this is a very beautiful mosque.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "dostoN rohtk kii laal msjid, kilaa rodd, relve rodd, bhivaanii sttaiNdd (bhivaanii cuuNgii alg hai) /  'shyorii maarkett' durgaa bhvn mNdir ye sbhii rohtk meN ek hii jgh pr sthit haiN /  relve stteshn se aap yhaaN paidl kevl 5 mintt meN phuNc jaaeNge /  Rohtak Old Bus Stand se aap paidl 10-15 mintt meN phuNc jaaeNge athvaa aap oNtto pkdd'kr jaa skte haiN jo 15 rupe lete haiN /  Rohtak New Bus stand se aapko yhaaN phuNcne ke lie oNtto pkdd'kr hii jaanaa pdd'egaa kyoNki yhaaN se kaaphii duurii pr sthit hai /  dostoN yh shhr kaa sbse vysttm sthaan hai /  yhaaN paarkiNg ke lie phle jgh nhiiN thii kiNtu ab paarkiNg bn cukii hai / ",
+                    "reviewer_name": "aaryaavrt",
+                    "rating": 5,
+                    "review_text": "dostoN rohtk kii laal msjid, kilaa rodd, relve rodd, bhivaanii sttaiNdd (bhivaanii cuuNgii alg hai) /  'shyorii maarkett' durgaa bhvn mNdir ye sbhii rohtk meN ek hii jgh pr sthit haiN /  relve stteshn se aap yhaaN paidl kevl 5 mintt meN phuNc jaaeNge /  Rohtak Old Bus Stand se aap paidl 10-15 mintt meN phuNc jaaeNge athvaa aap oNtto pkdd'kr jaa skte haiN jo 15 rupe lete haiN /  Rohtak New Bus stand se aapko yhaaN phuNcne ke lie oNtto pkdd'kr hii jaanaa pdd'egaa kyoNki yhaaN se kaaphii duurii pr sthit hai /  dostoN yh shhr kaa sbse vysttm sthaan hai /  yhaaN paarkiNg ke lie phle jgh nhiiN thii kiNtu ab paarkiNg bn cukii hai / ",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-08-18T07:52:43.152000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 19,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101913667985276944581/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK3meQ-6fu-8CMqFerz69YIl6OpX38hcZQg0NI77rdOQg=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Friends, Rohtak's Lal Masjid, Fort Road, Railway Road, Bhiwani Stand (Bhiwani octroi is different). 'Sheori Market' Durga Bhawan Temple all these are situated at one place in Rohtak. From the railway station you will reach here in just 5 minutes on foot. From Rohtak Old Bus Stand you can reach there on foot in 10-15 minutes or you can take an auto which charges Rs 15. To reach here from Rohtak New Bus Stand, you will have to take an auto because it is located at a long distance from here. Friends, this is the busiest place in the city. Earlier there was no space for parking here but now parking has been made.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Crowded but u should be good in bargain and treasure hunt u'll be amazed to find great things. Getting in and getting out is difficult so plz park Ur vehicle out side even if it is two wheeler try bringing cash cash cause usually they don't have card machine don't try to go in evenings cause it's very crowded do Ur shopping in morning or before 4 pm\n\nPs. Sorry for only 01 photo",
+                    "reviewer_name": "Arvind K Tanwar",
+                    "rating": 5,
+                    "review_text": "Crowded but u should be good in bargain and treasure hunt u'll be amazed to find great things. Getting in and getting out is difficult so plz park Ur vehicle out side even if it is two wheeler try bringing cash cash cause usually they don't have card machine don't try to go in evenings cause it's very crowded do Ur shopping in morning or before 4 pm\n\nPs. Sorry for only 01 photo",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-11-21T13:03:48.466000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 57,
+                    "total_number_of_photos_by_reviewer": 54,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117034401620960293622/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVcnRD20t6L0xTvmRHVcty9QWauvrILfROoSHMrXS7F7bM=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masjid on main road side . Therefore easy for transportation . But now time , due to Covid 19 masjid is closed now a days , today date is 30/10/2020.\nI hope that masjid reopen as soon as possible.",
+                    "reviewer_name": "Gufran Khan",
+                    "rating": 5,
+                    "review_text": "Masjid on main road side . Therefore easy for transportation . But now time , due to Covid 19 masjid is closed now a days , today date is 30/10/2020.\nI hope that masjid reopen as soon as possible.",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-10-30T09:57:53.131000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 44,
+                    "total_number_of_photos_by_reviewer": 21,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112969392659898674250/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUYsh_9bvbkcFx0fgrVGF_AyI6SIFEq1C6pUzqjSrmveXs=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very old mosque. Its on entrance of busiest market of Rohtak. Not much crowd except Friday. No parking space available. Better to reach by public transport.",
+                    "reviewer_name": "Sunil Kumar Sharma",
+                    "rating": 4,
+                    "review_text": "Very old mosque. Its on entrance of busiest market of Rohtak. Not much crowd except Friday. No parking space available. Better to reach by public transport.",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-11-11T08:46:33.765000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 49,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100801307343920310343/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV8YkchUq2N249vIprIOSlhCtCJ0QShXStMvNMRatCsE9o=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJSxbamb6FDTkRb2Mzw25bffo",
+            "name": "Shishe Wali Masjid",
+            "description": null,
+            "reviews": 96,
+            "competitors": [
+                {
+                    "name": "Lal Masjid",
+                    "link": "https://www.google.com/maps/search/Lal+Masjid/@28.897572,76.5794456?authuser=0&hl=en&entry=ttu",
+                    "reviews": 181,
+                    "rating": 3.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "MD Shadaab",
+                    "link": "https://www.google.com/maps/search/MD+Shadaab/@28.895991899999995,76.5740508?authuser=0&hl=en&entry=ttu",
+                    "reviews": 54,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noorani Mosque",
+                    "link": "https://www.google.com/maps/search/Noorani+Mosque/@28.9087622,76.5720171?authuser=0&hl=en&entry=ttu",
+                    "reviews": 16,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Dargah Shareef Kamal Shah",
+                    "link": "https://www.google.com/maps/search/Dargah+Shareef+Kamal+Shah/@28.8998397,76.5800033?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid e Rehmania",
+                    "link": "https://www.google.com/maps/search/Masjid+e+Rehmania/@28.8986865,76.5790194?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Shishe Wali Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMzbzVSaE-zkSriYiBUq1Lumum-WGQjJVxJhFdz=w408-h417-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.3,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "VHXG+XRC Shishe Wali Masjid, Pahara Mohalla, Rohtak, Haryana 124001",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Shishe+Wali+Masjid/data=!4m7!3m6!1s0x390d85be99da164b:0xfa7d5b6ec333636f!8m2!3d28.8999383!4d76.5770015!16s%2Fg%2F11clzvgbz5!19sChIJSxbamb6FDTkRb2Mzw25bffo?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 8,
+                "2": 2,
+                "3": 12,
+                "4": 10,
+                "5": 64
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJSxbamb6FDTkRb2Mzw25bffo&q=Shishe+Wali+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.8999383,
+                "longitude": 76.5770015
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Pahara Mohalla",
+                "street": "VHXG+XRC",
+                "city": "Rohtak",
+                "postal_code": "124001",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "18049683412850271087",
+            "data_id": "0x390d85be99da164b:0xfa7d5b6ec333636f",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMzbzVSaE-zkSriYiBUq1Lumum-WGQjJVxJhFdz=w291-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOFR4YADaqCxelAFxt9Oi7kztOst2fjYiaOTq02=w224-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPWg_jr5cnALDKYDkECpN1NWIU2vpj_fegZlUB_=w529-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "The only Ahle sunnat wal jamaat masjid, nearly 200 year old, situated in the heart of the city",
+                    "reviewer_name": "Moin Ansari",
+                    "rating": 5,
+                    "review_text": "The only Ahle sunnat wal jamaat masjid, nearly 200 year old, situated in the heart of the city",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-20T18:32:50.530000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106667778549756744721/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXwCRpYLSOUJQp1VoVJW6IhEn8oJlnZpagULXBrd32Gyg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "There are 3 Mosque within 1 km in Kila Road. So don't worry, You can perform Jumma Namaj.\nJumma Namaj Timing is 01:50 PM.",
+                    "reviewer_name": "Farooque Reza",
+                    "rating": 5,
+                    "review_text": "There are 3 Mosque within 1 km in Kila Road. So don't worry, You can perform Jumma Namaj.\nJumma Namaj Timing is 01:50 PM.",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-02-25T12:05:15.966000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 11,
+                    "total_number_of_reviews_by_reviewer": 9,
+                    "total_number_of_photos_by_reviewer": 72,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113541434997518055255/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXcWLLr0xULdN90oWiOho1TBGtdSt_QHHc3l6zW4bNzqls=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very good",
+                    "reviewer_name": "Sahzad Aazam",
+                    "rating": 5,
+                    "review_text": "Very good",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-10-12T08:57:25.305000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103712098749710795329/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWHv0vFVL9H2IT4_1MBnbQ_grx-Qt3eF1w2A5rnokTggA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Lovely Architecture and interior design of this Masjid is must visit place in Rohtak City.",
+                    "reviewer_name": "mHmd shmym `lm Shamim Alam",
+                    "rating": 5,
+                    "review_text": "Lovely Architecture and interior design of this Masjid is must visit place in Rohtak City.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-07-30T17:10:47.347000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 32,
+                    "total_number_of_photos_by_reviewer": 47,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111887211015186274342/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUw5SFeqfWREu1glg034XInQ88gznM1Dzk-ND7CJQXu-mw=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Love you God masjid me hame namaj oadne ko milte hai hum upper Vale ka aur Jo usko sambhalte hai un ka the din Dil see sukriya ada karna chate hai",
+                    "reviewer_name": "R.zeeshan Salmani",
+                    "rating": 5,
+                    "review_text": "Love you God masjid me hame namaj oadne ko milte hai hum upper Vale ka aur Jo usko sambhalte hai un ka the din Dil see sukriya ada karna chate hai",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-06-24T17:51:17.166000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 15,
+                    "total_number_of_photos_by_reviewer": 15,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100622208585419154938/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVDNS7uX741BfjMaGmKbAar7LrBy2Jmm4Ax7-wcJrcuhqb3=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Love you God masjid me hame namaj oadne ko milte hai hum upper vale ka aur Jo usko sambhalte hai un ka the din Dil see sukriya ada karna chate hai",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "A lot of traffic jam on Friday and people coming to offer namaaz sometimes behave rudely and park their vehicles in front of shops and home and block the road.",
+                    "reviewer_name": "Kanishk Khatter",
+                    "rating": 3,
+                    "review_text": "A lot of traffic jam on Friday and people coming to offer namaaz sometimes behave rudely and park their vehicles in front of shops and home and block the road.",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-01-06T13:20:14.195000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 4,
+                    "total_number_of_reviews_by_reviewer": 26,
+                    "total_number_of_photos_by_reviewer": 143,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103587588422482414206/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKVS8pI8YgixmqQB5h5snkTL0rqFZtTOwO-14oNxSQo=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Awesome oldest one mosque in Rohtak",
+                    "reviewer_name": "SADAF OFFICIAL",
+                    "rating": 5,
+                    "review_text": "Awesome oldest one mosque in Rohtak",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-08-19T08:46:10.212000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 18,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109082332991839569850/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXQA1K4vu2YdM-SchKhClEgHmsly8ChvHZAskJcL9DBYQ=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Infrastructure of this masjid is very nice and beautiful.",
+                    "reviewer_name": "Gufran Khan",
+                    "rating": 5,
+                    "review_text": "Infrastructure of this masjid is very nice and beautiful.",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-10-30T10:02:51.854000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 5,
+                    "total_number_of_reviews_by_reviewer": 44,
+                    "total_number_of_photos_by_reviewer": 21,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112969392659898674250/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUYsh_9bvbkcFx0fgrVGF_AyI6SIFEq1C6pUzqjSrmveXs=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ7cK8rJSFDTkRhjev6L-kGJ8",
+            "name": "Noorani Mosque",
+            "description": null,
+            "reviews": 16,
+            "competitors": [
+                {
+                    "name": "Lal Masjid",
+                    "link": "https://www.google.com/maps/search/Lal+Masjid/@28.897572,76.5794456?authuser=0&hl=en&entry=ttu",
+                    "reviews": 181,
+                    "rating": 3.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shishe Wali Masjid",
+                    "link": "https://www.google.com/maps/search/Shishe+Wali+Masjid/@28.8999383,76.5770015?authuser=0&hl=en&entry=ttu",
+                    "reviews": 96,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "MD Shadaab",
+                    "link": "https://www.google.com/maps/search/MD+Shadaab/@28.895991899999995,76.5740508?authuser=0&hl=en&entry=ttu",
+                    "reviews": 54,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Dargah Shareef Kamal Shah",
+                    "link": "https://www.google.com/maps/search/Dargah+Shareef+Kamal+Shah/@28.8998397,76.5800033?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid e Rehmania",
+                    "link": "https://www.google.com/maps/search/Masjid+e+Rehmania/@28.8986865,76.5790194?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Noorani Mosque (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNGvX5DRUxOJDkGwg-ZmYXA4PcLuV_2rA3gPSeN=w408-h306-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.3,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Noorani Mosque, 124001, Jind-Gohana Rd, Kabir Colony, Rohtak, Haryana",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Noorani+Mosque/data=!4m7!3m6!1s0x390d8594acbcc2ed:0x9f18a4bfe8af3786!8m2!3d28.9087622!4d76.5720171!16s%2Fg%2F11f00j1sfm!19sChIJ7cK8rJSFDTkRhjev6L-kGJ8?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 1,
+                "5": 11
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ7cK8rJSFDTkRhjev6L-kGJ8&q=Noorani+Mosque&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.908762199999998,
+                "longitude": 76.5720171
+            },
+            "plus_code": "WH5C+GR Rohtak, Haryana",
+            "detailed_address": {
+                "ward": "Kabir Colony, Singhpura Khurd",
+                "street": "124001, Jind-Gohana Rd",
+                "city": "Rohtak",
+                "postal_code": null,
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "11464093995621103494",
+            "data_id": "0x390d8594acbcc2ed:0x9f18a4bfe8af3786",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNGvX5DRUxOJDkGwg-ZmYXA4PcLuV_2rA3gPSeN=w397-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMdCxI7zn3Sx9MAgg3IIehkC1sJt8H9C6-JlSsW=w224-h320-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Masha Allah very large mosque in Rohtak. No problem for four wheeler parking.",
+                    "reviewer_name": "Aarif Hussain",
+                    "rating": 5,
+                    "review_text": "Masha Allah very large mosque in Rohtak. No problem for four wheeler parking.",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-10-10T06:47:00.506000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 14,
+                    "total_number_of_photos_by_reviewer": 5,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114567175235699184657/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVjpUUhC3MMynQCI3YSp454gI8ogVHzN-7H01_5zCb52g4=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very usefull",
+                    "reviewer_name": "Ravi Ravi",
+                    "rating": 5,
+                    "review_text": "Very usefull",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-23T06:25:36.072000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113786104103820367994/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKMBvYgWFw07VmgqU44hMSQaflA4xm4E2fVbhy1EoeI=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice",
+                    "reviewer_name": "Er Inzy",
+                    "rating": 5,
+                    "review_text": "Nice",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-04-18T06:00:56.715000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 31,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103712926147397292621/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVpsK38cn8TrKQVccAD7dntNJniFYAQOME0l_5wYjcQ_8Lh=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Amazing",
+                    "reviewer_name": "Asad Chauhan",
+                    "rating": 5,
+                    "review_text": "Amazing",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-08-18T14:48:45.507000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 53,
+                    "total_number_of_photos_by_reviewer": 32,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111662857883949735503/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVc0HSwtc2-mxyGt1VzEGW6ddNNSnh0yNCbnsxIMN25eGQ=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Mashaallah",
+                    "reviewer_name": "Manvar Hasan07",
+                    "rating": 5,
+                    "review_text": "Mashaallah",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-24T07:16:57.621000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100265651386484777914/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV-a4GTqYrr4-HBVA4ox4gv5Tn4KdiZQ61VQg77sdd3suA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "God willing",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "9ice masjid",
+                    "reviewer_name": "Imran Malik",
+                    "rating": 5,
+                    "review_text": "9ice masjid",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-07-21T10:45:05.042000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 4,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110163565607989182905/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUOJ9UJhNXjOT2lyk4E_6wA6R6P3yzUu1dAmbYZTLfxUg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "9 ice mosque",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Juned Shaikh",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-21T03:33:21.875000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117182212982399951274/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUCwNEDCWs86YhRh7FXvbWBSg3dqEcQLNDicnEOPBjOt7lN=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Black ALPHAshigaming",
+                    "rating": 1,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-01T05:59:35.752000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106153678252771473514/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWmJYrdAGACF15Eplp_R5XthcPZApk-h68jAkUFn07GSlc=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJRahON0aFDTkRwUZ4tGyCn3k",
+            "name": "Masjid e Rehmania",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Lal Masjid",
+                    "link": "https://www.google.com/maps/search/Lal+Masjid/@28.897572,76.5794456?authuser=0&hl=en&entry=ttu",
+                    "reviews": 181,
+                    "rating": 3.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shishe Wali Masjid",
+                    "link": "https://www.google.com/maps/search/Shishe+Wali+Masjid/@28.8999383,76.5770015?authuser=0&hl=en&entry=ttu",
+                    "reviews": 96,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "MD Shadaab",
+                    "link": "https://www.google.com/maps/search/MD+Shadaab/@28.895991899999995,76.5740508?authuser=0&hl=en&entry=ttu",
+                    "reviews": 54,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noorani Mosque",
+                    "link": "https://www.google.com/maps/search/Noorani+Mosque/@28.9087622,76.5720171?authuser=0&hl=en&entry=ttu",
+                    "reviews": 16,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Dargah Sareef Hajrat Saah Gulam Jilani Rah",
+                    "link": "https://www.google.com/maps/search/Dargah+Sareef+Hajrat+Saah+Gulam+Jilani+Rah/@28.899067499999997,76.58017869999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 8,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid e Rehmania (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "VHXH+FJC Masjid e Rehmania, Partap Chowk St, Babra Mohalla, Rohtak, Haryana 124001",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+e+Rehmania/data=!4m7!3m6!1s0x390d8546374ea845:0x799f826cb47846c1!8m2!3d28.8986865!4d76.5790194!16s%2Fg%2F11s7m0fk4g!19sChIJRahON0aFDTkRwUZ4tGyCn3k?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRahON0aFDTkRwUZ4tGyCn3k&q=Masjid+e+Rehmania&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.8986865,
+                "longitude": 76.57901939999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Babra Mohalla",
+                "street": "VHXH+FJC, Partap Chowk St",
+                "city": "Rohtak",
+                "postal_code": "124001",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "8763866803282134721",
+            "data_id": "0x390d8546374ea845:0x799f826cb47846c1",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ-XiZe7yFDTkR7lSOpzOmbYA",
+            "name": "Dargah Sareef Hajrat Saah Gulam Jilani Rah",
+            "description": null,
+            "reviews": 8,
+            "competitors": [
+                {
+                    "name": "Lal Masjid",
+                    "link": "https://www.google.com/maps/search/Lal+Masjid/@28.897572,76.5794456?authuser=0&hl=en&entry=ttu",
+                    "reviews": 181,
+                    "rating": 3.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shishe Wali Masjid",
+                    "link": "https://www.google.com/maps/search/Shishe+Wali+Masjid/@28.8999383,76.5770015?authuser=0&hl=en&entry=ttu",
+                    "reviews": 96,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "MD Shadaab",
+                    "link": "https://www.google.com/maps/search/MD+Shadaab/@28.895991899999995,76.5740508?authuser=0&hl=en&entry=ttu",
+                    "reviews": 54,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Dargah Shareef Kamal Shah",
+                    "link": "https://www.google.com/maps/search/Dargah+Shareef+Kamal+Shah/@28.8998397,76.5800033?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid e Rehmania",
+                    "link": "https://www.google.com/maps/search/Masjid+e+Rehmania/@28.8986865,76.5790194?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Dargah Sareef Hajrat Saah Gulam Jilani Rah (Owner)",
+                "link": null
+            },
+            "featured_image": "//lh3.googleusercontent.com/1GFKBfy270X8xqFXMLFDo39YQ4dhZzAK5XPCIE1oNx2ONIxIkfraXrrehhCN4J5eIQ=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.6,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Dargah Sareef Hajrat Saah Gulam Jilani Rah, 642/6, Quilla Rd, quilla Mohalla, Rohtak, Haryana 124001",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Dargah+Sareef+Hajrat+Saah+Gulam+Jilani+Rah/data=!4m7!3m6!1s0x390d85bc7b9978f9:0x806da633a78e54ee!8m2!3d28.8990675!4d76.5801787!16s%2Fg%2F11c2pldg17!19sChIJ-XiZe7yFDTkR7lSOpzOmbYA?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 3,
+                "5": 5
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-XiZe7yFDTkR7lSOpzOmbYA&q=Dargah+Sareef+Hajrat+Saah+Gulam+Jilani+Rah&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.899067499999997,
+                "longitude": 76.58017869999999
+            },
+            "plus_code": "VHXJ+J3 Rohtak, Haryana",
+            "detailed_address": {
+                "ward": "quilla Mohalla",
+                "street": "642/6, Quilla Rd",
+                "city": "Rohtak",
+                "postal_code": "124001",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "9254235550100903150",
+            "data_id": "0x390d85bc7b9978f9:0x806da633a78e54ee",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "//lh3.googleusercontent.com/1GFKBfy270X8xqFXMLFDo39YQ4dhZzAK5XPCIE1oNx2ONIxIkfraXrrehhCN4J5eIQ=w529-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Nice",
+                    "reviewer_name": "Ajay Sharma",
+                    "rating": 4,
+                    "review_text": "Nice",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-03-17T16:03:02.229000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 91,
+                    "total_number_of_photos_by_reviewer": 283,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104291088297735189462/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW3g_bc9hGoISxk8uBW_EpcwTPIukp0F3_CQ4-3SdO0ck7J=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Rohtak",
+                    "reviewer_name": "Aditya Kumar Mishra",
+                    "rating": 4,
+                    "review_text": "Rohtak",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-28T08:24:15.377000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 77,
+                    "total_number_of_photos_by_reviewer": 1062,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104652620602752973684/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWPkxWTl3OsHvzKbqtlkWExSeT5513m537zgg1l73zuFGk=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "FAB Kashmir",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-03-24T18:00:32.804000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109323266285609661911/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVuCkDKuPkz-P9u5F6WD4TxsgmXsD8WF--ayz5y5poeYTM=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Balraj Kirar",
+                    "rating": 4,
+                    "review_text": null,
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-01-17T15:41:39.431000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111010063692715177783/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUaOySKgCa1jymjWJ43PvEpMN6Ra1eaEuwrgOfgtayWhA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "manoj mehra",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-11-17T15:33:04.278000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114709091499862186383/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXgKeqOCcyXholXT6qzXZRc-Oz4jCRWpy60YqrMVYKCcEU=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Firoja Khatune",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-08-11T08:41:41.194000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110734686824146142040/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIRC90QnQ1bkapP-09dNKjtSSgdFbl4_BsqUfmYaYBp=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Anamika Sangwan",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-29T18:30:11.422000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117457560316551713055/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUrZzGN7a5YAE3k-532c7OVu-VZlkmHINCEqENdUMcsC8U=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "ekta guglani",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-06-01T03:11:36.036000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102467687122577636913/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVI34Oc9zMg7lgQ_wL1vVA2Sk61vw2f1LTxPEy_dn0bH-6R=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJm6WwZ7yFDTkRO56XkmeLGw0",
+            "name": "Dargah Shareef Kamal Shah",
+            "description": null,
+            "reviews": 2,
+            "competitors": [
+                {
+                    "name": "Lal Masjid",
+                    "link": "https://www.google.com/maps/search/Lal+Masjid/@28.897572,76.5794456?authuser=0&hl=en&entry=ttu",
+                    "reviews": 181,
+                    "rating": 3.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shishe Wali Masjid",
+                    "link": "https://www.google.com/maps/search/Shishe+Wali+Masjid/@28.8999383,76.5770015?authuser=0&hl=en&entry=ttu",
+                    "reviews": 96,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Dargah Sareef Hajrat Saah Gulam Jilani Rah",
+                    "link": "https://www.google.com/maps/search/Dargah+Sareef+Hajrat+Saah+Gulam+Jilani+Rah/@28.899067499999997,76.58017869999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 8,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Peer Baba Ki Mazar",
+                    "link": "https://www.google.com/maps/search/Peer+Baba+Ki+Mazar/@28.881204800000003,76.5431811?authuser=0&hl=en&entry=ttu",
+                    "reviews": 8,
+                    "rating": 4.3,
+                    "main_category": "Religious organization"
+                },
+                {
+                    "name": "Peer Baba Ki Majar",
+                    "link": "https://www.google.com/maps/search/Peer+Baba+Ki+Majar/@28.903694299999998,76.5766027?authuser=0&hl=en&entry=ttu",
+                    "reviews": 8,
+                    "rating": 4.6,
+                    "main_category": "Religious destination"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Dargah Shareef Kamal Shah (Owner)",
+                "link": null
+            },
+            "featured_image": "//lh4.googleusercontent.com/vDIscorx4PwBY2gQxASB8IsewxOgDcmbj_Cp9vCqNpppoVGFo-Yf5m3IkgXhE5M=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": "072063 62642",
+            "address": "VHXJ+W2J Dargah Shareef Kamal Shah, Patang Wali Gali, Quilla Rd, Rohtak, Haryana 124001",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Dargah+Shareef+Kamal+Shah/data=!4m7!3m6!1s0x390d85bc67b0a59b:0xd1b8b6792979e3b!8m2!3d28.8998397!4d76.5800033!16s%2Fg%2F11c602stq4!19sChIJm6WwZ7yFDTkRO56XkmeLGw0?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJm6WwZ7yFDTkRO56XkmeLGw0&q=Dargah+Shareef+Kamal+Shah&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.899839699999998,
+                "longitude": 76.5800033
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Salara Mohalla, Babra Mohalla",
+                "street": "VHXJ+W2J, Patang Wali Gali, Quilla Rd",
+                "city": "Rohtak",
+                "postal_code": "124001",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "944501823821553211",
+            "data_id": "0x390d85bc67b0a59b:0xd1b8b6792979e3b",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "//lh4.googleusercontent.com/vDIscorx4PwBY2gQxASB8IsewxOgDcmbj_Cp9vCqNpppoVGFo-Yf5m3IkgXhE5M=w529-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Very silent and beautiful place\nPlace of Allah...\n",
+                    "reviewer_name": "Chirag Joshi",
+                    "rating": 5,
+                    "review_text": "Very silent and beautiful place\nPlace of Allah...\n",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-05-22T10:13:09.383000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106501870596897053686/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWaDGoPxMEKrZLjhq3SVHgT-9z5Z9Rjzcfs4_FekUNPeD4=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Dargah",
+                    "reviewer_name": "vineet",
+                    "rating": 4,
+                    "review_text": "Dargah",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-02-02T17:12:23.290000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 66,
+                    "total_number_of_photos_by_reviewer": 181,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102362916116267748907/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKkksiY-8ugz2Ffvtmi-oQ3VeTuSSvFKY6BzW5iqXjx=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

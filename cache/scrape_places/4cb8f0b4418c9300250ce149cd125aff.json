@@ -1,0 +1,162 @@
+{
+    "query": "masjid barsi",
+    "places": [
+        {
+            "place_id": "ChIJE0jfE0xBEjkR06iGt-HgJxc",
+            "name": "Masjid Barsi",
+            "description": null,
+            "reviews": 2,
+            "competitors": [
+                {
+                    "name": "Baba Muninath Temple",
+                    "link": "https://www.google.com/maps/search/Baba+Muninath+Temple/@29.046322399999998,76.0265495?authuser=0&entry=ttu",
+                    "reviews": 17,
+                    "rating": 4.9,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Baba Mundhaliya Peer",
+                    "link": "https://www.google.com/maps/search/Baba+Mundhaliya+Peer/@29.0447576,76.02843829999999?authuser=0&entry=ttu",
+                    "reviews": 6,
+                    "rating": 4.3,
+                    "main_category": "Place of worship"
+                },
+                {
+                    "name": "Baba bhainya mandir",
+                    "link": "https://www.google.com/maps/search/Baba+bhainya+mandir/@29.0467582,76.023327?authuser=0&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Shiv Tample",
+                    "link": "https://www.google.com/maps/search/Shiv+Tample/@29.0465321,76.02561539999999?authuser=0&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Madhi",
+                    "link": "https://www.google.com/maps/search/Madhi/@29.065330999999997,76.0251955?authuser=0&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4.5,
+                    "main_category": "Religious destination"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid Barsi (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 2.5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "22WG+J6W Masjid Barsi, Barsi, Haryana 127032",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Barsi/@29.0466169,76.0255864,17z/data=!3m1!4b1!4m6!3m5!1s0x3912414c13df4813:0x1727e0e1b786a8d3!8m2!3d29.0466169!4d76.0255864!16s%2Fg%2F11flbfzljx?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 0
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJE0jfE0xBEjkR06iGt-HgJxc&q=Masjid+Barsi&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.0466169,
+                "longitude": 76.0255864
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "22WG+J6W",
+                "city": "Barsi",
+                "postal_code": "127032",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "1668549447015377107",
+            "data_id": "0x3912414c13df4813:0x1727e0e1b786a8d3",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Very helpful this maping",
+                    "reviewer_name": "Mohit malwal",
+                    "rating": 4,
+                    "review_text": "Very helpful this maping",
+                    "published_at": "8 months ago",
+                    "published_at_date": "2023-04-13T17:26:28.327000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 35,
+                    "total_number_of_photos_by_reviewer": 462,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118329684807972031318/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI_fCEG_J3FHhNigpmHxlczIN2Jnv3TU_53sEGWSrqjtq0=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Karmbir Gujjar",
+                    "rating": 1,
+                    "review_text": null,
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-07-02T14:28:42.161000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100599958010699014659/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVq5lyZSiuPvofPzjGPBRMVvaxmpfWHlJheBkyWFrbQFK0=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

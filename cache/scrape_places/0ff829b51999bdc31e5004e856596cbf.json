@@ -1,0 +1,714 @@
+{
+    "query": "masjid sitarganj",
+    "places": [
+        {
+            "place_id": "ChIJAycVOPJnoDkRSs_H7LLvO4M",
+            "name": "Noori Masjid",
+            "description": null,
+            "reviews": 12,
+            "competitors": [
+                {
+                    "name": "Nuri Raza Masjid",
+                    "link": "https://www.google.com/maps/search/Nuri+Raza+Masjid/@28.5523003,79.67936739999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 6,
+                    "rating": 3.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "NOORIMASJID",
+                    "link": "https://www.google.com/maps/search/NOORIMASJID/@28.777645800000002,79.3100592?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": "100501974216002768024",
+                "name": "Noori Masjid (Owner)",
+                "link": "https://www.google.com/maps/contrib/100501974216002768024"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO2BX2ty6q1KbVsZ4Syqn2SfpJjnbZS_caIbLtb=w408-h306-k-no",
+            "main_category": "Religious destination",
+            "categories": [
+                "Religious destination"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Noori Masjid, Ward No 12 Bypas Colony, Sitarganj, Uttarakhand 262405",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Noori+Masjid/data=!4m7!3m6!1s0x39a067f238152703:0x833befb2ecc7cf4a!8m2!3d28.9181478!4d79.7080744!16s%2Fg%2F11t9wmj6w1!19sChIJAycVOPJnoDkRSs_H7LLvO4M?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 12
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAycVOPJnoDkRSs_H7LLvO4M&q=Noori+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.9181478,
+                "longitude": 79.7080744
+            },
+            "plus_code": "WP95+76 Sitarganj, Uttarakhand",
+            "detailed_address": {
+                "ward": null,
+                "street": "Ward No 12 Bypas Colony",
+                "city": "Sitarganj",
+                "postal_code": "262405",
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "9456415394350223178",
+            "data_id": "0x39a067f238152703:0x833befb2ecc7cf4a",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible seating",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipO2BX2ty6q1KbVsZ4Syqn2SfpJjnbZS_caIbLtb=w397-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Alhamdulillah ",
+                    "reviewer_name": "Imran Khan",
+                    "rating": 5,
+                    "review_text": "Alhamdulillah ",
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-07-08T05:29:12.443000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116470648023180520536/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVEx5_pp14ENod7711dt3xuV5c1fKn1hsuQSNAv2WX3SvQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Alhamdulillah",
+                    "reviewer_name": "Moin Khan",
+                    "rating": 5,
+                    "review_text": "Alhamdulillah",
+                    "published_at": "8 months ago",
+                    "published_at_date": "2023-03-30T05:09:17.580000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108185435814071871200/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKbFkbQiW82MsPb-cmbB_VsRER4HlHgtxk677qvqLxS=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Alhumdulillah",
+                    "reviewer_name": "monish anns",
+                    "rating": 5,
+                    "review_text": "Alhumdulillah",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-08-22T06:07:09.888000",
+                    "response_from_owner_text": "",
+                    "response_from_owner_ago": "a year ago",
+                    "response_from_owner_date": "2022-08-22T06:12:43.493000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104923438736996171322/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXqiKgrRfZ5iOqdEa0gcXo1msnc7f0Ow-3kWwoSKYmvyg0=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Mashaallah bahot khoob",
+                    "reviewer_name": "Nisha Quraishi",
+                    "rating": 5,
+                    "review_text": "Mashaallah bahot khoob",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-10-08T15:16:42.224000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115550645244484048580/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKc6Fgu3JqTDcW9GwhoOiOjQkd8D3-V-nmSCSj1IEgj=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Masha Allah bahot khoob",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Alhumdulillah",
+                    "reviewer_name": "Rahman Khan",
+                    "rating": 5,
+                    "review_text": "Alhumdulillah",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-08-22T06:00:50.796000",
+                    "response_from_owner_text": "",
+                    "response_from_owner_ago": "a year ago",
+                    "response_from_owner_date": "2022-08-22T06:12:24.043000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108658350686569564104/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIi4q-M1SY03mR-OlHBNxNBJ2wEZisDBJOTKqaHSY9R=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Alhamdulillah",
+                    "reviewer_name": "Ahmad Ahmad",
+                    "rating": 5,
+                    "review_text": "Alhamdulillah",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-10-08T15:20:18.016000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101128860990094790127/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJdHkeJCtGK8F7GmhFMrOZK78fyjURkK-lG1jSBs-Q=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "MashaAllah",
+                    "reviewer_name": "Sahjeb Khan",
+                    "rating": 5,
+                    "review_text": "MashaAllah",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-08-22T05:41:33.655000",
+                    "response_from_owner_text": "",
+                    "response_from_owner_ago": "a year ago",
+                    "response_from_owner_date": "2022-08-22T06:12:51.540000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101507932962621603553/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIt2ZPufDXx3npeprD181nxxNy6M_cnO_UBQ1aoOo0E=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Alhamdulillah",
+                    "reviewer_name": "Arham Khan",
+                    "rating": 5,
+                    "review_text": "Alhamdulillah",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-08-22T06:09:28.823000",
+                    "response_from_owner_text": "",
+                    "response_from_owner_ago": "a year ago",
+                    "response_from_owner_date": "2022-08-22T06:12:35.986000",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102181161266807730496/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUg6UsLF78vue_h-stgkueAg-up1lACyVCSPDH-OrUItQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJAQDwu9NgoDkR009r7_RUd7Y",
+            "name": "Jama Matjid",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama Matjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1Zhh0_E1otmJ1_2z56vJHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=74.12701&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "WPM3+82R Jama Matjid, Ward Number 5, Sitarganj, Bawanpuri, Uttarakhand 262405",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+Matjid/data=!4m7!3m6!1s0x39a060d3bbf00001:0xb67754f4ef6b4fd3!8m2!3d28.9333587!4d79.7025183!16s%2Fg%2F11txmzdj6b!19sChIJAQDwu9NgoDkR009r7_RUd7Y?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAQDwu9NgoDkR009r7_RUd7Y&q=Jama+Matjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.9333587,
+                "longitude": 79.7025183
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Ward Number 5",
+                "street": "WPM3+82R",
+                "city": "Sitarganj, Bawanpuri",
+                "postal_code": "262405",
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "13148071048096993235",
+            "data_id": "0x39a060d3bbf00001:0xb67754f4ef6b4fd3",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1Zhh0_E1otmJ1_2z56vJHw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=74.12701&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1Zhh0_E1otmJ1_2z56vJHw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=74.12701&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ9wEFeMxhoDkRnZmjDtxQVXA",
+            "name": "Shakeel Kirana Store",
+            "description": null,
+            "reviews": 3,
+            "competitors": [
+                {
+                    "name": "Siddarth Kirana Store",
+                    "link": "https://www.google.com/maps/search/Siddarth+Kirana+Store/@28.9358344,79.70263179999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "General store"
+                },
+                {
+                    "name": "Qadri kirana store",
+                    "link": "https://www.google.com/maps/search/Qadri+kirana+store/@28.9318293,79.7069997?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "General store"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": "107828161762352664617",
+                "name": "Shakeel Kirana Store (Owner)",
+                "link": "https://www.google.com/maps/contrib/107828161762352664617"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMkFsCUYbyaQNrDJadWuxRk-2dvP1fidvTx_eN=w408-h544-k-no",
+            "main_category": "Grocery store",
+            "categories": [
+                "Grocery store"
+            ],
+            "rating": 4.3,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": "080572 99327",
+            "address": "Shakeel Kirana Store, 1, Sitarganj, Uttarakhand 262405",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Shakeel+Kirana+Store/data=!4m7!3m6!1s0x39a061cc780501f7:0x705550dc0ea3999d!8m2!3d28.9331866!4d79.7027629!16s%2Fg%2F11rk34qp2m!19sChIJ9wEFeMxhoDkRnZmjDtxQVXA?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 0,
+                "5": 2
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9wEFeMxhoDkRnZmjDtxQVXA&q=Shakeel+Kirana+Store&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.9331866,
+                "longitude": 79.7027629
+            },
+            "plus_code": "WPM3+74 Sitarganj, Uttarakhand",
+            "detailed_address": {
+                "ward": "Ward Number 5",
+                "street": "1",
+                "city": "Sitarganj, Bawanpuri",
+                "postal_code": "262405",
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "8094464811336964509",
+            "data_id": "0x39a061cc780501f7:0x705550dc0ea3999d",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Delivery",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Same-day delivery",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNMkFsCUYbyaQNrDJadWuxRk-2dvP1fidvTx_eN=w224-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=heLyjguMeCRRODUv3hM0aw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=58.539577&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Good",
+                    "reviewer_name": "Mohd mustakeem Mohd mustakeem",
+                    "rating": 5,
+                    "review_text": "Good",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-20T07:17:36.734000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100601432638347224041/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ9zngPA8SZsvIzofzUzUf0vnuoN_7TQhZlvHeN880U=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "is jgh pr oNnlaain sbhii kaary kiye jaate hai\nor kiraanaa kaa saamaan bhii uplbdh hai",
+                    "reviewer_name": "Mansoori Love",
+                    "rating": 3,
+                    "review_text": "is jgh pr oNnlaain sbhii kaary kiye jaate hai\nor kiraanaa kaa saamaan bhii uplbdh hai",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-01-16T14:23:25.401000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 9,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110947784800075681255/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUgYsXd_Z8cW4jbaRd385rVnxA1zjzQ2_xnQIK-spTrrgk=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "All work is done online at this place\nand groceries are also available",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMsqgGTOScxAvjs_VlWwfCkf7k5BM-R9GCqM3hM=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP0moOahgDfRbKqFz-iwxP8-oBYb0iJVaWFDjQa=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPQa9zz5MBP7p3o5C1h3LDPeA57hVWTIUO73Gxv=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOLls3otXHfo3O9axDBY3o-nGIo7H9J2k-7D8S-=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNMkFsCUYbyaQNrDJadWuxRk-2dvP1fidvTx_eN=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Shakeel Mansori",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-25T08:12:28.792000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 10,
+                    "total_number_of_photos_by_reviewer": 41,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100833540347167121043/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVTtdNoFEhK6WD9D-WvKq4CnaQp9rGgDr9aTMfP3u9qu5G1=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJAQDAQNFgoDkR0aLiqOPRUaQ",
+            "name": "Eid Gah",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Eid Gah (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T-a8H-EWsPbQ78PJYCDLtg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=256.54657&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "WPP2+JP5 Eid Gah, Sitarganj, Bawanpuri, Uttarakhand 262405",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Eid+Gah/data=!4m7!3m6!1s0x39a060d140c00001:0xa451d1e3a8e2a2d1!8m2!3d28.9365022!4d79.7018608!16s%2Fg%2F11kj3f5r75!19sChIJAQDAQNFgoDkR0aLiqOPRUaQ?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAQDAQNFgoDkR0aLiqOPRUaQ&q=Eid+Gah&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.9365022,
+                "longitude": 79.70186079999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "WPP2+JP5",
+                "city": "Sitarganj, Bawanpuri",
+                "postal_code": "262405",
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "11840475671054951121",
+            "data_id": "0x39a060d140c00001:0xa451d1e3a8e2a2d1",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T-a8H-EWsPbQ78PJYCDLtg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=256.54657&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T-a8H-EWsPbQ78PJYCDLtg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=256.54657&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJB9JzpK5noDkRqeyEx6KHBD4",
+            "name": "Gorikhera Mosque",
+            "description": null,
+            "reviews": 2,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Gorikhera Mosque (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMet0GivnF8WPrO_Kc8NgSny5wzouFOku9zpyKb=w408-h544-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "WP34+MCP Gorikhera Mosque, Gorikhera, Uttarakhand 262405",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Gorikhera+Mosque/data=!4m7!3m6!1s0x39a067aea473d207:0x3e0487a2c784eca9!8m2!3d28.9042143!4d79.7060679!16s%2Fg%2F11k3m6w1_1!19sChIJB9JzpK5noDkRqeyEx6KHBD4?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 2
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJB9JzpK5noDkRqeyEx6KHBD4&q=Gorikhera+Mosque&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.9042143,
+                "longitude": 79.7060679
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "WP34+MCP",
+                "city": "Gorikhera",
+                "postal_code": null,
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "4468845863460203689",
+            "data_id": "0x39a067aea473d207:0x3e0487a2c784eca9",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMet0GivnF8WPrO_Kc8NgSny5wzouFOku9zpyKb=w224-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "I have prayed in this mosque once, I found it very nice and beautiful mosque, it is a very nice mosque inside Gorikheda.",
+                    "reviewer_name": "AH ISLAMIC TV",
+                    "rating": 5,
+                    "review_text": "I have prayed in this mosque once, I found it very nice and beautiful mosque, it is a very nice mosque inside Gorikheda.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-12-07T04:56:57.678000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 19,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112471909938521484306/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUTSb2I7KDRRHos_vr8oQCW05IS_k2ieS6lZKaErshXsw=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nyc",
+                    "reviewer_name": "Aman Ansari",
+                    "rating": 5,
+                    "review_text": "Nyc",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-03-08T03:16:58.294000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102422589442714876259/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJY8_Z0EMCrLRHsDuKdux8X-9_0tGKejRP2AXy1li4WEQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

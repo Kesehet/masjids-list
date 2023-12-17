@@ -1,0 +1,558 @@
+{
+    "query": "masjid neyveli",
+    "places": [
+        {
+            "place_id": "ChIJK5IbHU-xVDoRcV5NzGjaVpM",
+            "name": "Masjid Neyveli",
+            "description": null,
+            "reviews": 16,
+            "competitors": [
+                {
+                    "name": "21 Block Masjid",
+                    "link": "https://www.google.com/maps/search/21+Block+Masjid/@11.6055414,79.4674963?authuser=0&hl=en&entry=ttu",
+                    "reviews": 20,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid E Azam",
+                    "link": "https://www.google.com/maps/search/Masjid+E+Azam/@11.6087914,79.496391?authuser=0&hl=en&entry=ttu",
+                    "reviews": 19,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Mosque block 12",
+                    "link": "https://www.google.com/maps/search/Mosque+block+12/@11.6144479,79.4849077?authuser=0&hl=en&entry=ttu",
+                    "reviews": 13,
+                    "rating": 4.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid-a-rahamath",
+                    "link": "https://www.google.com/maps/search/Masjid-a-rahamath/@11.6184517,79.5435593?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Mosque",
+                    "link": "https://www.google.com/maps/search/Mosque/@11.610752699999999,79.49000029999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid Neyveli (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPdiUf0ykvX-SJ1GjDtlcKBd9Vmo8pBaVw78nIn=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.7,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Masjid Neyveli, 607803, Neyveli Twp Block-12, T T K Salai, Neyveli T.S, Tamil Nadu 607803",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Neyveli/data=!4m7!3m6!1s0x3a54b14f1d1b922b:0x9356da68cc4d5e71!8m2!3d11.6144308!4d79.4849816!16s%2Fg%2F11g6b8t0n_!19sChIJK5IbHU-xVDoRcV5NzGjaVpM?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 14
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJK5IbHU-xVDoRcV5NzGjaVpM&q=Masjid+Neyveli&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 11.6144308,
+                "longitude": 79.4849816
+            },
+            "plus_code": "JF7M+QX Neyveli T.S, Tamil Nadu",
+            "detailed_address": {
+                "ward": "Neyveli Township Block-12, T T K Salai",
+                "street": "607803",
+                "city": "Neyveli T.S",
+                "postal_code": "607803",
+                "state": "Tamil Nadu",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "10616913315211599473",
+            "data_id": "0x3a54b14f1d1b922b:0x9356da68cc4d5e71",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPdiUf0ykvX-SJ1GjDtlcKBd9Vmo8pBaVw78nIn=w529-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9WTKQ21XW92yYOh-caj7gg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=252.96864&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Very Serene and pious place",
+                    "reviewer_name": "ayyagari srinivas",
+                    "rating": 4,
+                    "review_text": "Very Serene and pious place",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-10-11T08:15:49.130000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 73,
+                    "total_number_of_photos_by_reviewer": 22,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116060468941402227808/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXArgV1L8So9BUrwgwXaIAyT7HC1p4ABXbx1_rWT1Ejog=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Heavenly abode to all our Muslim brothers !!",
+                    "reviewer_name": "G.D.AswinKumar",
+                    "rating": 5,
+                    "review_text": "Heavenly abode to all our Muslim brothers !!",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-03-12T18:15:47.938000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 325,
+                    "total_number_of_photos_by_reviewer": 121,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110831179453373422224/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVvGKKJr9q0HaWDt2RbzQ0CLoEPyzXPlBDj6O2YVnufAXqu=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good place for Namaz",
+                    "reviewer_name": "fathima s.shahul hameed",
+                    "rating": 5,
+                    "review_text": "Good place for Namaz",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-02-08T15:33:42.319000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 8,
+                    "total_number_of_photos_by_reviewer": 18,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118223977009480077202/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVkwuGNduEbfJi0V4NpsVgtrQB_YAjqI1K662_Z5K456g=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very seren and pious place",
+                    "reviewer_name": "Ayyagari Srinivas",
+                    "rating": 5,
+                    "review_text": "Very seren and pious place",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-10-07T14:12:00.113000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 33,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105005930450405219214/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWAWLeb3CCcJpIW_rXkaSxOsiyCWPQXLv1kvdPw10oDjA=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "My lovable place",
+                    "reviewer_name": "Mohammed Tharick",
+                    "rating": 5,
+                    "review_text": "My lovable place",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-13T15:52:59.521000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 78,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117895746198968460184/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV3CyKynHrhS51ypaRxZ28TXLIsUFecL-disY3uA6w0adg=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Abdul Aashik",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-07-08T03:20:26.505000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100612745344573895271/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUAyT4RlMDq09ezfjq1LMFRsBWp0Aj3QtjedMICLvmZxrw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Azhar Abdulkader",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-06-28T10:18:58.554000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 21,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102197009024571314396/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI289hd8CSDtJBcngmB3mlDvV0oYqF89eDr6fg5CGfL=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "thamimshamim THAMIM shamim",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-11-19T12:19:11.889000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114408287896052193127/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK2634wRuX9i4OFcjiMVEpmPBeazhdGchNJW1DvSe6B=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJgzo4dv-zVDoRCvBp2CCL9Zc",
+            "name": "21 Block Masjid",
+            "description": null,
+            "reviews": 20,
+            "competitors": [
+                {
+                    "name": "Masjid Neyveli",
+                    "link": "https://www.google.com/maps/search/Masjid+Neyveli/@11.6144308,79.4849816?authuser=0&hl=en&entry=ttu",
+                    "reviews": 16,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Mosque block 12",
+                    "link": "https://www.google.com/maps/search/Mosque+block+12/@11.6144479,79.4849077?authuser=0&hl=en&entry=ttu",
+                    "reviews": 13,
+                    "rating": 4.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Mosque",
+                    "link": "https://www.google.com/maps/search/Mosque/@11.619497899999999,79.50880049999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 7,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid E Nabawi",
+                    "link": "https://www.google.com/maps/search/Masjid+E+Nabawi/@11.6011925,79.4546866?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Block-11 masjid",
+                    "link": "https://www.google.com/maps/search/Block-11+masjid/@11.616762399999999,79.4912512?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "21 Block Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VWuq2Q0y-fRAbAiJUnMVRA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=268.85547&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.4,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "JF48+6X9 21 Block Masjid, Neyveli Twp Block-21, Neyveli T.S, Tamil Nadu 607807",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/21+Block+Masjid/data=!4m7!3m6!1s0x3a54b3ff76383a83:0x97f58b20d869f00a!8m2!3d11.6055414!4d79.4674963!16s%2Fg%2F11c6sr79yc!19sChIJgzo4dv-zVDoRCvBp2CCL9Zc?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 1,
+                "3": 2,
+                "4": 5,
+                "5": 12
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJgzo4dv-zVDoRCvBp2CCL9Zc&q=21+Block+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 11.6055414,
+                "longitude": 79.4674963
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Neyveli Township Block-21",
+                "street": "JF48+6X9",
+                "city": "Neyveli T.S",
+                "postal_code": "607807",
+                "state": "Tamil Nadu",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "10949811042207264778",
+            "data_id": "0x3a54b3ff76383a83:0x97f58b20d869f00a",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VWuq2Q0y-fRAbAiJUnMVRA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=268.85547&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VWuq2Q0y-fRAbAiJUnMVRA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=268.85547&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "This masjid is located in block 21. Five time prayer is going on regularly.\nFriday midday prayer is famous here.\nThose who are suffering from fear can come and get relief irrespective of their age and religion.",
+                    "reviewer_name": "Sekar Poongavanam",
+                    "rating": 5,
+                    "review_text": "This masjid is located in block 21. Five time prayer is going on regularly.\nFriday midday prayer is famous here.\nThose who are suffering from fear can come and get relief irrespective of their age and religion.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-01-12T02:37:02.877000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 450,
+                    "total_number_of_photos_by_reviewer": 798,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113847671513683067684/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVSvIXmMIBoa1S4IS41z7dXx1I7W0h2suCK2NwwjyXwUg=s120-c-rp-mo-ba7-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Friday namaz khutba is at 1.05 PM. Masjid is spacious and clean.",
+                    "reviewer_name": "Hedayat Mohammad",
+                    "rating": 5,
+                    "review_text": "Friday namaz khutba is at 1.05 PM. Masjid is spacious and clean.",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-09-18T04:28:25.929000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 9,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105897400713959392202/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWDepqlhrygYN5XZzMpDn8BRg_MplIzpHZHNh5AsSVVmw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Worship to Muslim. And All Religion Fear Relief Place",
+                    "reviewer_name": "Surender K",
+                    "rating": 4,
+                    "review_text": "Worship to Muslim. And All Religion Fear Relief Place",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-13T07:00:39.548000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106431178768981494253/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUknCPcCJqbAWGSsc4b07TDZ-_cT6XbAtZZav2vRTNr4vA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Old majith",
+                    "reviewer_name": "Rajan Rama",
+                    "rating": 5,
+                    "review_text": "Old majith",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-10-04T08:26:56.952000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 23,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102286123127904172802/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWay0oP0mT7ffWe4wx7LkNhx0CGhic9wxne5lDl8EWp0O0=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "old majith",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "It was good place",
+                    "reviewer_name": "Rishi Kumar",
+                    "rating": 5,
+                    "review_text": "It was good place",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2018-12-18T09:37:46.264000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 10,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101431068384029419197/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLQ6qvEeNGhgrdQBownL2I0KJ7BWzUa72hU9rlpsmGr=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good and calm",
+                    "reviewer_name": "Sreerag Suresh",
+                    "rating": 4,
+                    "review_text": "Good and calm",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-21T08:45:07.460000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 34,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109718972527426512721/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW2LMipoySV5Zh8iMWlTj1joujb-Zv555kG9Lmcn3q_WC4=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good",
+                    "reviewer_name": "Mohammed Tharick",
+                    "rating": 5,
+                    "review_text": "Good",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-09-20T08:48:36.964000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 78,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117895746198968460184/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV3CyKynHrhS51ypaRxZ28TXLIsUFecL-disY3uA6w0adg=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Holy place",
+                    "reviewer_name": "RishiGvp",
+                    "rating": 5,
+                    "review_text": "Holy place",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-13T11:29:25.798000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 68,
+                    "total_number_of_photos_by_reviewer": 34,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114416736881479016142/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX9NiIbXJo3_dIqeny4WEgfptNC5sahINZQaQ-qnSELePI=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

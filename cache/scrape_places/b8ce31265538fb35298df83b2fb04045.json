@@ -1,0 +1,92 @@
+{
+    "query": "masjid asandh",
+    "places": [
+        {
+            "place_id": "ChIJbZOXDWYHDjkRM1i0ef4_sJ0",
+            "name": "Jama Masjid Assandh",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@29.542157099999997,76.9730872?authuser=0&entry=ttu",
+                    "reviews": 8,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Takiye wali Masjid village Jalmana",
+                    "link": "https://www.google.com/maps/search/Takiye+wali+Masjid+village+Jalmana/@29.591260199999994,76.7061899?authuser=0&entry=ttu",
+                    "reviews": 6,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jalmana Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jalmana+Jama+Masjid/@29.591215099999996,76.7061044?authuser=0&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama Masjid Assandh (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "GJC3+G8P Jama Masjid Assandh, Assandh, Assandh Ruralpart, Haryana 132039",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+Masjid+Assandh/@29.5212778,76.6032673,17z/data=!3m1!4b1!4m6!3m5!1s0x390e07660d97936d:0x9db03ffe79b45833!8m2!3d29.5212778!4d76.6032673!16s%2Fg%2F11rqcfct0m?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJbZOXDWYHDjkRM1i0ef4_sJ0&q=Jama+Masjid+Assandh&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.5212778,
+                "longitude": 76.6032673
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Assandh",
+                "street": "GJC3+G8P",
+                "city": "Assandh Ruralpart",
+                "postal_code": "132039",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "11362652222051866675",
+            "data_id": "0x390e07660d97936d:0x9db03ffe79b45833",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

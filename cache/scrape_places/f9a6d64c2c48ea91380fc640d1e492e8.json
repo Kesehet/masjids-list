@@ -1,0 +1,235 @@
+{
+    "query": "masjid alandi",
+    "places": [
+        {
+            "place_id": "ChIJ4cRmW6HJwjsRWucqnIBhztQ",
+            "name": "Alandi jama masjid",
+            "description": null,
+            "reviews": 3,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Alandi jama masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM_JQ8EC4ZH8YzOCsbIFbF5T4OWdN2sBPAu36FE=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "MVFX+698 Alandi jama masjid, Alandi, Pune, Maharashtra 412105",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Alandi+jama+masjid/data=!4m7!3m6!1s0x3bc2c9a15b66c4e1:0xd4ce61809c2ae75a!8m2!3d18.6729718!4d73.8984883!16s%2Fg%2F11krywc4jx!19sChIJ4cRmW6HJwjsRWucqnIBhztQ?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 3
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ4cRmW6HJwjsRWucqnIBhztQ&q=Alandi+jama+masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 18.6729718,
+                "longitude": 73.8984883
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Alandi",
+                "street": "MVFX+698",
+                "city": "Pune",
+                "postal_code": "412105",
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "15334300986246883162",
+            "data_id": "0x3bc2c9a15b66c4e1:0xd4ce61809c2ae75a",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM_JQ8EC4ZH8YzOCsbIFbF5T4OWdN2sBPAu36FE=w529-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hEnRDyY8nC_9U5fMOH0Z5g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=225.73692&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "azim buran",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-08-02T12:46:37.478000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110257579162468429413/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVBOoyHqvtJnMwLexCi002hBGEsq-dbN1z2ze0sCflqBGA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Amaan Moulvi",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-27T08:36:22.687000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100718700878206066949/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLaPUsmrFWXbi6T1mWruXhlcH58nWrD66z5Wb1n6Uqz=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Tech Minister",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "3 weeks ago",
+                    "published_at_date": "2023-11-23T10:15:23.322000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 15,
+                    "total_number_of_photos_by_reviewer": 149,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107277910427515387607/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV4IcAzyLRYyr2Xggi1A3Ra33WrJbFupeMwHZplXarYdnw=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJH7TdxdPJwjsRvtJiYOxUFmA",
+            "name": "Masjid dudulgav",
+            "description": null,
+            "reviews": 1,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid dudulgav (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6R4ACbTLeudEGjJ9bC5JgQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=283.76642&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "MVHJ+2J4 Masjid dudulgav, Dudulgaon, Maharashtra 412105",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+dudulgav/data=!4m7!3m6!1s0x3bc2c9d3c5ddb41f:0x601654ec6062d2be!8m2!3d18.6775231!4d73.8815765!16s%2Fg%2F11ss87_739!19sChIJH7TdxdPJwjsRvtJiYOxUFmA?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJH7TdxdPJwjsRvtJiYOxUFmA&q=Masjid+dudulgav&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 18.6775231,
+                "longitude": 73.8815765
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Dudulgaon",
+                "street": "MVHJ+2J4",
+                "city": null,
+                "postal_code": "412105",
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "6923814851334820542",
+            "data_id": "0x3bc2c9d3c5ddb41f:0x601654ec6062d2be",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6R4ACbTLeudEGjJ9bC5JgQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=283.76642&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6R4ACbTLeudEGjJ9bC5JgQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=283.76642&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Mashallah",
+                    "reviewer_name": "kamran pathan",
+                    "rating": 5,
+                    "review_text": "Mashallah",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-11-10T11:36:17.250000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 23,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109115365352668077094/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW43_ZAZlE3HLCCP_a2QfnOP-P7Xn1k5W0AS4PGaR9mIks=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

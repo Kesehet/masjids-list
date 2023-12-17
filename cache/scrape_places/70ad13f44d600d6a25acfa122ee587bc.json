@@ -1,0 +1,719 @@
+{
+    "query": "masjid obra",
+    "places": [
+        {
+            "place_id": "ChIJS6Lgvv_jjjkRGDbtFKiYkGk",
+            "name": "Jama Masjid Obra",
+            "description": null,
+            "reviews": 36,
+            "competitors": [
+                {
+                    "name": "Sankat Mochan Mandir",
+                    "link": "https://www.google.com/maps/search/Sankat+Mochan+Mandir/@24.470702799999998,82.9820405?authuser=0&hl=en&entry=ttu",
+                    "reviews": 29,
+                    "rating": 3.8,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Noori Maszid",
+                    "link": "https://www.google.com/maps/search/Noori+Maszid/@24.4543217,83.0033283?authuser=0&hl=en&entry=ttu",
+                    "reviews": 22,
+                    "rating": 3.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Millat Nagar Mosque",
+                    "link": "https://www.google.com/maps/search/Millat+Nagar+Mosque/@24.459073699999998,82.998194?authuser=0&hl=en&entry=ttu",
+                    "reviews": 12,
+                    "rating": 3.8,
+                    "main_category": "Place of worship"
+                },
+                {
+                    "name": "Madina Masjid",
+                    "link": "https://www.google.com/maps/search/Madina+Masjid/@24.454660099999998,82.9941264?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 3.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Hanuman Mandir",
+                    "link": "https://www.google.com/maps/search/Hanuman+Mandir/@24.4572394,83.0020749?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 3.7,
+                    "main_category": "Hindu temple"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama Masjid Obra (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPS-KMwXRAQEMxqcANH82bUyzbBZHBQU9Uey9Jr=w507-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4,
+            "workday_timing": "12 am-12 pm",
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "FX5R+FJ4 Jama Masjid Obra, VIP Road, Sector 5, Obra, Uttar Pradesh 231219",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+Masjid+Obra/data=!4m7!3m6!1s0x398ee3ffbee0a24b:0x699098a814ed3618!8m2!3d24.45863!4d82.991567!16s%2Fg%2F11_q37h2l!19sChIJS6Lgvv_jjjkRGDbtFKiYkGk?authuser=0&hl=en&rclk=1",
+            "status": "Open  Closes 12 pm",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 5,
+                "2": 0,
+                "3": 5,
+                "4": 7,
+                "5": 19
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJS6Lgvv_jjjkRGDbtFKiYkGk&q=Jama+Masjid+Obra&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 24.45863,
+                "longitude": 82.99156699999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Sector 5",
+                "street": "FX5R+FJ4, VIP Road",
+                "city": "Obra",
+                "postal_code": "231219",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "7606747618301785624",
+            "data_id": "0x398ee3ffbee0a24b:0x699098a814ed3618",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPS-KMwXRAQEMxqcANH82bUyzbBZHBQU9Uey9Jr=w629-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipO0AdGANeSfOhZ-Xx2afKlTWs_5dHbwTxHonj8I=w529-h298-k-no"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "12 am-12 pm"
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "12 am-12 pm"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "12 am-12 pm"
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "12 am-12 pm"
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "12 am-12 pm"
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "12 am-12 pm"
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "12 am-12 pm"
+                    ]
+                }
+            ],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Nice mosque...wd air conditioned...",
+                    "reviewer_name": "abdul quadir",
+                    "rating": 5,
+                    "review_text": "Nice mosque...wd air conditioned...",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-25T05:26:24.911000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 10,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100709618960912879391/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKETf_VrDw40a4v_ZMPt502MhsjN4rZAXKTJYoqcBnBPg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Enough space inside the mosque with AC.",
+                    "reviewer_name": "Green Zone",
+                    "rating": 5,
+                    "review_text": "Enough space inside the mosque with AC.",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-06-09T20:13:24.516000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 23,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111545771240675114179/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU0j3Dpe8K36n-RjeTQcssF2eMgKeKFhVL9xA-gsSS5wNI=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very small but better",
+                    "reviewer_name": "Shivendra Pandey",
+                    "rating": 3,
+                    "review_text": "Very small but better",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-01-26T14:55:38.141000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 69,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107188268686401359975/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXqqT1KVGlN8RTbYNT4LUxN9BBsz_s5DVZCZxLz8lkoTTg=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "",
+                    "reviewer_name": "Shravan Yadav",
+                    "rating": 5,
+                    "review_text": "",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-11T15:15:32.119000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 34,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111564080614293699916/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVQaUM7kOjuEWypMFYIb_TUYw6M0As133T7lkGq--dRAKhK=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Ok",
+                    "reviewer_name": "A. K. P. forever",
+                    "rating": 3,
+                    "review_text": "Ok",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-08T15:58:08.434000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 110,
+                    "total_number_of_photos_by_reviewer": 68,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112563063543201860131/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXi2-4xJk0Y6LpNDzUe2DrnRasHyvGZj1Xnf-aCqMNEcQ=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Temple",
+                    "reviewer_name": "Aman Saxena",
+                    "rating": 4,
+                    "review_text": "Temple",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-05-14T00:54:42.528000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 105,
+                    "total_number_of_photos_by_reviewer": 11,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104955048041106077228/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVK7mu4SEFKi-03BwLTgqrbwj3hT6h1P2jI9sKHellUiOcC=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Mosque",
+                    "reviewer_name": "Prabhat Kumar chourasia",
+                    "rating": 4,
+                    "review_text": "Mosque",
+                    "published_at": "7 years ago",
+                    "published_at_date": "2016-08-08T07:40:02.328000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 167,
+                    "total_number_of_photos_by_reviewer": 1347,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101908057563740830061/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUx1QRmuZrj4TlbzwmIqZG5jL6vkOrpmeVLkY83SGy8G3na=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Tourist spot",
+                    "reviewer_name": "Shruti Gupta",
+                    "rating": 4,
+                    "review_text": "Tourist spot",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-17T06:36:36.640000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 49,
+                    "total_number_of_photos_by_reviewer": 125,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115336602577898520234/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVJMJFkSLjkHBhr_jFHf2-zLk1ThE_4HDn5CRBMZc9RlCU=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJEdWhtpcDjTkRXOveQGjqRLw",
+            "name": "Zama Masjid OBRA",
+            "description": null,
+            "reviews": 4,
+            "competitors": [
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@24.7503882,84.3774298?authuser=0&hl=en&entry=ttu",
+                    "reviews": 418,
+                    "rating": 4.1,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Zama Masjid",
+                    "link": "https://www.google.com/maps/search/Zama+Masjid/@24.890826699999998,84.3668162?authuser=0&hl=en&entry=ttu",
+                    "reviews": 8,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid Jamhor",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid+Jamhor/@24.850097299999998,84.3239686?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Zamzam Masjid",
+                    "link": "https://www.google.com/maps/search/Zamzam+Masjid/@24.7534682,84.3813784?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Devi Asthan",
+                    "link": "https://www.google.com/maps/search/Devi+Asthan/@24.916505899999997,84.3757802?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Hindu temple"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Zama Masjid OBRA (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Zama Masjid OBRA, Jama Masjid, Masjid Road, Near, Obra, Bihar 824124",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Zama+Masjid+OBRA/data=!4m7!3m6!1s0x398d0397b6a1d511:0xbc44ea6840deeb5c!8m2!3d24.8892522!4d84.3734688!16s%2Fg%2F11h2bwtmqh!19sChIJEdWhtpcDjTkRXOveQGjqRLw?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 3
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJEdWhtpcDjTkRXOveQGjqRLw&q=Zama+Masjid+OBRA&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 24.889252199999998,
+                "longitude": 84.3734688
+            },
+            "plus_code": "V9QF+P9 Obra, Bihar",
+            "detailed_address": {
+                "ward": null,
+                "street": "Jama Masjid, Masjid Road, Near",
+                "city": "Obra",
+                "postal_code": "824124",
+                "state": "Bihar",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "13566225711032626012",
+            "data_id": "0x398d0397b6a1d511:0xbc44ea6840deeb5c",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Be Peace here",
+                    "reviewer_name": "Aryan Bieber fans",
+                    "rating": 5,
+                    "review_text": "Be Peace here",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2018-12-22T08:50:06.948000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 14,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102208386050927075451/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWgXyCZjF_GIFn8SE0_1jWZwUoLHs-N-9rxJqae2RsEsk0=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Shaikh Masroor",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-06-06T13:32:51.576000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108206953469155666930/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUjwHM0Pw5ccr_EEVqjJZn8eg0HIuek7MIyqjLj8_edN9s=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Azad Ansari1024",
+                    "rating": 1,
+                    "review_text": null,
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-05-30T16:21:51.937000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 9,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114507413965542422384/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUoEgyCsZn5uWDUu1b5Q4g7RiuRLm_IDoZr3OV9ejL3ag=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Kamran",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-06-02T12:23:31.830000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105962014688815106239/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWSa3w6L1E0ovRYVDsX_DS3bw7YEO0VTc422tEPZ245UCg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJcd_W7ZznjjkRXUyuKbukaVM",
+            "name": "Madina Masjid",
+            "description": null,
+            "reviews": 4,
+            "competitors": [
+                {
+                    "name": "Jama Masjid Obra",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid+Obra/@24.45863,82.99156699999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 36,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Sankat Mochan Mandir",
+                    "link": "https://www.google.com/maps/search/Sankat+Mochan+Mandir/@24.470702799999998,82.9820405?authuser=0&hl=en&entry=ttu",
+                    "reviews": 29,
+                    "rating": 3.8,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Noori Maszid",
+                    "link": "https://www.google.com/maps/search/Noori+Maszid/@24.4543217,83.0033283?authuser=0&hl=en&entry=ttu",
+                    "reviews": 22,
+                    "rating": 3.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Millat Nagar Mosque",
+                    "link": "https://www.google.com/maps/search/Millat+Nagar+Mosque/@24.459073699999998,82.998194?authuser=0&hl=en&entry=ttu",
+                    "reviews": 12,
+                    "rating": 3.8,
+                    "main_category": "Place of worship"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Madina Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPdCMkKZRyCzQUcP-52ESRPvx7cyqosVUbu6EIr=w408-h544-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 3.3,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "FX3V+VM6 Madina Masjid, Panari, Obra, Uttar Pradesh 231219",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Madina+Masjid/data=!4m7!3m6!1s0x398ee79cedd6df71:0x5369a4bb29ae4c5d!8m2!3d24.4546601!4d82.9941264!16s%2Fg%2F11n5k_976x!19sChIJcd_W7ZznjjkRXUyuKbukaVM?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 1,
+                "3": 0,
+                "4": 0,
+                "5": 2
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJcd_W7ZznjjkRXUyuKbukaVM&q=Madina+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 24.454660099999998,
+                "longitude": 82.9941264
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Panari",
+                "street": "FX3V+VM6",
+                "city": "Obra",
+                "postal_code": "231219",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "6010516301467765853",
+            "data_id": "0x398ee79cedd6df71:0x5369a4bb29ae4c5d",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPdCMkKZRyCzQUcP-52ESRPvx7cyqosVUbu6EIr=w224-h298-k-no"
+                },
+                {
+                    "about": "Latest",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPgOcLrnEs2SoC0yIQ3_r4svyid6VN2-JWQ1Ipa=w224-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOxyjM6KUaR9lmtkkdJCxmy5f44B7gasCSilLAY=w397-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPgOcLrnEs2SoC0yIQ3_r4svyid6VN2-JWQ1Ipa=w224-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Jama majid and madarsha dalla dalla road",
+                    "reviewer_name": "Aliul Khan",
+                    "rating": 5,
+                    "review_text": "Jama majid and madarsha dalla dalla road",
+                    "published_at": "3 weeks ago",
+                    "published_at_date": "2023-11-24T08:36:40.171000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117862684860277031295/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU9pHRCRpXm8mQU2uGasORi0zm4-s6ejU-Qq4W5P6ByGT8=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNQ2TyV__-7j-H8awSXat9ACaoAI99f_q4riVxK=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPgOcLrnEs2SoC0yIQ3_r4svyid6VN2-JWQ1Ipa=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPdCMkKZRyCzQUcP-52ESRPvx7cyqosVUbu6EIr=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Beautiful masjid madina masjid",
+                    "reviewer_name": "Arif Qureshi",
+                    "rating": 2,
+                    "review_text": "Beautiful masjid madina masjid",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-11-21T13:43:13.459000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117764164381165665348/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXySEpbj8eVtaKRKkOgdgJvI8izhYP21idEnNLjsEx59A=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Sahadat Husain",
+                    "rating": 1,
+                    "review_text": null,
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-11-11T06:20:08.056000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114157445613903183799/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXR4c3J35ku60hO0i2e-Y5hf5v8pAV_MzA47yHMFt5L8cY=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Noori network",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-04-30T08:15:21.384000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 41,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106910836275429795022/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU2x8mtaKGV2BLhigKx4Fa79I57jdwrWY5UF772CiIYeCk=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

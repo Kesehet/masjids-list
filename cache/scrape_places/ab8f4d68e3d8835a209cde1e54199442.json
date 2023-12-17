@@ -1,0 +1,1398 @@
+{
+    "query": "masjid tadpatri",
+    "places": [
+        {
+            "place_id": "ChIJFUdNPckdtDsRvYWAqAhYBnY",
+            "name": "Masjid",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Bandaa Masjid",
+                    "link": "https://www.google.com/maps/search/Bandaa+Masjid/@14.910686999999998,78.0040978?authuser=0&hl=en&entry=ttu",
+                    "reviews": 155,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid e Madina",
+                    "link": "https://www.google.com/maps/search/Masjid+e+Madina/@14.911089599999997,78.0017793?authuser=0&hl=en&entry=ttu",
+                    "reviews": 42,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Fatah Masjid",
+                    "link": "https://www.google.com/maps/search/Fatah+Masjid/@14.906670199999997,78.00377900000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 32,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jamiya Masjid",
+                    "link": "https://www.google.com/maps/search/Jamiya+Masjid/@14.9137461,78.004425?authuser=0&hl=en&entry=ttu",
+                    "reviews": 23,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Khilla Masjid",
+                    "link": "https://www.google.com/maps/search/Khilla+Masjid/@14.913192899999999,78.0120432?authuser=0&hl=en&entry=ttu",
+                    "reviews": 16,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "W265+RFR Masjid, Gandhi Katta, Tadipatri, Andhra Pradesh 515411",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid/data=!4m7!3m6!1s0x3bb41dc93d4d4715:0x76065808a88085bd!8m2!3d14.9121063!4d78.0086847!16s%2Fg%2F11shy17szd!19sChIJFUdNPckdtDsRvYWAqAhYBnY?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJFUdNPckdtDsRvYWAqAhYBnY&q=Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 14.9121063,
+                "longitude": 78.0086847
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Gandhi Katta",
+                "street": "W265+RFR",
+                "city": "Tadipatri",
+                "postal_code": "515411",
+                "state": "Andhra Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "8504581740545738173",
+            "data_id": "0x3bb41dc93d4d4715:0x76065808a88085bd",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJKSlrHrEctDsRxDAeCRGf6Gc",
+            "name": "Bandaa Masjid",
+            "description": null,
+            "reviews": 155,
+            "competitors": [
+                {
+                    "name": "Masjid e Madina",
+                    "link": "https://www.google.com/maps/search/Masjid+e+Madina/@14.911089599999997,78.0017793?authuser=0&hl=en&entry=ttu",
+                    "reviews": 42,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jamiya Masjid",
+                    "link": "https://www.google.com/maps/search/Jamiya+Masjid/@14.9137461,78.004425?authuser=0&hl=en&entry=ttu",
+                    "reviews": 23,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Khilla Masjid",
+                    "link": "https://www.google.com/maps/search/Khilla+Masjid/@14.913192899999999,78.0120432?authuser=0&hl=en&entry=ttu",
+                    "reviews": 16,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Bowli Masjid",
+                    "link": "https://www.google.com/maps/search/Bowli+Masjid/@14.909953499999999,78.0059331?authuser=0&hl=en&entry=ttu",
+                    "reviews": 12,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid E Abu Bakar Chikkad Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid+E+Abu+Bakar+Chikkad+Masjid/@14.9121102,78.0086391?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Bandaa Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPpEVDc9pdY_fHak3OvNISdvWJZB9PDzPRMGt03=w408-h631-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.7,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "W263+7JH Bandaa Masjid, CB Rd, near Syndicate Bank, Gandhi Katta, Tadipatri, Andhra Pradesh 515411",
+            "review_keywords": [
+                {
+                    "keyword": "peace",
+                    "count": 9
+                },
+                {
+                    "keyword": "pray",
+                    "count": 3
+                }
+            ],
+            "link": "https://www.google.com/maps/place/Bandaa+Masjid/data=!4m7!3m6!1s0x3bb41cb11e6b2929:0x67e89f11091e30c4!8m2!3d14.910687!4d78.0040978!16s%2Fg%2F1hf70wmbl!19sChIJKSlrHrEctDsRxDAeCRGf6Gc?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 3,
+                "3": 7,
+                "4": 25,
+                "5": 119
+            },
+            "featured_question": {
+                "question": "(Translated by Google) Banad Masjid Masha Allah\n\n(Original)\nBanad Masjid Masha allah",
+                "answer": "(Translated by Google) Shubhanallah\n\n(Original)\nShubhanallah ",
+                "question_date": "2021-09-24T03:56:09",
+                "question_ago": "2 years ago",
+                "asked_by": {
+                    "name": "Allabakash Arts",
+                    "link": "https://www.google.com/maps/contrib/115850498102143997227"
+                },
+                "answer_date": "2021-09-24T03:56:35",
+                "answer_ago": "2 years ago",
+                "answered_by": {
+                    "name": "Allabakash Arts",
+                    "link": "https://www.google.com/maps/contrib/115850498102143997227"
+                }
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJKSlrHrEctDsRxDAeCRGf6Gc&q=Bandaa+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 14.910687,
+                "longitude": 78.0040978
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Gandhi Katta",
+                "street": "W263+7JH, CB Rd, near Syndicate Bank",
+                "city": "Tadipatri",
+                "postal_code": "515411",
+                "state": "Andhra Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "7487409276019683524",
+            "data_id": "0x3bb41cb11e6b2929:0x67e89f11091e30c4",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPpEVDc9pdY_fHak3OvNISdvWJZB9PDzPRMGt03=w224-h346-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNKFj_i5uG7RDvVWHoMCmdkHyN8E1yjQqwgD6xs=w224-h397-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipO2qwZxCFIqqQ2fsuTRa6GWLwQ8ztZ9dHIm1Lp1=w224-h397-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=C8NzqSJYGtwaFsfry59kTQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=16.310827&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "This place is very famous in tadipatri and my shop also there opp masjid dada gas stove sales and service center",
+                    "reviewer_name": "khaja peer",
+                    "rating": 5,
+                    "review_text": "This place is very famous in tadipatri and my shop also there opp masjid dada gas stove sales and service center",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-08-31T07:22:47.191000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 21,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104696489609900026078/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU3lCBMRcBV_zCNdxZzsO1vQWfPmCl9veWHmy1bbFMGcHUp=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNKFj_i5uG7RDvVWHoMCmdkHyN8E1yjQqwgD6xs=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMz0yr_W7WX5tEckz0ywsL7yrfziQ3bxdjsVQBZ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMwExN-49m3Q15rmY0Z3w_7s5_poK_n6QFTrYNM=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMdtFiiFrDLEdhYDIkS7PvTyd9Gvw1wPtAvUcsg=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Peaceful place",
+                    "reviewer_name": "Shahajad Alam",
+                    "rating": 5,
+                    "review_text": "Peaceful place",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-23T17:22:42.740000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 11,
+                    "total_number_of_photos_by_reviewer": 11,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117772529408603679032/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJDoHjp0JWApCGxmyHOkUEAygXfpxgDLP5rBVdPSFE_V6M=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPpEVDc9pdY_fHak3OvNISdvWJZB9PDzPRMGt03=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I always respect all religion,i gave 5stars bcs in every mosques there will be peace inside and in these days we have to...",
+                    "reviewer_name": "gulam khalid",
+                    "rating": 5,
+                    "review_text": "I always respect all religion,i gave 5stars bcs in every mosques there will be peace inside and in these days we have to...",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-17T06:37:11.378000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 33,
+                    "total_number_of_photos_by_reviewer": 8,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116082758456258129504/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUsSp_zO9eBT2UecgB96HWDUbaJe-mlFe-i7vsVXSWDYAXS=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Peaceful place to visit, refresh yourself with soothing voice of imam.",
+                    "reviewer_name": "Syed Ehetesham",
+                    "rating": 5,
+                    "review_text": "Peaceful place to visit, refresh yourself with soothing voice of imam.",
+                    "published_at": "11 months ago",
+                    "published_at_date": "2022-12-28T07:16:28.578000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 16,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106674031420145376857/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWCK7WC5bp4-3vliLTRIJbOBrz9Af8C4N6TzFrEOZ4G_M8=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "This place is famous in tadipatri.\nBanda masjid has more visit of Muslims for purpose of namaz.\n\nIt is near to cb road .",
+                    "reviewer_name": "ASHOK GADDAM",
+                    "rating": 5,
+                    "review_text": "This place is famous in tadipatri.\nBanda masjid has more visit of Muslims for purpose of namaz.\n\nIt is near to cb road .",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-04-24T17:38:12.422000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 83,
+                    "total_number_of_photos_by_reviewer": 107,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109498238046778964926/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWdkvxb2v7pFAO20MK4kBpGe04K7uvZoZg7CU7THFrM6Wd1=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "It's a big masque in tadipatri",
+                    "reviewer_name": "shaik ShaVali",
+                    "rating": 5,
+                    "review_text": "It's a big masque in tadipatri",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-04-21T07:37:57.002000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101966757552861170681/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUgOvdwT3Ja9eDIqxkkrqeYodtEi7y3d4UFCfsrLwionFY=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOGNBj5dPitvrG6sdFdH9nRWQYMj8ZASGht7gIw=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Peace full location to feel the presence parking facility available great facility for road side travellers",
+                    "reviewer_name": "Basha Mv",
+                    "rating": 5,
+                    "review_text": "Peace full location to feel the presence parking facility available great facility for road side travellers",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-01-17T02:58:00.130000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116615509028123471725/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKG71oPJYAJfrxUT1TYKNvTT9zjYZgXPyFiOfYMOHmH=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Becoz, at this place we get to many break fast, lunch & Tea hotels, hospitals, Two Wheeler Mechanics and ATM's Also.",
+                    "reviewer_name": "Jeelan Shamalic",
+                    "rating": 5,
+                    "review_text": "Becoz, at this place we get to many break fast, lunch & Tea hotels, hospitals, Two Wheeler Mechanics and ATM's Also.",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-07-19T17:40:53.101000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 14,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109408564889874750579/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWbAkjGcwsF8sFHZCU9v-px1b3FV3CXoArd6TGHggERmuA=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJUTZ6g7ActDsRCPx-ilroZBk",
+            "name": "Jamiya Masjid",
+            "description": null,
+            "reviews": 23,
+            "competitors": [
+                {
+                    "name": "Bandaa Masjid",
+                    "link": "https://www.google.com/maps/search/Bandaa+Masjid/@14.910686999999998,78.0040978?authuser=0&hl=en&entry=ttu",
+                    "reviews": 155,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid e Madina",
+                    "link": "https://www.google.com/maps/search/Masjid+e+Madina/@14.911089599999997,78.0017793?authuser=0&hl=en&entry=ttu",
+                    "reviews": 42,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Fatah Masjid",
+                    "link": "https://www.google.com/maps/search/Fatah+Masjid/@14.906670199999997,78.00377900000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 32,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Khilla Masjid",
+                    "link": "https://www.google.com/maps/search/Khilla+Masjid/@14.913192899999999,78.0120432?authuser=0&hl=en&entry=ttu",
+                    "reviews": 16,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Bowli Masjid",
+                    "link": "https://www.google.com/maps/search/Bowli+Masjid/@14.909953499999999,78.0059331?authuser=0&hl=en&entry=ttu",
+                    "reviews": 12,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jamiya Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLh39Ibg0rV-JsJdZqxSw6f1-fgZtlF_KIfaHO=w408-h306-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.4,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Jamiya Masjid, 13/93, Main Bazar Rd, Gandhi Katta, Tadipatri, Andhra Pradesh 515411",
+            "review_keywords": [
+                {
+                    "keyword": "peaceful",
+                    "count": 4
+                }
+            ],
+            "link": "https://www.google.com/maps/place/Jamiya+Masjid/data=!4m7!3m6!1s0x3bb41cb0837a3651:0x1964e85a8a7efc08!8m2!3d14.9137461!4d78.004425!16s%2Fg%2F1hf1rxv7x!19sChIJUTZ6g7ActDsRCPx-ilroZBk?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 1,
+                "3": 2,
+                "4": 7,
+                "5": 13
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJUTZ6g7ActDsRCPx-ilroZBk&q=Jamiya+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 14.9137461,
+                "longitude": 78.004425
+            },
+            "plus_code": "W273+FQ Tadipatri, Andhra Pradesh",
+            "detailed_address": {
+                "ward": "Gandhi Katta",
+                "street": "13/93, Main Bazar Rd",
+                "city": "Tadipatri",
+                "postal_code": "515411",
+                "state": "Andhra Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "1829842824187542536",
+            "data_id": "0x3bb41cb0837a3651:0x1964e85a8a7efc08",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNLh39Ibg0rV-JsJdZqxSw6f1-fgZtlF_KIfaHO=w397-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOisRZxX4lDdBoE7ehwWjyZYj4oOlSR_ltEMoFt=w224-h399-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Good peaceful environment for namaz and the vadu pound is also so nyc",
+                    "reviewer_name": "Mohammad Adil",
+                    "rating": 5,
+                    "review_text": "Good peaceful environment for namaz and the vadu pound is also so nyc",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-01-13T08:30:58.981000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114443040889276055484/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJkU3jj5wLOgC48rE1edLDFrBA5y7vFoQOjK0f3szvd=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Peaceful place for praying namaz....",
+                    "reviewer_name": "irfan basha",
+                    "rating": 5,
+                    "review_text": "Peaceful place for praying namaz....",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-06T04:08:19.817000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 26,
+                    "total_number_of_photos_by_reviewer": 32,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108994196646468628222/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUkO6JPZZtWozl30CCfD3VOx8w36XFXdI_s5Gkz3Ices8Y=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Lovely...well maintained...and peaceful",
+                    "reviewer_name": "Mohd",
+                    "rating": 5,
+                    "review_text": "Lovely...well maintained...and peaceful",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-11T11:35:29.040000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 17,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113157273332709030658/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKWhSUGIGF6TgCA4tJGF2XN8HcWGYU6_rLggsEz5zYt=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Is this Abdullah Shaheed darga?",
+                    "reviewer_name": "Salma SF",
+                    "rating": 5,
+                    "review_text": "Is this Abdullah Shaheed darga?",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-10-15T19:35:05.650000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 33,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113744525602338938413/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUU4kc6JEfVG6kWFr1wrTFkmUtHxgrmsTLE1Y6nY5fK6Q=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Over of the oldest mosque in the town",
+                    "reviewer_name": "SYED NOORUDDIN HUSSAINI",
+                    "rating": 3,
+                    "review_text": "Over of the oldest mosque in the town",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-12-13T05:13:54.795000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 128,
+                    "total_number_of_photos_by_reviewer": 45,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114856504611303837933/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUfSLztaAjCGALCQRYVqYdn5gMCuFkEvGYQ0RICVS9xiCI=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I love this place for peace.",
+                    "reviewer_name": "khajapeer syed",
+                    "rating": 5,
+                    "review_text": "I love this place for peace.",
+                    "published_at": "7 years ago",
+                    "published_at_date": "2016-06-18T10:51:35.784000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 73,
+                    "total_number_of_photos_by_reviewer": 262,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109852490382427236842/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVJHoRkglNEigEDoHcZe6TalSny4Y5mrVY6Shgs00u0yxs=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Tadipatri biggest masjid",
+                    "reviewer_name": "Smd Suhail",
+                    "rating": 5,
+                    "review_text": "Tadipatri biggest masjid",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-06T06:01:55.975000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 12,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100864922173469077428/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLYkCOkir2tFn8q9ucIqn-gDet3ZECvsP3Ng2yziu7a=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Superb",
+                    "reviewer_name": "Rama Krishna",
+                    "rating": 4,
+                    "review_text": "Superb",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2018-12-20T02:48:08.708000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 145,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116306087595736855784/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocISf9lUAeW8VC-yh3J-Ei-5LoxnAl20HDtj_Yb2QvA9y1g=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJo_PscyQdtDsR6FU8rFAeWfA",
+            "name": "Masjid E Yaseen Peer",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Jamiya Masjid",
+                    "link": "https://www.google.com/maps/search/Jamiya+Masjid/@14.9137461,78.004425?authuser=0&hl=en&entry=ttu",
+                    "reviews": 23,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Roaza Masjid",
+                    "link": "https://www.google.com/maps/search/Roaza+Masjid/@14.9123098,78.00396169999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 8,
+                    "rating": 3.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid E Muhammadiya",
+                    "link": "https://www.google.com/maps/search/Masjid+E+Muhammadiya/@14.9075621,78.00439329999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 6,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid E Gousiya",
+                    "link": "https://www.google.com/maps/search/Masjid+E+Gousiya/@14.901058899999999,78.0141376?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid E Khalandriya",
+                    "link": "https://www.google.com/maps/search/Masjid+E+Khalandriya/@14.9091633,77.99684239999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid E Yaseen Peer (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8Hinq8ZbJuSQuUYs_nR4rMW7cPwv2vM5xtor4=w408-h725-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "W273+395 Masjid E Yaseen Peer, Gandhi Katta, Tadipatri, Andhra Pradesh 515411",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+E+Yaseen+Peer/data=!4m7!3m6!1s0x3bb41d2473ecf3a3:0xf0591e50ac3c55e8!8m2!3d14.9126334!4d78.0034883!16s%2Fg%2F11ry9x32qy!19sChIJo_PscyQdtDsR6FU8rFAeWfA?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJo_PscyQdtDsR6FU8rFAeWfA&q=Masjid+E+Yaseen+Peer&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 14.912633399999999,
+                "longitude": 78.0034883
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Gandhi Katta",
+                "street": "W273+395",
+                "city": "Tadipatri",
+                "postal_code": "515411",
+                "state": "Andhra Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "17318907173865805288",
+            "data_id": "0x3bb41d2473ecf3a3:0xf0591e50ac3c55e8",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipN8Hinq8ZbJuSQuUYs_nR4rMW7cPwv2vM5xtor4=w224-h398-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipN8Hinq8ZbJuSQuUYs_nR4rMW7cPwv2vM5xtor4=w224-h398-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=K7VbTPbdiJoEhpyYDzX0dA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=159.15617&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJcfEEn8UdtDsRZ7oeBHPiOLM",
+            "name": "Masjid E Abu Bakar Chikkad Masjid",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Bandaa Masjid",
+                    "link": "https://www.google.com/maps/search/Bandaa+Masjid/@14.910686999999998,78.0040978?authuser=0&hl=en&entry=ttu",
+                    "reviews": 155,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid e Madina",
+                    "link": "https://www.google.com/maps/search/Masjid+e+Madina/@14.911089599999997,78.0017793?authuser=0&hl=en&entry=ttu",
+                    "reviews": 42,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jamiya Masjid",
+                    "link": "https://www.google.com/maps/search/Jamiya+Masjid/@14.9137461,78.004425?authuser=0&hl=en&entry=ttu",
+                    "reviews": 23,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Bowli Masjid",
+                    "link": "https://www.google.com/maps/search/Bowli+Masjid/@14.909953499999999,78.0059331?authuser=0&hl=en&entry=ttu",
+                    "reviews": 12,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid E Asaar",
+                    "link": "https://www.google.com/maps/search/Masjid+E+Asaar/@14.9111229,78.0072658?authuser=0&hl=en&entry=ttu",
+                    "reviews": 10,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid E Abu Bakar Chikkad Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "W265+RFR Masjid E Abu Bakar Chikkad Masjid, Gandhi Katta, Tadipatri, Andhra Pradesh 515411",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+E+Abu+Bakar+Chikkad+Masjid/data=!4m7!3m6!1s0x3bb41dc59f04f171:0xb338e273041eba67!8m2!3d14.9121102!4d78.0086391!16s%2Fg%2F11r_fgcgk4!19sChIJcfEEn8UdtDsRZ7oeBHPiOLM?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJcfEEn8UdtDsRZ7oeBHPiOLM&q=Masjid+E+Abu+Bakar+Chikkad+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 14.912110199999999,
+                "longitude": 78.0086391
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Gandhi Katta",
+                "street": "W265+RFR",
+                "city": "Tadipatri",
+                "postal_code": "515411",
+                "state": "Andhra Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "12914320915103136359",
+            "data_id": "0x3bb41dc59f04f171:0xb338e273041eba67",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Good",
+                    "reviewer_name": "Contractor Shaheed Basha",
+                    "rating": 5,
+                    "review_text": "Good",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-28T14:29:44.003000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 26,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101988584543524862666/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVcJ-FYxhjAPVIOs7cdy1AmoBYaYPmONZegbnPgGc1c3dI=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJe1PoNk0DtDsRPTCjw5kzVpY",
+            "name": "Masjid E Noorani",
+            "description": null,
+            "reviews": 33,
+            "competitors": [
+                {
+                    "name": "Masjid e Madina",
+                    "link": "https://www.google.com/maps/search/Masjid+e+Madina/@14.911089599999997,78.0017793?authuser=0&hl=en&entry=ttu",
+                    "reviews": 42,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Hazrath Mastan Vali Dargah",
+                    "link": "https://www.google.com/maps/search/Hazrath+Mastan+Vali+Dargah/@14.908920599999998,77.99701979999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 37,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Fatah Masjid",
+                    "link": "https://www.google.com/maps/search/Fatah+Masjid/@14.906670199999997,78.00377900000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 32,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jamiya Masjid",
+                    "link": "https://www.google.com/maps/search/Jamiya+Masjid/@14.9137461,78.004425?authuser=0&hl=en&entry=ttu",
+                    "reviews": 23,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid E Khalandriya",
+                    "link": "https://www.google.com/maps/search/Masjid+E+Khalandriya/@14.9091633,77.99684239999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid E Noorani (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN3KQ-rVRJyEXe4WJqoDgweCqdWcPd242trQiN4=w408-h725-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.3,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Masjid E Noorani, 3/1066-6-2, Tailors Colony, Krishna Puram, Tadipatri, Andhra Pradesh 515411",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+E+Noorani/data=!4m7!3m6!1s0x3bb4034d36e8537b:0x96563399c3a3303d!8m2!3d14.9015612!4d78.0055752!16s%2Fg%2F11fy4nk02f!19sChIJe1PoNk0DtDsRPTCjw5kzVpY?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 3,
+                "2": 2,
+                "3": 0,
+                "4": 6,
+                "5": 22
+            },
+            "featured_question": {
+                "question": "Which Kilometres Tadipatri to",
+                "answer": "10 Minutes Tailor Colony",
+                "question_date": "2021-09-24T01:42:00",
+                "question_ago": "2 years ago",
+                "asked_by": {
+                    "name": "Allabakash Arts",
+                    "link": "https://www.google.com/maps/contrib/115850498102143997227"
+                },
+                "answer_date": "2021-09-29T06:47:14",
+                "answer_ago": "2 years ago",
+                "answered_by": {
+                    "name": "Allabakash Arts",
+                    "link": "https://www.google.com/maps/contrib/115850498102143997227"
+                }
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJe1PoNk0DtDsRPTCjw5kzVpY&q=Masjid+E+Noorani&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 14.9015612,
+                "longitude": 78.0055752
+            },
+            "plus_code": "W224+J6 Tadipatri, Andhra Pradesh",
+            "detailed_address": {
+                "ward": "Tailors Colony, Krishna Puram",
+                "street": "3/1066-6-2",
+                "city": "Tadipatri",
+                "postal_code": "515411",
+                "state": "Andhra Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "10832902689191571517",
+            "data_id": "0x3bb4034d36e8537b:0x96563399c3a3303d",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipN3KQ-rVRJyEXe4WJqoDgweCqdWcPd242trQiN4=w224-h398-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMm8VjRiy1mm762P9cREqpbLlJyKra0dxia3tzC=w224-h398-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Exlent",
+                    "reviewer_name": "MAHAMMAD K GOUSE GOUSE",
+                    "rating": 5,
+                    "review_text": "Exlent",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-19T04:41:14.736000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 44,
+                    "total_number_of_photos_by_reviewer": 125,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109501099136453391745/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVwd3NgSOBQWIBv8sJ4HwYxigbEwfdfB_39GoVr78EI26Q=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Peaceful place for pray....",
+                    "reviewer_name": "irfan basha",
+                    "rating": 5,
+                    "review_text": "Peaceful place for pray....",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-06T04:03:57.564000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 26,
+                    "total_number_of_photos_by_reviewer": 32,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108994196646468628222/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUkO6JPZZtWozl30CCfD3VOx8w36XFXdI_s5Gkz3Ices8Y=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good masjid development",
+                    "reviewer_name": "Tasab Gouse",
+                    "rating": 5,
+                    "review_text": "Good masjid development",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-08-08T03:19:10.346000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102708141508200837143/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVj3j6MoFychOr2uZUPYShO4iuxW_MGaoJR3VMlTgh2R9M=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "So nice",
+                    "reviewer_name": "Manohar Thammisetty",
+                    "rating": 5,
+                    "review_text": "So nice",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-04-15T14:38:10.550000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 83,
+                    "total_number_of_photos_by_reviewer": 28,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102130256727188560554/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUxhbrgieSVUOiWrY_ij-haEz_SrHOllL7PFVWAmsgHuQ=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Its maszid in TAILORS COLONY tadipatri",
+                    "reviewer_name": "Mahammad Younis",
+                    "rating": 5,
+                    "review_text": "Its maszid in TAILORS COLONY tadipatri",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-05-19T16:12:54.285000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 8,
+                    "total_number_of_photos_by_reviewer": 7,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110258101872104109903/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXkv0ktTVmpXzC7LzAuZjixvqjeyPoqqEPqDvp1_GIYieiO=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "No parking place",
+                    "reviewer_name": "Jaheer Ahemed",
+                    "rating": 2,
+                    "review_text": "No parking place",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-12-02T10:33:55.579000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 187,
+                    "total_number_of_photos_by_reviewer": 201,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103231672168833552401/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI4ZbhJnStKsP74a0IkEWzd598piGermPQguctviU84=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "God",
+                    "reviewer_name": "Haji Babu",
+                    "rating": 4,
+                    "review_text": "God",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-23T04:22:47.076000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 15,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117680109277974533835/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWxE93ALlcIC9SINBhM3S8-Fogf2y2_BnTtGrKmTk9_524d=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice",
+                    "reviewer_name": "haji bs",
+                    "rating": 4,
+                    "review_text": "Nice",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-02-28T04:39:41.550000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 10,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116042149587019783977/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXc-X-jpan75uCYZFTyWgImY0CBBjMroqgQGucotOwX9JZy=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJqz7NJrYctDsRfwyta1hMmmg",
+            "name": "Darga Masjid. Tadpatri",
+            "description": null,
+            "reviews": 3,
+            "competitors": [
+                {
+                    "name": "Bandaa Masjid",
+                    "link": "https://www.google.com/maps/search/Bandaa+Masjid/@14.910686999999998,78.0040978?authuser=0&hl=en&entry=ttu",
+                    "reviews": 155,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "HAZRATH SYED YASEEN VALI DARGAH",
+                    "link": "https://www.google.com/maps/search/HAZRATH+SYED+YASEEN+VALI+DARGAH/@14.9124197,78.0036834?authuser=0&hl=en&entry=ttu",
+                    "reviews": 85,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid e Madina",
+                    "link": "https://www.google.com/maps/search/Masjid+e+Madina/@14.911089599999997,78.0017793?authuser=0&hl=en&entry=ttu",
+                    "reviews": 42,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Hazrath Mastan Vali Dargah",
+                    "link": "https://www.google.com/maps/search/Hazrath+Mastan+Vali+Dargah/@14.908920599999998,77.99701979999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 37,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Syed Ahmed Sahib Dargah",
+                    "link": "https://www.google.com/maps/search/Syed+Ahmed+Sahib+Dargah/@14.909258099999997,77.99672009999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Place of worship"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Darga Masjid. Tadpatri (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOsvu1Pr--0qrr6gQb4NQBM_TfNCJMAEBp8tZmY=w408-h306-k-no",
+            "main_category": "Place of worship",
+            "categories": [
+                "Place of worship"
+            ],
+            "rating": 4.3,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "WX5W+MQM Darga Masjid. Tadpatri, CB Rd, behind Canara bank, Sanjeeva Nagar, Tadipatri, Andhra Pradesh 515411",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Darga+Masjid.+Tadpatri/data=!4m7!3m6!1s0x3bb41cb626cd3eab:0x689a4c586bad0c7f!8m2!3d14.9092248!4d77.9969343!16s%2Fg%2F11c45tvlgr!19sChIJqz7NJrYctDsRfwyta1hMmmg?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 2,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJqz7NJrYctDsRfwyta1hMmmg&q=Darga+Masjid.+Tadpatri&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 14.909224799999999,
+                "longitude": 77.99693429999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Sanjeeva Nagar",
+                "street": "WX5W+MQM, CB Rd, behind Canara bank",
+                "city": "Tadipatri",
+                "postal_code": "515411",
+                "state": "Andhra Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "7537420869005282431",
+            "data_id": "0x3bb41cb626cd3eab:0x689a4c586bad0c7f",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOsvu1Pr--0qrr6gQb4NQBM_TfNCJMAEBp8tZmY=w397-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yRKXXQuuAu-rUNp7Ix_qaw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=163.75642&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Ok",
+                    "reviewer_name": "Mohammed Hassan",
+                    "rating": 4,
+                    "review_text": "Ok",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-10-07T19:11:52.246000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 162,
+                    "total_number_of_photos_by_reviewer": 614,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106484032921537138253/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUtpZMgzSrKpKR5CQWouEv3KWCcOYM-NB5NO_wnfUiSLsA=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Assalamu alaikum wa Rahmatullahi wa Barkathahu ",
+                    "reviewer_name": "Shaikshavali Vali",
+                    "rating": 5,
+                    "review_text": "Assalamu alaikum wa Rahmatullahi wa Barkathahu ",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-05-21T09:38:53.816000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109672698048331903736/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJfviENKzBkWGOvDgZNNQeEFTRGOdDC9TlE9P_N6x1i=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Nasru Khan",
+                    "rating": 4,
+                    "review_text": null,
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-03-14T13:58:51.723000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 12,
+                    "total_number_of_photos_by_reviewer": 12,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104573890073158590344/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV0IFYLo0-JDMBPI2Hf1bFhC40_1IuMGeD3DgVKIB3xCg=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

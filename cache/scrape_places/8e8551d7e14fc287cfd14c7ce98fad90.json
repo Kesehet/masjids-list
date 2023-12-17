@@ -1,0 +1,702 @@
+{
+    "query": "masjid fatehgarh churian",
+    "places": [
+        {
+            "place_id": "ChIJwZf43mHhGzkRA-NYsjbZGK0",
+            "name": "Baba Garb Shah Ji",
+            "description": null,
+            "reviews": 5,
+            "competitors": [
+                {
+                    "name": "Darbar Dhan Dhan Baba Shah Murali Ji",
+                    "link": "https://www.google.com/maps/search/Darbar+Dhan+Dhan+Baba+Shah+Murali+Ji/@31.843804900000002,75.01201449999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 34,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Samadh Baba Multani Shah Ji",
+                    "link": "https://www.google.com/maps/search/Samadh+Baba+Multani+Shah+Ji/@31.86348,74.9574935?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Gurudwara"
+                },
+                {
+                    "name": "Samadh Baba Lahori Shah",
+                    "link": "https://www.google.com/maps/search/Samadh+Baba+Lahori+Shah/@31.865952499999995,74.9664724?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Dargah Baba Jinda Shah Ji",
+                    "link": "https://www.google.com/maps/search/Dargah+Baba+Jinda+Shah+Ji/@31.811329500000003,74.8879049?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Singh Sabha Gurdwara Sahib",
+                    "link": "https://www.google.com/maps/search/Singh+Sabha+Gurdwara+Sahib/@31.8622047,74.9624573?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Gurudwara"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Baba Garb Shah Ji (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 3.4,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "VX99+JCM Baba Garb Shah Ji, Fatehgarh Churian, Punjab 143602",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Baba+Garb+Shah+Ji/data=!4m7!3m6!1s0x391be161def897c1:0xad18d936b258e303!8m2!3d31.8690913!4d74.9685619!16s%2Fg%2F11gmc91bf1!19sChIJwZf43mHhGzkRA-NYsjbZGK0?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 0,
+                "3": 2,
+                "4": 0,
+                "5": 2
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwZf43mHhGzkRA-NYsjbZGK0&q=Baba+Garb+Shah+Ji&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 31.869091299999997,
+                "longitude": 74.9685619
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "VX99+JCM",
+                "city": "Fatehgarh Churian",
+                "postal_code": null,
+                "state": "Punjab",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "12472957996946219779",
+            "data_id": "0x391be161def897c1:0xad18d936b258e303",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "A dargah little away from main road",
+                    "reviewer_name": "Aadi Anuj",
+                    "rating": 3,
+                    "review_text": "A dargah little away from main road",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-02-20T18:09:59.139000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 13,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110267331354387138421/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI3IWzOYs9oJouG9Lm-jq90lBCWvIABSdCcTgTbO-MV=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very good place",
+                    "reviewer_name": "Football Champ Sharma",
+                    "rating": 3,
+                    "review_text": "Very good place",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-01-28T17:35:50.162000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 94,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104460568166567003574/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKxZUzobo1seuGL-KnD9SLW5Z34YDk8QwV4xbIR9ep6=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Jai peeran di",
+                    "reviewer_name": "raj malhotra",
+                    "rating": 5,
+                    "review_text": "Jai peeran di",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-08-16T14:19:05.210000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115752786074560340610/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIv1Atwr087VVwjuY4HvQNJoMb2YJwviyccBp753ZvZ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Jagdeep Singh Mashal",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2018-12-29T03:04:38.779000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103066445207494335633/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWotJAZXRXGcz5NOzrIk7yGnUDXxV7ZsIQPA7RF3Ssx4A=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Nandu Kumar",
+                    "rating": 1,
+                    "review_text": null,
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-09-18T10:04:02.183000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117477417998650416743/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL95CJUZSON58isqMQdjR0QzxVvZixvyyP1uGxHY2wM=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJU8A5eKPhGzkRz8OtIBhvfvU",
+            "name": "Masjid Abu Bakr",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Noor Masjid",
+                    "link": "https://www.google.com/maps/search/Noor+Masjid/@31.632735299999997,74.8759142?authuser=0&hl=en&entry=ttu",
+                    "reviews": 31,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid,ram Bagh",
+                    "link": "https://www.google.com/maps/search/Masjid%2Cram+Bagh/@31.6334299,74.87630550000002?authuser=0&hl=en&entry=ttu",
+                    "reviews": 10,
+                    "rating": 4.1,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Darbar Badshah Salamat Sarakar Ji",
+                    "link": "https://www.google.com/maps/search/Darbar+Badshah+Salamat+Sarakar+Ji/@31.6084911,74.8708262?authuser=0&hl=en&entry=ttu",
+                    "reviews": 7,
+                    "rating": 3.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Kashmiri shia masjid",
+                    "link": "https://www.google.com/maps/search/Kashmiri+shia+masjid/@31.6251045,74.8701911?authuser=0&hl=en&entry=ttu",
+                    "reviews": 7,
+                    "rating": 3.9,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid E Sikander Khan",
+                    "link": "https://www.google.com/maps/search/Masjid+E+Sikander+Khan/@31.627634999999998,74.8774825?authuser=0&hl=en&entry=ttu",
+                    "reviews": 6,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": "118224188171620887294",
+                "name": "Masjid Abu Bakr (Owner)",
+                "link": "https://www.google.com/maps/contrib/118224188171620887294"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPgGiWkjLBabCKeOOmvOpOqKu4UaxINjXZfhzSs=w408-h306-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": "091055 30014",
+            "address": "Masjid Abu Bakr, Neel khand, Amritsar, Punjab 143006",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Abu+Bakr/data=!4m7!3m6!1s0x391be1a37839c053:0xf57e6f1820adc3cf!8m2!3d31.8524606!4d74.969574!16s%2Fg%2F11sx6ckg9r!19sChIJU8A5eKPhGzkRz8OtIBhvfvU?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJU8A5eKPhGzkRz8OtIBhvfvU&q=Masjid+Abu+Bakr&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 31.852460599999997,
+                "longitude": 74.969574
+            },
+            "plus_code": "VX29+XR Pindi, Punjab",
+            "detailed_address": {
+                "ward": null,
+                "street": "Neel khand",
+                "city": "Amritsar, Pindi",
+                "postal_code": "143006",
+                "state": "Punjab",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "17689698535776043983",
+            "data_id": "0x391be1a37839c053:0xf57e6f1820adc3cf",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPgGiWkjLBabCKeOOmvOpOqKu4UaxINjXZfhzSs=w396-h298-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM7zWEXhth2ald9vCPdVBS73keKt55ene7AoOdq=w224-h398-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJadcGE5RlGTkRDxUt-CRncDo",
+            "name": "Masjid Abu Baqar",
+            "description": null,
+            "reviews": 1,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid Abu Baqar (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0hSkSkFuFu7HM-QNu2IeFw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=348.9138&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Masjid Abu Baqar, 98, Fatehgarh Churian Rd, Preet Avenue, Daya Nand Nagar, Nanngli, Amritsar, Punjab 143001",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Abu+Baqar/data=!4m7!3m6!1s0x391965941306d769:0x3a706724f82d150f!8m2!3d31.6779634!4d74.8717207!16s%2Fg%2F11l1n225vk!19sChIJadcGE5RlGTkRDxUt-CRncDo?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJadcGE5RlGTkRDxUt-CRncDo&q=Masjid+Abu+Baqar&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 31.6779634,
+                "longitude": 74.8717207
+            },
+            "plus_code": "MVHC+5M Amritsar, Punjab",
+            "detailed_address": {
+                "ward": "Preet Avenue, Daya Nand Nagar, Nanngli",
+                "street": "98, Fatehgarh Churian Rd",
+                "city": "Amritsar",
+                "postal_code": "143001",
+                "state": "Punjab",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "4210979060071601423",
+            "data_id": "0x391965941306d769:0x3a706724f82d150f",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0hSkSkFuFu7HM-QNu2IeFw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=348.9138&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0hSkSkFuFu7HM-QNu2IeFw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=348.9138&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "Mohd Irfan",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-29T11:36:55.246000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113816622345309672660/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVcaPg_oIVuJY-bAExG6IhGAIwJcsaOQCHaJrQjHg97dFI=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ2X-2BZ1fGTkR7y4nZBGjpYk",
+            "name": "Fatehgarh churian",
+            "description": null,
+            "reviews": 36,
+            "competitors": [
+                {
+                    "name": "Fatehgarh Churian Bus Station",
+                    "link": "https://www.google.com/maps/search/Fatehgarh+Churian+Bus+Station/@31.860647599999997,74.9543042?authuser=0&hl=en&entry=ttu",
+                    "reviews": 25,
+                    "rating": 3.7,
+                    "main_category": "Bus station"
+                },
+                {
+                    "name": "Panj Mandir",
+                    "link": "https://www.google.com/maps/search/Panj+Mandir/@31.862587599999998,74.9551181?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.4,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Baba Garb Shah Ji",
+                    "link": "https://www.google.com/maps/search/Baba+Garb+Shah+Ji/@31.869091299999997,74.9685619?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 3.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "saiNttrl guruuduvaaraa",
+                    "link": "https://www.google.com/maps/search/%E0%A8%B8%E0%A9%88%E0%A8%82%E0%A8%9F%E0%A8%B0%E0%A8%B2+%E0%A8%97%E0%A9%81%E0%A8%B0%E0%A9%82%E0%A8%A6%E0%A9%81%E0%A8%B5%E0%A8%BE%E0%A8%B0%E0%A8%BE/@31.866856199999997,74.9546903?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 4.7,
+                    "main_category": "Gurudwara"
+                },
+                {
+                    "name": "Bhagat Singh Chownk Fatehgarh Churian",
+                    "link": "https://www.google.com/maps/search/Bhagat+Singh+Chownk+Fatehgarh+Churian/@31.859810900000003,74.9547929?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Historical landmark"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Fatehgarh churian (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOdWhfbTt2A9qjKwrJ8PH09Rgru2m37lmSAJGZY=w408-h544-k-no",
+            "main_category": "Artist",
+            "categories": [
+                "Artist"
+            ],
+            "rating": 4.3,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "VX74+Q9M Fatehgarh churian, Fatehgarh Churian, Punjab 143602",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Fatehgarh+churian/data=!4m7!3m6!1s0x39195f9d05b67fd9:0x89a5a31164272eef!8m2!3d31.8644636!4d74.9559232!16s%2Fg%2F11sr6fbp8b!19sChIJ2X-2BZ1fGTkR7y4nZBGjpYk?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 4,
+                "2": 0,
+                "3": 3,
+                "4": 5,
+                "5": 24
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ2X-2BZ1fGTkR7y4nZBGjpYk&q=Fatehgarh+churian&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 31.864463599999997,
+                "longitude": 74.9559232
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "VX74+Q9M",
+                "city": "Fatehgarh Churian",
+                "postal_code": null,
+                "state": "Punjab",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "9918513049443446511",
+            "data_id": "0x39195f9d05b67fd9:0x89a5a31164272eef",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOdWhfbTt2A9qjKwrJ8PH09Rgru2m37lmSAJGZY=w224-h298-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMCkSCT7bvlKnpLwGNMynH9bNANosnVDlMaeoP4=w224-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOIZ3ULzIDma7k-FvA7xKcvT1RYalKhTn2-yP9f=w224-h405-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "I passed my drive test in first attempt with gagan. Excellent instructor, very calm and highly supportive instructor. Highly recommended if anyone want to pass in first attempt.",
+                    "reviewer_name": "mehak Goraya",
+                    "rating": 5,
+                    "review_text": "I passed my drive test in first attempt with gagan. Excellent instructor, very calm and highly supportive instructor. Highly recommended if anyone want to pass in first attempt.",
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-07-05T06:41:59.871000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110141567599115651855/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUh7ONIQpWNCaUZdFSm3-zTk4zHKljqxq46o4hVFnrr-A=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Fatehgarh Churian is famous for harry fatehgarh wala.",
+                    "reviewer_name": "Harbinder Singh",
+                    "rating": 5,
+                    "review_text": "Fatehgarh Churian is famous for harry fatehgarh wala.",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-30T14:12:34.890000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 14,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116175691760531792919/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWe2sg-HcOppQO6lb5cKDKXGw1E7R5nMEf3iG0mxbfYzWc=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Road is not good like other city",
+                    "reviewer_name": "Harpreet Singh Malhi",
+                    "rating": 5,
+                    "review_text": "Road is not good like other city",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-08-10T06:54:22.384000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 52,
+                    "total_number_of_photos_by_reviewer": 60,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104479992048692579121/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWhIYbQhwuNKkS8FLp1j5bd801zrufgDXNEdIPYigZQb1k=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very good",
+                    "reviewer_name": "JASPAL SINGH",
+                    "rating": 5,
+                    "review_text": "Very good",
+                    "published_at": "a week ago",
+                    "published_at_date": "2023-12-03T05:48:40.374000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106892688321413244484/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJadlqW9gfCnuQ3V93yJRaFyaXHTB0iLl6ISblbfpQT=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very nice app showing shortcut way for faster",
+                    "reviewer_name": "Dhillon Jatt",
+                    "rating": 5,
+                    "review_text": "Very nice app showing shortcut way for faster",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-04-30T12:13:02.773000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100053596486599801093/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKkZH41MEUNKXkT_LJ08T-l0_Ztk2ngRgqc-vLrJcap2Q=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice town",
+                    "reviewer_name": "Gurpreet Singh",
+                    "rating": 3,
+                    "review_text": "Nice town",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-11-11T17:39:08.227000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 369,
+                    "total_number_of_photos_by_reviewer": 1024,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116682351771085495018/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWwWsjE6oWfRKJc2QccuEBGI36qFSskFx7YjAe7zjgdENWY=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Small city in the district of Gurdaspur",
+                    "reviewer_name": "Germanpal Singh",
+                    "rating": 5,
+                    "review_text": "Small city in the district of Gurdaspur",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-08-02T09:58:32.607000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 208,
+                    "total_number_of_photos_by_reviewer": 332,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115099573559922782129/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJYP47pH3ZtCoJqYjA5xoxPVdFkGL87Py6jiST6Sz0y=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "70 year",
+                    "reviewer_name": "Sukh Baba",
+                    "rating": 3,
+                    "review_text": "70 year",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-09-11T14:45:31.829000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112330750811543744447/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL0Wq1mkeg7GE0Zz3uM9397uRZ3Iejk94RvBlAz65ZS=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

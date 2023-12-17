@@ -1,0 +1,990 @@
+{
+    "query": "masjid kakching",
+    "places": [
+        {
+            "place_id": "ChIJTV5YYVc5STcRWUZGZyW9O34",
+            "name": "Masjid'E Darul Aamal, Keirak",
+            "description": null,
+            "reviews": 8,
+            "competitors": [
+                {
+                    "name": "Noor Masjid,Keirak Muslim",
+                    "link": "https://www.google.com/maps/search/Noor+Masjid%2CKeirak+Muslim/@24.5111451,93.9615235?authuser=0&hl=en&entry=ttu",
+                    "reviews": 6,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid-e- Aqsa",
+                    "link": "https://www.google.com/maps/search/Masjid-e-+Aqsa/@24.6021546,93.9099778?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 3.2,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "MASJID'E SANI",
+                    "link": "https://www.google.com/maps/search/MASJID%27E+SANI/@24.5126077,93.9615105?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Umar Wali Masjid",
+                    "link": "https://www.google.com/maps/search/Umar+Wali+Masjid/@24.5787975,93.91627799999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Abdur Rahaman masjid",
+                    "link": "https://www.google.com/maps/search/Abdur+Rahaman+masjid/@24.514665599999997,94.0231245?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid'E Darul Aamal, Keirak (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "GX56+CH9 Masjid'E Darul Aamal, Keirak, Kakching, Manipur 795103",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid%27E+Darul+Aamal,+Keirak/data=!4m7!3m6!1s0x3749395761585e4d:0x7e3bbd2567464659!8m2!3d24.5085403!4d93.9614938!16s%2Fg%2F11nfpjv__9!19sChIJTV5YYVc5STcRWUZGZyW9O34?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 8
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJTV5YYVc5STcRWUZGZyW9O34&q=Masjid%27E+Darul+Aamal,+Keirak&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 24.5085403,
+                "longitude": 93.9614938
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "GX56+CH9",
+                "city": "Kakching",
+                "postal_code": "795103",
+                "state": "Manipur",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "9096071840748947033",
+            "data_id": "0x3749395761585e4d:0x7e3bbd2567464659",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Thank bro",
+                    "reviewer_name": "Noor Mohd",
+                    "rating": 5,
+                    "review_text": "Thank bro",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-05-24T06:45:57.303000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 8,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109679741885332741638/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKQxZeLXZvE4tpAAK_igtTEaAcn72jZ5JAH1_YM1e0x=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good",
+                    "reviewer_name": "Borewell manipur Services",
+                    "rating": 5,
+                    "review_text": "Good",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-09-18T11:44:56.661000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 23,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101237827547714510133/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXyFm8C02yWtDTOjcSv_jxwcro66KkKmBpgGlnZtDpXG-E=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "MashaALLAH........",
+                    "reviewer_name": "Sanatombi Bk",
+                    "rating": 5,
+                    "review_text": "MashaALLAH........",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-05-06T10:56:20.277000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 6,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102328096994747295051/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX-Ash4EENulVAChT-0x3KXQ7VEmbpp3T85UDY1VtoFZAc=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "MashaAllah........",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good place",
+                    "reviewer_name": "Rk Alam",
+                    "rating": 5,
+                    "review_text": "Good place",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-05-06T09:15:05.943000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 7,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107906103145688620790/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK_3tOmo3caZAeJGF5G7ihpXfrUJziBtIw02Wa1ibob=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masha Allah",
+                    "reviewer_name": "Arif Md",
+                    "rating": 5,
+                    "review_text": "Masha Allah",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-05-24T07:37:08.898000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 6,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111761211060656915358/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXSmoZYrlPuoeNQh8MU8imGGXnSDvBEAKcdEuKajhiwb5k=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masha Allah",
+                    "reviewer_name": "Restro Foodies",
+                    "rating": 5,
+                    "review_text": "Masha Allah",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-05-06T08:12:49.389000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 5,
+                    "total_number_of_reviews_by_reviewer": 10,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107415294277211928032/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUXKVnHKLn9z1Bt9DqnK0GC2NfmiCUrk-TCXVFZaYza940=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "MASHA ALLAH",
+                    "reviewer_name": "pubg chenel",
+                    "rating": 5,
+                    "review_text": "MASHA ALLAH",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-09-24T16:12:03.472000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 28,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118107722254699571864/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU1NWRiBvY2sADapivtXeXsUAeXSGCsqXmzJx8zOagngw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "fareha shah",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-05-24T15:25:48.210000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109531773366615675036/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVwJBC1Ey8FLRPsieQfM2V2TSBnXcFA7jW7Pwwhatb6_L8I=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJR9bi1KQ5STcRXhVsLgEP2fo",
+            "name": "MASJID'E SANI",
+            "description": null,
+            "reviews": 4,
+            "competitors": [
+                {
+                    "name": "Masjid'E Darul Aamal, Keirak",
+                    "link": "https://www.google.com/maps/search/Masjid%27E+Darul+Aamal%2C+Keirak/@24.508540300000003,93.9614938?authuser=0&hl=en&entry=ttu",
+                    "reviews": 8,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noor Masjid,Keirak Muslim",
+                    "link": "https://www.google.com/maps/search/Noor+Masjid%2CKeirak+Muslim/@24.5111451,93.9615235?authuser=0&hl=en&entry=ttu",
+                    "reviews": 6,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "sani masjid",
+                    "link": "https://www.google.com/maps/search/sani+masjid/@24.511273,94.0215439?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid E Ahmadia Sani",
+                    "link": "https://www.google.com/maps/search/Masjid+E+Ahmadia+Sani/@24.6024933,93.91110429999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "MASJID'E SANI (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "GX76+2JR MASJID'E SANI, MUSLIM AWANG LEIKAI, Keirak, Manipur 795103",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/MASJID%27E+SANI/data=!4m7!3m6!1s0x374939a4d4e2d647:0xfad90f012e6c155e!8m2!3d24.5126077!4d93.9615105!16s%2Fg%2F11pm6_nmgx!19sChIJR9bi1KQ5STcRXhVsLgEP2fo?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 4
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJR9bi1KQ5STcRXhVsLgEP2fo&q=MASJID%27E+SANI&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 24.5126077,
+                "longitude": 93.9615105
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "GX76+2JR, MUSLIM AWANG LEIKAI",
+                "city": "Keirak",
+                "postal_code": null,
+                "state": "Manipur",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "18075495077176415582",
+            "data_id": "0x374939a4d4e2d647:0xfad90f012e6c155e",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Dusra masjid he keirak me ye",
+                    "reviewer_name": "Miss Seinas",
+                    "rating": 5,
+                    "review_text": "Dusra masjid he keirak me ye",
+                    "published_at": "a year ago",
+                    "published_at_date": "2021-12-25T19:01:35.549000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107311629773273772929/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLmHvNCd2UvWCYXZJ49t5FJbDjBCwirIHDyZKF8suuB=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "The second mosque is in Keirak.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masjid sani",
+                    "reviewer_name": "Saniya Computer",
+                    "rating": 5,
+                    "review_text": "Masjid sani",
+                    "published_at": "a year ago",
+                    "published_at_date": "2021-12-25T19:18:31.235000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 9,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102529987924267838292/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWRqZaQslNEn9hh-je1HyIpp_LNNB43gO19CrbpMwCt8aA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Masjid Sani",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Mashallah",
+                    "reviewer_name": "pubg chenel",
+                    "rating": 5,
+                    "review_text": "Mashallah",
+                    "published_at": "a year ago",
+                    "published_at_date": "2021-12-25T19:43:13.872000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 28,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118107722254699571864/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU1NWRiBvY2sADapivtXeXsUAeXSGCsqXmzJx8zOagngw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masha Allah",
+                    "reviewer_name": "Arif Md",
+                    "rating": 5,
+                    "review_text": "Masha Allah",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-05-14T13:35:40.154000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111761211060656915358/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXSmoZYrlPuoeNQh8MU8imGGXnSDvBEAKcdEuKajhiwb5k=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJRWwmM-Q4STcRLVkIVmiUz6U",
+            "name": "Noor Masjid,Keirak Muslim",
+            "description": null,
+            "reviews": 6,
+            "competitors": [
+                {
+                    "name": "Masjid'E Darul Aamal, Keirak",
+                    "link": "https://www.google.com/maps/search/Masjid%27E+Darul+Aamal%2C+Keirak/@24.508540300000003,93.9614938?authuser=0&hl=en&entry=ttu",
+                    "reviews": 8,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "MASJID'E SANI",
+                    "link": "https://www.google.com/maps/search/MASJID%27E+SANI/@24.5126077,93.9615105?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjide Anwar Kakyenkhong",
+                    "link": "https://www.google.com/maps/search/Masjide+Anwar+Kakyenkhong/@24.5248325,93.86456009999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noor Wali Masjid",
+                    "link": "https://www.google.com/maps/search/Noor+Wali+Masjid/@24.5526376,94.05981500000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noor Masjid",
+                    "link": "https://www.google.com/maps/search/Noor+Masjid/@24.6039325,93.91466439999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Noor Masjid,Keirak Muslim (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMoB5ZBVWucfKX1HNTvb1uudtrZdAjOdTeFdXI1=w408-h859-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "GX66+FJ2 Noor Masjid,Keirak Muslim, Muslim, Keirak, Lilong, Manipur 795103",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Noor+Masjid,Keirak+Muslim/data=!4m7!3m6!1s0x374938e433266c45:0xa5cf94685608592d!8m2!3d24.5111451!4d93.9615235!16s%2Fg%2F11g86yjd7z!19sChIJRWwmM-Q4STcRLVkIVmiUz6U?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 6
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRWwmM-Q4STcRLVkIVmiUz6U&q=Noor+Masjid,Keirak+Muslim&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 24.5111451,
+                "longitude": 93.9615235
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "GX66+FJ2, Muslim",
+                "city": "Keirak, Lilong",
+                "postal_code": "795103",
+                "state": "Manipur",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "11947931512278112557",
+            "data_id": "0x374938e433266c45:0xa5cf94685608592d",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMoB5ZBVWucfKX1HNTvb1uudtrZdAjOdTeFdXI1=w224-h471-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": ". Good",
+                    "reviewer_name": "pubg chenel",
+                    "rating": 5,
+                    "review_text": ". Good",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-05-20T11:51:30.502000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 28,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118107722254699571864/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU1NWRiBvY2sADapivtXeXsUAeXSGCsqXmzJx8zOagngw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Majid",
+                    "reviewer_name": "Abdul Majid",
+                    "rating": 5,
+                    "review_text": "Majid",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-07-06T04:13:20.631000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 6,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 38,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103056375731823558746/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ7o6HDgMuk89aJt2R-uesPQKxpwje5kVxaRHF7KvvK=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPH9plcGwGsGpg_G4L6ARb7hZSKRlm9HbI4F0Xq=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "msh llh",
+                    "reviewer_name": "Md Mansoor Alam",
+                    "rating": 5,
+                    "review_text": "msh llh",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-05-25T08:49:34.438000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110822712945380220046/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWuO3TCoqDcX3Nb5meDNFLKvEe2otUFlz033RU8OuNnCA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Mashallah",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Mashallah",
+                    "reviewer_name": "Rafik Alam",
+                    "rating": 5,
+                    "review_text": "Mashallah",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-07-08T00:23:28.805000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 5,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107795374373795840400/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXXTFMthUvkS58CInW9qavV8ShmYMloQO29QLpi3KYBXUs=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masha Allah",
+                    "reviewer_name": "Restro Foodies",
+                    "rating": 5,
+                    "review_text": "Masha Allah",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-05-06T08:15:39.984000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 10,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107415294277211928032/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUXKVnHKLn9z1Bt9DqnK0GC2NfmiCUrk-TCXVFZaYza940=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Arif Khan",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-05-13T13:37:31.419000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105097942660292131507/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI8394MDuvgBwdgTeK-wB2e-2Bib-Vx8Y3YhkT_ogMS=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJfTOFZR0_STcRqYFGDymzkFY",
+            "name": "Masjid-E-Taqwa",
+            "description": null,
+            "reviews": 4,
+            "competitors": [
+                {
+                    "name": "masjid-e-taqwa",
+                    "link": "https://www.google.com/maps/search/masjid-e-taqwa/@24.6079553,93.8943687?authuser=0&hl=en&entry=ttu",
+                    "reviews": 12,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "sani masjid",
+                    "link": "https://www.google.com/maps/search/sani+masjid/@24.511273,94.0215439?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid -E- Islamia",
+                    "link": "https://www.google.com/maps/search/Masjid+-E-+Islamia/@24.5209266,94.02879829999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Place of worship"
+                },
+                {
+                    "name": "Abdur Rahaman masjid",
+                    "link": "https://www.google.com/maps/search/Abdur+Rahaman+masjid/@24.514665599999997,94.0231245?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid - E - Rahimia Sora",
+                    "link": "https://www.google.com/maps/search/Masjid+-+E+-+Rahimia+Sora/@24.518235699999998,94.0142028?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": "109413915521129325693",
+                "name": "Masjid-E-Taqwa (Owner)",
+                "link": "https://www.google.com/maps/contrib/109413915521129325693"
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.3,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Masjid-E-Taqwa, Maning Mayai Leikai, Karanchi Road, Sora, Manipur 795103",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid-E-Taqwa/data=!4m7!3m6!1s0x37493f1d6585337d:0x5690b3290f4681a9!8m2!3d24.5181986!4d94.0159356!16s%2Fg%2F11c5ssbm1t!19sChIJfTOFZR0_STcRqYFGDymzkFY?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 1,
+                "3": 0,
+                "4": 0,
+                "5": 3
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJfTOFZR0_STcRqYFGDymzkFY&q=Masjid-E-Taqwa&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 24.518198599999998,
+                "longitude": 94.01593559999999
+            },
+            "plus_code": "G298+79 Sora, Manipur",
+            "detailed_address": {
+                "ward": null,
+                "street": "Maning Mayai Leikai, Karanchi Road",
+                "city": "Sora",
+                "postal_code": "795103",
+                "state": "Manipur",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "6237682472839446953",
+            "data_id": "0x37493f1d6585337d:0x5690b3290f4681a9",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Because it's Mosque, a house of house's of our Merciful Allah",
+                    "reviewer_name": "Shinga Mangal",
+                    "rating": 5,
+                    "review_text": "Because it's Mosque, a house of house's of our Merciful Allah",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-08-08T03:44:12.231000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111659550304295524143/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW4q0VGCQylY7tDg92ia6faCBFwkFpc9Sh3Y1UKcXqhcw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Worship place",
+                    "reviewer_name": "Aribam Shakila",
+                    "rating": 5,
+                    "review_text": "Worship place",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-09-22T15:58:53.123000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107297400338864679996/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocICM5_NfyMifNULaEsFgPKpTsRHOn7m2RxoBzaeS3D3=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "SB traders",
+                    "rating": 2,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-01-17T09:07:19.874000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102466633295690580529/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIOfUIyVomGb24vMNQMTV4kLNaNMRol0fug4U2uzBKy=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Aribam Abit",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-08-09T03:19:11.399000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 5,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101185161941812832296/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWPY2FCuCYixtU3Hqt8j_cd7rbkW6HMh2QXJWvH8xwOveI=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ-57sd-Q_STcRYn4nBWCfW7g",
+            "name": "KHONGNANG MAKHONG MASJID",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Leitanpok Masjid",
+                    "link": "https://www.google.com/maps/search/Leitanpok+Masjid/@24.6530223,93.9645104?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 3.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Qabarstan Wali Masjid,phundrei",
+                    "link": "https://www.google.com/maps/search/Qabarstan+Wali+Masjid%2Cphundrei/@24.5521266,94.0489157?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Pilgrimage place"
+                },
+                {
+                    "name": "Noor Wali Masjid",
+                    "link": "https://www.google.com/maps/search/Noor+Wali+Masjid/@24.5526376,94.05981500000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "WARAK MASJID",
+                    "link": "https://www.google.com/maps/search/WARAK+MASJID/@24.550486799999998,94.0508919?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "KHUNOU MASJID",
+                    "link": "https://www.google.com/maps/search/KHUNOU+MASJID/@24.5574215,94.0519044?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "KHONGNANG MAKHONG MASJID (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "H322+HW5 KHONGNANG MAKHONG MASJID, Thoubal, Manipur 795148",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/KHONGNANG+MAKHONG+MASJID/data=!4m7!3m6!1s0x37493fe477ec9efb:0xb85b9f6005277e62!8m2!3d24.5513924!4d94.0523628!16s%2Fg%2F11hrb63kgc!19sChIJ-57sd-Q_STcRYn4nBWCfW7g?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 0
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-57sd-Q_STcRYn4nBWCfW7g&q=KHONGNANG+MAKHONG+MASJID&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 24.551392399999997,
+                "longitude": 94.0523628
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "H322+HW5",
+                "city": "Thoubal",
+                "postal_code": null,
+                "state": "Manipur",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "13284386760611561058",
+            "data_id": "0x37493fe477ec9efb:0xb85b9f6005277e62",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Construction process of this masjid is going on since 2019-20",
+                    "reviewer_name": "NAWAZ MD",
+                    "rating": 4,
+                    "review_text": "Construction process of this masjid is going on since 2019-20",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-09-23T15:11:05.563000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 44,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104375665049744988387/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVUNn8vC9T86dI8i7rL_G-ZNrlw19Ro99hKDkCdU-z54y8=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

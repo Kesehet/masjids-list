@@ -1,0 +1,125 @@
+{
+    "query": "masjid dinanagar",
+    "places": [
+        {
+            "place_id": "ChIJMZfxhl-PGzkRr-XOIw3X8WE",
+            "name": "Mosque",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Masjid E Bilal",
+                    "link": "https://www.google.com/maps/search/Masjid+E+Bilal/@32.0531284,75.4120044?authuser=0&entry=ttu",
+                    "reviews": 27,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Akki Shah Darbar",
+                    "link": "https://www.google.com/maps/search/Akki+Shah+Darbar/@32.041126399999996,75.3859166?authuser=0&entry=ttu",
+                    "reviews": 6,
+                    "rating": 3.2,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shiv Mandir",
+                    "link": "https://www.google.com/maps/search/Shiv+Mandir/@32.1345867,75.4714855?authuser=0&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Masjid(Mosque)",
+                    "link": "https://www.google.com/maps/search/Masjid%28Mosque%29/@32.0309187,75.3818079?authuser=0&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Religious institution"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Mosque (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMGY8rs9o0oI74FqZ-OOSW9_A1uuwJ2XyKABKpG=w408-h906-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "4FH9+QV8 Mosque, Chander Vihar, Dinanagar - Narot Jaimal Singh Rd, Berian Mohalla, Dinanagar, Punjab 143531",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Mosque/@32.1294027,75.469712,17z/data=!3m1!4b1!4m6!3m5!1s0x391b8f5f86f19731:0x61f1d70d23cee5af!8m2!3d32.1294027!4d75.469712!16s%2Fg%2F11klnszcvn?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJMZfxhl-PGzkRr-XOIw3X8WE&q=Mosque&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 32.1294027,
+                "longitude": 75.469712
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Berian Mohalla",
+                "street": "4FH9+QV8, Chander Vihar, Dinanagar - Narot Jaimal Singh Rd",
+                "city": "Dinanagar",
+                "postal_code": "143531",
+                "state": "Punjab",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "7057658542501586351",
+            "data_id": "0x391b8f5f86f19731:0x61f1d70d23cee5af",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMGY8rs9o0oI74FqZ-OOSW9_A1uuwJ2XyKABKpG=w224-h497-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "Roy Khan",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "8 months ago",
+                    "published_at_date": "2023-03-31T06:38:38.362000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108394849174909360087/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKBlXUkVA_oT0I32kMPACcEqvbzhaUa5LnlkHModxcu=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

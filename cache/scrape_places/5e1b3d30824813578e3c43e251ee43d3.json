@@ -1,0 +1,900 @@
+{
+    "query": "masjid pushkar",
+    "places": [
+        {
+            "place_id": "ChIJHY9wISLdazkR1T91StO9xDU",
+            "name": "Juma Masjid",
+            "description": null,
+            "reviews": 10,
+            "competitors": [
+                {
+                    "name": "Akbari Masjid",
+                    "link": "https://www.google.com/maps/search/Akbari+Masjid/@26.456916699999997,74.6278912?authuser=0&hl=en&entry=ttu",
+                    "reviews": 498,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Mosque",
+                    "link": "https://www.google.com/maps/search/Mosque/@26.488961,74.5524379?authuser=0&hl=en&entry=ttu",
+                    "reviews": 24,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Nurani Masjid",
+                    "link": "https://www.google.com/maps/search/Nurani+Masjid/@26.4922143,74.5522551?authuser=0&hl=en&entry=ttu",
+                    "reviews": 11,
+                    "rating": 3.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "jaamaa msjid",
+                    "link": "https://www.google.com/maps/search/%E0%A4%9C%E0%A4%BE%E0%A4%AE%E0%A4%BE+%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%A6/@26.4174221,74.6080758?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.2,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama masjid kharekhari",
+                    "link": "https://www.google.com/maps/search/Jama+masjid+kharekhari/@26.426475099999998,74.53695010000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 3.7,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Juma Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMJjG5KN0cKvNHPAx24gytDdVMqhLXcB8MKKCw7=w408-h544-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.9,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "FHQ3+J22 Juma Masjid, Main Market Rd, Badi Basti, Pushkar, Rajasthan 305022",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Juma+Masjid/data=!4m7!3m6!1s0x396bdd2221708f1d:0x35c4bdd34a753fd5!8m2!3d26.4890205!4d74.5525253!16s%2Fg%2F11f1zlc73k!19sChIJHY9wISLdazkR1T91StO9xDU?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 9
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJHY9wISLdazkR1T91StO9xDU&q=Juma+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 26.4890205,
+                "longitude": 74.5525253
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Badi Basti",
+                "street": "FHQ3+J22, Main Market Rd",
+                "city": "Pushkar",
+                "postal_code": "305022",
+                "state": "Rajasthan",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "3874430294630416341",
+            "data_id": "0x396bdd2221708f1d:0x35c4bdd34a753fd5",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMJjG5KN0cKvNHPAx24gytDdVMqhLXcB8MKKCw7=w224-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMVNjP7b36T1yPCSSXss5mu6H0cXFY0ChJ661HX=w397-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Good to visit. Ahle Sunnat Val Jamaat. I have visited when i was in Pushkar Mela. Attended Jummah Namaz.",
+                    "reviewer_name": "Liyakatali Notiyar",
+                    "rating": 5,
+                    "review_text": "Good to visit. Ahle Sunnat Val Jamaat. I have visited when i was in Pushkar Mela. Attended Jummah Namaz.",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-11-16T07:23:24.584000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 41,
+                    "total_number_of_photos_by_reviewer": 150,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110303261404937642907/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVvGFPnqGiGvb1j6TvLkBhf4inqZJH9IDJUReZ6ox7kavY=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPguyVaoBs14CorZtU4A8E8yDAa48aE_HcEvglT=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Very good place for worshipping, but it's location in very congested street in Pushkar and easily accessible with a 2 wheeler but not with a 4 wheeler",
+                    "reviewer_name": "VD Ganesh",
+                    "rating": 4,
+                    "review_text": "Very good place for worshipping, but it's location in very congested street in Pushkar and easily accessible with a 2 wheeler but not with a 4 wheeler",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-01-20T14:36:34.864000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 27,
+                    "total_number_of_photos_by_reviewer": 18,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109074309202367616590/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUVHCJeRDSXaTNEn9NyAZg3fhHWrRP0SabiPiSEJkMjf9QQ=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Beautiful Masjid.\nBadi basti pushkar",
+                    "reviewer_name": "Sameer Khan",
+                    "rating": 5,
+                    "review_text": "Beautiful Masjid.\nBadi basti pushkar",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-11-06T10:22:35.216000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 42,
+                    "total_number_of_photos_by_reviewer": 65,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101777080433524023053/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJshGPoeDoxJXFPi_lFtpHQ_-lFDDXVHFsd58N9Wv2B=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Beautiful Masjid.\nbadi basti pushkar",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOuHrOSX7yoEWPRt8Qx8utBjqAe-dNvPK1JeFn0=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMdeb3s_lFt_IS8KiyQmBX9Np8UrfCqqvYT8EcG=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "BEAUTIFUL MOSQUE OF AHLESUNNAT WAL JAMAAT BUT LACK OF NAMAZIS DUE TO HINDU LOCALITY",
+                    "reviewer_name": "MOHD ANAM ANSARI",
+                    "rating": 5,
+                    "review_text": "BEAUTIFUL MOSQUE OF AHLESUNNAT WAL JAMAAT BUT LACK OF NAMAZIS DUE TO HINDU LOCALITY",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-01-24T13:28:42.472000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 11,
+                    "total_number_of_photos_by_reviewer": 168,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102187482565342796372/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUhySBPLWfNT8GUZYm-8seR992Qm5kkUybaepMNhcRJsCI=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice",
+                    "reviewer_name": "Mohammad Afzal 07",
+                    "rating": 5,
+                    "review_text": "Nice",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-01-09T16:24:28.830000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 5,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102565723059078837938/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWvurtpQa5KlR14VKjy7FWhYDnaCgFRI_cPkc0yIoJaPL4=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The mosque in Pushkar.",
+                    "reviewer_name": "Wazid Ali Mansoori",
+                    "rating": 5,
+                    "review_text": "The mosque in Pushkar.",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-03-10T20:21:30.555000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 246,
+                    "total_number_of_photos_by_reviewer": 1801,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110964170147406706065/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW4_oGknoFyTVK07cx2EgjQjE-7c5ancQMUTLjuDteWhOZH=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice",
+                    "reviewer_name": "nawab",
+                    "rating": 5,
+                    "review_text": "Nice",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-05-09T07:17:32.203000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 14,
+                    "total_number_of_photos_by_reviewer": 162,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101142206562061318637/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXl1blI4OeCEL6LynrjJsbasHk6VNfEUaith2u8YtTfVg=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masha Allah  me Rizwan Khan Bihar Patna",
+                    "reviewer_name": "Lucky Rizwan Khan",
+                    "rating": 5,
+                    "review_text": "Masha Allah  me Rizwan Khan Bihar Patna",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-07-03T18:44:54.035000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 12,
+                    "total_number_of_photos_by_reviewer": 91,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102540494366832517537/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVhIfrP6nmWRUUU_8_MtrlMiMMxX4CGhPqQzjRl1nRdHZ2i=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Masha Allah me Rizwan Khan Bihar Patna",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOC4JpO8U2mqjWrOeqWoAqir_h5RzWDenDBZskO=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJh5wXISLdazkRLcsjLiSo_rc",
+            "name": "Mosque",
+            "description": null,
+            "reviews": 24,
+            "competitors": [
+                {
+                    "name": "Shahi Masjid",
+                    "link": "https://www.google.com/maps/search/Shahi+Masjid/@26.456578399999998,74.6389497?authuser=0&hl=en&entry=ttu",
+                    "reviews": 22,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Nurani Masjid",
+                    "link": "https://www.google.com/maps/search/Nurani+Masjid/@26.4922143,74.5522551?authuser=0&hl=en&entry=ttu",
+                    "reviews": 11,
+                    "rating": 3.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Juma Masjid",
+                    "link": "https://www.google.com/maps/search/Juma+Masjid/@26.489020500000002,74.5525253?authuser=0&hl=en&entry=ttu",
+                    "reviews": 10,
+                    "rating": 4.9,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "jaamaa msjid",
+                    "link": "https://www.google.com/maps/search/%E0%A4%9C%E0%A4%BE%E0%A4%AE%E0%A4%BE+%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%A6/@26.4174221,74.6080758?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.2,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Mosque (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNQMeDWWA_7Py3VPOjJp4cNagG5dwy5yKZgw8VV=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.6,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "FHQ2+HXP Mosque, Main Market Rd, Badi Basti, Pushkar, Rajasthan 305022",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Mosque/data=!4m7!3m6!1s0x396bdd2221179c87:0xb7fea8242e23cb2d!8m2!3d26.488961!4d74.5524379!16s%2Fg%2F1tgnq1c1!19sChIJh5wXISLdazkRLcsjLiSo_rc?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 6,
+                "5": 17
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJh5wXISLdazkRLcsjLiSo_rc&q=Mosque&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 26.488961,
+                "longitude": 74.5524379
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Badi Basti",
+                "street": "FHQ2+HXP, Main Market Rd",
+                "city": "Pushkar",
+                "postal_code": "305022",
+                "state": "Rajasthan",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "13258219226371705645",
+            "data_id": "0x396bdd2221179c87:0xb7fea8242e23cb2d",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNQMeDWWA_7Py3VPOjJp4cNagG5dwy5yKZgw8VV=w529-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPSoPYiG76YVhkKzKrkfieDO3J33YZ1ZufiWc4j=w448-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "This is what our incredible India....I have seen Sadhus going inside the mosque with the folded hands.....\nGod bless India...",
+                    "reviewer_name": "DR. Ahmed Abdullah Khan",
+                    "rating": 4,
+                    "review_text": "This is what our incredible India....I have seen Sadhus going inside the mosque with the folded hands.....\nGod bless India...",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-02-01T05:59:19.796000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 41,
+                    "total_number_of_photos_by_reviewer": 31,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109616852496142212405/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWgohBsVJbSDmJYoHFEDhwTMW7YFCypfImAZfNlQyAoyCM=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "PUSHKAR is Hindu pilgrimage place  but on GAU  Ghat there is Mosqu",
+                    "reviewer_name": "KIKASSO PUSHKAR",
+                    "rating": 5,
+                    "review_text": "PUSHKAR is Hindu pilgrimage place  but on GAU  Ghat there is Mosqu",
+                    "published_at": "7 years ago",
+                    "published_at_date": "2016-09-17T16:20:17.763000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 187,
+                    "total_number_of_photos_by_reviewer": 2129,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116095977353968287714/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWAB_MOv8M-kAkBSw-E7Z6O6c668qcCagK_4fsTIn5BGzw=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Wonderful masjid with nice people and great hospitality",
+                    "reviewer_name": "Joey Belmondo",
+                    "rating": 5,
+                    "review_text": "Wonderful masjid with nice people and great hospitality",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-11-30T23:32:00.510000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 10,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107579020011876536166/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVaRMrcA3gu_blwcWTQbhkiaH-M5Foq4QJCNJhzVDE3u1M=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "2015 I was there.. Very holy place for all.",
+                    "reviewer_name": "Fashion Trends",
+                    "rating": 5,
+                    "review_text": "2015 I was there.. Very holy place for all.",
+                    "published_at": "7 years ago",
+                    "published_at_date": "2016-08-03T22:28:18.048000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 64,
+                    "total_number_of_photos_by_reviewer": 176,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115033214825312483467/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWV52RtZkuB6OQZlfZkI7qFZT7QeREfKarcgW5rM-H3PRn6=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Beautiful masjid",
+                    "reviewer_name": "Sameer ShahNawaz",
+                    "rating": 5,
+                    "review_text": "Beautiful masjid",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-02-07T08:19:07.259000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 85,
+                    "total_number_of_photos_by_reviewer": 11,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108893508823540613388/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJByPtild0CHqqq8W1qF2Fwi-1jU82V9Rd5JHWoWLkl=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipM9sOe7O2IXZ8S72ilG49tLFKpIR9Ma1oTqG7gL=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Good peace of place",
+                    "reviewer_name": "sartaj khan",
+                    "rating": 5,
+                    "review_text": "Good peace of place",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-01-17T09:42:09.963000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 10,
+                    "total_number_of_photos_by_reviewer": 28,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101756908282121840082/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX3qGJQpsZhLLlvObr66RlsUzoHqMLdG1TE3qPN8grUzw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice palce",
+                    "reviewer_name": "MM Saiyed",
+                    "rating": 4,
+                    "review_text": "Nice palce",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-07-04T07:26:18.183000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 400,
+                    "total_number_of_photos_by_reviewer": 1067,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104152832002288134290/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWV0NXMQYmCQihRckW3nwotLjnTvFF3JVP8xMSXbkPNuqw=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I live hare",
+                    "reviewer_name": "Shahrkh Baba",
+                    "rating": 5,
+                    "review_text": "I live hare",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-03-11T09:42:41.273000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117366435176981756014/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK-DnhM0OskwQ2tmmXsegRlhh-f_zW8rDe1Y8ccfRKR=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJF0wd4yPdazkRKAIGpvQCzrg",
+            "name": "Nurani Masjid",
+            "description": null,
+            "reviews": 11,
+            "competitors": [
+                {
+                    "name": "Mosque",
+                    "link": "https://www.google.com/maps/search/Mosque/@26.488961,74.5524379?authuser=0&hl=en&entry=ttu",
+                    "reviews": 24,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Nurani masjid",
+                    "link": "https://www.google.com/maps/search/Nurani+masjid/@26.4027352,74.6533748?authuser=0&hl=en&entry=ttu",
+                    "reviews": 24,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Juma Masjid",
+                    "link": "https://www.google.com/maps/search/Juma+Masjid/@26.489020500000002,74.5525253?authuser=0&hl=en&entry=ttu",
+                    "reviews": 10,
+                    "rating": 4.9,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Nurani Maszid",
+                    "link": "https://www.google.com/maps/search/Nurani+Maszid/@26.4122228,74.6359259?authuser=0&hl=en&entry=ttu",
+                    "reviews": 6,
+                    "rating": 4.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "masjid nosar (Aksha masjid)",
+                    "link": "https://www.google.com/maps/search/masjid+nosar+%28Aksha+masjid%29/@26.489350899999998,74.603927?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": "109791571473308077375",
+                "name": "Nurani Masjid (Owner)",
+                "link": "https://www.google.com/maps/contrib/109791571473308077375"
+            },
+            "featured_image": "//lh3.googleusercontent.com/VGE0maTbL1FtUp94QX3xWdBE8dNvM7j3juEUBRzc1sGiFb3GBclVz3gxhnjDhpzhhQ=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 3.7,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Nurani Masjid, Bus Stand, near Marvad, Badi Basti, Pushkar, Rajasthan 305022",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Nurani+Masjid/data=!4m7!3m6!1s0x396bdd23e31d4c17:0xb8ce02f4a6060228!8m2!3d26.4922143!4d74.5522551!16s%2Fg%2F11cs264kbj!19sChIJF0wd4yPdazkRKAIGpvQCzrg?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 2,
+                "2": 2,
+                "3": 0,
+                "4": 0,
+                "5": 7
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJF0wd4yPdazkRKAIGpvQCzrg&q=Nurani+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 26.4922143,
+                "longitude": 74.5522551
+            },
+            "plus_code": "FHR2+VW Pushkar, Rajasthan",
+            "detailed_address": {
+                "ward": "Badi Basti",
+                "street": "Bus Stand, near Marvad",
+                "city": "Pushkar",
+                "postal_code": "305022",
+                "state": "Rajasthan",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "13316584397961822760",
+            "data_id": "0x396bdd23e31d4c17:0xb8ce02f4a6060228",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "//lh3.googleusercontent.com/VGE0maTbL1FtUp94QX3xWdBE8dNvM7j3juEUBRzc1sGiFb3GBclVz3gxhnjDhpzhhQ=w529-h298-k-no"
+                },
+                {
+                    "about": "By owner",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipP9oI-3ewYEDmu94qbGTI1VVvnKMYd_oZzfOlY4=w224-h398-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uozBXtqGZkBz1c007eRH-w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=328.52563&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "House of RUB UL ALLMEEN",
+                    "reviewer_name": "Shakir Hussain",
+                    "rating": 5,
+                    "review_text": "House of RUB UL ALLMEEN",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2018-12-23T12:46:07.427000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 10,
+                    "total_number_of_reviews_by_reviewer": 675,
+                    "total_number_of_photos_by_reviewer": 850,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110825068694650362896/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWovZIdFSuL_9fedJtCpaCM98-TD6MJLIvGHA5cpoG-xl0=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Sameerkhan",
+                    "reviewer_name": "Mohammad Tohid Raza Qadri",
+                    "rating": 1,
+                    "review_text": "Sameerkhan",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-09-04T16:29:57.238000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108473054356941193381/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKUwp_-t38_OVay6-Dc1Ii6zrqAEubZ5YFg13JO9Qw2=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "MashahALLAH",
+                    "reviewer_name": "Maliqul Shaikh",
+                    "rating": 5,
+                    "review_text": "MashahALLAH",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-02-16T14:18:38.165000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 231,
+                    "total_number_of_photos_by_reviewer": 62,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113939197651717310742/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjULUfYX67gfZxJIVMfIrcEIARXINbMnhfYDeBV0oF_N13I=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "MashahAllah",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Chaina Ram Chaudhary",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2018-12-17T15:18:24.998000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 9,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110925555697292460173/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW40QAzB4_gILIa5CgqkfGourvqSi6UG6nanK5Rwgt6cA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "nirmal parashar",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2018-12-23T08:31:01.115000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117664672309440708747/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWDvKRQEhOirKPlQC7TxDeBf4xELSTglRJwjtJSnolmw8A=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "shoeb khan",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-11-11T03:50:07.671000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 47,
+                    "total_number_of_photos_by_reviewer": 101,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115377866013429817118/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV0HsyIBllfSM2BZ9OtVdvgJpM5npAHv1WgmMtZhIlLjIY=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Mohammad amanullah",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-09-10T02:59:55.570000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118381974018435504454/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUhU6hL4_S36ezUNRT2FDfcdkgdtugeXvZm__U1Y0rFVlA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Shreesh Mehrotra",
+                    "rating": 1,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-01-24T10:58:12.767000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106989599030473744720/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKsr2yEHVoU7pdxiDShH1O2myTnwcKW1QLuA_pWT8ja=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ4UqbxNLdazkRksYNG7otleI",
+            "name": "Shahi Jama Masjid",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Shahi Jama Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "FHQ2+C9P Shahi Jama Masjid, Badi Basti, Pushkar, Rajasthan 305022",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Shahi+Jama+Masjid/data=!4m7!3m6!1s0x396bddd2c49b4ae1:0xe2952dba1b0dc692!8m2!3d26.4885822!4d74.5509422!16s%2Fg%2F11vkhdjdlm!19sChIJ4UqbxNLdazkRksYNG7otleI?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ4UqbxNLdazkRksYNG7otleI&q=Shahi+Jama+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 26.4885822,
+                "longitude": 74.5509422
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Badi Basti",
+                "street": "FHQ2+C9P",
+                "city": "Pushkar",
+                "postal_code": null,
+                "state": "Rajasthan",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "16327006301442655890",
+            "data_id": "0x396bddd2c49b4ae1:0xe2952dba1b0dc692",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

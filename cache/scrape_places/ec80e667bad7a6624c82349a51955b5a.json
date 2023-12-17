@@ -1,0 +1,2804 @@
+{
+    "query": "masjid charkhari",
+    "places": [
+        {
+            "place_id": "ChIJy603YIk3nTkRrzJgkU_i7ho",
+            "name": "Jama Masjid",
+            "description": null,
+            "reviews": 5,
+            "competitors": [
+                {
+                    "name": "Shahi Masjid",
+                    "link": "https://www.google.com/maps/search/Shahi+Masjid/@25.4018653,79.7493257?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Baba joo Masjid",
+                    "link": "https://www.google.com/maps/search/Baba+joo+Masjid/@25.4021977,79.7447191?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Kothi Shaheed Dargaah And Masjid",
+                    "link": "https://www.google.com/maps/search/Kothi+Shaheed+Dargaah+And+Masjid/@25.398515,79.7509421?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 4,
+                    "main_category": "Shrine"
+                },
+                {
+                    "name": "Masjid Turkiyana",
+                    "link": "https://www.google.com/maps/search/Masjid+Turkiyana/@25.4010575,79.7488016?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid Amarganj Purb",
+                    "link": "https://www.google.com/maps/search/Masjid+Amarganj+Purb/@25.3977348,79.75411509999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=X6HO7gQEnezZ3gffFjLFjA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=284.7262&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4,
+            "workday_timing": "Open 24 hours",
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "CP2W+JX4 Jama Masjid, Charkhari, Uttar Pradesh 210421",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+Masjid/data=!4m7!3m6!1s0x399d37896037adcb:0x1aeee24f916032af!8m2!3d25.4015137!4d79.7474619!16s%2Fg%2F11gs81ms_w!19sChIJy603YIk3nTkRrzJgkU_i7ho?authuser=0&hl=en&rclk=1",
+            "status": "Open 24 hours",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 3
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJy603YIk3nTkRrzJgkU_i7ho&q=Jama+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 25.4015137,
+                "longitude": 79.74746189999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "CP2W+JX4",
+                "city": "Charkhari",
+                "postal_code": "210421",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "1940737320812556975",
+            "data_id": "0x399d37896037adcb:0x1aeee24f916032af",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=X6HO7gQEnezZ3gffFjLFjA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=284.7262&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=X6HO7gQEnezZ3gffFjLFjA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=284.7262&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                }
+            ],
+            "most_popular_times": [
+                {
+                    "hour_of_day": 23,
+                    "average_popularity": 38.0,
+                    "time_label": "11 pm"
+                },
+                {
+                    "hour_of_day": 9,
+                    "average_popularity": 36.285714285714285,
+                    "time_label": "9 am"
+                },
+                {
+                    "hour_of_day": 10,
+                    "average_popularity": 36.142857142857146,
+                    "time_label": "10 am"
+                }
+            ],
+            "popular_times": {
+                "Monday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 56,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 43,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 6,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 43,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 6,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 6,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 6,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Tuesday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 6,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 37,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 37,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 37,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 6,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 6,
+                        "popularity_description": "Usually not busy"
+                    }
+                ],
+                "Wednesday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 37,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 43,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 62,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 100,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 37,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 37,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 43,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Thursday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 37,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 43,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 6,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 6,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 37,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 56,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 62,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 56,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Friday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 6,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 6,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 37,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 6,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 43,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    }
+                ],
+                "Saturday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 6,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 6,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 43,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 43,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 43,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 6,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 37,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 56,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Sunday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 6,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 37,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 37,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 18,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 12,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 56,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 37,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 37,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 68,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 37,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ]
+            },
+            "featured_reviews": [
+                {
+                    "review_id": "jama",
+                    "reviewer_name": "Ashraf Ali",
+                    "rating": 1,
+                    "review_text": "jama",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-07T02:53:10.072000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102644382885997581121/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKAukt1mWn7WmS_xPNIeoIbeAE-OuniwTwzq19VkI20=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "sartaj alam",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-03-12T21:18:37.348000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 14,
+                    "total_number_of_photos_by_reviewer": 9,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109161982485575319014/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXzON-drx23_uYbZXMH7uLb8me7J0cd3kkLP6o6_MnPvg=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Laiba Azeem Rizvi",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-06-10T18:43:53.352000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102629872304998646923/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU8BIVNpWBDOoaW2z-Hrk4yA__fDgJihxQp41jPf6YL7N8=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Anupam Yadav",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-07-30T03:08:53.482000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109953186890471952868/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKKDEvPeHbpNgbaMTscM27Zto-U8DOd931O1r1D_3UR=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "RANDHIR KUMAR SINGH",
+                    "rating": 4,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-11T00:56:37.578000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 14,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106618722055733269289/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWUmRAQikBZBIo6pap0Q6PiY1Ogtg7ns_qPKekKXWybGqAK=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ2bzbpyc3nTkRxMeHh2DSkY8",
+            "name": "Baba joo Masjid",
+            "description": null,
+            "reviews": 2,
+            "competitors": [
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@25.4015137,79.74746189999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shahi Masjid",
+                    "link": "https://www.google.com/maps/search/Shahi+Masjid/@25.4018653,79.7493257?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid Amarganj Purb",
+                    "link": "https://www.google.com/maps/search/Masjid+Amarganj+Purb/@25.3977348,79.75411509999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid Turkiyana",
+                    "link": "https://www.google.com/maps/search/Masjid+Turkiyana/@25.4010575,79.7488016?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Baba joo Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPuwqu4whDGBB6NYANVkZ_SZ6ltU_8Xa_WqAZK1=w408-h348-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "CP2V+VVH Baba joo Masjid, Charkhari, Uttar Pradesh 210421",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Baba+joo+Masjid/data=!4m7!3m6!1s0x399d3727a7dbbcd9:0x8f91d2608787c7c4!8m2!3d25.4021977!4d79.7447191!16s%2Fg%2F11j0hpnf83!19sChIJ2bzbpyc3nTkRxMeHh2DSkY8?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ2bzbpyc3nTkRxMeHh2DSkY8&q=Baba+joo+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 25.4021977,
+                "longitude": 79.7447191
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "CP2V+VVH",
+                "city": "Charkhari",
+                "postal_code": "210421",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "10345281131079256004",
+            "data_id": "0x399d3727a7dbbcd9:0x8f91d2608787c7c4",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPuwqu4whDGBB6NYANVkZ_SZ6ltU_8Xa_WqAZK1=w349-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPuwqu4whDGBB6NYANVkZ_SZ6ltU_8Xa_WqAZK1=w349-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gvbJEb5-zdUtIUZ6-7UX7Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=335.44006&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Yeh masjid charkari ki sabse badi masjid hai\nIs masjid ke Imaam sahab  HAFIZ ASHIF SAHAB hai",
+                    "reviewer_name": "sartaj alam",
+                    "rating": 5,
+                    "review_text": "Yeh masjid charkari ki sabse badi masjid hai\nIs masjid ke Imaam sahab  HAFIZ ASHIF SAHAB hai",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-04-25T14:29:11.171000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 14,
+                    "total_number_of_photos_by_reviewer": 9,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109161982485575319014/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXzON-drx23_uYbZXMH7uLb8me7J0cd3kkLP6o6_MnPvg=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "This mosque is the biggest mosque in Charkari.\nThe Imam of this mosque is HAFIZ ASHIF SAHAB.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPgIobMKoXy4h8sXnK7zCUIeXDawqY-qTNnKVOb=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Very good",
+                    "reviewer_name": "Kadeer Khan",
+                    "rating": 4,
+                    "review_text": "Very good",
+                    "published_at": "6 months ago",
+                    "published_at_date": "2023-05-16T04:49:28.394000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102499242172863455010/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLKlvcVfmDMcRFJLa287nylbvc8gTscjJ9JYkijCx-4=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJpftRFz43nTkRI-J9PFDJrec",
+            "name": "Shahi Masjid",
+            "description": null,
+            "reviews": 2,
+            "competitors": [
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@25.4015137,79.74746189999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Kothi Shaheed Dargaah And Masjid",
+                    "link": "https://www.google.com/maps/search/Kothi+Shaheed+Dargaah+And+Masjid/@25.398515,79.7509421?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 4,
+                    "main_category": "Shrine"
+                },
+                {
+                    "name": "Amarganj Pashchim Masjid",
+                    "link": "https://www.google.com/maps/search/Amarganj+Pashchim+Masjid/@25.399426,79.7529586?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid Turkiyana",
+                    "link": "https://www.google.com/maps/search/Masjid+Turkiyana/@25.4010575,79.7488016?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid Amarganj Purb",
+                    "link": "https://www.google.com/maps/search/Masjid+Amarganj+Purb/@25.3977348,79.75411509999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Shahi Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOLN-otbCdcJ4kekHWkw19ylgi5zRqPjfAZcyY3=w408-h306-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "CP2X+PPW Shahi Masjid, Charkhari, Uttar Pradesh 210421",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Shahi+Masjid/data=!4m7!3m6!1s0x399d373e1751fba5:0xe7adc9503c7de223!8m2!3d25.4018653!4d79.7493257!16s%2Fg%2F11h0ms2637!19sChIJpftRFz43nTkRI-J9PFDJrec?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJpftRFz43nTkRI-J9PFDJrec&q=Shahi+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 25.401865299999997,
+                "longitude": 79.7493257
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "CP2X+PPW",
+                "city": "Charkhari",
+                "postal_code": "210421",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "16694220740181746211",
+            "data_id": "0x399d373e1751fba5:0xe7adc9503c7de223",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOLN-otbCdcJ4kekHWkw19ylgi5zRqPjfAZcyY3=w397-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Beautiful mosque.",
+                    "reviewer_name": "Mohd Nisar",
+                    "rating": 3,
+                    "review_text": "Beautiful mosque.",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-31T08:00:18.582000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 170,
+                    "total_number_of_photos_by_reviewer": 345,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118365037268964989341/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXcA0rm0r8ytVTxKHJGUD9RQJcU23ON1IV_d1OkLb-I66o=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very nice",
+                    "reviewer_name": "Mr. Memer",
+                    "rating": 5,
+                    "review_text": "Very nice",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-08-08T09:54:47.586000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115678227047246187273/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIq3BiJauFswPGbMHmMfRm1Izjv0v9dtmFAXhFxdi6k=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJIdAAIuw1nTkRYPSdvmow4_g",
+            "name": "Masjid Shia Waqf Board",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Shahi Masjid",
+                    "link": "https://www.google.com/maps/search/Shahi+Masjid/@25.4018653,79.7493257?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Kothi Shaheed Dargaah And Masjid",
+                    "link": "https://www.google.com/maps/search/Kothi+Shaheed+Dargaah+And+Masjid/@25.398515,79.7509421?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 4,
+                    "main_category": "Shrine"
+                },
+                {
+                    "name": "Masjid Turkiyana",
+                    "link": "https://www.google.com/maps/search/Masjid+Turkiyana/@25.4010575,79.7488016?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid Amarganj Purb",
+                    "link": "https://www.google.com/maps/search/Masjid+Amarganj+Purb/@25.3977348,79.75411509999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Eid Gah charkhari",
+                    "link": "https://www.google.com/maps/search/Eid+Gah+charkhari/@25.3969486,79.7417243?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid Shia Waqf Board (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "9PWR+XWP Masjid Shia Waqf Board, Charkhari, Uttar Pradesh 210421",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Shia+Waqf+Board/data=!4m7!3m6!1s0x399d35ec2200d021:0xf8e3306abe9df460!8m2!3d25.397451!4d79.7423157!16s%2Fg%2F11fq2pn3v7!19sChIJIdAAIuw1nTkRYPSdvmow4_g?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJIdAAIuw1nTkRYPSdvmow4_g&q=Masjid+Shia+Waqf+Board&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 25.397451,
+                "longitude": 79.74231569999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "9PWR+XWP",
+                "city": "Charkhari",
+                "postal_code": "210421",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "17934231376142136416",
+            "data_id": "0x399d35ec2200d021:0xf8e3306abe9df460",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJj6Wfs3s1nTkRNTK-khHW4KI",
+            "name": "Masjid Amarganj Purb",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@25.4015137,79.74746189999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shahi Masjid",
+                    "link": "https://www.google.com/maps/search/Shahi+Masjid/@25.4018653,79.7493257?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Baba joo Masjid",
+                    "link": "https://www.google.com/maps/search/Baba+joo+Masjid/@25.4021977,79.7447191?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Amarganj Pashchim Masjid",
+                    "link": "https://www.google.com/maps/search/Amarganj+Pashchim+Masjid/@25.399426,79.7529586?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid Shia Waqf Board",
+                    "link": "https://www.google.com/maps/search/Masjid+Shia+Waqf+Board/@25.397451,79.74231569999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid Amarganj Purb (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqrMzq3W6E2QxGu7WsLN11XLuNXF9T4cVtQVRa=w408-h805-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "9QX3+3JX Masjid Amarganj Purb, Charkhari, Uttar Pradesh 210421",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Amarganj+Purb/data=!4m7!3m6!1s0x399d357bb39fa58f:0xa2e0d61192be3235!8m2!3d25.3977348!4d79.7541151!16s%2Fg%2F11fp85rbk3!19sChIJj6Wfs3s1nTkRNTK-khHW4KI?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJj6Wfs3s1nTkRNTK-khHW4KI&q=Masjid+Amarganj+Purb&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 25.3977348,
+                "longitude": 79.75411509999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "9QX3+3JX",
+                "city": "Charkhari",
+                "postal_code": "210421",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "11736615999892238901",
+            "data_id": "0x399d357bb39fa58f:0xa2e0d61192be3235",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPqrMzq3W6E2QxGu7WsLN11XLuNXF9T4cVtQVRa=w224-h442-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPqrMzq3W6E2QxGu7WsLN11XLuNXF9T4cVtQVRa=w224-h442-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ21aYR8k1nTkRuMT1NdUpBqo",
+            "name": "Kothi Shaheed Dargaah And Masjid",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@25.4015137,79.74746189999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Sabri Masjid Asthaun",
+                    "link": "https://www.google.com/maps/search/Sabri+Masjid+Asthaun/@25.395001999999998,79.7198603?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 3.2,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shahi Masjid",
+                    "link": "https://www.google.com/maps/search/Shahi+Masjid/@25.4018653,79.7493257?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid Shia Waqf Board",
+                    "link": "https://www.google.com/maps/search/Masjid+Shia+Waqf+Board/@25.397451,79.74231569999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Kothi Shaheed Dargaah And Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BeFioO5b8kzhnMVH_Qhn6A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=204.37268&pitch=0&thumbfov=100",
+            "main_category": "Shrine",
+            "categories": [
+                "Shrine"
+            ],
+            "rating": 4,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "9QX2+C94 Kothi Shaheed Dargaah And Masjid, Charkhari, Uttar Pradesh 210421",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Kothi+Shaheed+Dargaah+And+Masjid/data=!4m7!3m6!1s0x399d35c9479856db:0xaa0629d535f5c4b8!8m2!3d25.398515!4d79.7509421!16s%2Fg%2F11fp1ds40k!19sChIJ21aYR8k1nTkRuMT1NdUpBqo?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 0
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ21aYR8k1nTkRuMT1NdUpBqo&q=Kothi+Shaheed+Dargaah+And+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 25.398515,
+                "longitude": 79.7509421
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "9QX2+C94",
+                "city": "Charkhari",
+                "postal_code": "210421",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "12251525832018085048",
+            "data_id": "0x399d35c9479856db:0xaa0629d535f5c4b8",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BeFioO5b8kzhnMVH_Qhn6A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=204.37268&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BeFioO5b8kzhnMVH_Qhn6A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=204.37268&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "This is spiritual place in charkhari nazarbagh..\n\nThe mazar and masjid in side of kothi talab pond\n\nA very calm and spiritual place ... you should visit there once if you are coming charkhari",
+                    "reviewer_name": "Saif Khan",
+                    "rating": 4,
+                    "review_text": "This is spiritual place in charkhari nazarbagh..\n\nThe mazar and masjid in side of kothi talab pond\n\nA very calm and spiritual place ... you should visit there once if you are coming charkhari",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-07-19T04:19:11.311000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 34,
+                    "total_number_of_photos_by_reviewer": 13,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117796270925781363835/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVHzJAVZWFAl4eGx1n5UkgjbI5n4bl0CpA4DVour1RLfH4=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNioDO_-t12CbsLb6XsyMzmXeGE6VIp7ZflpmKb=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJlV8_g0A3nTkRWmR8rIPDqKo",
+            "name": "Masjid Turkiyana",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@25.4015137,79.74746189999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shahi Masjid",
+                    "link": "https://www.google.com/maps/search/Shahi+Masjid/@25.4018653,79.7493257?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Amarganj Pashchim Masjid",
+                    "link": "https://www.google.com/maps/search/Amarganj+Pashchim+Masjid/@25.399426,79.7529586?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid Shia Waqf Board",
+                    "link": "https://www.google.com/maps/search/Masjid+Shia+Waqf+Board/@25.397451,79.74231569999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid Turkiyana (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMNcRIkH1KPG8P4SaJao83SWQiWpKiq5gvrPkfw=w532-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "CP2X+CGF Masjid Turkiyana, Charkhari, Uttar Pradesh 210421",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Turkiyana/data=!4m7!3m6!1s0x399d3740833f5f95:0xaaa8c383ac7c645a!8m2!3d25.4010575!4d79.7488016!16s%2Fg%2F11h8y4rs54!19sChIJlV8_g0A3nTkRWmR8rIPDqKo?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJlV8_g0A3nTkRWmR8rIPDqKo&q=Masjid+Turkiyana&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 25.4010575,
+                "longitude": 79.7488016
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "CP2X+CGF",
+                "city": "Charkhari",
+                "postal_code": "210421",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "12297293752837104730",
+            "data_id": "0x399d3740833f5f95:0xaaa8c383ac7c645a",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMNcRIkH1KPG8P4SaJao83SWQiWpKiq5gvrPkfw=w660-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPxm7fGGUQtwfDo23aTtKP9GIh9mzvfAJnbMHE0=w224-h298-k-no-pi-20-ya90.999985-ro-0-fo100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJdRGUIFk1nTkRifs0KiV0EFo",
+            "name": "Eid Gah charkhari",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Shahi Masjid",
+                    "link": "https://www.google.com/maps/search/Shahi+Masjid/@25.4018653,79.7493257?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid-e- sudagiran",
+                    "link": "https://www.google.com/maps/search/Masjid-e-+sudagiran/@25.2907764,79.8738714?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Charkhari Eidgah Kabristan",
+                    "link": "https://www.google.com/maps/search/Charkhari+Eidgah+Kabristan/@25.3963477,79.7419496?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Shrine"
+                },
+                {
+                    "name": "RAJAWARD MASJID",
+                    "link": "https://www.google.com/maps/search/RAJAWARD+MASJID/@25.318912599999997,79.64226029999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Eid Gah charkhari (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "9PWR+QMH Eid Gah charkhari, Charkhari, Uttar Pradesh 210421",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Eid+Gah+charkhari/data=!4m7!3m6!1s0x399d355920941175:0x5a1074252a34fb89!8m2!3d25.3969486!4d79.7417243!16s%2Fg%2F11t5xh2qrz!19sChIJdRGUIFk1nTkRifs0KiV0EFo?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJdRGUIFk1nTkRifs0KiV0EFo&q=Eid+Gah+charkhari&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 25.396948599999998,
+                "longitude": 79.7417243
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "9PWR+QMH",
+                "city": "Charkhari",
+                "postal_code": "210421",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "6489814766011612041",
+            "data_id": "0x399d355920941175:0x5a1074252a34fb89",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJH-l1MbU3nTkRDlY9rWKM1mg",
+            "name": "Amarganj Pashchim Masjid",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@25.4015137,79.74746189999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shahi Masjid",
+                    "link": "https://www.google.com/maps/search/Shahi+Masjid/@25.4018653,79.7493257?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid Amarganj Purb",
+                    "link": "https://www.google.com/maps/search/Masjid+Amarganj+Purb/@25.3977348,79.75411509999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Eid Gah charkhari",
+                    "link": "https://www.google.com/maps/search/Eid+Gah+charkhari/@25.3969486,79.7417243?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Amarganj Pashchim Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rY9F2Ge22QNlhV_2_rS5Eg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=275.82993&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "9QX3+Q5G Amarganj Pashchim Masjid, Charkhari, Uttar Pradesh 210421",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Amarganj+Pashchim+Masjid/data=!4m7!3m6!1s0x399d37b53175e91f:0x68d68c62ad3d560e!8m2!3d25.399426!4d79.7529586!16s%2Fg%2F11fp860gx_!19sChIJH-l1MbU3nTkRDlY9rWKM1mg?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 0
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJH-l1MbU3nTkRDlY9rWKM1mg&q=Amarganj+Pashchim+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 25.399426,
+                "longitude": 79.7529586
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "9QX3+Q5G",
+                "city": "Charkhari",
+                "postal_code": "210421",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "7554379780401747470",
+            "data_id": "0x399d37b53175e91f:0x68d68c62ad3d560e",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rY9F2Ge22QNlhV_2_rS5Eg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=275.82993&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rY9F2Ge22QNlhV_2_rS5Eg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=275.82993&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Masjid",
+                    "reviewer_name": "Aslam Javed",
+                    "rating": 4,
+                    "review_text": "Masjid",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-11-27T02:42:00.245000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 162,
+                    "total_number_of_photos_by_reviewer": 14,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100792136800665439919/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWnG7YgQZqBAvSAmxozUx-FmOnJuBs_Z2ehClGCti1hxOY=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Mosque",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJbyQWcb03nTkRE7j7GiSxTOw",
+            "name": "Charkhari uttr pradesh",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Charkhari uttr pradesh (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "CR39+H7M Charkhari uttr pradesh, Fatehpur, Uttar Pradesh 210421",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Charkhari+uttr+pradesh/data=!4m7!3m6!1s0x399d37bd7116246f:0xec4cb1241afbb813!8m2!3d25.4039559!4d79.818162!16s%2Fg%2F11rzjbsdt4!19sChIJbyQWcb03nTkRE7j7GiSxTOw?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJbyQWcb03nTkRE7j7GiSxTOw&q=Charkhari+uttr+pradesh&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 25.4039559,
+                "longitude": 79.818162
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "CR39+H7M",
+                "city": "Fatehpur",
+                "postal_code": "210421",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "17027179059810646035",
+            "data_id": "0x399d37bd7116246f:0xec4cb1241afbb813",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJwWGWG3rNgjkRu9SOlangkdI",
+            "name": "Choti Masjid Bjariya",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Jama Masjid Bajariya",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid+Bajariya/@25.308386199999998,79.85157319999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "haajii kutub kttaal shaah rhmtullaah alaihe",
+                    "link": "https://www.google.com/maps/search/%E0%A4%B9%E0%A4%BE%E0%A4%9C%E0%A5%80+%E0%A4%95%E0%A5%81%E0%A4%A4%E0%A5%81%E0%A4%AC+%E0%A4%95%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B2+%E0%A4%B6%E0%A4%BE%E0%A4%B9+%E0%A4%B0%E0%A4%B9%E0%A4%AE%E0%A4%A4%E0%A5%81%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%B9+%E0%A4%85%E0%A4%B2%E0%A5%88%E0%A4%B9%E0%A5%87/@25.2992918,79.8627288?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "SINGH BHAWANI",
+                    "link": "https://www.google.com/maps/search/SINGH+BHAWANI/@25.286397599999997,79.88447649999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 3,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Gopal & Brother's",
+                    "link": "https://www.google.com/maps/search/Gopal+%26+Brother%27s/@25.2944985,79.88569319999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Association or organization"
+                },
+                {
+                    "name": "Mali bagiya",
+                    "link": "https://www.google.com/maps/search/Mali+bagiya/@25.2787528,79.8753302?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Garden"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Choti Masjid Bjariya (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j6YHKO2vnBSuoY0EV1BA3A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=29.480806&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "8R5X+JH7 Choti Masjid Bjariya, Chandao, Fatehpur Bajaria, Mahoba, Uttar Pradesh 210427",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Choti+Masjid+Bjariya/data=!4m7!3m6!1s0x3982cd7a1b9661c1:0xd291e0a9958ed4bb!8m2!3d25.3090321!4d79.8489258!16s%2Fg%2F11hzm13c15!19sChIJwWGWG3rNgjkRu9SOlangkdI?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwWGWG3rNgjkRu9SOlangkdI&q=Choti+Masjid+Bjariya&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 25.3090321,
+                "longitude": 79.84892579999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Chandao",
+                "street": "8R5X+JH7",
+                "city": "Fatehpur Bajaria, Mahoba",
+                "postal_code": "210427",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "15173155638551172283",
+            "data_id": "0x3982cd7a1b9661c1:0xd291e0a9958ed4bb",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j6YHKO2vnBSuoY0EV1BA3A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=29.480806&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j6YHKO2vnBSuoY0EV1BA3A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=29.480806&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJv9Hxt85QnTkRBQZiitwOIhM",
+            "name": "Saqlainiya masjid",
+            "description": null,
+            "reviews": 4,
+            "competitors": [
+                {
+                    "name": "Noori Masjid",
+                    "link": "https://www.google.com/maps/search/Noori+Masjid/@25.2870375,79.882947?authuser=0&hl=en&entry=ttu",
+                    "reviews": 19,
+                    "rating": 3.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid-e-QUBA",
+                    "link": "https://www.google.com/maps/search/Masjid-e-QUBA/@25.2926124,79.872143?authuser=0&hl=en&entry=ttu",
+                    "reviews": 9,
+                    "rating": 3.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid-e- sudagiran",
+                    "link": "https://www.google.com/maps/search/Masjid-e-+sudagiran/@25.2907764,79.8738714?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Hazrat sallan shaheed darghah",
+                    "link": "https://www.google.com/maps/search/Hazrat+sallan+shaheed+darghah/@25.2811907,79.8787615?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Hazrat kallan shaheed",
+                    "link": "https://www.google.com/maps/search/Hazrat+kallan+shaheed/@25.2812441,79.87897389999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Saqlainiya masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNSRWmkENpXu1rgYlk5j3bANvcRez7Lww528WOg=w408-h723-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "CFVG+5W9 Saqlainiya masjid, Uttar Pradesh 210429",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Saqlainiya+masjid/data=!4m7!3m6!1s0x399d50ceb7f1d1bf:0x13220edc8a620605!8m2!3d25.4429065!4d79.4773628!16s%2Fg%2F11gf9ndmwz!19sChIJv9Hxt85QnTkRBQZiitwOIhM?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 4
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJv9Hxt85QnTkRBQZiitwOIhM&q=Saqlainiya+masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 25.4429065,
+                "longitude": 79.4773628
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "CFVG+5W9",
+                "city": null,
+                "postal_code": null,
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "1378680776306066949",
+            "data_id": "0x399d50ceb7f1d1bf:0x13220edc8a620605",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNSRWmkENpXu1rgYlk5j3bANvcRez7Lww528WOg=w224-h397-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Becaus is a religious place. And most good thing that you will have respect here.",
+                    "reviewer_name": "Tazeem Saqlaini",
+                    "rating": 5,
+                    "review_text": "Becaus is a religious place. And most good thing that you will have respect here.",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-03-12T04:12:55.127000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 19,
+                    "total_number_of_photos_by_reviewer": 8,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111746425924345379437/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUxjz852M0FiiLg2cSp_catqQETwZDy0PI9SvEBVdVgySs=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice",
+                    "reviewer_name": "Mazhar Hashmi",
+                    "rating": 5,
+                    "review_text": "Nice",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-06-22T12:59:29.738000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110525144503281009721/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVwP_bdcvyxt5yECNIPKsPQSDUm4WcKGW_QrVyUorRpHUk=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Shava Hashmi",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-03-31T06:12:11.955000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 20,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102984269850448021731/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVYEVeKw4-_S0v0HyAw_4tk2B-EOKzaAQbvTQEsiENNnRA=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "shava hashmi",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-09-22T08:20:15.247000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117306141694006025405/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXaANslA14GJ-N1v8WJuJc7aQPNDx50BHaOMh4jnzTfo7Q=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJRz_uwcA1nTkRQ0biJg8mm1Q",
+            "name": "Farm Shaheed Dargaah And Masjid",
+            "description": null,
+            "reviews": 2,
+            "competitors": [
+                {
+                    "name": "Kothi Shaheed Dargaah And Masjid",
+                    "link": "https://www.google.com/maps/search/Kothi+Shaheed+Dargaah+And+Masjid/@25.398515,79.7509421?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 4,
+                    "main_category": "Shrine"
+                },
+                {
+                    "name": "Madina masjid kuraura dang",
+                    "link": "https://www.google.com/maps/search/Madina+masjid+kuraura+dang/@25.3883884,79.7906005?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 1,
+                    "main_category": "Place of worship"
+                },
+                {
+                    "name": "Masjid Amarganj Purb",
+                    "link": "https://www.google.com/maps/search/Masjid+Amarganj+Purb/@25.3977348,79.75411509999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Eid Gah charkhari",
+                    "link": "https://www.google.com/maps/search/Eid+Gah+charkhari/@25.3969486,79.7417243?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Farm Shaheed Dargaah And Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKC3QaQMQLcYQYT7qaYi4qyiPQ8uCOZbAU_8B-=w408-h725-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 3,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "9PPX+2CP Farm Shaheed Dargaah And Masjid, Mhaaraj Nagar, Uttar Pradesh 210421",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Farm+Shaheed+Dargaah+And+Masjid/data=!4m7!3m6!1s0x399d35c0c1ee3f47:0x549b260f26e24643!8m2!3d25.3850802!4d79.7485894!16s%2Fg%2F11fp1dtksn!19sChIJRz_uwcA1nTkRQ0biJg8mm1Q?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRz_uwcA1nTkRQ0biJg8mm1Q&q=Farm+Shaheed+Dargaah+And+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 25.385080199999997,
+                "longitude": 79.7485894
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "9PPX+2CP",
+                "city": "Mhaaraj Nagar",
+                "postal_code": "210421",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "6096508367094826563",
+            "data_id": "0x399d35c0c1ee3f47:0x549b260f26e24643",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPKC3QaQMQLcYQYT7qaYi4qyiPQ8uCOZbAU_8B-=w224-h398-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMygx7UltayBIIUOc8jLjEFzrcJ6YIONUGtsMio=w528-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOMu5YeNw2LPT9fTA9UjG_wP9tNjl3Koz9P4cJt=w224-h398-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v_bcsfVyncM_6Sn6saGLIw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=83.91903&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Very nice ",
+                    "reviewer_name": "S.k Boss",
+                    "rating": 5,
+                    "review_text": "Very nice ",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-26T04:19:08.643000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 14,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106443003930972634770/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVEN5fhkwuNAn5jaqO3g9Zrv5XJ8HVAWqN6C6LUr1nwPA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPKC3QaQMQLcYQYT7qaYi4qyiPQ8uCOZbAU_8B-=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Very good",
+                    "reviewer_name": "Narendra Kumar",
+                    "rating": 1,
+                    "review_text": "Very good",
+                    "published_at": "10 months ago",
+                    "published_at_date": "2023-01-30T15:34:54.925000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108548292006395217535/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVgkIAGY4jEDaDOn2SZbk4dtE8eC_SnXNzfvPp8Yo75MeY=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPtpOkkfY9SuLkSsSLB_bSzLjc--rfisbO44UCG=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

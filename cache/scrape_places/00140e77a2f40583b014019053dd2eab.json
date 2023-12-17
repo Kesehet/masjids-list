@@ -1,0 +1,107 @@
+{
+    "query": "masjid pehowa",
+    "places": [
+        {
+            "place_id": "ChIJ9ephT7QlDjkRqnAwm6bq850",
+            "name": "Jama Masjid pehowa",
+            "description": null,
+            "reviews": 1,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama Masjid pehowa (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM4EF3sP_lmvwY1gBjWDaNbtw9HyRjSsVfqI4Qb=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "XHHM+7R9 Jama Masjid pehowa, Nand Colony 2, Pehowa, Haryana 136128",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+Masjid+pehowa/@29.9781579,76.5845953,17z/data=!3m1!4b1!4m6!3m5!1s0x390e25b44f61eaf5:0x9df3eaa69b3070aa!8m2!3d29.9781579!4d76.5845953!16s%2Fg%2F11kpdw_6pw?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9ephT7QlDjkRqnAwm6bq850&q=Jama+Masjid+pehowa&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.9781579,
+                "longitude": 76.58459529999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Nand Colony 2",
+                "street": "XHHM+7R9",
+                "city": "Pehowa",
+                "postal_code": "136128",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "11381698684584489130",
+            "data_id": "0x390e25b44f61eaf5:0x9df3eaa69b3070aa",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM4EF3sP_lmvwY1gBjWDaNbtw9HyRjSsVfqI4Qb=w529-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "The heritage mosque (masjid)  of pehowa",
+                    "reviewer_name": "Eidul hasan",
+                    "rating": 5,
+                    "review_text": "The heritage mosque (masjid)  of pehowa",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-05-14T09:06:36.409000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 28,
+                    "total_number_of_photos_by_reviewer": 17,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111081244188221282177/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWSLQmjntd6UonajZlCgewGVRJ3lPsQ1qgQkmOic6X-QbNB=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

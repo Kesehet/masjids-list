@@ -1,0 +1,3277 @@
+{
+    "query": "masjid nanauta",
+    "places": [
+        {
+            "place_id": "ChIJb8FCLZWbDjkRBmfafiYI_Nw",
+            "name": "Jama Masjid Nanauta",
+            "description": null,
+            "reviews": 5,
+            "competitors": [
+                {
+                    "name": "MARKAZ MASJID, Nanuta UP",
+                    "link": "https://www.google.com/maps/search/MARKAZ+MASJID%2C+Nanuta+UP/@29.7115808,77.41639959999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 18,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjide zahra",
+                    "link": "https://www.google.com/maps/search/Masjide+zahra/@29.7142904,77.413007?authuser=0&hl=en&entry=ttu",
+                    "reviews": 16,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shia Juma Masjid",
+                    "link": "https://www.google.com/maps/search/Shia+Juma+Masjid/@29.711956699999998,77.4174297?authuser=0&hl=en&entry=ttu",
+                    "reviews": 8,
+                    "rating": 4.1,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Afghan Masjid",
+                    "link": "https://www.google.com/maps/search/Afghan+Masjid/@29.710866099999997,77.418379?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama Masjid Nanauta (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.2,
+            "workday_timing": "Open 24 hours",
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "PC7F+92C Jama Masjid Nanauta, Saharanpur - Delhi Rd, Nanauta, Uttar Pradesh 247452",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+Masjid+Nanauta/data=!4m7!3m6!1s0x390e9b952d42c16f:0xdcfc08267eda6706!8m2!3d29.713427!4d77.422507!16s%2Fg%2F11h09r0khs!19sChIJb8FCLZWbDjkRBmfafiYI_Nw?authuser=0&hl=en&rclk=1",
+            "status": "Open 24 hours",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 4
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJb8FCLZWbDjkRBmfafiYI_Nw&q=Jama+Masjid+Nanauta&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.713427,
+                "longitude": 77.422507
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "PC7F+92C, Saharanpur - Delhi Rd",
+                "city": "Nanauta",
+                "postal_code": "247452",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "15923611343905253126",
+            "data_id": "0x390e9b952d42c16f:0xdcfc08267eda6706",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "recycling",
+                    "name": "Recycling",
+                    "options": [
+                        {
+                            "name": "Clothing",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                }
+            ],
+            "most_popular_times": [
+                {
+                    "hour_of_day": 18,
+                    "average_popularity": 49.0,
+                    "time_label": "6 pm"
+                },
+                {
+                    "hour_of_day": 22,
+                    "average_popularity": 40.142857142857146,
+                    "time_label": "10 pm"
+                },
+                {
+                    "hour_of_day": 20,
+                    "average_popularity": 39.285714285714285,
+                    "time_label": "8 pm"
+                }
+            ],
+            "popular_times": {
+                "Monday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 38,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 38,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Tuesday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 76,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 92,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    }
+                ],
+                "Wednesday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 38,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 69,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 76,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 69,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 76,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 61,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 61,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 76,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 69,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 38,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    }
+                ],
+                "Thursday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 61,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 38,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 38,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 69,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 61,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 84,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 61,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 38,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Friday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 38,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 61,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 61,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 61,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Saturday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 69,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 84,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 84,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 76,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 69,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 84,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 84,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 61,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 100,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Sunday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 38,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 61,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 38,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 38,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 38,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 38,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 15,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 0,
+                        "popularity_description": "Idle"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    }
+                ]
+            },
+            "featured_reviews": [
+                {
+                    "review_id": "Sonam",
+                    "reviewer_name": "Nosheeb Qureshi",
+                    "rating": 1,
+                    "review_text": "Sonam",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2020-12-18T16:32:54.633000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114345168340824938278/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJu2wIiPadSJxnOW0vRmi0Ne2PUcJTweEKLpyn4pEcG=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "bht `mdh msjd hy jhN mwln qsm SHb nnwtwy rH `lyh kh Hjrh bhy mwjwd hy",
+                    "reviewer_name": "Master Reviewer",
+                    "rating": 5,
+                    "review_text": "bht `mdh msjd hy jhN mwln qsm SHb nnwtwy rH `lyh kh Hjrh bhy mwjwd hy",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-05-10T07:03:14.631000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 173,
+                    "total_number_of_photos_by_reviewer": 2804,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106654517971850407456/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXDWTmjOuKY2cg51fP1OWhKSZfLNJZrQQLfgxU3_tgfog=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "There is a very fine mosque where Maulana Qasim Sahib Nanotwi (RA)'s room is also there",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Mashallah",
+                    "reviewer_name": "shaikh m.zaid",
+                    "rating": 5,
+                    "review_text": "Mashallah",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-05-10T13:30:44.106000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 105,
+                    "total_number_of_photos_by_reviewer": 186,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111181774793136917695/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI9K0LeZacEa1rO24P4XwUnB57i3ZcNMDbxYJhea7_b=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masha allah",
+                    "reviewer_name": "Juned Haider",
+                    "rating": 5,
+                    "review_text": "Masha allah",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-10-23T04:46:41.395000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 152,
+                    "total_number_of_photos_by_reviewer": 220,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100412284219209863356/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU3Bd-GIHsyk0EFEPpBHxH3ld6Z5sYXnG57QvHLzb3-qg=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Masha Allah",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Abdul rajjak",
+                    "reviewer_name": "Rajjak Rajjak",
+                    "rating": 5,
+                    "review_text": "Abdul rajjak",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-03-29T08:32:50.757000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106805009121163480876/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIaCu2LIApGX1wF69QJE9CxUfpw5dUhRmDWOc2vsz-p=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Abdul Rajjak",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMufIHoh36Y5vF9vigh9DTwY29ljiuL1Ylh8m0P=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJQdTOgSKbDjkR3qV4QPX5tro",
+            "name": "Jamia Masjid Nanauta",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "MARKAZ MASJID, Nanuta UP",
+                    "link": "https://www.google.com/maps/search/MARKAZ+MASJID%2C+Nanuta+UP/@29.7115808,77.41639959999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 18,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid Nanauta",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid+Nanauta/@29.713427,77.422507?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.2,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Akmal Masjid",
+                    "link": "https://www.google.com/maps/search/Akmal+Masjid/@29.716520799999998,77.4203143?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@29.714772599999996,77.4243968?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jabdaan masjid",
+                    "link": "https://www.google.com/maps/search/Jabdaan+masjid/@29.7140405,77.4185048?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jamia Masjid Nanauta (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPC22u4V2yErCbyj1_erXOfW2y5YbbhfWDJELm-=w408-h306-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "PC69+RJ8 Jamia Masjid Nanauta, Nanauta, Uttar Pradesh 247452",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jamia+Masjid+Nanauta/data=!4m7!3m6!1s0x390e9b2281ced441:0xbab6f9f54078a5de!8m2!3d29.7121844!4d77.4191589!16s%2Fg%2F11tf0xcfqr!19sChIJQdTOgSKbDjkR3qV4QPX5tro?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQdTOgSKbDjkR3qV4QPX5tro&q=Jamia+Masjid+Nanauta&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.712184399999998,
+                "longitude": 77.4191589
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "PC69+RJ8",
+                "city": "Nanauta",
+                "postal_code": "247452",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "13454215768559887838",
+            "data_id": "0x390e9b2281ced441:0xbab6f9f54078a5de",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPC22u4V2yErCbyj1_erXOfW2y5YbbhfWDJELm-=w397-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nFBCErGoasDZJvYU446tkQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=251.40599&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "msh llh bht hy khwbSwrt msjd hy js khy trykh bht qdym hy wr Hj@ lslm mwln qsm SHb nnwtwy rH `lyh kh Hjrh bhy mwjwd hy",
+                    "reviewer_name": "Master Reviewer",
+                    "rating": 5,
+                    "review_text": "msh llh bht hy khwbSwrt msjd hy js khy trykh bht qdym hy wr Hj@ lslm mwln qsm SHb nnwtwy rH `lyh kh Hjrh bhy mwjwd hy",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-05-10T16:12:40.750000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 173,
+                    "total_number_of_photos_by_reviewer": 2804,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106654517971850407456/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXDWTmjOuKY2cg51fP1OWhKSZfLNJZrQQLfgxU3_tgfog=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Masha Allah, it is a very beautiful mosque with a very ancient history and there is also the chamber of Maulana Qasim Sahib Nanotwi.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJx3fX2fOaDjkRncOf8oY1g4Q",
+            "name": "MARKAZ MASJID, Nanuta UP",
+            "description": null,
+            "reviews": 18,
+            "competitors": [
+                {
+                    "name": "Masjide zahra",
+                    "link": "https://www.google.com/maps/search/Masjide+zahra/@29.7142904,77.413007?authuser=0&hl=en&entry=ttu",
+                    "reviews": 16,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid Nanauta",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid+Nanauta/@29.713427,77.422507?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.2,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Afghan Masjid",
+                    "link": "https://www.google.com/maps/search/Afghan+Masjid/@29.710866099999997,77.418379?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@29.714772599999996,77.4243968?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "MARKAZ MASJID, Nanuta UP (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMl8HnLa0yQWN36Lpi57Jqi3rn5UFWXK5GyaU6N=w408-h725-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.3,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "PC68+JHJ MARKAZ MASJID, Nanuta UP, Unnamed Road, Nanauta, Uttar Pradesh 247452",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/MARKAZ+MASJID,+Nanuta+UP/data=!4m7!3m6!1s0x390e9af3d9d777c7:0x84833586f29fc39d!8m2!3d29.7115808!4d77.4163996!16s%2Fg%2F11g8gbp00l!19sChIJx3fX2fOaDjkRncOf8oY1g4Q?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 2,
+                "2": 0,
+                "3": 1,
+                "4": 2,
+                "5": 13
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJx3fX2fOaDjkRncOf8oY1g4Q&q=MARKAZ+MASJID,+Nanuta+UP&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.7115808,
+                "longitude": 77.41639959999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "PC68+JHJ, Unnamed Road",
+                "city": "Nanauta",
+                "postal_code": "247452",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "9548534488668029853",
+            "data_id": "0x390e9af3d9d777c7:0x84833586f29fc39d",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMl8HnLa0yQWN36Lpi57Jqi3rn5UFWXK5GyaU6N=w224-h398-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vYxSYqCokeYA5F9S5pbG0w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=94.91913&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMcZcXnYWLcqbXBAs_rgsPTGU8fFSTUuhqEoSlc=w224-h398-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Jamat k logo ka ek central place",
+                    "reviewer_name": "Abdul Rehman Siddiqui",
+                    "rating": 5,
+                    "review_text": "Jamat k logo ka ek central place",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-06-14T02:09:08.493000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 637,
+                    "total_number_of_photos_by_reviewer": 1364,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116729270437526047943/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUIv-mrDqaxnfbbQOxFfbQHP5joCJBiP7TtWm5JUQxRK5o=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "A central place of people of Jamaat",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Awesome Mosque",
+                    "reviewer_name": "Javed Malik",
+                    "rating": 5,
+                    "review_text": "Awesome Mosque",
+                    "published_at": "10 months ago",
+                    "published_at_date": "2023-02-08T06:14:46.541000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 32,
+                    "total_number_of_photos_by_reviewer": 5,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112613462196237994402/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWBj39NlaEZXJusARF4pAjQTpTqyYBdjJ_QUp9jV6DY0lbv=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "#Mashallah\nA Great Religious Place",
+                    "reviewer_name": "Rihan Haider Zaidi",
+                    "rating": 5,
+                    "review_text": "#Mashallah\nA Great Religious Place",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-05-09T06:42:37.579000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 5,
+                    "total_number_of_reviews_by_reviewer": 15,
+                    "total_number_of_photos_by_reviewer": 23,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109579650944503389829/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVxmbWFTHV2muwqCGXOBvPgFjJbsPZi2VXT71k0l2MVL7A=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Azad band",
+                    "reviewer_name": "Kaif Shah",
+                    "rating": 5,
+                    "review_text": "Azad band",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-11-09T07:02:51.819000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100845021068826653090/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKDbNAUdG0ZyYEBnI3qWiePlRqf0D9wQ_ZRYguFaN2O=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very good place",
+                    "reviewer_name": "jaanbaaz khan",
+                    "rating": 4,
+                    "review_text": "Very good place",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-10-16T11:04:07.393000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 66,
+                    "total_number_of_photos_by_reviewer": 136,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105488522404799782386/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVAZOPkofFOb8UrbV5m4cJKy9gzOb1uVzqNBQ8IbmpjZdNM=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good",
+                    "reviewer_name": "mohit prjaapti",
+                    "rating": 4,
+                    "review_text": "Good",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-09T09:42:47.882000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 367,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116424574936704020868/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK-Iba4d_rJleDJUFGFUB179gswwjFn9itsdKKVqhkiK7c=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Great",
+                    "reviewer_name": "Anas khan",
+                    "rating": 5,
+                    "review_text": "Great",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-02-06T18:05:00.409000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 19,
+                    "total_number_of_photos_by_reviewer": 55,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109899241903473568950/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVIwqEJZw_awMztPTSR_0lRz4iNMRDOoR6W1SmCq4ZIew8=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Beautifull....",
+                    "reviewer_name": "Dr.Masroor Sheikh",
+                    "rating": 5,
+                    "review_text": "Beautifull....",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-06-13T12:48:43.559000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 15,
+                    "total_number_of_photos_by_reviewer": 41,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106389001827838848994/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWtYcc5SBFTkDK7GdkPLJqCDMzWHMJfMrIG2fraQnGx6KIj=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJh6c2TkabDjkRunqirUGQbCk",
+            "name": "Masjid",
+            "description": null,
+            "reviews": 2,
+            "competitors": [
+                {
+                    "name": "MARKAZ MASJID, Nanuta UP",
+                    "link": "https://www.google.com/maps/search/MARKAZ+MASJID%2C+Nanuta+UP/@29.7115808,77.41639959999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 18,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjide zahra",
+                    "link": "https://www.google.com/maps/search/Masjide+zahra/@29.7142904,77.413007?authuser=0&hl=en&entry=ttu",
+                    "reviews": 16,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shia Juma Masjid",
+                    "link": "https://www.google.com/maps/search/Shia+Juma+Masjid/@29.711956699999998,77.4174297?authuser=0&hl=en&entry=ttu",
+                    "reviews": 8,
+                    "rating": 4.1,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid Nanauta",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid+Nanauta/@29.713427,77.422507?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.2,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jamia Masjid Nanauta",
+                    "link": "https://www.google.com/maps/search/Jamia+Masjid+Nanauta/@29.712184399999998,77.4191589?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8ONjr0Dzb3xjCYc_Fz4DUQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=241.6691&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Masjid, Bus stand, Nanauta, Uttar Pradesh 247452",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid/data=!4m7!3m6!1s0x390e9b464e36a787:0x296c9041ada27aba!8m2!3d29.7147726!4d77.4243968!16s%2Fg%2F11h77lyx7j!19sChIJh6c2TkabDjkRunqirUGQbCk?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJh6c2TkabDjkRunqirUGQbCk&q=Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.7147726,
+                "longitude": 77.4243968
+            },
+            "plus_code": "PC7F+WQ Nanauta, Uttar Pradesh",
+            "detailed_address": {
+                "ward": null,
+                "street": "Bus stand",
+                "city": "Nanauta",
+                "postal_code": "247452",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "2984919264800176826",
+            "data_id": "0x390e9b464e36a787:0x296c9041ada27aba",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8ONjr0Dzb3xjCYc_Fz4DUQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=241.6691&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8ONjr0Dzb3xjCYc_Fz4DUQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=241.6691&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Exactly on roadways bus stop. Good for travellers",
+                    "reviewer_name": "ahkam ali",
+                    "rating": 4,
+                    "review_text": "Exactly on roadways bus stop. Good for travellers",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-05-29T18:05:28.251000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 229,
+                    "total_number_of_photos_by_reviewer": 170,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112363622291048154128/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIQMpMf6eSjtrIh7RubSYNCG83wj7OFUNbEvuuvb-t5=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "maashaallaah",
+                    "reviewer_name": "Nadeem Choudhary",
+                    "rating": 5,
+                    "review_text": "maashaallaah",
+                    "published_at": "10 months ago",
+                    "published_at_date": "2023-02-09T06:48:01.347000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 5,
+                    "total_number_of_reviews_by_reviewer": 65,
+                    "total_number_of_photos_by_reviewer": 253,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105424190502442011330/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXUOQRIboPATBmnob5Zg3uidmIlwkqeJShelAqkzLDB9WQv=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "mashallah",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJBUZc0q2bDjkRcFtaQlVCoko",
+            "name": "Shia Juma Masjid",
+            "description": null,
+            "reviews": 8,
+            "competitors": [
+                {
+                    "name": "MARKAZ MASJID, Nanuta UP",
+                    "link": "https://www.google.com/maps/search/MARKAZ+MASJID%2C+Nanuta+UP/@29.7115808,77.41639959999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 18,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjide zahra",
+                    "link": "https://www.google.com/maps/search/Masjide+zahra/@29.7142904,77.413007?authuser=0&hl=en&entry=ttu",
+                    "reviews": 16,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid Nanauta",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid+Nanauta/@29.713427,77.422507?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.2,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@29.714772599999996,77.4243968?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Shia Juma Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM8eJlXkHUO5Ly7AcR1I13_rSpb5_Naf21_kz5d=w506-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.1,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "PC68+QXM Shia Juma Masjid, Nanauta, Uttar Pradesh 247452",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Shia+Juma+Masjid/data=!4m7!3m6!1s0x390e9badd25c4605:0x4aa24255425a5b70!8m2!3d29.7119567!4d77.4174297!16s%2Fg%2F11j79hvnzt!19sChIJBUZc0q2bDjkRcFtaQlVCoko?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 1,
+                "3": 0,
+                "4": 0,
+                "5": 6
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJBUZc0q2bDjkRcFtaQlVCoko&q=Shia+Juma+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.711956699999998,
+                "longitude": 77.4174297
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "PC68+QXM",
+                "city": "Nanauta",
+                "postal_code": "247452",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "5377933838986664816",
+            "data_id": "0x390e9badd25c4605:0x4aa24255425a5b70",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM8eJlXkHUO5Ly7AcR1I13_rSpb5_Naf21_kz5d=w629-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "This is super place for pray.",
+                    "reviewer_name": "Suleman Mehdi",
+                    "rating": 5,
+                    "review_text": "This is super place for pray.",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-10-04T12:06:30.165000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 15,
+                    "total_number_of_photos_by_reviewer": 46,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106804737502306906313/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXvDcMEmhEPQVnQcRr79pS2OQi7VMhyK3aWOJTzSVnGng3n=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Fantastic Mosque",
+                    "reviewer_name": "Suleman mehdi",
+                    "rating": 5,
+                    "review_text": "Fantastic Mosque",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2020-12-16T14:20:16.770000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108973170820948415377/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXpseWk3QTquVPKiR6muK-pmEypDACn_ORIQR9lwC3sAA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "amazing mosque",
+                    "reviewer_name": "Ali Sagar Aabdi",
+                    "rating": 5,
+                    "review_text": "amazing mosque",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2020-12-16T14:15:45.537000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 9,
+                    "total_number_of_reviews_by_reviewer": 28,
+                    "total_number_of_photos_by_reviewer": 17,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109765911189326948226/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVRBeKkrQ2jQoSZxIvb83YTeyypkRY2zJtT41ByQqH57lU=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Looking Nyc",
+                    "reviewer_name": "Mudassir Qureshi",
+                    "rating": 5,
+                    "review_text": "Looking Nyc",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2020-12-16T14:26:21.332000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109510442867175285900/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjURO3Kcgb0bqD-ZTi5reNELRQxJCM7SbfkQo3-0-AKevoM=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice place",
+                    "reviewer_name": "home chanel aasim",
+                    "rating": 5,
+                    "review_text": "Nice place",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-10-04T12:10:06.383000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107050625957643129114/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWRZjIYBjTrpizcRo2B6NoVPJ39VhzD8Pga1t2msXZ2ew=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Bc buy",
+                    "rating": 1,
+                    "review_text": null,
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-10-08T08:48:57.913000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101389076260242832811/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW9UoGRZwNJ5xyQtXkx4p8cmWJd0FArszs6UrIL8up2yw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Hidayat Husain",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-05-08T22:18:17.534000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101034444879484693280/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWkPJErYfyjt296PMfN_3ElgjPSgR89dsXohbxSN6P7uzE=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Nawazish Siddiqui",
+                    "rating": 2,
+                    "review_text": null,
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-10-05T17:42:35.254000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101538229843643945537/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVVMNBaTWHhjTfrl--aqp5UYr5_lBOVMFXGOUPtEQxHfFw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJk_uGUvGaDjkROvsXVmu2AeA",
+            "name": "Afghan Masjid",
+            "description": null,
+            "reviews": 4,
+            "competitors": [
+                {
+                    "name": "MARKAZ MASJID, Nanuta UP",
+                    "link": "https://www.google.com/maps/search/MARKAZ+MASJID%2C+Nanuta+UP/@29.7115808,77.41639959999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 18,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid Nanauta",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid+Nanauta/@29.713427,77.422507?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.2,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "DADA WALI MASJID",
+                    "link": "https://www.google.com/maps/search/DADA+WALI+MASJID/@29.8957292,77.37094669999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Edgah nanauta",
+                    "link": "https://www.google.com/maps/search/Edgah+nanauta/@29.713511699999998,77.410195?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Religious destination"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Afghan Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mz6HLQ58IfIyr7cdXSRd_g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=343.59448&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "PC69+89R Afghan Masjid, Nanauta, Uttar Pradesh 247452",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Afghan+Masjid/data=!4m7!3m6!1s0x390e9af15286fb93:0xe001b66b5617fb3a!8m2!3d29.7108661!4d77.418379!16s%2Fg%2F11f4qz_xm1!19sChIJk_uGUvGaDjkROvsXVmu2AeA?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 4
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJk_uGUvGaDjkROvsXVmu2AeA&q=Afghan+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.710866099999997,
+                "longitude": 77.418379
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "PC69+89R",
+                "city": "Nanauta",
+                "postal_code": "247452",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "16141383111594736442",
+            "data_id": "0x390e9af15286fb93:0xe001b66b5617fb3a",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mz6HLQ58IfIyr7cdXSRd_g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=343.59448&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Mz6HLQ58IfIyr7cdXSRd_g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=343.59448&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Beautiful",
+                    "reviewer_name": "Muhammad Iqrar Nanautvi",
+                    "rating": 5,
+                    "review_text": "Beautiful",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-17T09:18:36.192000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 66,
+                    "total_number_of_photos_by_reviewer": 112,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103075561483365530275/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX5beXyKXwKYjBbrZEBqGNpU-_E_TgFTLNhZp-B-MZ0oEV-=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Mashaallah .....",
+                    "reviewer_name": "Ansari Homoeo & Hijama Therapy",
+                    "rating": 5,
+                    "review_text": "Mashaallah .....",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-21T16:51:23.184000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 8,
+                    "total_number_of_photos_by_reviewer": 53,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105541417287861551232/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUFJn8AwEOF1YHlkVGTal5U-1ZNRl9Af3tp63fgDBZYvA=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Mashaallah.....",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Afghan masjid",
+                    "reviewer_name": "COMPREHEND LAW",
+                    "rating": 5,
+                    "review_text": "Afghan masjid",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-14T05:01:28.093000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115421003789223033791/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWKnAHmK-BPjQnrl-glcf6X2Jz405yI6886F3jWq7-Fmh0=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Afghan mosque",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "unib khan",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-03-10T17:17:27.104000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109322235299486825695/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLx6bu9xtwzW-gCYJL9MZWnAqM2LgjJiNORAupLurC5=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ0eTMg_KaDjkR5xlgOP1y3RY",
+            "name": "Masjide zahra",
+            "description": null,
+            "reviews": 16,
+            "competitors": [
+                {
+                    "name": "MARKAZ MASJID, Nanuta UP",
+                    "link": "https://www.google.com/maps/search/MARKAZ+MASJID%2C+Nanuta+UP/@29.7115808,77.41639959999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 18,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid Nanauta",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid+Nanauta/@29.713427,77.422507?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.2,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@29.714772599999996,77.4243968?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Edgah nanauta",
+                    "link": "https://www.google.com/maps/search/Edgah+nanauta/@29.713511699999998,77.410195?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Religious destination"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjide zahra (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOCzNOaricl8FReGGFP3tp6dJ-nJX7huo7Zx7KD=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.6,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "PC77+P66 Masjide zahra, Nanauta, Uttar Pradesh 247452",
+            "review_keywords": [
+                {
+                    "keyword": "good place",
+                    "count": 3
+                }
+            ],
+            "link": "https://www.google.com/maps/place/Masjide+zahra/data=!4m7!3m6!1s0x390e9af283cce4d1:0x16dd72fd386019e7!8m2!3d29.7142904!4d77.413007!16s%2Fg%2F11f0krl5wx!19sChIJ0eTMg_KaDjkR5xlgOP1y3RY?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 0,
+                "3": 1,
+                "4": 0,
+                "5": 14
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ0eTMg_KaDjkR5xlgOP1y3RY&q=Masjide+zahra&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.7142904,
+                "longitude": 77.413007
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "PC77+P66",
+                "city": "Nanauta",
+                "postal_code": "247452",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "1647599470585584103",
+            "data_id": "0x390e9af283cce4d1:0x16dd72fd386019e7",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOCzNOaricl8FReGGFP3tp6dJ-nJX7huo7Zx7KD=w529-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RnmnT7KLlo2vg2mPBcjgLw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=343.37692&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Lovely Islamic Place",
+                    "reviewer_name": "Afzaal Zaidi",
+                    "rating": 5,
+                    "review_text": "Lovely Islamic Place",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-11-29T14:42:38.495000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112014290257816572992/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIuyA2l7cNStv6G5Yksn7TI8Cun1fxxVnquSGfeiyRV=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "MASHALLAH....NICE PLACE",
+                    "reviewer_name": "Ansari Homoeo & Hijama Therapy",
+                    "rating": 5,
+                    "review_text": "MASHALLAH....NICE PLACE",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-21T16:50:50.555000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 8,
+                    "total_number_of_photos_by_reviewer": 53,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105541417287861551232/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUFJn8AwEOF1YHlkVGTal5U-1ZNRl9Af3tp63fgDBZYvA=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masjid E Zehra S.a.",
+                    "reviewer_name": "Rihan Haider Zaidi",
+                    "rating": 5,
+                    "review_text": "Masjid E Zehra S.a.",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-11-28T09:40:40.407000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 5,
+                    "total_number_of_reviews_by_reviewer": 15,
+                    "total_number_of_photos_by_reviewer": 23,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109579650944503389829/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVxmbWFTHV2muwqCGXOBvPgFjJbsPZi2VXT71k0l2MVL7A=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMwjHFYzFVzRuHpmC-yW27nB0o4ZkX_yktPe2_X=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOBVfDJe_ahyWgMv3pVWCcqr6WpPcKwc5_tHwVM=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Very peaceful place ",
+                    "reviewer_name": "SAKSHAM SHARMA",
+                    "rating": 5,
+                    "review_text": "Very peaceful place ",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-01-26T04:51:38.134000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 65,
+                    "total_number_of_photos_by_reviewer": 706,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114001182560210450317/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW7ExcME926YoqMLrAih_4BzAmdvLaXyESWBGMnx1Kase4=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "#MashAllah",
+                    "reviewer_name": "Waseem Rao",
+                    "rating": 5,
+                    "review_text": "#MashAllah",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-12-01T10:24:50.535000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102837359007014717711/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUKjdOA2X6B4ykw-9hrJ5HDNrWzOey1mLKkSgyisSW7lA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good place",
+                    "reviewer_name": "misem misem",
+                    "rating": 5,
+                    "review_text": "Good place",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-09-26T08:44:17.497000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111115840879332470833/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ4IejDKeaOOhDH9lm8HIbMZ6JxjaUqxx_xtKX3UUR9=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masjid e zahra",
+                    "reviewer_name": "Ali Sagar Aabdi",
+                    "rating": 5,
+                    "review_text": "Masjid e zahra",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-09-08T16:44:52.669000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 28,
+                    "total_number_of_photos_by_reviewer": 17,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109765911189326948226/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVRBeKkrQ2jQoSZxIvb83YTeyypkRY2zJtT41ByQqH57lU=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masjide zahra nanauta",
+                    "reviewer_name": "Zain Aabdi",
+                    "rating": 5,
+                    "review_text": "Masjide zahra nanauta",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-09-06T13:22:08.482000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111477653682647992366/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJc23-oFdHGBotFXWmGtbBv5niSpiS3gMhGezz7yjG6=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "masjide zahra nanauta",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJE0KGxvSaDjkRBVvS-FUNrB4",
+            "name": "Akmal Masjid",
+            "description": null,
+            "reviews": 4,
+            "competitors": [
+                {
+                    "name": "MARKAZ MASJID, Nanuta UP",
+                    "link": "https://www.google.com/maps/search/MARKAZ+MASJID%2C+Nanuta+UP/@29.7115808,77.41639959999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 18,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid Nanauta",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid+Nanauta/@29.713427,77.422507?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.2,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Afghan Masjid",
+                    "link": "https://www.google.com/maps/search/Afghan+Masjid/@29.710866099999997,77.418379?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@29.714772599999996,77.4243968?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jamia Masjid Nanauta",
+                    "link": "https://www.google.com/maps/search/Jamia+Masjid+Nanauta/@29.712184399999998,77.4191589?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Akmal Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=58Jkingy-Dp5iUr1G_eH2Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=24.002422&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "PC8C+J44 Akmal Masjid, Nanauta, Uttar Pradesh 247452",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Akmal+Masjid/data=!4m7!3m6!1s0x390e9af4c6864213:0x1eac0d55f8d25b05!8m2!3d29.7165208!4d77.4203143!16s%2Fg%2F11hbv33kst!19sChIJE0KGxvSaDjkRBVvS-FUNrB4?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 4
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJE0KGxvSaDjkRBVvS-FUNrB4&q=Akmal+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.716520799999998,
+                "longitude": 77.4203143
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "PC8C+J44",
+                "city": "Nanauta",
+                "postal_code": "247452",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "2210156180029987589",
+            "data_id": "0x390e9af4c6864213:0x1eac0d55f8d25b05",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=58Jkingy-Dp5iUr1G_eH2Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=24.002422&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=58Jkingy-Dp5iUr1G_eH2Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=24.002422&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Nice",
+                    "reviewer_name": "RABBANI KHAN",
+                    "rating": 5,
+                    "review_text": "Nice",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-09-10T11:18:06.013000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108468238701203731589/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUtGXxqcj2tFZSrm-UsjRdJRd2LTVFwhhGa17GCjcYSa1U=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Great",
+                    "reviewer_name": "Anas khan",
+                    "rating": 5,
+                    "review_text": "Great",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-02-11T17:19:02.839000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 19,
+                    "total_number_of_photos_by_reviewer": 55,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109899241903473568950/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVIwqEJZw_awMztPTSR_0lRz4iNMRDOoR6W1SmCq4ZIew8=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Mashallah ....",
+                    "reviewer_name": "Dr.Masroor Sheikh",
+                    "rating": 5,
+                    "review_text": "Mashallah ....",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-01-21T16:49:16.789000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 15,
+                    "total_number_of_photos_by_reviewer": 41,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106389001827838848994/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWtYcc5SBFTkDK7GdkPLJqCDMzWHMJfMrIG2fraQnGx6KIj=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "mashallah....",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Aman Khan",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-04-02T02:21:05.704000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116947458887843761460/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKnAsuIoqx_53N0AoxCkqTwdZRWhol1wCs9EmI5jpVh=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJbcAl6IKbDjkRvNUQcbUi3oQ",
+            "name": "noorani masjid",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "MARKAZ MASJID, Nanuta UP",
+                    "link": "https://www.google.com/maps/search/MARKAZ+MASJID%2C+Nanuta+UP/@29.7115808,77.41639959999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 18,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "AYSHA MASJID",
+                    "link": "https://www.google.com/maps/search/AYSHA+MASJID/@29.7076762,77.4146403?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jamia Masjid Nanauta",
+                    "link": "https://www.google.com/maps/search/Jamia+Masjid+Nanauta/@29.712184399999998,77.4191589?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noorani Masjid",
+                    "link": "https://www.google.com/maps/search/Noorani+Masjid/@29.5805007,77.4815082?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Edgah nanauta",
+                    "link": "https://www.google.com/maps/search/Edgah+nanauta/@29.713511699999998,77.410195?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Religious destination"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "noorani masjid (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "PC56+383 noorani masjid, Nanauta, Uttar Pradesh 247452",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/noorani+masjid/data=!4m7!3m6!1s0x390e9b82e825c06d:0x84de22b57110d5bc!8m2!3d29.7076329!4d77.4107949!16s%2Fg%2F11sn3pdw9c!19sChIJbcAl6IKbDjkRvNUQcbUi3oQ?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJbcAl6IKbDjkRvNUQcbUi3oQ&q=noorani+masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.7076329,
+                "longitude": 77.4107949
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "PC56+383",
+                "city": "Nanauta",
+                "postal_code": "247452",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "9574128020517606844",
+            "data_id": "0x390e9b82e825c06d:0x84de22b57110d5bc",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJA-pYCdubDjkRtZC0KWdzvyE",
+            "name": "1 mynrh msjd",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Rahi Wali Masjid",
+                    "link": "https://www.google.com/maps/search/Rahi+Wali+Masjid/@29.616345799999998,77.43737709999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 9,
+                    "rating": 3.9,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Dargah Miyanji Noor Muhammad Sabri Jhinjhanvi (R.A.)",
+                    "link": "https://www.google.com/maps/search/Dargah+Miyanji+Noor+Muhammad+Sabri+Jhinjhanvi+%28R.A.%29/@29.5193868,77.2312993?authuser=0&hl=en&entry=ttu",
+                    "reviews": 7,
+                    "rating": 3.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Mecca masjid",
+                    "link": "https://www.google.com/maps/search/Mecca+masjid/@29.4950671,77.6327486?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jamia Masjid Nanauta",
+                    "link": "https://www.google.com/maps/search/Jamia+Masjid+Nanauta/@29.712184399999998,77.4191589?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Hsyny@ drbr Hsyny `lyh lslm",
+                    "link": "https://www.google.com/maps/search/%D8%AD%D8%B3%D9%8A%D9%86%D9%8A%D8%A9+%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1+%D8%AD%D8%B3%D9%8A%D9%86%D9%8A+%D8%B9%D9%84%D9%8A%D9%87+%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85/@29.713168099999997,77.4169361?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Shrine"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "1 mynrh msjd (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zJZkEFwnmaW-DY7XtWe9Gg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=182.76736&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "PC6C+WV2 1 mynrh msjd, Shekhjadgaan, Nanauta, Uttar Pradesh 247452",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/1+%D9%85%DB%8C%D9%86%D8%A7%D8%B1%DB%81+%D9%85%D8%B3%D8%AC%D8%AF%E2%80%AD/data=!4m7!3m6!1s0x390e9bdb0958ea03:0x21bf736729b490b5!8m2!3d29.7122579!4d77.4221549!16s%2Fg%2F11s20k3zn_!19sChIJA-pYCdubDjkRtZC0KWdzvyE?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJA-pYCdubDjkRtZC0KWdzvyE&q=1+%D9%85%DB%8C%D9%86%D8%A7%D8%B1%DB%81+%D9%85%D8%B3%D8%AC%D8%AF%E2%80%AD&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.712257899999997,
+                "longitude": 77.4221549
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Shekhjadgaan",
+                "street": "PC6C+WV2, Shekhjadgaan",
+                "city": "Nanauta",
+                "postal_code": "247452",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "2431789210721882293",
+            "data_id": "0x390e9bdb0958ea03:0x21bf736729b490b5",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zJZkEFwnmaW-DY7XtWe9Gg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=182.76736&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zJZkEFwnmaW-DY7XtWe9Gg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=182.76736&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "Mohd Shameem",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-11-16T11:38:55.249000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106919352955780880394/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIhgFTNo_3Tj4S_C4MOXSaqaUdhEAHM5K67FQxDXlp8=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ-3MAdM-bDjkRguxAdOQ5jcU",
+            "name": "Jabdaan masjid",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "MARKAZ MASJID, Nanuta UP",
+                    "link": "https://www.google.com/maps/search/MARKAZ+MASJID%2C+Nanuta+UP/@29.7115808,77.41639959999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 18,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jamia Masjid Nanauta",
+                    "link": "https://www.google.com/maps/search/Jamia+Masjid+Nanauta/@29.712184399999998,77.4191589?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "AYSHA MASJID",
+                    "link": "https://www.google.com/maps/search/AYSHA+MASJID/@29.7076762,77.4146403?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Edgah nanauta",
+                    "link": "https://www.google.com/maps/search/Edgah+nanauta/@29.713511699999998,77.410195?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Religious destination"
+                },
+                {
+                    "name": "noorani masjid",
+                    "link": "https://www.google.com/maps/search/noorani+masjid/@29.707632900000004,77.4107949?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jabdaan masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xd_POtcmFQUFopBBCAtjHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=76.205475&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Jabdaan masjid, Chatta, Nanauta, Uttar Pradesh 247452",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jabdaan+masjid/data=!4m7!3m6!1s0x390e9bcf740073fb:0xc58d39e47440ec82!8m2!3d29.7140405!4d77.4185048!16s%2Fg%2F11t5x8qdmw!19sChIJ-3MAdM-bDjkRguxAdOQ5jcU?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ-3MAdM-bDjkRguxAdOQ5jcU&q=Jabdaan+masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.7140405,
+                "longitude": 77.4185048
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "Chatta",
+                "city": "Nanauta",
+                "postal_code": "247452",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "14235097650553744514",
+            "data_id": "0x390e9bcf740073fb:0xc58d39e47440ec82",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xd_POtcmFQUFopBBCAtjHw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=76.205475&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xd_POtcmFQUFopBBCAtjHw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=76.205475&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJqSLMdqybDjkRGU1KfAbOlX4",
+            "name": "AYSHA MASJID",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Masjid Aisha",
+                    "link": "https://www.google.com/maps/search/Masjid+Aisha/@29.590068799999994,77.416832?authuser=0&hl=en&entry=ttu",
+                    "reviews": 9,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Aaisha Masjid",
+                    "link": "https://www.google.com/maps/search/Aaisha+Masjid/@29.739762499999998,77.28885939999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "AAISHA MASJID",
+                    "link": "https://www.google.com/maps/search/AAISHA+MASJID/@29.772935199999996,77.2630286?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Aayasha Masjid",
+                    "link": "https://www.google.com/maps/search/Aayasha+Masjid/@29.922848400000003,77.390541?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "AYSHA MASJID (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TEZ0ZLu9vlmXQIT8StO1xQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=49.473263&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "AYSHA MASJID, BHARI ADDA GALI NO 5, Nanauta",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/AYSHA+MASJID/data=!4m7!3m6!1s0x390e9bac76cc22a9:0x7e95ce067c4a4d19!8m2!3d29.7076762!4d77.4146403!16s%2Fg%2F11q4drh0_z!19sChIJqSLMdqybDjkRGU1KfAbOlX4?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJqSLMdqybDjkRGU1KfAbOlX4&q=AYSHA+MASJID&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.707676199999998,
+                "longitude": 77.4146403
+            },
+            "plus_code": "PC57+3V Nanauta, Uttar Pradesh",
+            "detailed_address": {
+                "ward": null,
+                "street": "BHARI ADDA GALI NO 5",
+                "city": "Nanauta",
+                "postal_code": null,
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "9121423147559177497",
+            "data_id": "0x390e9bac76cc22a9:0x7e95ce067c4a4d19",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TEZ0ZLu9vlmXQIT8StO1xQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=49.473263&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TEZ0ZLu9vlmXQIT8StO1xQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=49.473263&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Nice",
+                    "reviewer_name": "sahil Ahmed",
+                    "rating": 5,
+                    "review_text": "Nice",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-29T11:20:01.760000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108673819308438676793/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW1aToC-7SqdEuLs-wpzsNZ3UP6si6Mn96-VX7gozRQ1Q=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

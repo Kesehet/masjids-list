@@ -1,0 +1,2061 @@
+{
+    "query": "masjid ghazipur",
+    "places": [
+        {
+            "place_id": "ChIJf6ED1dLlDDkRYZHZHMTXQ4M",
+            "name": "Jama Masjid Ghazipur",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Jama Masjid jm` msjd",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid+%D8%AC%D8%A7%D9%85%D8%B9+%D9%85%D8%B3%D8%AC%D8%AF/@28.6091721,77.3082433?authuser=0&hl=en&entry=ttu",
+                    "reviews": 89,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Murga Mandi Masjid",
+                    "link": "https://www.google.com/maps/search/Murga+Mandi+Masjid/@28.6276911,77.3310489?authuser=0&hl=en&entry=ttu",
+                    "reviews": 41,
+                    "rating": 3.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@28.621931999999997,77.32370809999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 9,
+                    "rating": 4.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Madina Masjid",
+                    "link": "https://www.google.com/maps/search/Madina+Masjid/@28.6275238,77.32545619999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jamia Darussalam Madarsa",
+                    "link": "https://www.google.com/maps/search/Jamia+Darussalam+Madarsa/@28.6220128,77.3235942?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "School"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama Masjid Ghazipur (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMZ9Cs-AzkKFlMfmNdBmsk4vuIe9n6kl4PHH3X5=w408-h725-k-no",
+            "main_category": "School",
+            "categories": [
+                "School"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "J8CF+QFV Jama Masjid Ghazipur, Ghazipur Dairy Farm, Ghazipur, New Delhi, Delhi, 110096",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+Masjid+Ghazipur/data=!4m7!3m6!1s0x390ce5d2d503a17f:0x8343d7c41cd99161!8m2!3d28.6219937!4d77.3236579!16s%2Fg%2F11h_kdkcvd!19sChIJf6ED1dLlDDkRYZHZHMTXQ4M?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJf6ED1dLlDDkRYZHZHMTXQ4M&q=Jama+Masjid+Ghazipur&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.621993699999997,
+                "longitude": 77.3236579
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Ghazipur Dairy Farm, Ghazipur",
+                "street": "J8CF+QFV",
+                "city": "New Delhi, Delhi",
+                "postal_code": "110096",
+                "state": "Delhi",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "9458640879705756001",
+            "data_id": "0x390ce5d2d503a17f:0x8343d7c41cd99161",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMZ9Cs-AzkKFlMfmNdBmsk4vuIe9n6kl4PHH3X5=w224-h398-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iu294uNsR_ll_KMEH43WNA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=54.966892&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJyUxXhfblDDkRT9sPacGA-EA",
+            "name": "Murga Mandi Masjid",
+            "description": null,
+            "reviews": 41,
+            "competitors": [
+                {
+                    "name": "Ghazipur Murga Mandi",
+                    "link": "https://www.google.com/maps/search/Ghazipur+Murga+Mandi/@28.626019799999998,77.32186279999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2425,
+                    "rating": 3.6,
+                    "main_category": "Market"
+                },
+                {
+                    "name": "Gazipur Bakra Mandi",
+                    "link": "https://www.google.com/maps/search/Gazipur+Bakra+Mandi/@28.6213946,77.3242313?authuser=0&hl=en&entry=ttu",
+                    "reviews": 814,
+                    "rating": 4,
+                    "main_category": "Market"
+                },
+                {
+                    "name": "Subhania Masjid( Badi Masjid)",
+                    "link": "https://www.google.com/maps/search/Subhania+Masjid%28+Badi+Masjid%29/@28.6208327,77.32910849999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 159,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@28.621931999999997,77.32370809999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 9,
+                    "rating": 4.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Gazipur fish mandi",
+                    "link": "https://www.google.com/maps/search/Gazipur+fish+mandi/@28.6284185,77.3249179?authuser=0&hl=en&entry=ttu",
+                    "reviews": 8,
+                    "rating": 4.6,
+                    "main_category": "Seafood"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Murga Mandi Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMNGXefvYZnyZmH2rvOVsaRKB9M4YStD03Rfc_o=w532-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 3.7,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "J8HJ+3CF Murga Mandi Masjid, Ghazipur Dairy Farm, Ghazipur, New Delhi, Delhi, 110096",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Murga+Mandi+Masjid/data=!4m7!3m6!1s0x390ce5f685574cc9:0x40f880c1690fdb4f!8m2!3d28.6276911!4d77.3310489!16s%2Fg%2F11gk6tkd4j!19sChIJyUxXhfblDDkRT9sPacGA-EA?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 7,
+                "2": 4,
+                "3": 3,
+                "4": 7,
+                "5": 20
+            },
+            "featured_question": {
+                "question": "Murga Mandi Aaj",
+                "answer": "(Translated by Google) Ja skte ho\n\n(Original)\nJa skte ho ",
+                "question_date": "2023-03-07T07:25:23",
+                "question_ago": "9 months ago",
+                "asked_by": {
+                    "name": "Maheandar Kumar",
+                    "link": "https://www.google.com/maps/contrib/111895317451793901633"
+                },
+                "answer_date": "2023-03-19T06:02:30",
+                "answer_ago": "8 months ago",
+                "answered_by": {
+                    "name": "Shama Parveen",
+                    "link": "https://www.google.com/maps/contrib/112871997565702537782"
+                }
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJyUxXhfblDDkRT9sPacGA-EA&q=Murga+Mandi+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.6276911,
+                "longitude": 77.3310489
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Ghazipur Dairy Farm, Ghazipur",
+                "street": "J8HJ+3CF",
+                "city": "New Delhi, Delhi",
+                "postal_code": "110096",
+                "state": "Delhi",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "4681633380831320911",
+            "data_id": "0x390ce5f685574cc9:0x40f880c1690fdb4f",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMNGXefvYZnyZmH2rvOVsaRKB9M4YStD03Rfc_o=w661-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Agar zara sa bhi ilm na ho ki aap kaha tashreef le ja rhe hai to zara dobara sochiye...",
+                    "reviewer_name": "Shshank Mathur",
+                    "rating": 1,
+                    "review_text": "Agar zara sa bhi ilm na ho ki aap kaha tashreef le ja rhe hai to zara dobara sochiye...",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-05-11T10:25:49.533000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 23,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109690004855763561655/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWxjjiAHyamkQZMjWi_jgEJpLZqWxE2uEtoiLuDS6SL=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "If you don't have even the slightest idea where you are visiting then think again...",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good u get all kinds of murga fish varities at cheap rates",
+                    "reviewer_name": "Harjeendar Singh",
+                    "rating": 4,
+                    "review_text": "Good u get all kinds of murga fish varities at cheap rates",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-12-04T07:42:56.132000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 67,
+                    "total_number_of_photos_by_reviewer": 900,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111501369342919888968/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ6SL1A2VXajPylMqxdbIMuA8-zskQzWQlF--FvouOJ=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Gandagi no safai old taraju kuch bhi new nhi",
+                    "reviewer_name": "V S Scrap buyer",
+                    "rating": 1,
+                    "review_text": "Gandagi no safai old taraju kuch bhi new nhi",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-07-30T10:08:02.451000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110193229306917202272/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKrdrw_7u1nOKqRigxzvXhILG42Cdf-vfJJ9lZJcZTn=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Dirt cannot be cleaned, old scales are not new at all.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Market for chicken and eggs",
+                    "reviewer_name": "Jitendra Yadav",
+                    "rating": 4,
+                    "review_text": "Market for chicken and eggs",
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-06-27T10:29:38.224000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 38,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114249972441752485582/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXfkcIS8emJ6h-d44McH9KUjESN3yfJUJSa8U5u3YumaA=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Never went their",
+                    "reviewer_name": "Colour Of Life",
+                    "rating": 3,
+                    "review_text": "Never went their",
+                    "published_at": "8 months ago",
+                    "published_at_date": "2023-04-14T10:53:35.076000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 24,
+                    "total_number_of_photos_by_reviewer": 8,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110376360577182897566/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUEtsM0JCJa1YGuM9b1JHC-gSpuBnZCyBhHCyqFL6qSRRg=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Still need more cleaning.",
+                    "reviewer_name": "vinod rawat",
+                    "rating": 3,
+                    "review_text": "Still need more cleaning.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2021-12-22T09:23:23.207000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 9,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108730484337006199850/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIAjSBBf3z1fGiYWl5KLlw4dSsqQct4PGgmfBNLddo2=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Bad place not go here very bad place",
+                    "reviewer_name": "amrish Aajad",
+                    "rating": 2,
+                    "review_text": "Bad place not go here very bad place",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-12-01T18:12:20.849000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 117,
+                    "total_number_of_photos_by_reviewer": 37,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117346052287583879707/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWZ1rQSnYNO08pIOkUZXhEQZTaevNRHO7GDTa8CpjBZ3A=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very nice place for peace",
+                    "reviewer_name": "mehtab ahmad",
+                    "rating": 4,
+                    "review_text": "Very nice place for peace",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-08-29T16:56:33.697000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 8,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114000663353437739241/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJBwjvH-7gxOUpr_Rwdh68gvw6TobpZci_kHJmElL8n=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJwY-I_EjlDDkR9H-sTqyFjFc",
+            "name": "Madina Masjid",
+            "description": null,
+            "reviews": 3,
+            "competitors": [
+                {
+                    "name": "Subhania Masjid( Badi Masjid)",
+                    "link": "https://www.google.com/maps/search/Subhania+Masjid%28+Badi+Masjid%29/@28.6208327,77.32910849999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 159,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Madina Masjid",
+                    "link": "https://www.google.com/maps/search/Madina+Masjid/@28.626204100000002,77.303319?authuser=0&hl=en&entry=ttu",
+                    "reviews": 66,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Murga Mandi Masjid",
+                    "link": "https://www.google.com/maps/search/Murga+Mandi+Masjid/@28.6276911,77.3310489?authuser=0&hl=en&entry=ttu",
+                    "reviews": 41,
+                    "rating": 3.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Madina Masjid msjd",
+                    "link": "https://www.google.com/maps/search/Madina+Masjid+%D9%85%D8%B3%D8%AC%D8%AF/@28.6368878,77.303191?authuser=0&hl=en&entry=ttu",
+                    "reviews": 40,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@28.621931999999997,77.32370809999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 9,
+                    "rating": 4.8,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Madina Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z7EQF4LyQSNfkUh73G_73g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=215.92293&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.7,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Madina Masjid, D-48, Block D, Ghazipur Dairy Farm, Ghazipur, New Delhi, Delhi, 110091",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Madina+Masjid/data=!4m7!3m6!1s0x390ce548fc888fc1:0x578c85ac4eac7ff4!8m2!3d28.6275238!4d77.3254562!16s%2Fg%2F11s5jw5pb4!19sChIJwY-I_EjlDDkR9H-sTqyFjFc?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 2
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJwY-I_EjlDDkR9H-sTqyFjFc&q=Madina+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.6275238,
+                "longitude": 77.32545619999999
+            },
+            "plus_code": "J8HG+25 New Delhi, Delhi",
+            "detailed_address": {
+                "ward": "Block D, Ghazipur Dairy Farm, Ghazipur",
+                "street": "D-48",
+                "city": "New Delhi, Delhi",
+                "postal_code": "110091",
+                "state": "Delhi",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "6308564153140019188",
+            "data_id": "0x390ce548fc888fc1:0x578c85ac4eac7ff4",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z7EQF4LyQSNfkUh73G_73g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=215.92293&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=z7EQF4LyQSNfkUh73G_73g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=215.92293&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Please time maintion Zuma Namaaz........\nTime...???",
+                    "reviewer_name": "Nazim Ali 786",
+                    "rating": 4,
+                    "review_text": "Please time maintion Zuma Namaaz........\nTime...???",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-11-11T07:56:45.826000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108267577253583041744/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWIpn08QBjI8kR2bguxLU0psFIFJoPYdhVgw-nJMtLDEg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Mashaa allah",
+                    "reviewer_name": "Salman Khan",
+                    "rating": 5,
+                    "review_text": "Mashaa allah",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-11-06T03:00:33.479000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 8,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104940724401480513897/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIHhKt9Fc5gn-bOqcu9RB4R7WodPkzrDwHturAocdhp=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Masha Allah",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "R B Ali",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-09-25T13:20:38.408000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 60,
+                    "total_number_of_photos_by_reviewer": 75,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112353391640388396886/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV-vqOy_XW_79sjOgDD65P9Ou_CxQ84996_00o4h_MY0C0=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ____VNjkDDkRP4meOfLWrbM",
+            "name": "Subhania Masjid( Badi Masjid)",
+            "description": null,
+            "reviews": 159,
+            "competitors": [
+                {
+                    "name": "Sitara Masjid msjd strh",
+                    "link": "https://www.google.com/maps/search/Sitara+Masjid+%D9%85%D8%B3%D8%AC%D8%AF+%D8%B3%D8%AA%D8%A7%D8%B1%DB%81/@28.6153063,77.3332039?authuser=0&hl=en&entry=ttu",
+                    "reviews": 129,
+                    "rating": 4.1,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Sunni Firdous Masjid (Sunni Masjid) msjd frdws",
+                    "link": "https://www.google.com/maps/search/Sunni+Firdous+Masjid+%28Sunni+Masjid%29+%D9%85%D8%B3%D8%AC%D8%AF+%D9%81%D8%B1%D8%AF%D9%88%D8%B3/@28.6043071,77.3323976?authuser=0&hl=en&entry=ttu",
+                    "reviews": 84,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Murga Mandi Masjid",
+                    "link": "https://www.google.com/maps/search/Murga+Mandi+Masjid/@28.6276911,77.3310489?authuser=0&hl=en&entry=ttu",
+                    "reviews": 41,
+                    "rating": 3.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Mustafa Masjid Ahle Sunnat Wal Jamat mSTfy msjd",
+                    "link": "https://www.google.com/maps/search/Mustafa+Masjid+Ahle+Sunnat+Wal+Jamat+%D9%85%D8%B5%D8%B7%D9%81%DB%8C+%D9%85%D8%B3%D8%AC%D8%AF/@28.6220404,77.329894?authuser=0&hl=en&entry=ttu",
+                    "reviews": 13,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@28.621931999999997,77.32370809999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 9,
+                    "rating": 4.8,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": "117738279726464918630",
+                "name": "Subhania Masjid( Badi Masjid) (Owner)",
+                "link": "https://www.google.com/maps/contrib/117738279726464918630"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOifFRX0lucrqUZhF2EnKK5LwaInpc-fzdunE7L=w408-h544-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.5,
+            "workday_timing": "Open 24 hours",
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Subhania Masjid( Badi Masjid), Ghazipur Police Station, Mulla Colony, Rajbir Colony, I.P.Extension, Gharoli, New Delhi, Delhi, 110096",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Subhania+Masjid%28+Badi+Masjid%29/data=!4m7!3m6!1s0x390ce4d854ffffff:0xb3add6f2399e893f!8m2!3d28.6208327!4d77.3291085!16s%2Fg%2F11cjp6912h!19sChIJ____VNjkDDkRP4meOfLWrbM?authuser=0&hl=en&rclk=1",
+            "status": "Open 24 hours",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 8,
+                "2": 5,
+                "3": 7,
+                "4": 22,
+                "5": 117
+            },
+            "featured_question": {
+                "question": "Friday Juma time ?",
+                "answer": "1:30PM",
+                "question_date": "2021-07-23T06:53:56",
+                "question_ago": "2 years ago",
+                "asked_by": {
+                    "name": "Zainul Abedin",
+                    "link": "https://www.google.com/maps/contrib/118094620290831040101"
+                },
+                "answer_date": "2023-09-04T05:49:40",
+                "answer_ago": "3 months ago",
+                "answered_by": {
+                    "name": "mohd. nafis",
+                    "link": "https://www.google.com/maps/contrib/111831566976433039361"
+                }
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ____VNjkDDkRP4meOfLWrbM&q=Subhania+Masjid%28+Badi+Masjid%29&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.620832699999998,
+                "longitude": 77.32910849999999
+            },
+            "plus_code": "J8CH+8J New Delhi, Delhi",
+            "detailed_address": {
+                "ward": "Mulla Colony, Rajbir Colony, I.P.Extension, Gharoli",
+                "street": "Ghazipur Police Station",
+                "city": "New Delhi, Delhi",
+                "postal_code": "110096",
+                "state": "Delhi",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "12947240839597164863",
+            "data_id": "0x390ce4d854ffffff:0xb3add6f2399e893f",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOifFRX0lucrqUZhF2EnKK5LwaInpc-fzdunE7L=w224-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WeAsi4GPzed9_oZAELptdg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=187.45656&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOTbiH6qQzbm25RAhsABRqO5KY5ZeCTeQUAif-S=w224-h398-k-no"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                }
+            ],
+            "most_popular_times": [
+                {
+                    "hour_of_day": 21,
+                    "average_popularity": 96.71428571428571,
+                    "time_label": "9 pm"
+                },
+                {
+                    "hour_of_day": 22,
+                    "average_popularity": 96.28571428571429,
+                    "time_label": "10 pm"
+                },
+                {
+                    "hour_of_day": 20,
+                    "average_popularity": 87.0,
+                    "time_label": "8 pm"
+                }
+            ],
+            "popular_times": {
+                "Monday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 26,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 29,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 32,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 35,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 41,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 44,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 48,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 52,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 54,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 55,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 60,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 66,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 76,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 86,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 94,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 94,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 80,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 49,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 32,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 24,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Tuesday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 26,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 27,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 32,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 36,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 45,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 48,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 48,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 48,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 52,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 58,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 67,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 75,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 84,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 94,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 94,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 82,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 51,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 34,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 26,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Wednesday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 24,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 27,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 34,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 38,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 44,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 47,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 47,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 49,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 48,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 49,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 51,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 55,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 64,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 76,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 90,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 100,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 98,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 84,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 51,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 33,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Thursday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 26,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 27,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 31,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 34,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 40,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 44,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 48,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 51,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 51,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 52,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 54,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 60,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 66,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 76,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 88,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 99,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 99,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 86,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 33,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 24,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 23,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Friday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 24,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 26,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 35,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 38,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 41,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 62,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 59,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 52,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 49,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 60,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 71,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 85,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 97,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 96,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 82,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 32,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 24,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 24,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Saturday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 26,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 27,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 37,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 45,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 49,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 52,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 51,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 51,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 54,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 59,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 68,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 77,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 88,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 98,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 98,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 84,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 51,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 34,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 24,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Sunday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 27,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 30,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 33,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 51,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 56,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 56,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 55,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 54,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 56,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 62,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 70,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 79,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 88,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 95,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 95,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 83,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 52,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 35,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 27,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 26,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ]
+            },
+            "featured_reviews": [
+                {
+                    "review_id": "My childhood memories attached this palace nice palace",
+                    "reviewer_name": "Rashid Ali",
+                    "rating": 3,
+                    "review_text": "My childhood memories attached this palace nice palace",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-08-09T16:52:04.207000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110066875690232238080/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVpypu7vLiuWIlNs_i1VK4wUln2chIne8TY3byvANDxdjE=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masjid is awesome, but the location smelly because of mountain of scrap",
+                    "reviewer_name": "Qazi Aman",
+                    "rating": 4,
+                    "review_text": "Masjid is awesome, but the location smelly because of mountain of scrap",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-05-09T11:43:28.862000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 38,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105261166401167924311/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXPZICWnPTwb17Wzjl3odHHUdMmQyPrsWdfyU1gjFeTMwE=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice place: I have never seen such a place",
+                    "reviewer_name": "ROHIT KUMAR",
+                    "rating": 4,
+                    "review_text": "Nice place: I have never seen such a place",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-04-19T07:37:25.540000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 16,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114100986364380747011/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVznaoc-eOb7hhe0DNN56RqwVBmkF3d-R0Yo65cDQPjqw=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "very good place for peace and worship for muslims peoples. well maintained water system, toilets amd bath room were present here. very beautiful and attractive place",
+                    "reviewer_name": "zaki qamar",
+                    "rating": 5,
+                    "review_text": "very good place for peace and worship for muslims peoples. well maintained water system, toilets amd bath room were present here. very beautiful and attractive place",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-23T09:07:20.023000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 47,
+                    "total_number_of_photos_by_reviewer": 140,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103565859543192630050/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV7doYuJpB_4QT4nCSBZh4auMgSxAlzdQvsokOcQ15M08E=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Big Masjid, Clean Atmosphere, Toilets Available, Food Options Outside, Anybody Can Notice This Masjid In Normal Traffic...",
+                    "reviewer_name": "Testube Entertainment",
+                    "rating": 5,
+                    "review_text": "Big Masjid, Clean Atmosphere, Toilets Available, Food Options Outside, Anybody Can Notice This Masjid In Normal Traffic...",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-06-21T20:34:30.893000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 59,
+                    "total_number_of_photos_by_reviewer": 15,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109282199129080240519/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVbMQlnwLy9YODsSftSxr0fakwS39ZrLvdAP-Vms9lG6-U=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Ttw",
+                    "reviewer_name": "Wasim Alam",
+                    "rating": 1,
+                    "review_text": "Ttw",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-11-02T07:58:58.168000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106093195477727151046/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIv7EpKdCy-dg4mUH8XhP6KLKtFqJFiMvrBd9JN-ckc=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very convenient place to come and go out, nice and friendly people are there",
+                    "reviewer_name": "mHmd shmym `lm Shamim Alam",
+                    "rating": 5,
+                    "review_text": "Very convenient place to come and go out, nice and friendly people are there",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-07-22T00:00:25.105000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 32,
+                    "total_number_of_photos_by_reviewer": 47,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111887211015186274342/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUw5SFeqfWREu1glg034XInQ88gznM1Dzk-ND7CJQXu-mw=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "It's located in mulla colony Delhi.. it's very big place for offering the Namaz",
+                    "reviewer_name": "Pharmacy Solutions",
+                    "rating": 5,
+                    "review_text": "It's located in mulla colony Delhi.. it's very big place for offering the Namaz",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-09-28T08:02:16.267000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 104,
+                    "total_number_of_photos_by_reviewer": 99,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113371518369403455468/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVOtkE-YUucSXb_Ka9AnGlaCFXWZJ7SFAfRHYfGDGEmBT0=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJbaVeoNPfDDkRYGBmlJuq3D4",
+            "name": "Masjid Ghazipur",
+            "description": null,
+            "reviews": 1,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid Ghazipur (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5nGOd_A0NwunF6pWXzoCrg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=3.0577102&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Masjid Ghazipur, 239, Block-DC, Feroz Gandhi Colony, Sector 51, Faridabad, Haryana 121005",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Ghazipur/data=!4m7!3m6!1s0x390cdfd3a05ea56d:0x3edcaa9b94666060!8m2!3d28.3790079!4d77.2661154!16s%2Fg%2F11khw2k5q9!19sChIJbaVeoNPfDDkRYGBmlJuq3D4?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJbaVeoNPfDDkRYGBmlJuq3D4&q=Masjid+Ghazipur&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.379007899999998,
+                "longitude": 77.26611539999999
+            },
+            "plus_code": "97H8+JC Faridabad, Haryana",
+            "detailed_address": {
+                "ward": "Block-DC, Feroz Gandhi Colony, Sector 51",
+                "street": "239",
+                "city": "Faridabad",
+                "postal_code": "121005",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "4529682910414266464",
+            "data_id": "0x390cdfd3a05ea56d:0x3edcaa9b94666060",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5nGOd_A0NwunF6pWXzoCrg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=3.0577102&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5nGOd_A0NwunF6pWXzoCrg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=3.0577102&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "MashaAllah Rehan bhai.",
+                    "reviewer_name": "Mohammad Ishak Siddiqui",
+                    "rating": 5,
+                    "review_text": "MashaAllah Rehan bhai.",
+                    "published_at": "8 months ago",
+                    "published_at_date": "2023-03-29T08:26:22.477000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100524369475123711178/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV0Pr0GPDv772CQXAz-hTrDFUUKHi6L5Y67YsRzfCA8p5o=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

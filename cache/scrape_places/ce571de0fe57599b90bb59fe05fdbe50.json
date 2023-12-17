@@ -1,0 +1,533 @@
+{
+    "query": "masjid jaspur",
+    "places": [
+        {
+            "place_id": "ChIJIViKwGtJCjkRJNJ3E5nlmrE",
+            "name": "JAMA masjid jaspur",
+            "description": null,
+            "reviews": 1,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "JAMA masjid jaspur (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=boz1GB5equgLeG9bsRX3ZQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=172.29564&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "7RGF+PF3 JAMA masjid jaspur, Jaspur, Uttarakhand 244712",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/JAMA+masjid+jaspur/data=!4m7!3m6!1s0x390a496bc08a5821:0xb19ae5991377d224!8m2!3d29.2767602!4d78.8236565!16s%2Fg%2F11ksnyyw7v!19sChIJIViKwGtJCjkRJNJ3E5nlmrE?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJIViKwGtJCjkRJNJ3E5nlmrE&q=JAMA+masjid+jaspur&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.2767602,
+                "longitude": 78.8236565
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "7RGF+PF3",
+                "city": "Jaspur",
+                "postal_code": "244712",
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "12797793736746062372",
+            "data_id": "0x390a496bc08a5821:0xb19ae5991377d224",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=boz1GB5equgLeG9bsRX3ZQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=172.29564&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=boz1GB5equgLeG9bsRX3ZQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=172.29564&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "Ayan Sidd",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-18T08:09:41.048000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116454846201550617617/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJZ3r12id_QVlUruBPMFic-Et2L8xi8vuhbD7BJD6kX=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipN_KQvEX3FxpCm7O4WvYy8W54GNexAWtZFs3LHP=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJWTCx7m9ICjkRWqoNkn3jSTY",
+            "name": "Chand masjii",
+            "description": null,
+            "reviews": 71,
+            "competitors": [
+                {
+                    "name": "Chand Masjid caaNd msjid",
+                    "link": "https://www.google.com/maps/search/Chand+Masjid+%E0%A4%9A%E0%A4%BE%E0%A4%81%E0%A4%A6+%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%A6/@29.247892699999994,78.7422495?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 3.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Chand Masjid ",
+                    "link": "https://www.google.com/maps/search/Chand+Masjid+%F0%9F%8C%99/@29.2772803,78.7381568?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Chand masjii (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPJyUOikyWqUdTqT1npsWoBdwuAaiCjc9bvx0aW=w408-h544-k-no",
+            "main_category": "Religious destination",
+            "categories": [
+                "Religious destination"
+            ],
+            "rating": 4.2,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "7RPG+4JC Chand masjii, Jaspur, Uttarakhand 244712",
+            "review_keywords": [
+                {
+                    "keyword": "mosque",
+                    "count": 4
+                }
+            ],
+            "link": "https://www.google.com/maps/place/Chand+masjii/data=!4m7!3m6!1s0x390a486feeb13059:0x3649e37d920daa5a!8m2!3d29.2853124!4d78.8265025!16s%2Fg%2F11cjpttsbr!19sChIJWTCx7m9ICjkRWqoNkn3jSTY?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 8,
+                "2": 1,
+                "3": 8,
+                "4": 6,
+                "5": 48
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJWTCx7m9ICjkRWqoNkn3jSTY&q=Chand+masjii&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.2853124,
+                "longitude": 78.82650249999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "7RPG+4JC",
+                "city": "Jaspur",
+                "postal_code": "244712",
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "3911907879808772698",
+            "data_id": "0x390a486feeb13059:0x3649e37d920daa5a",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPJyUOikyWqUdTqT1npsWoBdwuAaiCjc9bvx0aW=w224-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNPk5A4TXl8iJIFEw-9V3PQc7BpMynk3TAywDIK=w224-h398-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Not good",
+                    "reviewer_name": "Himanshu Chaudhary",
+                    "rating": 2,
+                    "review_text": "Not good",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-10-08T16:04:28.376000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 17,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106078777252226506899/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV-QOFLRYcvbLh38GToNC5sBegEyr0VPYsUrS3UMYsnEOM=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Big space for salat, so many facilities, like hot water in direct taps in cold",
+                    "reviewer_name": "Ikram Hussain",
+                    "rating": 5,
+                    "review_text": "Big space for salat, so many facilities, like hot water in direct taps in cold",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-01-20T07:34:03.269000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 19,
+                    "total_number_of_photos_by_reviewer": 42,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108644707523547546584/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVnd74b5Qu3R5TtoG8r_yOXHbyGuKnC7y3iKQ5OiGNB7Dk=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Lovely .....most beautiful mosque....",
+                    "reviewer_name": "ENJOY LIFE",
+                    "rating": 5,
+                    "review_text": "Lovely .....most beautiful mosque....",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-13T03:45:07.874000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 34,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104532243207577648512/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX25PQuBXwJ5-whxv9I9QCbjQAMZ8Tk-GADnyvmADM7uQ=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Famous jaspur......",
+                    "reviewer_name": "Mohd Sonu",
+                    "rating": 1,
+                    "review_text": "Famous jaspur......",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-28T11:15:45.407000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 17,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117145201278550399104/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJF0YExDrU6AL0T48PveH1BGLLU668IWgvm7AmF_rwA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNY17KApgSiGlTiE2OrfIxqRmOeCfhzImd3y7ZY=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOhSL8TyZF6vBi7wPj36TywECBWUvt-pz1wpLxV=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPQ9Q7Va3KfVf82iw5inWZwm43yWng64N2BkcVi=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP2FcYo1TkxuawIJKo45uqlV_Va2LqFSuqpCpWT=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPqKitcNiqCC-bSSk5i5tqJM6Bgueoi9laRojoO=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPBvDklRUsQqY_pxBTSa6nERns-bn3TewE214_m=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP6oDoymukQUopi03pe0PAKAxVj8aqSkPaba9fh=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMzCnZ1tN6YSgDYo027T2LfFqK2krT_277ub3cf=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMO9JMf8zSLWLrhxNuRXgcKWsUI6w6kjjLL84Y1=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMGkv-LOhotk1dd8op6SZ5V0B6dzFVoC3g-lk4N=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNKBj6Uecv5D-ynJtDyH6lY2U_hR16cAuAAclYq=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNimKyC1DQLh3eGHGZ-gwZLZXrkYvwa6o0RuFgj=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOGRIfn-H27qRhCoroditdHfl-EzUv0NzPjHtkJ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPclIcZlxv-7uUVyT5Z0mVrKaIp7PFO_6WYQES-=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPwT0JIz5NLx19WWmVjBPVDy0L6r8tQoQSsITRd=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM5Yjr6fzZDxU8S6pm8BgYM5yBhCCpBFeRjRMBN=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO5xPmMZV_7xqtfsRdA0ltZs0IbaB9dur7nq7kQ=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "It's a masjid in jaspur and have large area for prayer",
+                    "reviewer_name": "Mo Zafar Zishan",
+                    "rating": 5,
+                    "review_text": "It's a masjid in jaspur and have large area for prayer",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-20T03:04:35.849000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 137,
+                    "total_number_of_photos_by_reviewer": 10,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112044070864061868463/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU5gU_UH3Sio1M1oLWOfoirEZKNG9JiaKVuao1bfwOkY8Y=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very good condition mosque",
+                    "reviewer_name": "Bittu Warsi",
+                    "rating": 4,
+                    "review_text": "Very good condition mosque",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-09-24T12:10:09.829000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 29,
+                    "total_number_of_photos_by_reviewer": 60,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118228317852402470987/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVYpbLYYO_2_65tg7ofi2zeCjbZEcrUFy3pBh0YJKyiT4U=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Skip it ..",
+                    "reviewer_name": "Lav Jacks",
+                    "rating": 1,
+                    "review_text": "Skip it ..",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-23T04:06:20.102000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 8,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115993723142407443788/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIh05kYtDl-rMyPfWuY5cCMEWdgrln_nPB4DmqpUWBY=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Superb place we loved it",
+                    "reviewer_name": "aryan knight",
+                    "rating": 5,
+                    "review_text": "Superb place we loved it",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-04-26T15:09:57.965000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 141,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113116418383911193555/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVbrSvhryZz-A4jr5wTfKADiMyqPAXjGi5dcMJDuLK5ng=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJRZ434oNJCjkRp-3nF_f1C74",
+            "name": "Nore masjid",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Nore masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOSSFLX8kVFRX7EDAkwm8ioaq54dMu_kq8b48jN=w408-h544-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "7RMG+43Q Nore masjid, Jaspur, Uttarakhand 244712",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Nore+masjid/data=!4m7!3m6!1s0x390a4983e2379e45:0xbe0bf5f717e7eda7!8m2!3d29.2828411!4d78.825241!16s%2Fg%2F11vl9df0dm!19sChIJRZ434oNJCjkRp-3nF_f1C74?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRZ434oNJCjkRp-3nF_f1C74&q=Nore+masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.2828411,
+                "longitude": 78.82524099999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "7RMG+43Q",
+                "city": "Jaspur",
+                "postal_code": "244712",
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "13694309533556927911",
+            "data_id": "0x390a4983e2379e45:0xbe0bf5f717e7eda7",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOSSFLX8kVFRX7EDAkwm8ioaq54dMu_kq8b48jN=w224-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U5LOlbvSMqzQ520LOJ96OQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=268.74707&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJt14XM9RJCjkRp3SCQNuG7I4",
+            "name": "nivaarmundii",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Niwarmundi",
+                    "link": "https://www.google.com/maps/search/Niwarmundi/@29.307690299999997,78.84023320000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 13,
+                    "rating": 4.3,
+                    "main_category": "Community center"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "nivaarmundii (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "7RHG+8MH nivaarmundii, Dhyannagar, Jaspur, Uttarakhand 244712",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%81%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80/data=!4m7!3m6!1s0x390a49d433175eb7:0x8eec86db408274a7!8m2!3d29.2783098!4d78.826744!16s%2Fg%2F11t2fh4m99!19sChIJt14XM9RJCjkRp3SCQNuG7I4?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJt14XM9RJCjkRp3SCQNuG7I4&q=%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%81%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.2783098,
+                "longitude": 78.82674399999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Dhyannagar",
+                "street": "7RHG+8MH",
+                "city": "Jaspur",
+                "postal_code": null,
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "10298754724127732903",
+            "data_id": "0x390a49d433175eb7:0x8eec86db408274a7",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

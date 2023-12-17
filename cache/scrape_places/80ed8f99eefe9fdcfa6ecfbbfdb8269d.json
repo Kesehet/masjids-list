@@ -1,0 +1,297 @@
+{
+    "query": "masjid sidhi",
+    "places": [
+        {
+            "place_id": "ChIJ3YjAgQmWhTkRRHHqDm2Xs0M",
+            "name": "Masjid Sidhi",
+            "description": null,
+            "reviews": 44,
+            "competitors": [
+                {
+                    "name": "Post Office Main Branch, Sidhi",
+                    "link": "https://www.google.com/maps/search/Post+Office+Main+Branch%2C+Sidhi/@24.4091071,81.883091?authuser=0&entry=ttu",
+                    "reviews": 36,
+                    "rating": 3.9,
+                    "main_category": "Post office"
+                },
+                {
+                    "name": "Shiv Mandir",
+                    "link": "https://www.google.com/maps/search/Shiv+Mandir/@24.3961664,81.8748684?authuser=0&entry=ttu",
+                    "reviews": 27,
+                    "rating": 4.2,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Gurudwara Sidhi",
+                    "link": "https://www.google.com/maps/search/Gurudwara+Sidhi/@24.406598700000004,81.8819176?authuser=0&entry=ttu",
+                    "reviews": 19,
+                    "rating": 3.6,
+                    "main_category": "Gurudwara"
+                },
+                {
+                    "name": "Shiv Mandir Sidhi",
+                    "link": "https://www.google.com/maps/search/Shiv+Mandir+Sidhi/@24.4192252,81.8803543?authuser=0&entry=ttu",
+                    "reviews": 13,
+                    "rating": 4.2,
+                    "main_category": "Hindu temple"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid Sidhi (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNzmd7olzTV97Y5-GWNfeH4Dmw3Kkl7M5ua6Qz4=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.1,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "CV3J+PW7 Masjid Sidhi, Sidhi, Madhya Pradesh 486661",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Sidhi/@24.4042967,81.8822837,17z/data=!3m1!4b1!4m6!3m5!1s0x3985960981c088dd:0x43b3976d0eea7144!8m2!3d24.4042967!4d81.8822837!16s%2Fg%2F11bx4c_hb2?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 3,
+                "2": 4,
+                "3": 3,
+                "4": 8,
+                "5": 26
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ3YjAgQmWhTkRRHHqDm2Xs0M&q=Masjid+Sidhi&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 24.4042967,
+                "longitude": 81.8822837
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "CV3J+PW7",
+                "city": "Sidhi",
+                "postal_code": "486661",
+                "state": "Madhya Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "4878409316029854020",
+            "data_id": "0x3985960981c088dd:0x43b3976d0eea7144",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "recycling",
+                    "name": "Recycling",
+                    "options": [
+                        {
+                            "name": "Clothing",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNzmd7olzTV97Y5-GWNfeH4Dmw3Kkl7M5ua6Qz4=w529-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOboZzuGXanSxzzR8gqHJTJkfUxzfnrzXul1t0s=w529-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MhlnYQKuaPlYGCZlAJC2pA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=144.02258&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Nice place.\nCleanliness is Okey\nParking is not available for any one.\nMaintenance of building is Good.\nPeople gather here for Namaj.",
+                    "reviewer_name": "Abhishek Singh Chauhan",
+                    "rating": 4,
+                    "review_text": "Nice place.\nCleanliness is Okey\nParking is not available for any one.\nMaintenance of building is Good.\nPeople gather here for Namaj.",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-18T18:17:59.145000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 11,
+                    "total_number_of_reviews_by_reviewer": 133,
+                    "total_number_of_photos_by_reviewer": 1393,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110474133697714716628/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU4oaPT02uGU7bJVVHPxqPp4_8qqeuAb3C9_v88KDxwcyA=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "It,s only one masjid but we want one more from the govt..",
+                    "reviewer_name": "Sofiya Parveen",
+                    "rating": 5,
+                    "review_text": "It,s only one masjid but we want one more from the govt..",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-29T03:33:24.243000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101593558223405822290/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKjv9fy-KGJz39JwuiU5IEYNXsdI639Mbou5zqbKcQC=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Here's maszid . here is a lot of Muslim people.",
+                    "reviewer_name": "Nilesh singh chauhan",
+                    "rating": 5,
+                    "review_text": "Here's maszid . here is a lot of Muslim people.",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-05-25T06:22:56.910000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 61,
+                    "total_number_of_photos_by_reviewer": 132,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102183938692186640331/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUhfUOD7vWYBQnjPO0dUYu8HaB5T0RFdzRyPFj3E_ZNdEw=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOHiIq1ucgoG4gOGO_br5LH0Rf0k97Jyq57qXlq=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPkJDvjqvkG63ABOFEjxYhRLexhox-JOEElRzvk=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "My city",
+                    "reviewer_name": "Court \"R.M.Khan\" Sidhi",
+                    "rating": 5,
+                    "review_text": "My city",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-04-14T02:01:31.959000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110565372114533831829/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV5Tk7e1J_67pJxeFfw-nSEy6nHKgpIczoyrekgrbTO3Pc=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "That place for Muslim worship",
+                    "reviewer_name": "Shivam Gupta",
+                    "rating": 4,
+                    "review_text": "That place for Muslim worship",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-11T04:06:53.555000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 63,
+                    "total_number_of_photos_by_reviewer": 5,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106995818211016815847/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVJ6AMlFBzWaPHNIy3SyOQBH6uBRvw0nX8QCfhXO2qpg0U=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Not clean",
+                    "reviewer_name": "cdt sunil kushwaha sidhi",
+                    "rating": 1,
+                    "review_text": "Not clean",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-06-10T13:50:38.282000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 52,
+                    "total_number_of_photos_by_reviewer": 424,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118219277569214381500/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW48gGUwGkOnJRwusfwxhudhf23EdqD4yfknfyJHfh9kPk=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice",
+                    "reviewer_name": "Anurag Yadav (Annu)",
+                    "rating": 1,
+                    "review_text": "Nice",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-18T07:55:02.957000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 29,
+                    "total_number_of_photos_by_reviewer": 20,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116275938290542826463/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWJ8iC10KL9kjmunFAglFSiSyuP5z1uYDw1A8NyHIMmBVpM=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Good",
+                    "reviewer_name": "Pankaj Kumar Gupta",
+                    "rating": 4,
+                    "review_text": "Good",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-01T09:26:32.904000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 23,
+                    "total_number_of_photos_by_reviewer": 52,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109260172148135382648/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUyojgF7FeCEh4fDcm5JvalHd_iU_ZViYXiIfQj3YL0vc4=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

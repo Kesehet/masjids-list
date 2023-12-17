@@ -1,0 +1,459 @@
+{
+    "query": "masjid phaphund",
+    "places": [
+        {
+            "place_id": "ChIJvSoRk5P5nTkR5b9tUecVptw",
+            "name": "Masjid",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Masjid Mewatiyan",
+                    "link": "https://www.google.com/maps/search/Masjid+Mewatiyan/@26.601923600000003,79.4625768?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "MADINA MASZID",
+                    "link": "https://www.google.com/maps/search/MADINA+MASZID/@26.599518099999997,79.4641907?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 1,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Qureshiyan Mashjid",
+                    "link": "https://www.google.com/maps/search/Qureshiyan+Mashjid/@26.6001166,79.4625358?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Mosque",
+                    "link": "https://www.google.com/maps/search/Mosque/@26.604732199999997,79.4577959?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 1,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "JF27+3JC Masjid, Phaphund, Uttar Pradesh 206247",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid/data=!4m7!3m6!1s0x399df99393112abd:0xdca615e7516dbfe5!8m2!3d26.6001964!4d79.4640292!16s%2Fg%2F11qh56b12d!19sChIJvSoRk5P5nTkR5b9tUecVptw?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJvSoRk5P5nTkR5b9tUecVptw&q=Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 26.600196399999998,
+                "longitude": 79.4640292
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "JF27+3JC",
+                "city": "Phaphund",
+                "postal_code": "206247",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "15899419617725890533",
+            "data_id": "0x399df99393112abd:0xdca615e7516dbfe5",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJRenuSgP5nTkRFGFO4FzHzLs",
+            "name": "Masjid Mewatiyan",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Qureshiyan Mashjid",
+                    "link": "https://www.google.com/maps/search/Qureshiyan+Mashjid/@26.6001166,79.4625358?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@26.600196399999998,79.4640292?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama masjid",
+                    "link": "https://www.google.com/maps/search/Jama+masjid/@26.170095,79.4601405?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid Mewatiyan (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SO89oWf_cLEj0V1MMVjm9A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=244.25017&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "JF27+Q28 Masjid Mewatiyan, Unnamed Road, Phaphund, Uttar Pradesh 206247",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Mewatiyan/data=!4m7!3m6!1s0x399df9034aeee945:0xbbccc75ce04e6114!8m2!3d26.6019236!4d79.4625768!16s%2Fg%2F11rsrg0m_l!19sChIJRenuSgP5nTkRFGFO4FzHzLs?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRenuSgP5nTkRFGFO4FzHzLs&q=Masjid+Mewatiyan&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 26.6019236,
+                "longitude": 79.4625768
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "JF27+Q28, Unnamed Road",
+                "city": "Phaphund",
+                "postal_code": "206247",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "13532410182055649556",
+            "data_id": "0x399df9034aeee945:0xbbccc75ce04e6114",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SO89oWf_cLEj0V1MMVjm9A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=244.25017&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SO89oWf_cLEj0V1MMVjm9A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=244.25017&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "Suhail Anwar",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-04-13T13:50:58.391000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 27,
+                    "total_number_of_photos_by_reviewer": 9,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110309746887053259767/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVumD5dgy9grYR3eP9HWicTjfJykdlYybsPQDCft7-mvg=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ5TL5lFv4nTkRUDVvsncMm78",
+            "name": "Saleempur futatal phaphund Auraiya up",
+            "description": null,
+            "reviews": 5,
+            "competitors": [
+                {
+                    "name": "Mohd Rizvan",
+                    "link": "https://www.google.com/maps/search/Mohd+Rizvan/@26.6288245,79.40930300000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "durgaa maaN mNdir",
+                    "link": "https://www.google.com/maps/search/%E0%A4%A6%E0%A5%81%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%BE+%E0%A4%AE%E0%A4%BE%E0%A4%81+%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0/@26.6056125,79.3974568?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 4.3,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Qureshiyan Mashjid",
+                    "link": "https://www.google.com/maps/search/Qureshiyan+Mashjid/@26.6001166,79.4625358?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Saleempur futatal phaphund Auraiya up (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPILI2QQogHgrvvVkKqPFeMQN6ccr8pNqH2_3Fh=w547-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 2.8,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "JCH5+8VR Saleempur futatal phaphund Auraiya up, Fateh Pur Lakhami, Uttar Pradesh 206241",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Saleempur+futatal+phaphund+Auraiya+up/data=!4m7!3m6!1s0x399df85b94f932e5:0xbf9b0c77b26f3550!8m2!3d26.6283561!4d79.4096481!16s%2Fg%2F11hbt6qg3k!19sChIJ5TL5lFv4nTkRUDVvsncMm78?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 2,
+                "2": 0,
+                "3": 1,
+                "4": 1,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ5TL5lFv4nTkRUDVvsncMm78&q=Saleempur+futatal+phaphund+Auraiya+up&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 26.628356099999998,
+                "longitude": 79.4096481
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "JCH5+8VR",
+                "city": "Fateh Pur Lakhami",
+                "postal_code": "206241",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "13806642790868661584",
+            "data_id": "0x399df85b94f932e5:0xbf9b0c77b26f3550",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPILI2QQogHgrvvVkKqPFeMQN6ccr8pNqH2_3Fh=w679-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "My vilage saleempur futatal jua Auraiya up",
+                    "reviewer_name": "Nurani jama masjid SALIMPUR Auraiya",
+                    "rating": 5,
+                    "review_text": "My vilage saleempur futatal jua Auraiya up",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-09-11T11:19:29.609000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 3,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 17,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100695217800029776048/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWBYax2aS9DoOrpgYQH-IMYQWHKrtTr4HRYWAMFgGOr8e0=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPxmDHokBExJsQOCqzjw2QrXag9WA3KWYGAxUEb=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP2PGp7Zgt6ZMmYonqQH_aUWwDV6_Jvf0qvgLpI=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPNE4Z6OFu2_-bgkQl1fPY21HmFmuvsAQNSwZ89=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPfItTsJnThanWccqufLHETwgrOX73ylmZEOLd-=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPt1gR9R8wCxRd6_PFO0hTI4ccX8xz9pgfubi1-=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNPWs_dB_K_JLd052839TGMiq5-43CPODg-d5gz=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPwspZL9F5c2qBREPWzIs1dslRY4suFGfulqNK_=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNSmkMDnyCXVa4TdHD889VOLBgtXT-krA6VLEci=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPciVIUBdK-mKWyMSzEARb7PN-iodfLgJRrn5ZM=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM1fyHn4pqh02nIx7KaNde8BZx8B7RtO3kQGeG4=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "No development",
+                    "reviewer_name": "Vivek Stephen",
+                    "rating": 1,
+                    "review_text": "No development",
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-07-07T16:37:39.711000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 21,
+                    "total_number_of_photos_by_reviewer": 50,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107509059051261587569/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXGatNApd1pXtyslYmtO3q3411Ux20qEQ2kUlpWD8LwcK0=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Ok",
+                    "reviewer_name": "Rinku Sharma",
+                    "rating": 1,
+                    "review_text": "Ok",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-11-20T03:05:59.303000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 21,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100571649636711826002/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW1LrIO76W5V_cWo7aWPfKwBepwCy9HZDcSN5pxCO8-yw=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Some",
+                    "reviewer_name": "Somen khan Khan",
+                    "rating": 3,
+                    "review_text": "Some",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-09-11T10:25:53.384000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110609078139112942756/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLeRJ5uxnLxECf6VGbFq68HiYTA1O9MpuuWhAhp8RUj=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Salimpur futatal Jua Auraiya up",
+                    "reviewer_name": "Mohd Rizvan",
+                    "rating": 4,
+                    "review_text": "Salimpur futatal Jua Auraiya up",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-28T06:42:12.828000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 12,
+                    "total_number_of_photos_by_reviewer": 27,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118411488045215642043/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU4I6r0Txc8TXeiEpBVY3QoQUMfwVHq55lZAXMla_XFxok=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMHHDPOSd8WtOUKqFRCCRsHxbf95YV3n5uMCdSa=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

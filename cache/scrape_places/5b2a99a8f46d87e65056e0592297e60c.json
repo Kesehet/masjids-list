@@ -1,0 +1,125 @@
+{
+    "query": "masjid zunheboto",
+    "places": [
+        {
+            "place_id": "ChIJmTg_B6W3RzcR9ZwlLg4t4q8",
+            "name": "Zunheboto Jame Masjid",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Zunheboto Tenyimi Church",
+                    "link": "https://www.google.com/maps/search/Z%C3%BCnheboto+Tenyimi+Church/@26.0088004,94.52274799999999?authuser=0&entry=ttu",
+                    "reviews": 13,
+                    "rating": 4.2,
+                    "main_category": "Church"
+                },
+                {
+                    "name": "South Point East Prayer Fellowship House",
+                    "link": "https://www.google.com/maps/search/South+Point+East+Prayer+Fellowship+House/@26.005784000000002,94.5243125?authuser=0&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4,
+                    "main_category": "Place of worship"
+                },
+                {
+                    "name": "Zunheboto",
+                    "link": "https://www.google.com/maps/search/Zunheboto/@26.027596000000003,94.530069?authuser=0&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Church"
+                },
+                {
+                    "name": "Zunheboto Lotha Baptist Church",
+                    "link": "https://www.google.com/maps/search/Z%C3%BCnheboto+Lotha+Baptist+Church/@26.006926699999998,94.5218522?authuser=0&entry=ttu",
+                    "reviews": 3,
+                    "rating": 3.7,
+                    "main_category": "Place of worship"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Zunheboto Jame Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPnF1FcofQ_cKNFyLB97HpJ44DRmhfuvAUkrVSu=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "2G8H+639 Zunheboto Jame Masjid, Zunheboto, Nagaland 798620",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Zunheboto+Jame+Masjid/@26.0155386,94.5277276,17z/data=!3m1!4b1!4m6!3m5!1s0x3747b7a5073f3899:0xafe22d0e2e259cf5!8m2!3d26.0155386!4d94.5277276!16s%2Fg%2F11smgky44b?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJmTg_B6W3RzcR9ZwlLg4t4q8&q=Zunheboto+Jame+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 26.0155386,
+                "longitude": 94.52772759999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "2G8H+639",
+                "city": "Zunheboto",
+                "postal_code": "798620",
+                "state": "Nagaland",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "12673741840301006069",
+            "data_id": "0x3747b7a5073f3899:0xafe22d0e2e259cf5",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPnF1FcofQ_cKNFyLB97HpJ44DRmhfuvAUkrVSu=w529-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Good place or masjid",
+                    "reviewer_name": "Voice Of Sunnah",
+                    "rating": 5,
+                    "review_text": "Good place or masjid",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-01-05T06:55:51.885000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 75,
+                    "total_number_of_photos_by_reviewer": 102,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106845784854009909063/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUkXvu53o4pv3BJEAOvlYd3LcdDcS8tSYln7lCCyew79ks=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

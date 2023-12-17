@@ -1,0 +1,125 @@
+{
+    "query": "masjid mhasvad",
+    "places": [
+        {
+            "place_id": "ChIJ1eUqXa_7wzsRcaOt9yydRfY",
+            "name": "Jumma masjid (markaz), mhaswad",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Dhavadwadi Masjid",
+                    "link": "https://www.google.com/maps/search/Dhavadwadi+Masjid/@17.3171791,74.7812527?authuser=0&entry=ttu",
+                    "reviews": 24,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama masjid",
+                    "link": "https://www.google.com/maps/search/Jama+masjid/@17.7232135,74.26832379999999?authuser=0&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid,Goradwadi",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid%2CGoradwadi/@17.7916333,74.8756745?authuser=0&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "JAMA MASJID",
+                    "link": "https://www.google.com/maps/search/JAMA+MASJID/@17.7657547,74.5589488?authuser=0&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jumma masjid (markaz), mhaswad (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMWDyGY2SRVvXouSdR-0XDxayfBRHvskWPgCVQC=w531-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Jumma masjid (markaz), mhaswad, Raajwada, Shahada, Mhaswad, Maharashtra 415509",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jumma+masjid+(markaz),+mhaswad/@17.6324749,74.788007,17z/data=!3m1!4b1!4m6!3m5!1s0x3bc3fbaf5d2ae5d5:0xf6459d2cf7ada371!8m2!3d17.6324749!4d74.788007!16s%2Fg%2F11pf2ks4gk?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1eUqXa_7wzsRcaOt9yydRfY&q=Jumma+masjid+(markaz),+mhaswad&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 17.6324749,
+                "longitude": 74.788007
+            },
+            "plus_code": "JQJQ+X6 Mhaswad, Maharashtra",
+            "detailed_address": {
+                "ward": "Shahada",
+                "street": "Raajwada",
+                "city": "Mhaswad",
+                "postal_code": "415509",
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "17745762723182781297",
+            "data_id": "0x3bc3fbaf5d2ae5d5:0xf6459d2cf7ada371",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMWDyGY2SRVvXouSdR-0XDxayfBRHvskWPgCVQC=w660-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "shakur shaikh",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-12-13T11:56:18.201000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114759728617793018352/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUwXBTUBuMXEN-MDhiQGZv30sNnaIHF4BGQtYGrL66pF0s=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

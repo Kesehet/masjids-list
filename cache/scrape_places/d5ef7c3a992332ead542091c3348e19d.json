@@ -1,0 +1,436 @@
+{
+    "query": "masjid kamakhyanagar",
+    "places": [
+        {
+            "place_id": "ChIJ8_-XzJvWGDoR0wEu4T-hehY",
+            "name": "Masjid",
+            "description": null,
+            "reviews": 12,
+            "competitors": [
+                {
+                    "name": "Sunni masjid,k.nagar",
+                    "link": "https://www.google.com/maps/search/Sunni+masjid%2Ck.nagar/@20.9389315,85.54710899999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 4,
+                    "main_category": "Place of worship"
+                },
+                {
+                    "name": "Mini Park",
+                    "link": "https://www.google.com/maps/search/Mini+Park/@20.927960499999998,85.54681959999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Park"
+                },
+                {
+                    "name": "Masjid Bait-ul-Touhid",
+                    "link": "https://www.google.com/maps/search/Masjid+Bait-ul-Touhid/@20.6879201,85.5515513?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Ram mandir",
+                    "link": "https://www.google.com/maps/search/Ram+mandir/@20.9164784,85.5046507?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Hindu temple"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0oppWEz7skCCQtgXKizYog&cb_client=search.gws-prod.gps&w=408&h=240&yaw=122.6035&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 3.8,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "WGJW+MM7 Masjid, Madhi Sahi Road, Kamakhyanagar, Odisha 759018",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid/data=!4m7!3m6!1s0x3a18d69bcc97fff3:0x167aa13fe12e01d3!8m2!3d20.9316557!4d85.5466855!16s%2Fg%2F1tr7b6xq!19sChIJ8_-XzJvWGDoR0wEu4T-hehY?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 2,
+                "3": 2,
+                "4": 1,
+                "5": 6
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ8_-XzJvWGDoR0wEu4T-hehY&q=Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 20.9316557,
+                "longitude": 85.5466855
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "WGJW+MM7, Madhi Sahi Road",
+                "city": "Kamakhyanagar",
+                "postal_code": "759018",
+                "state": "Odisha",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "1619784311726014931",
+            "data_id": "0x3a18d69bcc97fff3:0x167aa13fe12e01d3",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0oppWEz7skCCQtgXKizYog&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=122.6035&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0oppWEz7skCCQtgXKizYog&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=122.6035&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "It's a cozy place ..\nBut well maintained\nNice place..",
+                    "reviewer_name": "Mr Rajeeb",
+                    "rating": 3,
+                    "review_text": "It's a cozy place ..\nBut well maintained\nNice place..",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-05-17T18:49:10.447000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 399,
+                    "total_number_of_photos_by_reviewer": 585,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112581975766483634644/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVYre6l5aAi80K5618bj75oNWajJr_MkmVa51eaeSusPkq3=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very nice",
+                    "reviewer_name": "j s z j s z",
+                    "rating": 5,
+                    "review_text": "Very nice",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-03-10T12:07:54.592000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101021412822208733788/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXqUXsge7U2G6kXVcDODjNlifDcsnKFpivwvxd0coNIGMY=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Google is very helpful",
+                    "reviewer_name": "Sameer Saifi",
+                    "rating": 5,
+                    "review_text": "Google is very helpful",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-02-03T15:50:26.335000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 47,
+                    "total_number_of_photos_by_reviewer": 15,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113073763365802397734/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUfnCAVXI6ZTMOGe5cA3e4L8nHy7Pt-T7a-NqnpmcjTlss=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "very good",
+                    "reviewer_name": "Rajeeb Rosan",
+                    "rating": 4,
+                    "review_text": "very good",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-05-19T17:25:51.577000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 30,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113334882120462645444/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWY5_7CMndblQL3GGQCY7vzaQ8rTaCD9A2m3r6FNQ8W0aE=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "good",
+                    "reviewer_name": "NIGAM DAS",
+                    "rating": 5,
+                    "review_text": "good",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-07-26T06:19:41.698000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 15,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108194870118552582903/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWz1pg9hFuh_m_MuozkuvJzUud702Bab7OXnHlMpPKdtQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Normal",
+                    "reviewer_name": "Kumar Kanha",
+                    "rating": 2,
+                    "review_text": "Normal",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-11T13:04:02.612000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 53,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118356207191872311701/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWP-jENO0ny6y8d-tZRjCZa01kdMyMiu7N1uow1_raeyhU=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Dibya Raul",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-11-03T18:26:22.009000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 342,
+                    "total_number_of_photos_by_reviewer": 2400,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107948392721700950048/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVMsrgYoFtDgsl06DD-Mll5-L6a88k4lZr1kQt2k46s4KdK=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Adeeb",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-01-15T05:48:07.330000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 63,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108417277401558838165/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI5ZP97Xh9HSCRNAAH-asrFBA5IFoQV0Io10DuqdmbN=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJG_QMHwTXGDoR_G3VV88ZrRk",
+            "name": "Sunni masjid,k.nagar",
+            "description": null,
+            "reviews": 3,
+            "competitors": [
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@20.9316557,85.5466855?authuser=0&hl=en&entry=ttu",
+                    "reviews": 12,
+                    "rating": 3.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Sunni Masjid",
+                    "link": "https://www.google.com/maps/search/Sunni+Masjid/@20.970104199999998,86.044279?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 4.6,
+                    "main_category": "Religious destination"
+                },
+                {
+                    "name": "Kamakhyanagar",
+                    "link": "https://www.google.com/maps/search/Kamakhyanagar/@20.653203599999998,85.5974758?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 4,
+                    "main_category": "Place of worship"
+                },
+                {
+                    "name": "SUNNI AULIYA JAMA MASJID",
+                    "link": "https://www.google.com/maps/search/SUNNI+AULIYA+JAMA+MASJID/@20.9726684,86.0774473?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Raghunath Pur Sunny Masjid",
+                    "link": "https://www.google.com/maps/search/Raghunath+Pur+Sunny+Masjid/@20.8474187,86.0618614?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 3,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Sunni masjid,k.nagar (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNZeNtWdatYjUoq-dVbNRYKG8v7LkEwX5P1WSZu=w408-h725-k-no",
+            "main_category": "Place of worship",
+            "categories": [
+                "Place of worship"
+            ],
+            "rating": 4,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "WGQW+HRH Sunni masjid,k.nagar, Kamakhyanagar, Odisha 759018",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Sunni+masjid,k.nagar/data=!4m7!3m6!1s0x3a18d7041f0cf41b:0x19ad19cf57d56dfc!8m2!3d20.9389315!4d85.547109!16s%2Fg%2F11hnzynv5y!19sChIJG_QMHwTXGDoR_G3VV88ZrRk?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJG_QMHwTXGDoR_G3VV88ZrRk&q=Sunni+masjid,k.nagar&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 20.9389315,
+                "longitude": 85.54710899999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "WGQW+HRH",
+                "city": "Kamakhyanagar",
+                "postal_code": null,
+                "state": "Odisha",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "1850163400241671676",
+            "data_id": "0x3a18d7041f0cf41b:0x19ad19cf57d56dfc",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNZeNtWdatYjUoq-dVbNRYKG8v7LkEwX5P1WSZu=w224-h398-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "SUNNY MASJID KAMAKHIYA NAGAR",
+                    "reviewer_name": "Md azad Hussain",
+                    "rating": 5,
+                    "review_text": "SUNNY MASJID KAMAKHIYA NAGAR",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-07-10T00:44:18.012000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 11,
+                    "total_number_of_photos_by_reviewer": 25,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105165849044842234180/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXt4CrSUCydZMbaF0_fGCCKKRXaMRTF17G7_4zyW636VBE=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice place ",
+                    "reviewer_name": "Sudarsan Dehury",
+                    "rating": 4,
+                    "review_text": "Nice place ",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-05-30T00:29:44.436000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 333,
+                    "total_number_of_photos_by_reviewer": 585,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110085197807395345394/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWgpYxPWmM_317ANOS8KJAMrVy7IC2qMuBPNKSW3TNhmuU=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Adeeb",
+                    "rating": 3,
+                    "review_text": null,
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-01-15T05:48:20.068000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 63,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108417277401558838165/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI5ZP97Xh9HSCRNAAH-asrFBA5IFoQV0Io10DuqdmbN=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

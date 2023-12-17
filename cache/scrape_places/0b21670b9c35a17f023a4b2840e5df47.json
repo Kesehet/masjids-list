@@ -1,0 +1,87 @@
+{
+    "query": "masjid harihar",
+    "places": [
+        {
+            "place_id": "ChIJ737URkrwDDkRxm6Zm29wRUo",
+            "name": "Harihar Paints",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Aakash Paints",
+                    "link": "https://www.google.com/maps/search/Aakash+Paints/@28.671378599999993,77.428838?authuser=0&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Paint store"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Harihar Paints (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pn-r0J96uEgumcgbAWL0XA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=299.4012&pitch=0&thumbfov=100",
+            "main_category": "Paint store",
+            "categories": [
+                "Paint store"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Harihar Paints, Shop No: 3/38, Kaila Bhatta Masjid Road, Hapur Rd, Islam Nagar Village, Madhopura, Ghaziabad, Uttar Pradesh 201001",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Harihar+Paints/@28.6673004,77.4201631,17z/data=!3m1!4b1!4m6!3m5!1s0x390cf04a46d47eef:0x4a45706f9b996ec6!8m2!3d28.6673004!4d77.4201631!16s%2Fg%2F1ptyvyqyc?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ737URkrwDDkRxm6Zm29wRUo&q=Harihar+Paints&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.6673004,
+                "longitude": 77.4201631
+            },
+            "plus_code": "MC8C+W3 Ghaziabad, Uttar Pradesh",
+            "detailed_address": {
+                "ward": "Islam Nagar Village, Madhopura",
+                "street": "Shop No: 3/38, Kaila Bhatta Masjid Road, Hapur Rd",
+                "city": "Ghaziabad",
+                "postal_code": "201001",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "5351807356853907142",
+            "data_id": "0x390cf04a46d47eef:0x4a45706f9b996ec6",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pn-r0J96uEgumcgbAWL0XA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=299.4012&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pn-r0J96uEgumcgbAWL0XA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=299.4012&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

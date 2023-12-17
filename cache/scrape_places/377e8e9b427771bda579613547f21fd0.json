@@ -1,0 +1,406 @@
+{
+    "query": "masjid chaklasi",
+    "places": [
+        {
+            "place_id": "ChIJ3SYmR3hFXjkRN7MREYFzPSA",
+            "name": "Jama Masjid",
+            "description": null,
+            "reviews": 7,
+            "competitors": [
+                {
+                    "name": "Hazrat SarvarAli Dargah | hjrt srvralii drgaah",
+                    "link": "https://www.google.com/maps/search/Hazrat+SarvarAli+Dargah+%7C+%E0%AA%B9%E0%AA%9C%E0%AA%B0%E0%AA%A4+%E0%AA%B8%E0%AA%B0%E0%AA%B5%E0%AA%B0%E0%AA%85%E0%AA%B2%E0%AB%80+%E0%AA%A6%E0%AA%B0%E0%AA%97%E0%AA%BE%E0%AA%B9/@22.958843899999998,73.3321349?authuser=0&hl=en&entry=ttu",
+                    "reviews": 35,
+                    "rating": 4.6,
+                    "main_category": "Shrine"
+                },
+                {
+                    "name": "Leem Masjid",
+                    "link": "https://www.google.com/maps/search/Leem+Masjid/@22.957355399999997,73.3324501?authuser=0&hl=en&entry=ttu",
+                    "reviews": 19,
+                    "rating": 4.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Eid-Gaah",
+                    "link": "https://www.google.com/maps/search/Eid-Gaah/@22.9648102,73.3341721?authuser=0&hl=en&entry=ttu",
+                    "reviews": 11,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Ramji Mandir",
+                    "link": "https://www.google.com/maps/search/Ramji+Mandir/@22.651751700000002,72.9440865?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 4,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Masjid-e-Janaaja",
+                    "link": "https://www.google.com/maps/search/Masjid-e-Janaaja/@22.960293099999998,73.33171999999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNOTVAU3tuv9i-Ww1bQXuQBZ1TwcgWmZT6GWPf0=w408-h725-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "MW3V+3M7 Jama Masjid, Bhoi Vagu, Chaklasi, Gujarat 387315",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+Masjid/data=!4m7!3m6!1s0x395e4578472626dd:0x203d73811111b337!8m2!3d22.652668!4d72.9441641!16s%2Fg%2F124yn8jzn!19sChIJ3SYmR3hFXjkRN7MREYFzPSA?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 7
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ3SYmR3hFXjkRN7MREYFzPSA&q=Jama+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 22.652668,
+                "longitude": 72.9441641
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Bhoi Vagu",
+                "street": "MW3V+3M7",
+                "city": "Chaklasi",
+                "postal_code": "387315",
+                "state": "Gujarat",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "2323139980967392055",
+            "data_id": "0x395e4578472626dd:0x203d73811111b337",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNOTVAU3tuv9i-Ww1bQXuQBZ1TwcgWmZT6GWPf0=w224-h398-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNOTVAU3tuv9i-Ww1bQXuQBZ1TwcgWmZT6GWPf0=w224-h398-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kvvDWvuKGTNGrd7vZASMVg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=358.75653&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "In center of chaklasi is most beutifull masjid.",
+                    "reviewer_name": "Salim Malek",
+                    "rating": 5,
+                    "review_text": "In center of chaklasi is most beutifull masjid.",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-10-04T05:19:52.390000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 9,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102950673667843256417/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU9Mr78GFpIW4z0G6Xzb7NqxySKVkrEz_9Gc2-dAcudxcE=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "The Place Where To Contact Allah Directly Via Namaz in the CHAKLASI",
+                    "reviewer_name": "Mustkimsha Diwan",
+                    "rating": 5,
+                    "review_text": "The Place Where To Contact Allah Directly Via Namaz in the CHAKLASI",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2016-12-19T09:27:02.443000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 14,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107721451786267838208/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUW4ynPaW2EJND7PhI_wUIJEfwqiSwhj6RVIfXqBIt9D3M=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "One of the best mosque of this place",
+                    "reviewer_name": "Irshad Vahora",
+                    "rating": 5,
+                    "review_text": "One of the best mosque of this place",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-08-25T07:11:02.272000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 27,
+                    "total_number_of_photos_by_reviewer": 9,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104287057857704605995/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWrszD1U8TkVMfa3Tc2n6sGM1l_plaET3A0avDb5nUWWfbQ=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": ". ",
+                    "reviewer_name": "Safvan Tappa",
+                    "rating": 5,
+                    "review_text": ". ",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-11-10T04:05:35.265000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 54,
+                    "total_number_of_photos_by_reviewer": 107,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100310673071135719130/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWSqlC02p83J5zRVgN9QrEXPDozGnHjDa_La4gGiz3YBcMI=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Shailesh Vaghela",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-07-03T11:07:50.354000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113788037947924683489/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWw5KibNKiEaCNoi-yuLiszylQyudanhajRNbt2r7LdGPg=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Shahrukh Pathan",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-11-22T04:23:13.261000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106860280507812309458/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWyGV_CCXJNfkt6qdFJCrpkftDQ_UKN6DyC1AwKIkbYGw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Ayaz Vahora",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "2 weeks ago",
+                    "published_at_date": "2023-12-01T04:32:34.887000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 10,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104315491739370818494/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWqbegP4R-JHlPWow287565gY2X5uJx9YAyHwd1nNiHQP0=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJdXdnKiNFXjkR-J9vXJ327j0",
+            "name": "Noore Muhammadi Masjid (nuure muhmmdii msjiid ,cklaasii)",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Chaklasi dargah Jafarali bawa",
+                    "link": "https://www.google.com/maps/search/Chaklasi+dargah+Jafarali+bawa/@22.658205499999998,72.9393589?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Place of worship"
+                },
+                {
+                    "name": "Noore Mohammadi Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Noore+Mohammadi+Jama+Masjid/@22.6146553,72.91411699999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "MASJID E KHULAFA E RASHIDIN",
+                    "link": "https://www.google.com/maps/search/MASJID+E+KHULAFA+E+RASHIDIN/@22.573573600000003,72.9546501?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noorul Islam",
+                    "link": "https://www.google.com/maps/search/Noorul+Islam/@22.6332988,73.0133669?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid e Noor",
+                    "link": "https://www.google.com/maps/search/Masjid+e+Noor/@22.582144,72.9682128?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Noore Muhammadi Masjid (nuure muhmmdii msjiid ,cklaasii) (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNNK8Ko652Dzxo8L1ALvAQZiWZLW_yTveQmjHpe=w408-h725-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "MW4R+84 Noore Muhammadi Masjid (nuure muhmmdii msjiid ,cklaasii), Vohra Colony, Chaklasi, Gujarat 387315",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Noore+Muhammadi+Masjid+%28%E0%AA%A8%E0%AB%82%E0%AA%B0%E0%AB%87+%E0%AA%AE%E0%AB%81%E0%AA%B9%E0%AA%AE%E0%AB%8D%E0%AA%AE%E0%AA%A6%E0%AB%80+%E0%AA%AE%E0%AA%B8%E0%AB%8D%E0%AA%9C%E0%AB%80%E0%AA%A6+,%E0%AA%9A%E0%AA%95%E0%AA%B2%E0%AA%BE%E0%AA%B8%E0%AB%80%29/data=!4m7!3m6!1s0x395e45232a677775:0x3deef69d5c6f9ff8!8m2!3d22.6559134!4d72.9403478!16s%2Fg%2F11pvz330zy!19sChIJdXdnKiNFXjkR-J9vXJ327j0?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJdXdnKiNFXjkR-J9vXJ327j0&q=Noore+Muhammadi+Masjid+(%E0%AA%A8%E0%AB%82%E0%AA%B0%E0%AB%87+%E0%AA%AE%E0%AB%81%E0%AA%B9%E0%AA%AE%E0%AB%8D%E0%AA%AE%E0%AA%A6%E0%AB%80+%E0%AA%AE%E0%AA%B8%E0%AB%8D%E0%AA%9C%E0%AB%80%E0%AA%A6+,%E0%AA%9A%E0%AA%95%E0%AA%B2%E0%AA%BE%E0%AA%B8%E0%AB%80)&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 22.6559134,
+                "longitude": 72.9403478
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Vohra Colony",
+                "street": "MW4R+84",
+                "city": "Chaklasi",
+                "postal_code": null,
+                "state": "Gujarat",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "4462775436491857912",
+            "data_id": "0x395e45232a677775:0x3deef69d5c6f9ff8",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNNK8Ko652Dzxo8L1ALvAQZiWZLW_yTveQmjHpe=w224-h398-k-no"
+                },
+                {
+                    "about": "Latest",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMlXCoF0HhNhvSyO8xXdU7XlZYTO38AWB32DuBW=w529-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipO_rqmtI_x9KHRBrzu_YJnlvAOVYqG3WYOglZVG=w224-h398-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "Alfaj Vahora",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-04-16T14:50:29.878000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110271111753383930102/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWaqC4gXCS70G1KnY0sA7_fc6FpWdPhxW3UTcB7pCAfWTU=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

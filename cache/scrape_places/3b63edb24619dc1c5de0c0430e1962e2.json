@@ -1,0 +1,975 @@
+{
+    "query": "masjid bahadurgarh",
+    "places": [
+        {
+            "place_id": "ChIJUzFLjgAMDTkR1V2b-aJO46Q",
+            "name": "Jama masjid",
+            "description": null,
+            "reviews": 69,
+            "competitors": [
+                {
+                    "name": "Badi Masjid",
+                    "link": "https://www.google.com/maps/search/Badi+Masjid/@28.696594500000003,76.95574979999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 63,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid Deenpur",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid+Deenpur/@28.5926436,76.9934713?authuser=0&hl=en&entry=ttu",
+                    "reviews": 30,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Mustafa Masjid",
+                    "link": "https://www.google.com/maps/search/Mustafa+Masjid/@28.700357399999998,76.9771557?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Chhoti masjid",
+                    "link": "https://www.google.com/maps/search/Chhoti+masjid/@28.6977515,76.956914?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noorani masjid",
+                    "link": "https://www.google.com/maps/search/Noorani+masjid/@28.6981665,76.95682169999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM6T7l0yLNM2CoN1x4K0eQ-iiNidly9ipPN0es0=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "MWM7+WRW Jama masjid, Adarsh Nagar, Bahadurgarh, Haryana 124507",
+            "review_keywords": [
+                {
+                    "keyword": "architecture",
+                    "count": 3
+                }
+            ],
+            "link": "https://www.google.com/maps/place/Jama+masjid/data=!4m7!3m6!1s0x390d0c008e4b3153:0xa4e34ea2f99b5dd5!8m2!3d28.6848599!4d76.9145694!16s%2Fg%2F11f159shpy!19sChIJUzFLjgAMDTkR1V2b-aJO46Q?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 14,
+                "2": 1,
+                "3": 3,
+                "4": 6,
+                "5": 45
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJUzFLjgAMDTkR1V2b-aJO46Q&q=Jama+masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.6848599,
+                "longitude": 76.91456939999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Adarsh Nagar",
+                "street": "MWM7+WRW",
+                "city": "Bahadurgarh",
+                "postal_code": "124507",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "11881426703812877781",
+            "data_id": "0x390d0c008e4b3153:0xa4e34ea2f99b5dd5",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "recycling",
+                    "name": "Recycling",
+                    "options": [
+                        {
+                            "name": "Clothing",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM6T7l0yLNM2CoN1x4K0eQ-iiNidly9ipPN0es0=w529-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNaLo457T40KWYFer53M16q04b-WnHGVMJwCrKz=w445-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMJVnQGSYheb3GYYZxou5tpyvhSSw0w3RKRQutg=w224-h398-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NsMxuv_Jpca9pb7ElmroFQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=327.4491&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "It was built by the Mughal Emperor Shah Jahan between 1650 and 1656, and inaugurated by its first Imam, Syed Abdul Ghafoor Shah Bukhari. Situated in the Mughal capital of Shahjahanabad (today Old Delhi), it served as the imperial mosque of the Mughal emperors until the demise of the empire in 1857. The Jama Masjid was regarded as a symbolic node of Islamic power across India, well into the colonial era. It was also a site of political significance during several key periods of British rule. It remains in active use, and is one of Delhi's most iconic sites, closely identified with the ethos of Old Delhi.\n\nThe mosque is located within the historic city of Shahjahanabad, today known as the locality of Old Delhi. Across from the mosque are the Red Fort and Sunehri Masjid.[4] As one of the focal points of Old Delhi, Jama Masjid is surrounded by various commercial centres, such as the historic Chandni Chowk.[5] The tomb of Abul Kalam Azad, Indian independence activist, is located adjacent to the mosque.\n\nMughal Emperor Shah Jahan built the Jama Masjid between 1650 and 1656, at the highest point of Shahjahanabad. The mosque was designed by architect Ustad Khalil, and constructed by approximately 5000 workers.[7][8][9] The workforce was diverse, consisting of Indians, Arabs, Persians, Turks, and Europeans. The construction was supervised primarily by Sadullah Khan, the wazir (or prime minister) during Shah Jahan's reign, and Fazil Khan, the comptroller of Shah Jahan's household. The cost of the construction at the time was ten lakh (one million) rupees.[10] The mosque was inaugurated on 23 July, 1656 by Syed Abdul Ghafoor Shah Bukhari, from Bukhara, Uzbekistan. He had been invited by Shah Jahan to be the Shahi Imam (Royal Imam) of the mosque.\n\nThe Revolt of 1857 was a major turning point in this situation. This event resulted in the deaths of many British people in the city, and weakened colonial authority, deeply affronting the British.[13] It also ended the Mughal empire. The British perceived the revolt as instigated by Muslims, cultivated within Delhi's mosques.[16] After the British reclaimed the city in the same year, they razed many mosques and banned the congregation of Muslims in any remaining mosques. The Jama Masjid fell into British confiscation during this time, and was barred from any religious use. It was repeatedly considered for destruction, but the British eventually began using it as barracks for its Sikh and European soldiers. This was a desecration of the space; Aziz characterises the decision as deliberate, in order to insult the sentiments of the city's Muslim inhabitants",
+                    "reviewer_name": "Premchand",
+                    "rating": 5,
+                    "review_text": "It was built by the Mughal Emperor Shah Jahan between 1650 and 1656, and inaugurated by its first Imam, Syed Abdul Ghafoor Shah Bukhari. Situated in the Mughal capital of Shahjahanabad (today Old Delhi), it served as the imperial mosque of the Mughal emperors until the demise of the empire in 1857. The Jama Masjid was regarded as a symbolic node of Islamic power across India, well into the colonial era. It was also a site of political significance during several key periods of British rule. It remains in active use, and is one of Delhi's most iconic sites, closely identified with the ethos of Old Delhi.\n\nThe mosque is located within the historic city of Shahjahanabad, today known as the locality of Old Delhi. Across from the mosque are the Red Fort and Sunehri Masjid.[4] As one of the focal points of Old Delhi, Jama Masjid is surrounded by various commercial centres, such as the historic Chandni Chowk.[5] The tomb of Abul Kalam Azad, Indian independence activist, is located adjacent to the mosque.\n\nMughal Emperor Shah Jahan built the Jama Masjid between 1650 and 1656, at the highest point of Shahjahanabad. The mosque was designed by architect Ustad Khalil, and constructed by approximately 5000 workers.[7][8][9] The workforce was diverse, consisting of Indians, Arabs, Persians, Turks, and Europeans. The construction was supervised primarily by Sadullah Khan, the wazir (or prime minister) during Shah Jahan's reign, and Fazil Khan, the comptroller of Shah Jahan's household. The cost of the construction at the time was ten lakh (one million) rupees.[10] The mosque was inaugurated on 23 July, 1656 by Syed Abdul Ghafoor Shah Bukhari, from Bukhara, Uzbekistan. He had been invited by Shah Jahan to be the Shahi Imam (Royal Imam) of the mosque.\n\nThe Revolt of 1857 was a major turning point in this situation. This event resulted in the deaths of many British people in the city, and weakened colonial authority, deeply affronting the British.[13] It also ended the Mughal empire. The British perceived the revolt as instigated by Muslims, cultivated within Delhi's mosques.[16] After the British reclaimed the city in the same year, they razed many mosques and banned the congregation of Muslims in any remaining mosques. The Jama Masjid fell into British confiscation during this time, and was barred from any religious use. It was repeatedly considered for destruction, but the British eventually began using it as barracks for its Sikh and European soldiers. This was a desecration of the space; Aziz characterises the decision as deliberate, in order to insult the sentiments of the city's Muslim inhabitants",
+                    "published_at": "10 months ago",
+                    "published_at_date": "2023-01-18T13:20:05.833000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 31,
+                    "total_number_of_photos_by_reviewer": 30,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109756300174127126471/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWD7lJjk25P49GPmiu_1aHa_3r8ASEhMxu_txYbqz1H_w=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNaLo457T40KWYFer53M16q04b-WnHGVMJwCrKz=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Mashallah peaceful place.\nThis masjid is near government ITI and canteen.\nShuru khutba -1:15pm",
+                    "reviewer_name": "M HM",
+                    "rating": 5,
+                    "review_text": "Mashallah peaceful place.\nThis masjid is near government ITI and canteen.\nShuru khutba -1:15pm",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-08-26T08:35:46.914000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 5,
+                    "total_number_of_reviews_by_reviewer": 13,
+                    "total_number_of_photos_by_reviewer": 50,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117334944829083625977/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUohpdW8GjlKw-IuvSsXBdhhR3ns0Oy1eDX6I6OW8q-MqU=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMN16JR1P67oqJtCdjbZveMqa840MUovbg2AZg4=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPwaomlXnJsW0tcR9Xeribe388oS1zfK_ZqCkFx=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNb055XX4DlYtQg-_5TYwpAjxGM3ZR_mZXyRtYM=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOYATNR6K6YzoD6CT2yMtWch87GNSm-PKvRJPvU=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Magnificent, huge, marvelous. Awesome vibe around. Great architectural wonder.",
+                    "reviewer_name": "Muhammed Nibil",
+                    "rating": 5,
+                    "review_text": "Magnificent, huge, marvelous. Awesome vibe around. Great architectural wonder.",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-05-08T09:45:18.535000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 111,
+                    "total_number_of_photos_by_reviewer": 755,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102911362760162481687/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVx7O2GepcL0mF4LLO0K7EfJFlhRB9V5SUkWRQrbyzuoFs=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPOJubNL0dBiz4vBOLWLb1zgUPiTcjtPy8EeacE=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNI9XqOKuvN_5Hx62iA76Zy4zVyV4C5uJc6kFA6=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipObohp-sbfApoWFPcGjAFmotKjlLfBRc-RHxkoL=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMOPBmmeym4XkKadzevZ6PLdHoAzkGYq-TTmYbU=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPhxhHvX5vD0eJhgfDN-0p0oW6uFNtvHR-QXNVs=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM0RYay2SMMuaBLrWz2_h916J1IPJDFEGTuG6L9=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMLYFi9BWQoGzuSflQxeL5QFH3CBoDYeNGdQxHI=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO9j0TIsUswT4ATAbZveMHcWAyGuTDhOI4Qyl9m=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMwh0tB-5FuxdB4bGhaPIbcx-vg3QVVhp2jFPT0=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMwT3eXj33CoBgAXmboUF3vaSogCsTp2Cv10ozu=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMtcJ1RMFRP0aBp2OAxZtwDN-sHXnHHARriCHfn=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNbEAi9tzYpsqGuLw_2ghkjsMO34x1BUqtPeCKB=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNu3HHmO3UmcxJ0S9jToNoMGujBpggixAit4pZD=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Shuru Khutba 1:15 PM\nNearest Metro station:-  bahadurgarh and Hoshiyar singh",
+                    "reviewer_name": "inamul haque",
+                    "rating": 5,
+                    "review_text": "Shuru Khutba 1:15 PM\nNearest Metro station:-  bahadurgarh and Hoshiyar singh",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-11-03T08:19:46.384000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118113829880732389742/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIVrqOkhrS6dgJtoI0Y-LDCIicpv88IpZk97xcqgjNwNjU=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Shuru Khutba 1:15 PM\nNearest Metro station:- bahadurgarh and Hoshiyar singh",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very peaceful place parking also available",
+                    "reviewer_name": "Nijamuddin Rahaman",
+                    "rating": 5,
+                    "review_text": "Very peaceful place parking also available",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-11-13T09:42:47.906000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117453084763092051266/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXJwHIv6QJgnCFV_zu_RtfAMG5qviyGclaAtwjVmKStXqCd=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very Nice Masjid (Jama Masjid) in Bahadurgarh, near Govt ITI jajjhar road, Bahadurgarh....\n\nI visited today 2-10-20",
+                    "reviewer_name": "Mohd Waseem",
+                    "rating": 5,
+                    "review_text": "Very Nice Masjid (Jama Masjid) in Bahadurgarh, near Govt ITI jajjhar road, Bahadurgarh....\n\nI visited today 2-10-20",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-10-02T16:29:30.448000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 4,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 22,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102662484840793497408/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXh23lcPuH-eOhSBdhUlrltZ4RzwKEshGNarx1Ve840Zj6i=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNqYgM1mnxEBeTSzqKTmUc0P3C6EOPCXBw5fEE2=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOBsg2wvddC2Rf8hszn8SATaTykJUbmT9iD3Hjv=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Historical place, near old Delhi railway station ,it is the very good creation of architact. See this place & feel wahhhh what a good place",
+                    "reviewer_name": "Balbir Singh",
+                    "rating": 5,
+                    "review_text": "Historical place, near old Delhi railway station ,it is the very good creation of architact. See this place & feel wahhhh what a good place",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-01-24T11:03:53.628000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 139,
+                    "total_number_of_photos_by_reviewer": 832,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108268692522022095379/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXnxpsqYPPUb89AEsXSwgchCJivXsoOV0eDe5zquJA4BsM=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Jama masjid Best historical place in Bahadurgarh\n\nJhajjar road bahadurgarh",
+                    "reviewer_name": "Ascent Institute Bahadurgarh",
+                    "rating": 5,
+                    "review_text": "Jama masjid Best historical place in Bahadurgarh\n\nJhajjar road bahadurgarh",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-01-31T17:32:59.052000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108985729075761054455/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV_wgoFMSE7MZ9rVf5PO6SvBtsHtBfSnOlab5oRz7_ywy0=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJjVxQiy4JDTkRXzwaVWkXHas",
+            "name": "Badi Masjid",
+            "description": null,
+            "reviews": 63,
+            "competitors": [
+                {
+                    "name": "Badi(jama) Masjid",
+                    "link": "https://www.google.com/maps/search/Badi%28jama%29+Masjid/@28.635023,77.10719890000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 109,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama masjid",
+                    "link": "https://www.google.com/maps/search/Jama+masjid/@28.6848599,76.91456939999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 69,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Chhoti masjid",
+                    "link": "https://www.google.com/maps/search/Chhoti+masjid/@28.6977515,76.956914?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noorani masjid",
+                    "link": "https://www.google.com/maps/search/Noorani+masjid/@28.6981665,76.95682169999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Badi Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPcBH3_ERyuLuIKsdL4uUjbhvp4IsszqiYZUvQV=w408-h725-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "MXW4+M8X Badi Masjid, chhotu ram nagar, Bahadurgarh, Haryana 124507",
+            "review_keywords": [
+                {
+                    "keyword": "religion",
+                    "count": 3
+                },
+                {
+                    "keyword": "home",
+                    "count": 3
+                }
+            ],
+            "link": "https://www.google.com/maps/place/Badi+Masjid/data=!4m7!3m6!1s0x390d092e8b505c8d:0xab1d1769551a3c5f!8m2!3d28.6965945!4d76.9557498!16s%2Fg%2F11c581z4zh!19sChIJjVxQiy4JDTkRXzwaVWkXHas?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 8,
+                "2": 3,
+                "3": 8,
+                "4": 6,
+                "5": 38
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJjVxQiy4JDTkRXzwaVWkXHas&q=Badi+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.6965945,
+                "longitude": 76.95574979999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "chhotu ram nagar",
+                "street": "MXW4+M8X",
+                "city": "Bahadurgarh",
+                "postal_code": "124507",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "12330037095977073759",
+            "data_id": "0x390d092e8b505c8d:0xab1d1769551a3c5f",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPcBH3_ERyuLuIKsdL4uUjbhvp4IsszqiYZUvQV=w224-h398-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HnNYdkU8fV-dJ9tjH_gpow&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=39.436684&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNGvCJlHlMz0AM1X-S5Y3sK0fETOACpC0W5ps-Y=w224-h398-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Ye Barelvi yon ki hai mujhe yaha drama lagta hai Jo meri soch hai",
+                    "reviewer_name": "Usman khan",
+                    "rating": 1,
+                    "review_text": "Ye Barelvi yon ki hai mujhe yaha drama lagta hai Jo meri soch hai",
+                    "published_at": "9 months ago",
+                    "published_at_date": "2023-03-15T10:50:46.372000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 86,
+                    "total_number_of_photos_by_reviewer": 117,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109145717468709855144/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW9EwbvGemCsjiatacD32o8Ap_m2tUmBasSCFVU75RK0b7k=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "This Barelvi belongs to me, it seems like a drama here, it is my thought.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Lot of Noises on morning time ittefaq of your kind consideration and look forward this is a big difference between two religion Catholic Church Street and a half of what you have received your message via aim of this communication including any harassment in front door alarm begin working on every time in morning. Kya problem with your kind of thing that request to get back into your home network from your system for the next step up to the best way for your help with that request you to see what happens when anyone have to go for sleep.",
+                    "reviewer_name": "Master Sanjeet Kumar",
+                    "rating": 1,
+                    "review_text": "Lot of Noises on morning time ittefaq of your kind consideration and look forward this is a big difference between two religion Catholic Church Street and a half of what you have received your message via aim of this communication including any harassment in front door alarm begin working on every time in morning. Kya problem with your kind of thing that request to get back into your home network from your system for the next step up to the best way for your help with that request you to see what happens when anyone have to go for sleep.",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-05-06T15:10:52.957000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 610,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106899447387434490178/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWMZTaSdojBHw3yu0tYbcAncHsJ-XToDf-EQvbVd64myw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Masjid e hasan a mosque to offer prayings. Sunni maslak (Barelvi Jamaat) Juma salat time 1:40 pm throughout the year.",
+                    "reviewer_name": "Perwez khan",
+                    "rating": 5,
+                    "review_text": "Masjid e hasan a mosque to offer prayings. Sunni maslak (Barelvi Jamaat) Juma salat time 1:40 pm throughout the year.",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-07-19T18:13:26.738000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111829040767382748165/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVYl8tQ8u1doTBP4To-f0LvRI0NOwom7yydN9SGPbjdI1I=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Religious place for muslim brother. Prayer (namaz) can be done here. I have friends who go there. Its a holy place.",
+                    "reviewer_name": "Mahendra Pandey",
+                    "rating": 4,
+                    "review_text": "Religious place for muslim brother. Prayer (namaz) can be done here. I have friends who go there. Its a holy place.",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-12T11:06:30.052000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 4,
+                    "total_number_of_reviews_by_reviewer": 9,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105357717928625880936/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWFsWMh4ow7jjfQkmAG9qc6Rm3AqY6qIKFVbSj2F2ZObqU=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Nice place. It's a place to offer namaz .",
+                    "reviewer_name": "wing chun ip man",
+                    "rating": 5,
+                    "review_text": "Nice place. It's a place to offer namaz .",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-05-22T19:08:47.681000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 59,
+                    "total_number_of_photos_by_reviewer": 164,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110519896802522975181/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVRG9cYF1HyvWkyf6MHN1SI81vzfdfcuzYpWELqRaq6Og=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Firojpur koylahava mankapur gonda",
+                    "reviewer_name": "Sunil Verma",
+                    "rating": 5,
+                    "review_text": "Firojpur koylahava mankapur gonda",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-05-12T03:25:28.492000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116337422218409064703/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWObfwdmzHDCHUzCpuxfZAKGd0Q0dIwOdNN3Lqqi76teNk=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMu63tXkUonXV6If2dlN9KrNvx-nM1uvkeTxDlN=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Good impressive place",
+                    "reviewer_name": "ROBERT YAAR GAMING",
+                    "rating": 5,
+                    "review_text": "Good impressive place",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-03-03T12:18:21.138000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 18,
+                    "total_number_of_photos_by_reviewer": 12,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114607293759550911096/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWWfljtFTNbxtRLj_ve-XWL23bMQJgKfgXoxczvnq0_c_M=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "area is not good,",
+                    "reviewer_name": "santosh kumar",
+                    "rating": 3,
+                    "review_text": "area is not good,",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-03-06T02:46:46.732000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 12,
+                    "total_number_of_photos_by_reviewer": 44,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113151969421031233132/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWG3fMRTOEqUWyEinw8LsiMXLidv5ejlaUPpAh7PHHE4aY=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJRWYGYywJDTkRLlCMrlRVdMM",
+            "name": "Chhoti masjid",
+            "description": null,
+            "reviews": 2,
+            "competitors": [
+                {
+                    "name": "Jama masjid",
+                    "link": "https://www.google.com/maps/search/Jama+masjid/@28.6848599,76.91456939999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 69,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Badi Masjid",
+                    "link": "https://www.google.com/maps/search/Badi+Masjid/@28.696594500000003,76.95574979999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 63,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Choti Maszid",
+                    "link": "https://www.google.com/maps/search/Choti+Maszid/@28.6332153,77.10603150000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 25,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noorani masjid",
+                    "link": "https://www.google.com/maps/search/Noorani+masjid/@28.6981665,76.95682169999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Chhoti masjid (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "ward no 10, Chhoti masjid, chhotu ram nagar, Bahadurgarh, Haryana 124507",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Chhoti+masjid/data=!4m7!3m6!1s0x390d092c63066645:0xc3745554ae8c502e!8m2!3d28.6977515!4d76.956914!16s%2Fg%2F11nxv_43xm!19sChIJRWYGYywJDTkRLlCMrlRVdMM?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 2
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJRWYGYywJDTkRLlCMrlRVdMM&q=Chhoti+masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.6977515,
+                "longitude": 76.956914
+            },
+            "plus_code": "MXX4+4Q Bahadurgarh, Haryana",
+            "detailed_address": {
+                "ward": "chhotu ram nagar",
+                "street": "ward no 10",
+                "city": "Bahadurgarh",
+                "postal_code": "124507",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "14083975756888428590",
+            "data_id": "0x390d092c63066645:0xc3745554ae8c502e",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Noorani Masjid",
+                    "reviewer_name": "Afazal Malik",
+                    "rating": 5,
+                    "review_text": "Noorani Masjid",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-05-04T06:18:12.809000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 44,
+                    "total_number_of_photos_by_reviewer": 43,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103993702885740210557/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVL1M6IC54chJlJS1pwhAh7ixwzie_BUyp8XIz9A9-HgCA=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNRUmu-Vqgym05XwJfnL0CElo1xHRBPdFyw59_a=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Md Shahid",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-07-11T10:45:42.930000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115876428139215366868/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWfYiIyuy-eWe1JAZfQNC7VUXdA5wYNSAppD8-IT05g8A=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJu2onwYkPDTkRyBuqwVm7AUQ",
+            "name": "Masjid",
+            "description": null,
+            "reviews": 2,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPwefpkzU-wfT8XOjTPy9AmdJteg7Ra9-FGaYkx=w408-h545-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Masjid, 1359, MIE Part-B, Bahadurgarh, Haryana 124507",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid/data=!4m7!3m6!1s0x390d0f89c1276abb:0x4401bb59c1aa1bc8!8m2!3d28.6846111!4d76.9547465!16s%2Fg%2F11v5_35jby!19sChIJu2onwYkPDTkRyBuqwVm7AUQ?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 2
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJu2onwYkPDTkRyBuqwVm7AUQ&q=Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.684611099999998,
+                "longitude": 76.9547465
+            },
+            "plus_code": "MXM3+RV Bahadurgarh, Haryana",
+            "detailed_address": {
+                "ward": "MIE Part-B",
+                "street": "1359",
+                "city": "Bahadurgarh",
+                "postal_code": "124507",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "4900403863731444680",
+            "data_id": "0x390d0f89c1276abb:0x4401bb59c1aa1bc8",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPwefpkzU-wfT8XOjTPy9AmdJteg7Ra9-FGaYkx=w224-h299-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1Fi0roK2aK8HpLn6HmPiew&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=248.96318&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Masjid",
+                    "reviewer_name": "Kaif Shaikh",
+                    "rating": 5,
+                    "review_text": "Masjid",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-10-14T19:19:02.720000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105694689546778988337/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV4d-SNjjMiOQKpS04QIk2WcrQLL2K-bzseelur9e5XtZY=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Abdul Raja",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-09-01T01:50:11.954000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108444936952941746393/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUeXkANn3498f-rM8ymdxYcSX8OmSq0NTtQ2BPeHl1gj3o=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJher4LMgJDTkR3drLw-PU5hQ",
+            "name": "Noorani masjid",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Jama masjid",
+                    "link": "https://www.google.com/maps/search/Jama+masjid/@28.6848599,76.91456939999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 69,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Badi Masjid",
+                    "link": "https://www.google.com/maps/search/Badi+Masjid/@28.696594500000003,76.95574979999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 63,
+                    "rating": 4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noorani Masjid nwrny mshjyd. nuraanii msjid",
+                    "link": "https://www.google.com/maps/search/Noorani+Masjid+%D9%86%D9%88%D8%B1%D8%A7%D9%86%DB%8C+%D9%85%D8%B4%D8%AC%DB%8C%D8%AF.+%E0%A4%A8%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80+%E0%A4%AE%E0%A4%B8%E0%A4%9C%E0%A4%BF%E0%A4%A6/@28.693429199999994,77.0484676?authuser=0&hl=en&entry=ttu",
+                    "reviews": 50,
+                    "rating": 3.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Chhoti masjid",
+                    "link": "https://www.google.com/maps/search/Chhoti+masjid/@28.6977515,76.956914?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Noorani Maszid And Qabrstan",
+                    "link": "https://www.google.com/maps/search/Noorani+Maszid+And+Qabrstan/@28.798890000000004,76.9600751?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Noorani masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v0WpmfNkPA05TE9Y2Ojh4g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=162.72157&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "MXX4+6PV Noorani masjid, chhotu ram nagar, Bahadurgarh, Haryana 124507",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Noorani+masjid/data=!4m7!3m6!1s0x390d09c82cf8ea85:0x14e6d4e3c3cbdadd!8m2!3d28.6981665!4d76.9568217!16s%2Fg%2F11jt4cwq0n!19sChIJher4LMgJDTkR3drLw-PU5hQ?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJher4LMgJDTkR3drLw-PU5hQ&q=Noorani+masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.6981665,
+                "longitude": 76.95682169999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "chhotu ram nagar",
+                "street": "MXX4+6PV",
+                "city": "Bahadurgarh",
+                "postal_code": "124507",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "1506125200109591261",
+            "data_id": "0x390d09c82cf8ea85:0x14e6d4e3c3cbdadd",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v0WpmfNkPA05TE9Y2Ojh4g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=162.72157&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=v0WpmfNkPA05TE9Y2Ojh4g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=162.72157&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

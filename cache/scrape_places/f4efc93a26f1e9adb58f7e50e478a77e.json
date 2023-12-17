@@ -1,0 +1,85 @@
+{
+    "query": "masjid baramula",
+    "places": [
+        {
+            "place_id": "ChIJ3Tl3rmgH4TgR2LuKucDvXAw",
+            "name": "Baramulla",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": null,
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOglh_bkRQ1FYExjv_UhIPVrLxmaOOEqyPdPtND=w408-h545-k-no",
+            "main_category": null,
+            "categories": null,
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Baramulla 193101",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Baramulla/data=!4m7!3m6!1s0x38e10768ae7739dd:0xc5cefc0b98abbd8!8m2!3d34.1990498!4d74.3499496!16s%2Fg%2F11cs018pxw!19sChIJ3Tl3rmgH4TgR2LuKucDvXAw?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ3Tl3rmgH4TgR2LuKucDvXAw&q=Baramulla&authuser=0&hl=en&gl=None",
+            "coordinates": {
+                "latitude": 34.1990498,
+                "longitude": 74.3499496
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": null,
+                "city": "Baramulla",
+                "postal_code": null,
+                "state": null,
+                "country_code": null
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "890850437338151896",
+            "data_id": "0x38e10768ae7739dd:0xc5cefc0b98abbd8",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOglh_bkRQ1FYExjv_UhIPVrLxmaOOEqyPdPtND=w224-h299-k-no"
+                },
+                {
+                    "about": "Mountain",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipP6dsG1KHuZAKt8Cy-sfQsXyu-gPDBth9eJRM4q=w397-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNWxfxeobUwOlIgt8FCodLmdqWv-jY72VtmzSo=w529-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipO-7AlkeoxCxDxwkbDelUFtcvCllJnDLxuoeXsf=w224-h298-k-no-pi-20-ya285-ro-0-fo100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

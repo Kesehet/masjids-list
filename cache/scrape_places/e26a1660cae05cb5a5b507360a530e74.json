@@ -1,0 +1,2007 @@
+{
+    "query": "masjid ranikhet",
+    "places": [
+        {
+            "place_id": "ChIJCdRuS-yroDkRhpwWsWDHW9Y",
+            "name": "manish kumar",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Church",
+                    "link": "https://www.google.com/maps/search/Church/@29.638133699999994,79.42886709999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 3.3,
+                    "main_category": "Church"
+                },
+                {
+                    "name": "Mata ka Mandir,Ranikhet",
+                    "link": "https://www.google.com/maps/search/Mata+ka+Mandir%2CRanikhet/@29.644307299999994,79.4300107?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Hidayat",
+                    "link": "https://www.google.com/maps/search/Hidayat/@29.844604699999998,79.60394409999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Place of worship"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "manish kumar (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Place of worship",
+            "categories": [
+                "Place of worship"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "JCWH+7W8 manish kumar, Raneth, Ranikhet, Uttarakhand 263645",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/manish+kumar/data=!4m7!3m6!1s0x39a0abec4b6ed409:0xd65bc760b1169c86!8m2!3d29.6456526!4d79.4298253!16s%2Fg%2F11qg2bbf7h!19sChIJCdRuS-yroDkRhpwWsWDHW9Y?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJCdRuS-yroDkRhpwWsWDHW9Y&q=manish+kumar&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.6456526,
+                "longitude": 79.42982529999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Raneth",
+                "street": "JCWH+7W8",
+                "city": "Ranikhet",
+                "postal_code": "263645",
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "15446158565099084934",
+            "data_id": "0x39a0abec4b6ed409:0xd65bc760b1169c86",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ7y5opguroDkRxAt-ywTu48o",
+            "name": "Mata ka Mandir,Ranikhet",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Mankameshwar Temple",
+                    "link": "https://www.google.com/maps/search/Mankameshwar+Temple/@29.6420735,79.4302404?authuser=0&hl=en&entry=ttu",
+                    "reviews": 306,
+                    "rating": 4.5,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Kalika temple",
+                    "link": "https://www.google.com/maps/search/Kalika+temple/@29.643369600000003,79.4321823?authuser=0&hl=en&entry=ttu",
+                    "reviews": 17,
+                    "rating": 4.6,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Nanda Devi Temple Ranikhet",
+                    "link": "https://www.google.com/maps/search/Nanda+Devi+Temple+Ranikhet/@29.6443651,79.4345441?authuser=0&hl=en&entry=ttu",
+                    "reviews": 13,
+                    "rating": 4.9,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Kanthi Mata Mandir",
+                    "link": "https://www.google.com/maps/search/Kanthi+Mata+Mandir/@29.631557500000003,79.4333484?authuser=0&hl=en&entry=ttu",
+                    "reviews": 5,
+                    "rating": 5,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "shrii niilkNtth mhaadev mndir",
+                    "link": "https://www.google.com/maps/search/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%95%E0%A4%82%E0%A4%A0+%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%A6%E0%A5%87%E0%A4%B5+%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%B0/@29.6456031,79.42928890000002?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Hindu temple"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Mata ka Mandir,Ranikhet (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Hindu temple",
+            "categories": [
+                "Hindu temple"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "JCVJ+P2C Mata ka Mandir,Ranikhet, Raneth, Ranikhet, Uttarakhand 263645",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Mata+ka+Mandir,Ranikhet/data=!4m7!3m6!1s0x39a0ab0ba6682eef:0xcae3ee04cb7e0bc4!8m2!3d29.6443073!4d79.4300107!16s%2Fg%2F11rssqg5zr!19sChIJ7y5opguroDkRxAt-ywTu48o?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ7y5opguroDkRxAt-ywTu48o&q=Mata+ka+Mandir,Ranikhet&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.644307299999998,
+                "longitude": 79.4300107
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Raneth",
+                "street": "JCVJ+P2C",
+                "city": "Ranikhet",
+                "postal_code": null,
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "14619790519736077252",
+            "data_id": "0x39a0ab0ba6682eef:0xcae3ee04cb7e0bc4",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJGR0SQNaroDkR8hAV7aTBlVk",
+            "name": "CBR TOILET CT04",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "PUBLIC TOILET CBPT003",
+                    "link": "https://www.google.com/maps/search/PUBLIC+TOILET+CBPT003/@29.6432018,79.43341219999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 3,
+                    "main_category": "Public bathroom"
+                },
+                {
+                    "name": "CBR TOILET CT02",
+                    "link": "https://www.google.com/maps/search/CBR+TOILET+CT02/@29.647017499999993,79.4393218?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Public bathroom"
+                },
+                {
+                    "name": "CBR Toilet",
+                    "link": "https://www.google.com/maps/search/CBR+Toilet/@29.6432675,79.43306969999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Public bathroom"
+                },
+                {
+                    "name": "PUBLIC TOILET CBPT04",
+                    "link": "https://www.google.com/maps/search/PUBLIC+TOILET+CBPT04/@29.643577900000004,79.4370185?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Public bathroom"
+                },
+                {
+                    "name": "SBM Toilet",
+                    "link": "https://www.google.com/maps/search/SBM+Toilet/@29.6432936,79.43721990000002?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Public bathroom"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "CBR TOILET CT04 (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Public bathroom",
+            "categories": [
+                "Public bathroom"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "JCVJ+WXX CBR TOILET CT04, Raneth, Ranikhet, Uttarakhand 263645",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/CBR+TOILET+CT04/data=!4m7!3m6!1s0x39a0abd640121d19:0x5995c1a4ed1510f2!8m2!3d29.6448601!4d79.4324936!16s%2Fg%2F11gfnh8p4s!19sChIJGR0SQNaroDkR8hAV7aTBlVk?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJGR0SQNaroDkR8hAV7aTBlVk&q=CBR+TOILET+CT04&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.6448601,
+                "longitude": 79.4324936
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Raneth",
+                "street": "JCVJ+WXX",
+                "city": "Ranikhet",
+                "postal_code": "263645",
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "6455278555001852146",
+            "data_id": "0x39a0abd640121d19:0x5995c1a4ed1510f2",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ0_f3ZRyroDkRFStZ3N0aSJU",
+            "name": "MR house",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Sarna Garden",
+                    "link": "https://www.google.com/maps/search/Sarna+Garden/@29.6490248,79.42911389999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 112,
+                    "rating": 3.7,
+                    "main_category": "Garden"
+                },
+                {
+                    "name": "My sunset point ranikhet",
+                    "link": "https://www.google.com/maps/search/My+sunset+point+ranikhet/@29.6560435,79.44580719999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 26,
+                    "rating": 4.6,
+                    "main_category": "Hiking area"
+                },
+                {
+                    "name": "udyaan",
+                    "link": "https://www.google.com/maps/search/%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8/@29.608093500000003,79.3456479?authuser=0&hl=en&entry=ttu",
+                    "reviews": 7,
+                    "rating": 3.4,
+                    "main_category": "Garden"
+                },
+                {
+                    "name": "Mr. Saifi house",
+                    "link": "https://www.google.com/maps/search/Mr.+Saifi+house/@29.399266899999994,79.0650707?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Garden"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "MR house (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Garden",
+            "categories": [
+                "Garden"
+            ],
+            "rating": null,
+            "workday_timing": "Open 24 hours",
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "JCWM+9CF MR house, Khari Bazar, Ranikhet, Uttarakhand 263645",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/MR+house/data=!4m7!3m6!1s0x39a0ab1c65f7f7d3:0x95481adddc592b15!8m2!3d29.6459495!4d79.4335579!16s%2Fg%2F11tflq7rz7!19sChIJ0_f3ZRyroDkRFStZ3N0aSJU?authuser=0&hl=en&rclk=1",
+            "status": "Open 24 hours",
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ0_f3ZRyroDkRFStZ3N0aSJU&q=MR+house&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.6459495,
+                "longitude": 79.4335579
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Khari Bazar",
+                "street": "JCWM+9CF",
+                "city": "Ranikhet",
+                "postal_code": null,
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "10756877250161355541",
+            "data_id": "0x39a0ab1c65f7f7d3:0x95481adddc592b15",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "children",
+                    "name": "Children",
+                    "options": [
+                        {
+                            "name": "Good for kids",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "Open 24 hours"
+                    ]
+                }
+            ],
+            "most_popular_times": [
+                {
+                    "hour_of_day": 21,
+                    "average_popularity": 68.0,
+                    "time_label": "9 pm"
+                },
+                {
+                    "hour_of_day": 22,
+                    "average_popularity": 65.28571428571429,
+                    "time_label": "10 pm"
+                },
+                {
+                    "hour_of_day": 23,
+                    "average_popularity": 60.714285714285715,
+                    "time_label": "11 pm"
+                }
+            ],
+            "popular_times": {
+                "Monday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 78,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 71,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 32,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 35,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 32,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 57,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 21,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 7,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 17,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 35,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 85,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 64,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 64,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 71,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 82,
+                        "popularity_description": "Usually as busy as it gets"
+                    }
+                ],
+                "Tuesday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 21,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 10,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 21,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 32,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 32,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 60,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 75,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 85,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 71,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 67,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 60,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Wednesday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 35,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 35,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 60,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 78,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 60,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 35,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 67,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 75,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 60,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Thursday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 35,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 57,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 35,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 64,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 64,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 57,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 57,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 67,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 64,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 64,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 57,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 32,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Friday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 35,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 14,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 14,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 21,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 17,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 32,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 14,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 75,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 82,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 100,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 82,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 85,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 82,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 57,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Saturday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 50,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 53,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 32,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 32,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 35,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 35,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 21,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 17,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ],
+                "Sunday": [
+                    {
+                        "hour_of_day": 4,
+                        "time_label": "4 am",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 5,
+                        "time_label": "5 am",
+                        "popularity_percentage": 35,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 6,
+                        "time_label": "6 am",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 7,
+                        "time_label": "7 am",
+                        "popularity_percentage": 21,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 8,
+                        "time_label": "8 am",
+                        "popularity_percentage": 21,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 9,
+                        "time_label": "9 am",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 10,
+                        "time_label": "10 am",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 11,
+                        "time_label": "11 am",
+                        "popularity_percentage": 32,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 12,
+                        "time_label": "12 pm",
+                        "popularity_percentage": 17,
+                        "popularity_description": "Usually not busy"
+                    },
+                    {
+                        "hour_of_day": 13,
+                        "time_label": "1 pm",
+                        "popularity_percentage": 21,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 14,
+                        "time_label": "2 pm",
+                        "popularity_percentage": 25,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 15,
+                        "time_label": "3 pm",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 16,
+                        "time_label": "4 pm",
+                        "popularity_percentage": 46,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 17,
+                        "time_label": "5 pm",
+                        "popularity_percentage": 35,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 18,
+                        "time_label": "6 pm",
+                        "popularity_percentage": 42,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 19,
+                        "time_label": "7 pm",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 20,
+                        "time_label": "8 pm",
+                        "popularity_percentage": 64,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 21,
+                        "time_label": "9 pm",
+                        "popularity_percentage": 89,
+                        "popularity_description": "Usually as busy as it gets"
+                    },
+                    {
+                        "hour_of_day": 22,
+                        "time_label": "10 pm",
+                        "popularity_percentage": 75,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 23,
+                        "time_label": "11 pm",
+                        "popularity_percentage": 67,
+                        "popularity_description": "Usually a little busy"
+                    },
+                    {
+                        "hour_of_day": 0,
+                        "time_label": "12 am",
+                        "popularity_percentage": 39,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 1,
+                        "time_label": "1 am",
+                        "popularity_percentage": 28,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 2,
+                        "time_label": "2 am",
+                        "popularity_percentage": 35,
+                        "popularity_description": "Usually not too busy"
+                    },
+                    {
+                        "hour_of_day": 3,
+                        "time_label": "3 am",
+                        "popularity_percentage": 32,
+                        "popularity_description": "Usually not too busy"
+                    }
+                ]
+            },
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ1YuJDCKpoDkRp2ULu6Um5tQ",
+            "name": "raajkiiy saamudaayik phl sNrkssnn aur prshikssnn kendr raaniikhet uttraakhNdd",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Ranijheel",
+                    "link": "https://www.google.com/maps/search/Ranijheel/@29.640420600000002,79.42756419999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 979,
+                    "rating": 3.9,
+                    "main_category": "Tourist attraction"
+                },
+                {
+                    "name": "Gardshiyari Village",
+                    "link": "https://www.google.com/maps/search/Gardshiyari+Village/@29.572182500000004,79.5261964?authuser=0&hl=en&entry=ttu",
+                    "reviews": 9,
+                    "rating": 4.1,
+                    "main_category": "Tourist attraction"
+                },
+                {
+                    "name": "Ganesh sah",
+                    "link": "https://www.google.com/maps/search/Ganesh+sah/@29.6544725,79.4239856?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 3.8,
+                    "main_category": "Tourist attraction"
+                },
+                {
+                    "name": "Gandhi chowk",
+                    "link": "https://www.google.com/maps/search/Gandhi+chowk/@29.6436796,79.43033090000002?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 4,
+                    "main_category": "Tourist attraction"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "raajkiiy saamudaayik phl sNrkssnn aur prshikssnn kendr raaniikhet uttraakhNdd (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMm91-liH8Qdpm1vp21QjPtvzjEeILrPZMGBqzB=w408-h307-k-no",
+            "main_category": "Tourist attraction",
+            "categories": [
+                "Tourist attraction"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "JCHP+V46 raajkiiy saamudaayik phl sNrkssnn aur prshikssnn kendr raaniikhet uttraakhNdd, Devi Rd, Pandey Kota, Ranikhet, Ranikhet Range, Uttarakhand 263645",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%95%E0%A5%80%E0%A4%AF+%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A4%BE%E0%A4%AF%E0%A4%BF%E0%A4%95+%E0%A4%AB%E0%A4%B2+%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3+%E0%A4%94%E0%A4%B0+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3+%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0+%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80%E0%A4%96%E0%A5%87%E0%A4%A4+%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%BE%E0%A4%96%E0%A4%82%E0%A4%A1/data=!4m7!3m6!1s0x39a0a9220c898bd5:0xd4e626a5bb0b65a7!8m2!3d29.6298517!4d79.4343583!16s%2Fg%2F11sjvq0c19!19sChIJ1YuJDCKpoDkRp2ULu6Um5tQ?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1YuJDCKpoDkRp2ULu6Um5tQ&q=%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%95%E0%A5%80%E0%A4%AF+%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A4%BE%E0%A4%AF%E0%A4%BF%E0%A4%95+%E0%A4%AB%E0%A4%B2+%E0%A4%B8%E0%A4%82%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3+%E0%A4%94%E0%A4%B0+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3+%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0+%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%80%E0%A4%96%E0%A5%87%E0%A4%A4+%E0%A4%89%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A4%BE%E0%A4%96%E0%A4%82%E0%A4%A1&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.6298517,
+                "longitude": 79.4343583
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Pandey Kota",
+                "street": "JCHP+V46, Devi Rd",
+                "city": "Ranikhet, Ranikhet Range",
+                "postal_code": "263645",
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "15340991673933718951",
+            "data_id": "0x39a0a9220c898bd5:0xd4e626a5bb0b65a7",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "children",
+                    "name": "Children",
+                    "options": [
+                        {
+                            "name": "Good for kids",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMm91-liH8Qdpm1vp21QjPtvzjEeILrPZMGBqzB=w395-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "Mukesh Kumar",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-06-24T03:36:37.936000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 123,
+                    "total_number_of_photos_by_reviewer": 202,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113039980946361857741/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUcKnsD4aJ2qJC0KDd2Mhy2E6SNegI9nfqzi8oltu345ttx=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJAynklm-poDkRqdGhqn0g9wE",
+            "name": "Ranikhet",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": null,
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPFkOQ2bbWIG1mzm3ypn3y3RxQTx5cXKR-ThWSM=w408-h306-k-no",
+            "main_category": null,
+            "categories": null,
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Ranikhet, Uttarakhand",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Ranikhet/data=!4m7!3m6!1s0x39a0a96f96e42903:0x1f7207daaa1d1a9!8m2!3d29.6430127!4d79.4331858!16s%2Fg%2F11sppchhm8!19sChIJAynklm-poDkRqdGhqn0g9wE?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAynklm-poDkRqdGhqn0g9wE&q=Ranikhet&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.6430127,
+                "longitude": 79.43318579999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": null,
+                "city": null,
+                "postal_code": null,
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "141617637391192489",
+            "data_id": "0x39a0a96f96e42903:0x1f7207daaa1d1a9",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPFkOQ2bbWIG1mzm3ypn3y3RxQTx5cXKR-ThWSM=w397-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJ3bE_J9SroDkR3MzCk8Oc1Rc",
+            "name": "Ranikhet",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": null,
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPfCsKunnr033jZ3SP6_xppqgx0sHemwpmm5Gqk=w408-h251-k-no",
+            "main_category": null,
+            "categories": null,
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Ranikhet, Uttarakhand",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Ranikhet/data=!4m7!3m6!1s0x39a0abd4273fb1dd:0x17d59cc393c2ccdc!8m2!3d29.6433615!4d79.4321825!16zL20vMDZyYmwy!19sChIJ3bE_J9SroDkR3MzCk8Oc1Rc?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ3bE_J9SroDkR3MzCk8Oc1Rc&q=Ranikhet&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.643361499999997,
+                "longitude": 79.4321825
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": null,
+                "city": "Ranikhet",
+                "postal_code": null,
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "1717451196723285212",
+            "data_id": "0x39a0abd4273fb1dd:0x17d59cc393c2ccdc",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPfCsKunnr033jZ3SP6_xppqgx0sHemwpmm5Gqk=w483-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMT7gnVEzjxnbS7t-Hn07V_OaAfKYb_qw_ANFKF=w224-h398-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJazsNjvUHCjkRwUZP_3KSvKo",
+            "name": "Maggi Point, DS BISHT",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Maggi Point, DS BISHT (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Soup kitchen",
+            "categories": [
+                "Soup kitchen"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "J9C2+J4J Maggi Point, DS BISHT, Ranikhet Range, Uttarakhand 263663",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Maggi+Point,+DS+BISHT/data=!4m7!3m6!1s0x390a07f58e0d3b6b:0xaabc9272ff4f46c1!8m2!3d29.621308!4d79.3500564!16s%2Fg%2F11svcvv0d9!19sChIJazsNjvUHCjkRwUZP_3KSvKo?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJazsNjvUHCjkRwUZP_3KSvKo&q=Maggi+Point,+DS+BISHT&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.621308,
+                "longitude": 79.3500564
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "J9C2+J4J",
+                "city": "Ranikhet Range",
+                "postal_code": "263663",
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "12302869304676665025",
+            "data_id": "0x390a07f58e0d3b6b:0xaabc9272ff4f46c1",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJO7tZb4upoDkR7F_D7J792uM",
+            "name": "Ranikhet Range",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": null,
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPjQID9xAxlP4bD4ttc095KukPoZsykzE0F8kk9=w408-h306-k-no",
+            "main_category": null,
+            "categories": null,
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Ranikhet Range, Uttarakhand",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Ranikhet+Range/data=!4m7!3m6!1s0x39a0a98b6f59bb3b:0xe3dafd9eecc35fec!8m2!3d29.6816925!4d79.4029116!16s%2Fg%2F12hlgyfwv!19sChIJO7tZb4upoDkR7F_D7J792uM?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJO7tZb4upoDkR7F_D7J792uM&q=Ranikhet+Range&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.681692499999997,
+                "longitude": 79.4029116
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": null,
+                "city": "Ranikhet Range",
+                "postal_code": null,
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "16418714250551451628",
+            "data_id": "0x39a0a98b6f59bb3b:0xe3dafd9eecc35fec",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPjQID9xAxlP4bD4ttc095KukPoZsykzE0F8kk9=w397-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPV6dK6uYisrCfFJ5s4LQhTSilvaHnaWIjwY839=w224-h298-k-no-pi-10-ya114.00001-ro-0-fo100"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPug34CDJxaU47Lm--jtvBEaOv8r_ITpTer6z0u=w529-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJn6fDlJKroDkRzRT-Wrn3KSU",
+            "name": "Govind Garden",
+            "description": null,
+            "reviews": null,
+            "competitors": [
+                {
+                    "name": "Shiv Temple",
+                    "link": "https://www.google.com/maps/search/Shiv+Temple/@29.644133999999998,79.4319834?authuser=0&hl=en&entry=ttu",
+                    "reviews": 146,
+                    "rating": 4.4,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Sarna Garden",
+                    "link": "https://www.google.com/maps/search/Sarna+Garden/@29.6490248,79.42911389999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 112,
+                    "rating": 3.7,
+                    "main_category": "Garden"
+                },
+                {
+                    "name": "Apple garden",
+                    "link": "https://www.google.com/maps/search/Apple+garden/@29.619082400000003,79.46070830000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 30,
+                    "rating": 4.4,
+                    "main_category": "Garden"
+                },
+                {
+                    "name": "Rajiv Gandhi Park",
+                    "link": "https://www.google.com/maps/search/Rajiv+Gandhi+Park/@29.641789000000003,79.43321100000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 9,
+                    "rating": 4.6,
+                    "main_category": "Park"
+                },
+                {
+                    "name": "shrii niilkNtth mhaadev mndir",
+                    "link": "https://www.google.com/maps/search/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80+%E0%A4%A8%E0%A5%80%E0%A4%B2%E0%A4%95%E0%A4%82%E0%A4%A0+%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%A6%E0%A5%87%E0%A4%B5+%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%B0/@29.6456031,79.42928890000002?authuser=0&hl=en&entry=ttu",
+                    "reviews": 4,
+                    "rating": 5,
+                    "main_category": "Hindu temple"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Govind Garden (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNPbLZvJxKWNB3HbfTNg8P6DFt1397oMwSYEdsg=w426-h240-k-no",
+            "main_category": "Garden",
+            "categories": [
+                "Garden"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Govind Garden, CD 227 Lower, Khari Bazaar, Khari Bazar, Ranikhet, Uttarakhand 263645",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Govind+Garden/data=!4m7!3m6!1s0x39a0ab9294c3a79f:0x2529f7b95afe14cd!8m2!3d29.6451072!4d79.4343854!16s%2Fg%2F11jjjkmmhp!19sChIJn6fDlJKroDkRzRT-Wrn3KSU?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJn6fDlJKroDkRzRT-Wrn3KSU&q=Govind+Garden&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.645107199999998,
+                "longitude": 79.4343854
+            },
+            "plus_code": "JCWM+2Q Ranikhet, Uttarakhand",
+            "detailed_address": {
+                "ward": "Khari Bazar",
+                "street": "CD 227 Lower, Khari Bazaar",
+                "city": "Ranikhet",
+                "postal_code": "263645",
+                "state": "Uttarakhand",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "2677943828916081869",
+            "data_id": "0x39a0ab9294c3a79f:0x2529f7b95afe14cd",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNPbLZvJxKWNB3HbfTNg8P6DFt1397oMwSYEdsg=w529-h298-k-no"
+                },
+                {
+                    "about": "Landscaping",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOyUmIc2_zQIPS3ub3jSlm9_tC_OFJKfIUi0aLl=w396-h298-k-no"
+                },
+                {
+                    "about": "Garden",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNPbLZvJxKWNB3HbfTNg8P6DFt1397oMwSYEdsg=w529-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

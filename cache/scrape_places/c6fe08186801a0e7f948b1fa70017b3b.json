@@ -1,0 +1,419 @@
+{
+    "query": "masjid bansdih",
+    "places": [
+        {
+            "place_id": "ChIJo0SJkwJhkjkRYwHJPnsemFs",
+            "name": "Bansdih New Masjid",
+            "description": null,
+            "reviews": 42,
+            "competitors": [
+                {
+                    "name": "Badi Masjid",
+                    "link": "https://www.google.com/maps/search/Badi+Masjid/@25.752985600000002,84.1506466?authuser=0&hl=en&entry=ttu",
+                    "reviews": 74,
+                    "rating": 4.1,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shiv Mandir (Bansdih)",
+                    "link": "https://www.google.com/maps/search/Shiv+Mandir+%28Bansdih%29/@25.8822899,84.2103301?authuser=0&hl=en&entry=ttu",
+                    "reviews": 13,
+                    "rating": 4.5,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Goddhappa Masjid",
+                    "link": "https://www.google.com/maps/search/Goddhappa+Masjid/@25.9005999,84.2413485?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "chhoti masjid",
+                    "link": "https://www.google.com/maps/search/chhoti+masjid/@25.8815812,84.21871500000002?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Madina Masjid Kewara bansdih",
+                    "link": "https://www.google.com/maps/search/Madina+Masjid+Kewara+bansdih/@25.8557918,84.259772?authuser=0&hl=en&entry=ttu",
+                    "reviews": 1,
+                    "rating": 2,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Bansdih New Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOaHWcqGNnGrq8nox98x3vvp1vPDfJlqOX-g771=w408-h412-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.1,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": "084235 58451",
+            "address": "V6H9+5JJ Bansdih New Masjid, SH 1B, Bansdih, Uttar Pradesh 277202",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Bansdih+New+Masjid/data=!4m7!3m6!1s0x39926102938944a3:0x5b981e7b3ec90163!8m2!3d25.87797!4d84.2190041!16s%2Fg%2F1235dc2sl!19sChIJo0SJkwJhkjkRYwHJPnsemFs?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 3,
+                "2": 5,
+                "3": 3,
+                "4": 6,
+                "5": 25
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJo0SJkwJhkjkRYwHJPnsemFs&q=Bansdih+New+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 25.877969999999998,
+                "longitude": 84.21900409999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "V6H9+5JJ, SH 1B",
+                "city": "Bansdih",
+                "postal_code": "277202",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "6600058768594633059",
+            "data_id": "0x39926102938944a3:0x5b981e7b3ec90163",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOaHWcqGNnGrq8nox98x3vvp1vPDfJlqOX-g771=w294-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMl12-agqPffUhezs4J-akLIXDx9SfQT1UVRSf1=w224-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPkmWEFnGVIaZWsxn60nhAqtffwb92whlO6euKy=w529-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Beautiful place to pray Namaz.\nHouse of Almighty Allah.",
+                    "reviewer_name": "Wasim Ahmed",
+                    "rating": 5,
+                    "review_text": "Beautiful place to pray Namaz.\nHouse of Almighty Allah.",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-06-19T02:13:12.856000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 113,
+                    "total_number_of_photos_by_reviewer": 229,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108371954277090024177/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXwMdSQhhYItU58x55YA6hOJ6DAedE9mHaf8Yeny7iRFQ=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNNkFW1bMDN8EzNfmwsqhZTc3v0XZWMBvtUiJYk=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPU3Mfdx4SQuup432HHkxVtXl1kEd_jlXpCl01E=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Best place for namaj and beautiful architecture",
+                    "reviewer_name": "Sameer Ahmad",
+                    "rating": 5,
+                    "review_text": "Best place for namaj and beautiful architecture",
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-07-06T15:13:11.868000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 12,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111989117949029711538/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV2V3C0YQNzWaL5wRgsrG-cre5DjmShJM_6UZjbZWiY7NY=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Beuatifull new masjid tempal bansdih ballia uttar Pradesh india",
+                    "reviewer_name": "Gautam Kumar Chauhan",
+                    "rating": 5,
+                    "review_text": "Beuatifull new masjid tempal bansdih ballia uttar Pradesh india",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-06-26T15:25:57.551000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 123,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107392149664457443166/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUbO7MLOM0HgA3mjDsrxauGlLWqjD0W1ADKjN42maGg1yU=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Beautiful new masjid temple bansdih ballia uttar pradesh india",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "It is on way from bansdih police station to bansdih Bari Bazar...",
+                    "reviewer_name": "Rakesh Mishra",
+                    "rating": 5,
+                    "review_text": "It is on way from bansdih police station to bansdih Bari Bazar...",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2018-12-19T02:06:56.107000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 23,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104009012706834371270/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVJH-6DjesssA_sZSTO53x72FXV6k3luOskuEJ8v0AWcZo=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Perfect computer bansdih state bank road",
+                    "reviewer_name": "Tauhid Ahmad",
+                    "rating": 5,
+                    "review_text": "Perfect computer bansdih state bank road",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-10-05T02:29:44.566000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112971718019079416264/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWbEeRsPczbZvCGIGMx1faUjo_77fV0dtH7pTT9N7oDq_L6=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Heaven , peace and cool place",
+                    "reviewer_name": "Irfan Ahmed",
+                    "rating": 4,
+                    "review_text": "Heaven , peace and cool place",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-03-22T16:05:15.508000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 49,
+                    "total_number_of_photos_by_reviewer": 291,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107254381027675981680/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW3k0XnyVpdNrWhNk-QPWsLRuS1-qH96Ds0iH53TLsB1yM=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "ANSARI ELECTRIC&ELECTRONIC   STAT BANK ROAD BANSDIH",
+                    "reviewer_name": "MD NAJIR HUSEN",
+                    "rating": 5,
+                    "review_text": "ANSARI ELECTRIC&ELECTRONIC   STAT BANK ROAD BANSDIH",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-07-24T02:22:14.705000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114976262449884932642/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWeXxRIn65-K1zyOtGBA1nOGtizp2mZvYAXAbCJhrRP8u0=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "baaNsddiih meN aapkaa svaagt hai  / ",
+                    "reviewer_name": "Shajeed Ahamad",
+                    "rating": 5,
+                    "review_text": "baaNsddiih meN aapkaa svaagt hai  / ",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-06-03T10:50:15.638000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104027372616655195676/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKAVpywXT6C-omoaS_AUraM7VoEwq4XiWQLB3xCrUfO=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Welcome to Bansdih.",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJmcqStGdhkjkR0q1GU8uYNxI",
+            "name": "chhoti masjid",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Bansdih New Masjid",
+                    "link": "https://www.google.com/maps/search/Bansdih+New+Masjid/@25.877969999999998,84.21900409999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 42,
+                    "rating": 4.1,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shiv Mandir (Bansdih)",
+                    "link": "https://www.google.com/maps/search/Shiv+Mandir+%28Bansdih%29/@25.8822899,84.2103301?authuser=0&hl=en&entry=ttu",
+                    "reviews": 13,
+                    "rating": 4.5,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Goddhappa Masjid",
+                    "link": "https://www.google.com/maps/search/Goddhappa+Masjid/@25.9005999,84.2413485?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Chhoti Masjid",
+                    "link": "https://www.google.com/maps/search/Chhoti+Masjid/@26.1929002,84.0048439?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Choti Masjid",
+                    "link": "https://www.google.com/maps/search/Choti+Masjid/@25.835275199999998,84.3005469?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "chhoti masjid (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "V6J9+JFP chhoti masjid, Bansdih, Uttar Pradesh 277202",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/chhoti+masjid/data=!4m7!3m6!1s0x39926167b492ca99:0x123798cb5346add2!8m2!3d25.8815812!4d84.218715!16s%2Fg%2F11gzs3p8v_!19sChIJmcqStGdhkjkR0q1GU8uYNxI?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJmcqStGdhkjkR0q1GU8uYNxI&q=chhoti+masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 25.8815812,
+                "longitude": 84.218715
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "V6J9+JFP",
+                "city": "Bansdih",
+                "postal_code": "277202",
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "1312685815444712914",
+            "data_id": "0x39926167b492ca99:0x123798cb5346add2",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": " wow",
+                    "reviewer_name": "Akash Rouniyar",
+                    "rating": 5,
+                    "review_text": " wow",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-08-08T19:35:08.728000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 7,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107776077412702620812/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK5W44O10FhWB0gSIfkL0atroN43fpYo0pvCVoPjs8Q=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPnsbWundx02-qcheDPoIDpKaw_QE-WZVl-OseT=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP0PSjT8hHrpXa7yZaokmT4WuoS0s4_Zf80xtV4=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "query": "masjid sardulgarh",
+    "places": [
+        {
+            "place_id": "ChIJYWq2PWQ5ETkRqHRObKxBscM",
+            "name": "Sardulgarh masjid Punjab",
+            "description": null,
+            "reviews": 1,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Sardulgarh masjid Punjab (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTC_IYW7qnC-76CtC1YbMC4V6hub6k_yuAAahx=w427-h240-k-no",
+            "main_category": "Place of worship",
+            "categories": [
+                "Place of worship"
+            ],
+            "rating": 3,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "M6WM+G5Q Sardulgarh masjid Punjab, Sardulgarh, Punjab 151507",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Sardulgarh+masjid+Punjab/@29.6963472,75.2330132,17z/data=!3m1!4b1!4m6!3m5!1s0x391139643db66a61:0xc3b141ac6c4e74a8!8m2!3d29.6963472!4d75.2330132!16s%2Fg%2F11tgfcjp73?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJYWq2PWQ5ETkRqHRObKxBscM&q=Sardulgarh+masjid+Punjab&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.696347199999998,
+                "longitude": 75.2330132
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "M6WM+G5Q",
+                "city": "Sardulgarh",
+                "postal_code": "151507",
+                "state": "Punjab",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "14101124117080994984",
+            "data_id": "0x391139643db66a61:0xc3b141ac6c4e74a8",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOTC_IYW7qnC-76CtC1YbMC4V6hub6k_yuAAahx=w530-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Mashallah nice place",
+                    "reviewer_name": "Ma Verik",
+                    "rating": 3,
+                    "review_text": "Mashallah nice place",
+                    "published_at": "a week ago",
+                    "published_at_date": "2023-12-08T07:24:04.604000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 13,
+                    "total_number_of_photos_by_reviewer": 7,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101122159206264458390/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXORdFXFRnSSAdT-xqnlDubKZJCDS2DLlyvHkMoVFudbOsb=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipN1c-ZUmZuJMD9DbgiBvxBmXvfklGs0H3dy7Stu=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOWkTPiBDFiU7t6Hj7ddsuYkiDtUnAGzDyIUff7=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

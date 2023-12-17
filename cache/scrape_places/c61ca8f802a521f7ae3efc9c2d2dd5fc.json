@@ -1,0 +1,775 @@
+{
+    "query": "masjid jhalida",
+    "places": [
+        {
+            "place_id": "ChIJZaLaBJGHDTkRhQz33VTE5y0",
+            "name": "Jama Masjid",
+            "description": null,
+            "reviews": 2,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o0LX8fL-NIOXvBwiBN8TSg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=137.47905&pitch=0&thumbfov=100",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "VF5C+PJF Jama Masjid, Bhiwani - Rohtak Rd, Lahli, Haryana 124411",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+Masjid/data=!4m7!3m6!1s0x390d879104daa265:0x2de7c454ddf70c85!8m2!3d28.8593168!4d76.471518!16s%2Fg%2F11v5ywsrvv!19sChIJZaLaBJGHDTkRhQz33VTE5y0?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 2
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZaLaBJGHDTkRhQz33VTE5y0&q=Jama+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 28.8593168,
+                "longitude": 76.471518
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "VF5C+PJF, Bhiwani - Rohtak Rd",
+                "city": "Lahli",
+                "postal_code": "124411",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "3307828320107170949",
+            "data_id": "0x390d879104daa265:0x2de7c454ddf70c85",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o0LX8fL-NIOXvBwiBN8TSg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=137.47905&pitch=0&thumbfov=100"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o0LX8fL-NIOXvBwiBN8TSg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=137.47905&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Helpful",
+                    "reviewer_name": "Hikmat Jalinoos",
+                    "rating": 5,
+                    "review_text": "Helpful",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-29T14:42:43.985000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104319973222149959101/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVTJzKm3WKAdaP9FKrwLFeDtxA8MY57V0mvLxkVjeVu6A=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Super",
+                    "reviewer_name": "Shakir Husain",
+                    "rating": 5,
+                    "review_text": "Super",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-29T14:40:40.688000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 20,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105550703195498658466/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXKEyNcgBeZnyo_E_ugFDdoEOvtIN_8r8n5X2QY1rCZcoE=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJe1bN4u8rDDkRbEUf-rw4658",
+            "name": "Jama Masjid Neelaroza",
+            "description": null,
+            "reviews": 15,
+            "competitors": [
+                {
+                    "name": "Markaz Masjid Jhinjhana",
+                    "link": "https://www.google.com/maps/search/Markaz+Masjid+Jhinjhana/@29.520752899999998,77.22268609999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 13,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Imaam sahaab masjid",
+                    "link": "https://www.google.com/maps/search/Imaam+sahaab+masjid/@29.519356199999997,77.231113?authuser=0&hl=en&entry=ttu",
+                    "reviews": 10,
+                    "rating": 4.8,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid Chhatti PeerZadGan msjid chtti piirjaadgaan msjd chhtWy",
+                    "link": "https://www.google.com/maps/search/Masjid+Chhatti+PeerZadGan+%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%9C%E0%A4%BF%E0%A4%A6+%E0%A4%9B%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BF+%E0%A4%AA%E0%A5%80%E0%A4%B0%E0%A4%9C%E0%A4%BE%E0%A4%A6%E0%A4%97%E0%A4%BE%E0%A4%A8+%D9%85%D8%B3%D8%AC%D8%AF+%DA%86%DA%BE%D8%AA%D9%91%DB%8C/@29.519804299999997,77.22391449999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid Main market Jhinjhana",
+                    "link": "https://www.google.com/maps/search/Masjid+Main+market+Jhinjhana/@29.521757599999997,77.2271847?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Masjid",
+                    "link": "https://www.google.com/maps/search/Masjid/@29.520594199999998,77.2262923?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama Masjid Neelaroza (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOqhVh-XTQUTQbK397qHpqKK3xhQ-HYfPA-MIA=w408-h302-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.1,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": "095360 99399",
+            "address": "G6CF+88J Jama Masjid Neelaroza, peerzadgaan, Jhinjhana, Uttar Pradesh 247773",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+Masjid+Neelaroza/data=!4m7!3m6!1s0x390c2befe2cd567b:0x9feb38bcfa1f456c!8m2!3d29.5208443!4d77.2232796!16s%2Fg%2F11gk69v6ss!19sChIJe1bN4u8rDDkRbEUf-rw4658?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 3,
+                "2": 0,
+                "3": 1,
+                "4": 0,
+                "5": 11
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJe1bN4u8rDDkRbEUf-rw4658&q=Jama+Masjid+Neelaroza&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.5208443,
+                "longitude": 77.2232796
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "peerzadgaan",
+                "street": "G6CF+88J",
+                "city": "Jhinjhana",
+                "postal_code": null,
+                "state": "Uttar Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "11523366455858906476",
+            "data_id": "0x390c2befe2cd567b:0x9feb38bcfa1f456c",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOqhVh-XTQUTQbK397qHpqKK3xhQ-HYfPA-MIA=w401-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPUXU9qThZSILsN4UlO8N2JbQq5VtNwVts-LmM=w301-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipO7mr3Rw6gxDAZU3txH1R3m_VUQMcByiNnlm-lc=w224-h398-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNC4uSODjRophXrffp7oEV_ADsmR3fdI0tB9aQ=w224-h298-k-no-pi0-ya353-ro-0-fo100"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Vajid kairana store",
+                    "reviewer_name": "Vajid Ali",
+                    "rating": 3,
+                    "review_text": "Vajid kairana store",
+                    "published_at": "6 months ago",
+                    "published_at_date": "2023-06-01T01:09:36.891000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106490036003470364040/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLXccjq-e12U3CThofFI59JMBSEqDiM_8eb4v698s6H=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Shaandaar ",
+                    "reviewer_name": "Rihan SBW",
+                    "rating": 5,
+                    "review_text": "Shaandaar ",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-27T16:51:40.263000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 53,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109367589759138696458/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVsl0Dy__rEX5aAT0HX809ncpPpuLdoBF9Eh_F5bxFz1Os=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Shaandaar",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "My villege very beautifull",
+                    "reviewer_name": "shame shamani",
+                    "rating": 1,
+                    "review_text": "My villege very beautifull",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-02-11T11:29:26.726000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 6,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107002299221535308705/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXMAStoAWyuPxdn9bTGFZsQuFydhVIZEfwJsDYFcA7bjA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Awesome",
+                    "reviewer_name": "A Rathore",
+                    "rating": 5,
+                    "review_text": "Awesome",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-06-02T14:41:46.643000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115093418785253421076/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUR7W8qNe3hy0CRuMGaLkEpqGkjoaz1hgCJql_Uu7QARK4=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "nice place",
+                    "reviewer_name": "Mehtab Siddiqui",
+                    "rating": 5,
+                    "review_text": "nice place",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-11-16T05:03:13.779000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 24,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105105279591314327255/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXj4wvsCfkc0jFiF2zEl6e0gE2g9JphXpN-cUM3JL2OSVY=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Awesome",
+                    "reviewer_name": "Asad Siddiqui",
+                    "rating": 5,
+                    "review_text": "Awesome",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-04-15T15:30:54.619000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 9,
+                    "total_number_of_photos_by_reviewer": 3,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103022544404764387068/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJUcqAq27jxwMJuIneMlUQIiSQOVbKWBwmosh4uFYYI=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPkWA-_xJMGQFkfc9KhH07Eykk3Ovx9JLjTqQmU=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Anisur Rahman",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-09-11T09:02:58.450000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 16,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109252399808340514409/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKCHKukFzZoNujiiXdK0tPG0lS3Nb7chDtY1f9_AwZkbNE=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Imran Qureshi",
+                    "rating": 1,
+                    "review_text": null,
+                    "published_at": "8 months ago",
+                    "published_at_date": "2023-04-06T13:11:51.121000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112773544140158128583/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVTTSkFd3XTboqOG5xLT8ln57-OeSAb16znwvRTnwdm_Q=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJNab5ZzkPDjkRa6H-6egTQ8Y",
+            "name": "Old masjid",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@29.542157099999997,76.9730872?authuser=0&hl=en&entry=ttu",
+                    "reviews": 8,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Takiye wali Masjid village Jalmana",
+                    "link": "https://www.google.com/maps/search/Takiye+wali+Masjid+village+Jalmana/@29.591260199999994,76.7061899?authuser=0&hl=en&entry=ttu",
+                    "reviews": 6,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jalmana Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jalmana+Jama+Masjid/@29.591215099999996,76.7061044?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Old Masjid Jundla",
+                    "link": "https://www.google.com/maps/search/Old+Masjid+Jundla/@29.650651699999997,76.872867?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Religious destination"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Old masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPcehLJpctCIM5BFe4DmBYZLAJnCigtyoV8vRWh=w408-h306-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "HPR6+H2X Old masjid, Jalmana, Haryana 132039",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Old+masjid/data=!4m7!3m6!1s0x390e0f3967f9a635:0xc64313e8e9fea16b!8m2!3d29.5914862!4d76.7101194!16s%2Fg%2F11knp4367b!19sChIJNab5ZzkPDjkRa6H-6egTQ8Y?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNab5ZzkPDjkRa6H-6egTQ8Y&q=Old+masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 29.5914862,
+                "longitude": 76.7101194
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "HPR6+H2X",
+                "city": "Jalmana",
+                "postal_code": "132039",
+                "state": "Haryana",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "14286284334028464491",
+            "data_id": "0x390e0f3967f9a635:0xc64313e8e9fea16b",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPcehLJpctCIM5BFe4DmBYZLAJnCigtyoV8vRWh=w397-h298-k-no"
+                },
+                {
+                    "about": "Dome",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOauu52mH83BE2UpNXvmGLaxm2ie0vL7PlHaYOh=w397-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Ki",
+                    "reviewer_name": "mmntk Khan",
+                    "rating": 5,
+                    "review_text": "Ki",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-09-30T03:48:32.151000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115260151188670030041/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJCIApdqs9mvRJ9YiWh4QLk4jhYBHQXEvmsLXAmyAyl=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJJcyw6uQ09DkRweLOXNLApm4",
+            "name": "Jhalda Jama Masjid",
+            "description": null,
+            "reviews": 11,
+            "competitors": [
+                {
+                    "name": "Palanja Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Palanja+Jama+Masjid/@23.317865299999998,86.3873697?authuser=0&hl=en&entry=ttu",
+                    "reviews": 19,
+                    "rating": 4.2,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Damda Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Damda+Jama+Masjid/@23.2821479,86.3538406?authuser=0&hl=en&entry=ttu",
+                    "reviews": 13,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Durga Mandir Poddar Pada",
+                    "link": "https://www.google.com/maps/search/Durga+Mandir+Poddar+Pada/@23.3666622,85.976834?authuser=0&hl=en&entry=ttu",
+                    "reviews": 7,
+                    "rating": 4.7,
+                    "main_category": "Hindu temple"
+                },
+                {
+                    "name": "Masjid-E-Siddique, Damda",
+                    "link": "https://www.google.com/maps/search/Masjid-E-Siddique%2C+Damda/@23.2807367,86.3539043?authuser=0&hl=en&entry=ttu",
+                    "reviews": 7,
+                    "rating": 4.4,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "DANGAL MASJID-E-TAWHEED",
+                    "link": "https://www.google.com/maps/search/DANGAL+MASJID-E-TAWHEED/@23.3715798,85.9895671?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jhalda Jama Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 3.5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "9X7H+X2X Jhalda Jama Masjid, Sadagar para Rd, Jhalida, West Bengal 723202",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jhalda+Jama+Masjid/data=!4m7!3m6!1s0x39f434e4eab0cc25:0x6ea6c0d25ccee2c1!8m2!3d23.3649969!4d85.9776111!16s%2Fg%2F11dympw58c!19sChIJJcyw6uQ09DkRweLOXNLApm4?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 2,
+                "2": 0,
+                "3": 4,
+                "4": 0,
+                "5": 5
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJcyw6uQ09DkRweLOXNLApm4&q=Jhalda+Jama+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 23.364996899999998,
+                "longitude": 85.97761109999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "9X7H+X2X, Sadagar para Rd",
+                "city": "Jhalida",
+                "postal_code": "723202",
+                "state": "West Bengal",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "7973272200038769345",
+            "data_id": "0x39f434e4eab0cc25:0x6ea6c0d25ccee2c1",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJQ1Km2G819DkRooeLD4n4WtE",
+            "name": "Jama masjid Hussindhi",
+            "description": null,
+            "reviews": 2,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama masjid Hussindhi (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8R-XzwitaFHMZU9brWFQzx8ygmpy8dr1-X-DY=w408-h544-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 5,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "9X7Q+PQC Jama masjid Hussindhi, Jhalida, West Bengal 723202",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+masjid+Hussindhi/data=!4m7!3m6!1s0x39f4356fd8a65243:0xd15af8890f8b87a2!8m2!3d23.3642695!4d85.9887018!16s%2Fg%2F11txh8jvp6!19sChIJQ1Km2G819DkRooeLD4n4WtE?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 2
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJQ1Km2G819DkRooeLD4n4WtE&q=Jama+masjid+Hussindhi&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 23.3642695,
+                "longitude": 85.9887018
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "9X7Q+PQC",
+                "city": "Jhalida",
+                "postal_code": "723202",
+                "state": "West Bengal",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "15085643169385908130",
+            "data_id": "0x39f4356fd8a65243:0xd15af8890f8b87a2",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipN8R-XzwitaFHMZU9brWFQzx8ygmpy8dr1-X-DY=w224-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPcoZgtWD0utQMgeNAnyNKnhyHcOU1hJ00OWElH=w224-h398-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Javed Bhai",
+                    "reviewer_name": "Javed Ansari",
+                    "rating": 5,
+                    "review_text": "Javed Bhai",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-11-05T07:19:53.554000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 9,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103756894283042771199/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUXPgf6LXeZNlcdv6QknJSMnJJhJRUT_LUk6e8MgrlfgUE=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOVzG5W3NDT6qZc2KJBtTM321nCBs6WdrlUs7QQ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN8R-XzwitaFHMZU9brWFQzx8ygmpy8dr1-X-DY=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNaT0xJ7W5fQS--oTQQBLuYHuPUt5iLaVa9bv5-=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNUUQV_4e_msmDpe55WUE9xBdHXRBYMpxH0-YzC=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO924zLtc1ghfqDwo3_BSm1EBPyCGipTQcOIb2F=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPGpXeCZsEbF88MU-sopfchXgD9wIqbfeGbufm_=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOKCczBHTrwRT28XL8uZzrmh_OOTRKtxXgTmvDS=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Love",
+                    "reviewer_name": "Samir Ansary",
+                    "rating": 5,
+                    "review_text": "Love",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-04-27T10:14:39.772000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 52,
+                    "total_number_of_photos_by_reviewer": 181,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111077852586354519148/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX0vdkx04Uq-hX91D30vNDut-GIhhRQ3RvFWhmtFjNvNn4=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

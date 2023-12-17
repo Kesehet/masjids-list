@@ -1,0 +1,70 @@
+{
+    "query": "masjid jhabua",
+    "places": [
+        {
+            "place_id": "ChIJcxpj89UMYTkRAW4vP3tfcNU",
+            "name": "Masjid Jhabua",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": null,
+                "link": null
+            },
+            "featured_image": null,
+            "main_category": "Building",
+            "categories": [
+                "Building"
+            ],
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Masjid Jhabua, Huda Mohalla, Jhabua, Madhya Pradesh 457661",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Jhabua,+Huda+Mohalla,+Jhabua,+Madhya+Pradesh+457661/@22.7665401,74.5886619,17z/data=!3m1!4b1!4m6!3m5!1s0x39610cd5f3631a73:0xd5705f7b3f2f6e01!8m2!3d22.7665401!4d74.5886619!16s%2Fg%2F1tfl_w2z?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJcxpj89UMYTkRAW4vP3tfcNU&q=Masjid+Jhabua,+Huda+Mohalla,+Jhabua,+Madhya+Pradesh+457661&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 22.7665401,
+                "longitude": 74.58866189999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "Huda Mohalla",
+                "city": "Jhabua",
+                "postal_code": "457661",
+                "state": "Madhya Pradesh",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "15379897710415932929",
+            "data_id": "0x39610cd5f3631a73:0xd5705f7b3f2f6e01",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}

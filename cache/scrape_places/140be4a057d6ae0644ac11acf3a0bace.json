@@ -1,0 +1,924 @@
+{
+    "query": "masjid ghoti budrukh",
+    "places": [
+        {
+            "place_id": "ChIJG0YEkxiF3TsRRn7TCRQzyls",
+            "name": "Jama Masjid",
+            "description": null,
+            "reviews": 23,
+            "competitors": [
+                {
+                    "name": "Arab Masjid, Igatpuri",
+                    "link": "https://www.google.com/maps/search/Arab+Masjid%2C+Igatpuri/@19.6971173,73.5612496?authuser=0&hl=en&entry=ttu",
+                    "reviews": 48,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Sunni jama masjid",
+                    "link": "https://www.google.com/maps/search/Sunni+jama+masjid/@19.6941778,73.5699691?authuser=0&hl=en&entry=ttu",
+                    "reviews": 26,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shahi Masjid .shhy msjd",
+                    "link": "https://www.google.com/maps/search/Shahi+Masjid+.%D8%B4%D8%A7%DB%81%DB%8C+%D9%85%D8%B3%D8%AC%D8%AF/@19.715314,73.62937769999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 17,
+                    "rating": 4.9,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOH4MPACkzp8HiLrGCuTETNowd5df1wruwyychh=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.7,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Jama Masjid, 422402, Ghoti Budruk, Maharashtra",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+Masjid/data=!4m7!3m6!1s0x3bdd85189304461b:0x5bca331409d37e46!8m2!3d19.7166484!4d73.6287548!16s%2Fg%2F11f145sw_m!19sChIJG0YEkxiF3TsRRn7TCRQzyls?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 2,
+                "3": 0,
+                "4": 0,
+                "5": 21
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJG0YEkxiF3TsRRn7TCRQzyls&q=Jama+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 19.7166484,
+                "longitude": 73.6287548
+            },
+            "plus_code": "PJ8H+MG Ghoti Budruk, Maharashtra",
+            "detailed_address": {
+                "ward": null,
+                "street": "422402",
+                "city": "Ghoti Budruk",
+                "postal_code": null,
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "6614155163904212550",
+            "data_id": "0x3bdd85189304461b:0x5bca331409d37e46",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOH4MPACkzp8HiLrGCuTETNowd5df1wruwyychh=w529-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "Very good masjid at Ghoti. Clean wudu area and toilets. Caretakers are also good mannered. The masjid is spacious though the location is inside a galli.",
+                    "reviewer_name": "Niyaz Zubair",
+                    "rating": 5,
+                    "review_text": "Very good masjid at Ghoti. Clean wudu area and toilets. Caretakers are also good mannered. The masjid is spacious though the location is inside a galli.",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-10-05T00:48:59.562000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 516,
+                    "total_number_of_photos_by_reviewer": 2083,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105008354640229730385/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW9hblloQuCuiy5aAswNlzhF2uD3hpDi1E1R40v9imdBd8=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Its A very big and clean mosque at Ghoti. Thetoilets And wuduh area are very clean.People too are good.",
+                    "reviewer_name": "Shaheem Backer",
+                    "rating": 5,
+                    "review_text": "Its A very big and clean mosque at Ghoti. Thetoilets And wuduh area are very clean.People too are good.",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-10-05T00:53:39.870000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 29,
+                    "total_number_of_photos_by_reviewer": 13,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107342779145680274609/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWAlge4PrEx_7TyAhBca4kLy_kenehsyaIgg2jrSGpSTqrm=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Jama masjid of ghoti it's beautiful and I prayed there many times",
+                    "reviewer_name": "Universal T",
+                    "rating": 5,
+                    "review_text": "Jama masjid of ghoti it's beautiful and I prayed there many times",
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-04-19T05:27:54.934000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 40,
+                    "total_number_of_photos_by_reviewer": 49,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100421133151718191893/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVSQf6CtgCuWKlyJ6RNLWvwFhA0C2u3gIYsMp4lg6pGieo=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Its a holy place of muslim religion",
+                    "reviewer_name": "kamalakar sonawane",
+                    "rating": 5,
+                    "review_text": "Its a holy place of muslim religion",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-01-20T04:53:09.211000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 116,
+                    "total_number_of_photos_by_reviewer": 48,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100760979874819222906/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVoCUVtUvTyBxFfaIlVMW26_JCo1pyJHtqaoJu3L7nEIAE=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Superb masjid",
+                    "reviewer_name": "tauseef Bagban",
+                    "rating": 5,
+                    "review_text": "Superb masjid",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-02-01T13:31:14.385000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 186,
+                    "total_number_of_photos_by_reviewer": 641,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100006129905001355900/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW2HUNcirxcMEEK4LR5q5r4sHx7U3oTiyBz0kFT3PR5g7g=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Open For Prayers",
+                    "reviewer_name": "mehmood sayed",
+                    "rating": 5,
+                    "review_text": "Open For Prayers",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-10-31T11:51:37.963000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 59,
+                    "total_number_of_photos_by_reviewer": 14,
+                    "reviewer_url": "https://www.google.com/maps/contrib/114036165460093474300/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLUE5KyO2O3UJbn04Eo0WJ5hRFy4OFYvJe-9SUmAC2w=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Religion space",
+                    "reviewer_name": "Arbaj Sayyed",
+                    "rating": 5,
+                    "review_text": "Religion space",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-02-09T15:05:44.915000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113894478437788410349/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIqyuw9suc7cLgR8wheLY893AuFfPS5CI_9AJBelpqLyw=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I like masjid ghoti\n",
+                    "reviewer_name": "Mahmood Falahee",
+                    "rating": 5,
+                    "review_text": "I like masjid ghoti\n",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-11-30T13:45:37.291000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 15,
+                    "reviewer_url": "https://www.google.com/maps/contrib/103018628770207586281/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU4zmSksdiBpC74CraJ4e8k2DMwS7HEuS95TKifR_BCqQs=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJtzfQrxiF3TsRjMUkrIckoSw",
+            "name": "Shahi Masjid .shhy msjd",
+            "description": null,
+            "reviews": 17,
+            "competitors": [
+                {
+                    "name": "Arab Masjid, Igatpuri",
+                    "link": "https://www.google.com/maps/search/Arab+Masjid%2C+Igatpuri/@19.6971173,73.5612496?authuser=0&hl=en&entry=ttu",
+                    "reviews": 48,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Sunni jama masjid",
+                    "link": "https://www.google.com/maps/search/Sunni+jama+masjid/@19.6941778,73.5699691?authuser=0&hl=en&entry=ttu",
+                    "reviews": 26,
+                    "rating": 4.5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@19.7166484,73.6287548?authuser=0&hl=en&entry=ttu",
+                    "reviews": 23,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Eid Gha Ghoti",
+                    "link": "https://www.google.com/maps/search/Eid+Gha+Ghoti/@19.7161843,73.6253862?authuser=0&hl=en&entry=ttu",
+                    "reviews": 12,
+                    "rating": 4.3,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Shahi Masjid .shhy msjd (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP9wGstxkYLc8XWtVZYnqgObdFxZHMooeZIRws_=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.9,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "PJ8H+4QC Shahi Masjid .shhy msjd, Ghoti Budruk, Maharashtra 422402",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Shahi+Masjid+.%D8%B4%D8%A7%DB%81%DB%8C+%D9%85%D8%B3%D8%AC%D8%AF%E2%80%AD/data=!4m7!3m6!1s0x3bdd8518afd037b7:0x2ca12487ac24c58c!8m2!3d19.715314!4d73.6293777!16s%2Fg%2F11byyls2fs!19sChIJtzfQrxiF3TsRjMUkrIckoSw?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 2,
+                "5": 15
+            },
+            "featured_question": {
+                "question": "Please time table namaz iduladha  ",
+                "answer": "(Translated by Google) 8:00 am in Shahi Masjid Ghoti and 8:30 in Jama Masjid Ghoti insha Allah\n\n(Original)\nShahi masjid ghoti me 8:00 am aur jama masjid ghoti me 8:30 insha Allah",
+                "question_date": "2018-08-22T00:31:38",
+                "question_ago": "5 years ago",
+                "asked_by": {
+                    "name": "Babu Murtaza",
+                    "link": "https://www.google.com/maps/contrib/105673664166895094528"
+                },
+                "answer_date": "2018-08-22T02:28:27",
+                "answer_ago": "5 years ago",
+                "answered_by": {
+                    "name": "Ummehani",
+                    "link": "https://www.google.com/maps/contrib/107756891057588331777"
+                }
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJtzfQrxiF3TsRjMUkrIckoSw&q=Shahi+Masjid+.%D8%B4%D8%A7%DB%81%DB%8C+%D9%85%D8%B3%D8%AC%D8%AF%E2%80%AD&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 19.715314,
+                "longitude": 73.62937769999999
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "PJ8H+4QC",
+                "city": "Ghoti Budruk",
+                "postal_code": "422402",
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "3215891774046520716",
+            "data_id": "0x3bdd8518afd037b7:0x2ca12487ac24c58c",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipP9wGstxkYLc8XWtVZYnqgObdFxZHMooeZIRws_=w529-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "All types of facilities available wash room parking prayer room",
+                    "reviewer_name": "IRFAN MANIYAR",
+                    "rating": 5,
+                    "review_text": "All types of facilities available wash room parking prayer room",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-03-06T12:59:39.178000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 41,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117637305141175712916/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL26tHTqDlQmSx7Arxp9FlQd74E19ktUGvMVwGVSrws=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Best",
+                    "reviewer_name": "Bilal Tamboli",
+                    "rating": 5,
+                    "review_text": "Best",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-01-25T06:11:35.634000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 12,
+                    "total_number_of_photos_by_reviewer": 9,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104943728327881457960/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUG2axFOqd00F27rFVXteaLxip3GqKVUFKLntI18uHZjXSY=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Mashallah ",
+                    "reviewer_name": "AAK GAMING",
+                    "rating": 5,
+                    "review_text": "Mashallah ",
+                    "published_at": "2 weeks ago",
+                    "published_at_date": "2023-11-25T18:20:28.998000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115780139369806251662/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLa41cZjatEcNGcHH59V9-__LfvSCNTUMl0EjRA-Dqe=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Shahi masjid Ghoti",
+                    "reviewer_name": "Saad Shaikh",
+                    "rating": 5,
+                    "review_text": "Shahi masjid Ghoti",
+                    "published_at": "6 months ago",
+                    "published_at_date": "2023-05-21T14:28:29.072000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106667044635128301611/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKIke5G616vpkdf__-Tkdlm7IDReQhKRNHvIwf9hmL-=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": "Shahi Masjid Ghoti",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Shahi masjid ghoti",
+                    "reviewer_name": "Hafiz Saad Shaikh Rauzwi",
+                    "rating": 5,
+                    "review_text": "Shahi masjid ghoti",
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-07-15T05:36:41.015000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 2,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 24,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107339413118563492262/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVflGgorm9Z3lFQqiIkeohHfbPqehm34hu-kipe9zPJUw=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": "Shahi Masjid Ghoti",
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Imran sayyed",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "7 years ago",
+                    "published_at_date": "2016-11-09T10:23:25.809000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109197516998443089157/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJGSeZT_HVw_c77JC_yToKtyRi2XBIpNmbKaw8pJ6Na=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "ayyan 9292",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-01-20T10:00:41.345000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109084041478260649716/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXX912WEqaBOpctUGenv3Lse46giRHAEFW_kCnGr08zOQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "ayyan sayyed",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "7 years ago",
+                    "published_at_date": "2016-10-23T13:45:03.663000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 17,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115073108304412393155/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK9wEspVhjH7a4Vlh0KEbF-LUkjBjHofVrqqVTfPs9p=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJXVdtbBmF3TsRTe6jCn_GzXE",
+            "name": "Eid Gha Ghoti",
+            "description": null,
+            "reviews": 12,
+            "competitors": [
+                {
+                    "name": "Arab Masjid, Igatpuri",
+                    "link": "https://www.google.com/maps/search/Arab+Masjid%2C+Igatpuri/@19.6971173,73.5612496?authuser=0&hl=en&entry=ttu",
+                    "reviews": 48,
+                    "rating": 4.6,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama Masjid",
+                    "link": "https://www.google.com/maps/search/Jama+Masjid/@19.7166484,73.6287548?authuser=0&hl=en&entry=ttu",
+                    "reviews": 23,
+                    "rating": 4.7,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Shahi Masjid .shhy msjd",
+                    "link": "https://www.google.com/maps/search/Shahi+Masjid+.%D8%B4%D8%A7%DB%81%DB%8C+%D9%85%D8%B3%D8%AC%D8%AF/@19.715314,73.62937769999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 17,
+                    "rating": 4.9,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Iron fitness gym",
+                    "link": "https://www.google.com/maps/search/Iron+fitness+gym/@19.7134881,73.62259470000001?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Gym"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Eid Gha Ghoti (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPD-T69xg1SyKkn4U9HxrN3ahkCZxx8LY701cqi=w408-h725-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4.3,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "PJ8G+F5C Eid Gha Ghoti, Sambhaji Nagar, Ghoti Budruk, Maharashtra 422402",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Eid+Gha+Ghoti/data=!4m7!3m6!1s0x3bdd85196c6d575d:0x71cdc67f0aa3ee4d!8m2!3d19.7161843!4d73.6253862!16s%2Fg%2F11cs7xm0ds!19sChIJXVdtbBmF3TsRTe6jCn_GzXE?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 1,
+                "2": 0,
+                "3": 1,
+                "4": 2,
+                "5": 8
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJXVdtbBmF3TsRTe6jCn_GzXE&q=Eid+Gha+Ghoti&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 19.7161843,
+                "longitude": 73.6253862
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Sambhaji Nagar",
+                "street": "PJ8G+F5C, Sambhaji Nagar",
+                "city": "Ghoti Budruk",
+                "postal_code": "422402",
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "8200428745453203021",
+            "data_id": "0x3bdd85196c6d575d:0x71cdc67f0aa3ee4d",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPD-T69xg1SyKkn4U9HxrN3ahkCZxx8LY701cqi=w224-h398-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": "M currently here",
+                    "reviewer_name": "abrar maniyar",
+                    "rating": 5,
+                    "review_text": "M currently here",
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-12-12T16:06:57.820000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 50,
+                    "total_number_of_photos_by_reviewer": 33,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101441899557784312121/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWR_TiftO07o35bKYiu_Rv7sECBCaCJqFW6JDuqTIn00IU=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "On the way",
+                    "reviewer_name": "Shashikant Gavale",
+                    "rating": 5,
+                    "review_text": "On the way",
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-06-06T05:11:27.607000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 31,
+                    "total_number_of_photos_by_reviewer": 5,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100425193582494253714/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWQFlBthRRWw0VjMwU4hZDiTke7rXs1rib2iDjIbqpebA=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "EKNATH",
+                    "rating": 1,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-10-28T19:40:55.373000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118383089349579190616/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUAD25GFrgAD_20c66YDEfzeQuA_EqOtzxTNYmDLnc1Xm0L=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Ayyan yn",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "4 years ago",
+                    "published_at_date": "2019-01-06T07:17:33.366000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 25,
+                    "total_number_of_photos_by_reviewer": 30,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113330732492036582352/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWY6vLacsuNPYf4yk0Faxxi-41T6d0_r5hgtZcgbHtPq-Y=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "ayyan 9292",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "6 years ago",
+                    "published_at_date": "2017-01-02T11:09:07.913000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 0,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109084041478260649716/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXX912WEqaBOpctUGenv3Lse46giRHAEFW_kCnGr08zOQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Hafiz Saad Shaikh Rauzwi",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "a year ago",
+                    "published_at_date": "2021-12-21T03:47:32.242000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 6,
+                    "total_number_of_photos_by_reviewer": 24,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107339413118563492262/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVflGgorm9Z3lFQqiIkeohHfbPqehm34hu-kipe9zPJUw=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "ayyan sayyed",
+                    "rating": 5,
+                    "review_text": null,
+                    "published_at": "7 years ago",
+                    "published_at_date": "2016-11-06T10:16:32.379000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 17,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115073108304412393155/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK9wEspVhjH7a4Vlh0KEbF-LUkjBjHofVrqqVTfPs9p=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": null,
+                    "reviewer_name": "Dayanand Bambrule",
+                    "rating": 3,
+                    "review_text": null,
+                    "published_at": "2 years ago",
+                    "published_at_date": "2021-01-05T03:09:30.890000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 262,
+                    "total_number_of_photos_by_reviewer": 63,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117722052931004284846/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLTS0777Mys7tUm74_0eLhZxkys6NgkNLhdEv6UwC8s=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJJblBAY9txDsRVKoBVFdB2R8",
+            "name": "Jama Masjid",
+            "description": null,
+            "reviews": 1,
+            "competitors": [
+                {
+                    "name": "naalsaaheb devsthaan ghottii",
+                    "link": "https://www.google.com/maps/search/%E0%A4%A8%E0%A4%BE%E0%A4%B2%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A5%87%E0%A4%AC+%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%A8+%E0%A4%98%E0%A5%8B%E0%A4%9F%E0%A5%80/@17.916480200000002,75.23781249999999?authuser=0&hl=en&entry=ttu",
+                    "reviews": 7,
+                    "rating": 4.1,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama masjid jamiatul",
+                    "link": "https://www.google.com/maps/search/Jama+masjid+jamiatul/@18.128433899999997,75.528095?authuser=0&hl=en&entry=ttu",
+                    "reviews": 3,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "Jama masjid",
+                    "link": "https://www.google.com/maps/search/Jama+masjid/@18.090920699999998,75.4158704?authuser=0&hl=en&entry=ttu",
+                    "reviews": 2,
+                    "rating": 5,
+                    "main_category": "Mosque"
+                },
+                {
+                    "name": "jama Masjid",
+                    "link": "https://www.google.com/maps/search/jama+Masjid/@17.8331111,75.0449123?authuser=0&hl=en&entry=ttu",
+                    "reviews": 0,
+                    "rating": 0,
+                    "main_category": "Mosque"
+                }
+            ],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": "Jama Masjid (Owner)",
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOIMkyRnjMNx58ilnXg6XHwV6-HqyVmlPtwLCIC=w426-h240-k-no",
+            "main_category": "Mosque",
+            "categories": [
+                "Mosque"
+            ],
+            "rating": 4,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "W68P+7GM Jama Masjid, Ghoti, Maharashtra 413211",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Jama+Masjid/data=!4m7!3m6!1s0x3bc46d8f0141b925:0x1fd941575401aa54!8m2!3d17.915705!4d75.2362938!16s%2Fg%2F11fl9gmht7!19sChIJJblBAY9txDsRVKoBVFdB2R8?authuser=0&hl=en&rclk=1",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 0
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJblBAY9txDsRVKoBVFdB2R8&q=Jama+Masjid&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 17.915705,
+                "longitude": 75.2362938
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": null,
+                "street": "W68P+7GM",
+                "city": "Ghoti",
+                "postal_code": null,
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "2294937328449333844",
+            "data_id": "0x3bc46d8f0141b925:0x1fd941575401aa54",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible car park",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOIMkyRnjMNx58ilnXg6XHwV6-HqyVmlPtwLCIC=w529-h298-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [
+                {
+                    "review_id": null,
+                    "reviewer_name": "Sagar Jadhav",
+                    "rating": 4,
+                    "review_text": null,
+                    "published_at": "3 years ago",
+                    "published_at_date": "2020-08-31T02:06:46.501000",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 10,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109816622255593036385/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW8HwTvD--9pryjygriFcbZbjkkKxXISZdDTjuEUL6lVVQ=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

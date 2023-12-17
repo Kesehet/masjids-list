@@ -1,0 +1,77 @@
+{
+    "query": "masjid bhander",
+    "places": [
+        {
+            "place_id": "ChIJZ_nvuyXO5zsRko9ZArXR4_U",
+            "name": "Masjid Bandar",
+            "description": null,
+            "reviews": null,
+            "competitors": [],
+            "website": null,
+            "owner": {
+                "id": null,
+                "name": null,
+                "link": null
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM468Myn1z8xhQzPaxY_TKSKoPZez5wSAP8SY3a=w408-h306-k-no",
+            "main_category": null,
+            "categories": null,
+            "rating": null,
+            "workday_timing": null,
+            "closed_on": "Open All Days",
+            "phone": null,
+            "address": "Masjid Bandar, Mumbai, Maharashtra",
+            "review_keywords": [],
+            "link": "https://www.google.com/maps/place/Masjid+Bandar,+Mumbai,+Maharashtra/@18.9510005,72.8378795,17z/data=!3m1!4b1!4m6!3m5!1s0x3be7ce25bbeff967:0xf5e3d1b502598f92!8m2!3d18.9506004!4d72.8382547!16s%2Fg%2F1tfb9m9m?authuser=0&entry=ttu",
+            "status": null,
+            "price_range": null,
+            "reviews_per_rating": {
+                "1": null,
+                "2": null,
+                "3": null,
+                "4": null,
+                "5": null
+            },
+            "featured_question": null,
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJZ_nvuyXO5zsRko9ZArXR4_U&q=Masjid+Bandar,+Mumbai,+Maharashtra&authuser=0&hl=en&gl=IN",
+            "coordinates": {
+                "latitude": 18.9506004,
+                "longitude": 72.8382547
+            },
+            "plus_code": null,
+            "detailed_address": {
+                "ward": "Masjid Bandar",
+                "street": null,
+                "city": "Mumbai",
+                "postal_code": null,
+                "state": "Maharashtra",
+                "country_code": "IN"
+            },
+            "time_zone": "Asia/Calcutta",
+            "cid": "17718235934364372882",
+            "data_id": "0x3be7ce25bbeff967:0xf5e3d1b502598f92",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM468Myn1z8xhQzPaxY_TKSKoPZez5wSAP8SY3a=w397-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMmAS664y986aVqEbPUD6T0ITcuhMGpgp_2qzQ=w224-h398-k-no"
+                }
+            ],
+            "hours": [],
+            "most_popular_times": "Not Present",
+            "popular_times": "Not Present",
+            "featured_reviews": [],
+            "is_spending_on_ads": false
+        }
+    ]
+}
