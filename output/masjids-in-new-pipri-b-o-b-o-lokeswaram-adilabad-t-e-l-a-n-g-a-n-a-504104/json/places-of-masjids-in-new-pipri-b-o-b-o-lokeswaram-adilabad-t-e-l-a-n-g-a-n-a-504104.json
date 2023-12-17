@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Adilabad",
+        "main_category": null,
+        "address": "Adilabad, Telangana 504001",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Adilabad",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM0P7KBM68bSAR1cMuAh8e5lQ8fHB7cydDhNe5L=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOwqzixTHKga_qk9HfL6OzTBCjVq5H4PYQg529F=w529-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Adilabad/data=!4m7!3m6!1s0x3bd25c756be12b11:0x5b3bd1283e6840ec!8m2!3d19.6765668!4d78.5320841!16zL20vMDVuNHg1!19sChIJESvha3Vc0jsR7EBoPijRO1s?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.6765668,
+            "longitude": 78.53208409999999
+        }
+    },
+    {
+        "name": "Lokeshwaram",
+        "main_category": null,
+        "address": "Lokeshwaram, Telangana",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Lokeshwaram",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMLkS2ZKCePCiTpx1QUEb4IoOAYdGf_GQRH-DAy=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOCN42ex05SXys4LRwTbwCvOahtY33SoRG5Mz4s=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Lokeshwaram/data=!4m7!3m6!1s0x3bcdfa7aaf19fde1:0xc9de257c766875fe!8m2!3d19.0305978!4d78.0865868!16s%2Fm%2F02prlwd!19sChIJ4f0Zr3r6zTsR_nVodnwl3sk?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.0305978,
+            "longitude": 78.08658679999999
+        }
+    }
+]

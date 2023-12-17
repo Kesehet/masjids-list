@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Adilabad",
+        "main_category": null,
+        "address": "Adilabad, Telangana 504001",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Adilabad",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM0P7KBM68bSAR1cMuAh8e5lQ8fHB7cydDhNe5L=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOwqzixTHKga_qk9HfL6OzTBCjVq5H4PYQg529F=w529-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Adilabad/data=!4m7!3m6!1s0x3bd25c756be12b11:0x5b3bd1283e6840ec!8m2!3d19.6765668!4d78.5320841!16zL20vMDVuNHg1!19sChIJESvha3Vc0jsR7EBoPijRO1s?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.6765668,
+            "longitude": 78.53208409999999
+        }
+    },
+    {
+        "name": "Nambal",
+        "main_category": null,
+        "address": "Nambal, Telangana",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Nambal",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipObZn0odB9-meX9ZOzgNTN7cdmG-14etU3a-Nes=w224-h398-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipO1mIREe6_kEUZmcpHK9JAUSLnOtzBuAE7HM16p=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Nambal/data=!4m7!3m6!1s0x3a32aa47be1d2ee7:0x9073ef8700be70e3!8m2!3d19.2326557!4d79.4422593!16s%2Fg%2F12hkb8c6t!19sChIJ5y4dvkeqMjoR43C-AIfvc5A?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.2326557,
+            "longitude": 79.4422593
+        }
+    }
+]

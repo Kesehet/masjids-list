@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Adilabad",
+        "main_category": null,
+        "address": "Adilabad, Telangana 504001",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Adilabad",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM0P7KBM68bSAR1cMuAh8e5lQ8fHB7cydDhNe5L=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOwqzixTHKga_qk9HfL6OzTBCjVq5H4PYQg529F=w529-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Adilabad/data=!4m7!3m6!1s0x3bd25c756be12b11:0x5b3bd1283e6840ec!8m2!3d19.6765668!4d78.5320841!16zL20vMDVuNHg1!19sChIJESvha3Vc0jsR7EBoPijRO1s?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.6765668,
+            "longitude": 78.53208409999999
+        }
+    },
+    {
+        "name": "Asifabad",
+        "main_category": null,
+        "address": "Asifabad, Telangana 504293",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Asifabad",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipO7d6uNOxsekcnqrDMKvn-ZG8eFLd1Z-Fo-Tik=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPQwoZd8Z3qfJGu9slsW4OBQQD06tlMIXyguZNh=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Asifabad/data=!4m7!3m6!1s0x3bd2ac1e80629d71:0x7e0782d04d31da11!8m2!3d19.361899!4d79.2930312!16zL20vMGYwNmd3!19sChIJcZ1igB6s0jsREdoxTdCCB34?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.361898999999998,
+            "longitude": 79.2930312
+        }
+    }
+]
