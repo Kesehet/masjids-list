@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Nirmal",
+        "main_category": null,
+        "address": "Nirmal, Telangana",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Nirmal",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipORtjnXBbEBkgZC5peci5HyqFvQQRwKrNA6vuSr=w439-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMMRrtuPTkLoCNhMkX9rXasdQiP6EqoEifs47VQ=w224-h407-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Nirmal/data=!4m7!3m6!1s0x3bcd8b88955f74d9:0x56bbabb7066d50fa!8m2!3d19.0964117!4d78.342975!16zL20vMGY1djgw!19sChIJ2XRflYiLzTsR-lBtBreru1Y?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.0964117,
+            "longitude": 78.342975
+        }
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Adilabad",
+        "main_category": null,
+        "address": "Adilabad, Telangana 504001",
+        "detailed_address": {
+            "ward": null,
+            "street": null,
+            "city": "Adilabad",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM0P7KBM68bSAR1cMuAh8e5lQ8fHB7cydDhNe5L=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOwqzixTHKga_qk9HfL6OzTBCjVq5H4PYQg529F=w529-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Adilabad/data=!4m7!3m6!1s0x3bd25c756be12b11:0x5b3bd1283e6840ec!8m2!3d19.6765668!4d78.5320841!16zL20vMDVuNHg1!19sChIJESvha3Vc0jsR7EBoPijRO1s?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.6765668,
+            "longitude": 78.53208409999999
+        }
+    },
+    {
+        "name": "Somagudem",
+        "main_category": null,
+        "address": "Somagudem, Bellampalle, Telangana 504251",
+        "detailed_address": {
+            "ward": "Somagudem",
+            "street": null,
+            "city": "Bellampalle",
+            "postal_code": null,
+            "state": "Telangana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNgmZn9nwCiOX0WuGm2xlIOwmnozbuPP5m-o2p-=w224-h470-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPqeLXrCoNLcpD0Sl49wv8-_s39wtUMkVOCSapS=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Somagudem/data=!4m7!3m6!1s0x3a32b1e74a3cefdb:0x1d7fcacb7d47479!8m2!3d19.0707977!4d79.4915818!16s%2Fg%2F11hcz1r9_l!19sChIJ2-88SuexMjoReXTUt6z81wE?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 19.0707977,
+            "longitude": 79.49158179999999
+        }
+    }
+]
