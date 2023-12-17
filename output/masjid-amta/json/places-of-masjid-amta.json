@@ -1,0 +1,85 @@
+[
+    {
+        "name": "Amta Masjid",
+        "main_category": "Mosque",
+        "address": "H2J4+2WH Amta Masjid, Howrah-Domjur-Bargachhia-Amta, Amta, West Bengal 711401",
+        "detailed_address": {
+            "ward": null,
+            "street": "H2J4+2WH, Howrah-Domjur-Bargachhia-Amta",
+            "city": "Amta",
+            "postal_code": "711401",
+            "state": "West Bengal",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM8SVVzf7LQJ_OcqBYaHs4Sk8UylYP9GqdnHIB3=w397-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOMWuZc4Yf2HPZ09B4QKVNb1CQp7DC4xbDumRj4=w224-h480-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPaVdhjTD-DJ8a3TPzQnSl1_2_7ITkzhC9tjEl1=w529-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tlG2_jYc1VO39J-iR-4Piw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=147.63788&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Amta+Masjid/data=!4m7!3m6!1s0x3a029d3439a22949:0xf774c0073e6cb592!8m2!3d22.5800634!4d88.0073655!16s%2Fg%2F11cmd9p4vz!19sChIJSSmiOTSdAjoRkrVsPgfAdPc?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 22.5800634,
+            "longitude": 88.00736549999999
+        }
+    },
+    {
+        "name": "Kolej Mor Masjid",
+        "main_category": "Mosque",
+        "address": "H2F2+HF7 Kolej Mor Masjid, Amta - Udaynarayanpur Rd, Amta, West Bengal 711401",
+        "detailed_address": {
+            "ward": null,
+            "street": "H2F2+HF7, Amta - Udaynarayanpur Rd",
+            "city": "Amta",
+            "postal_code": "711401",
+            "state": "West Bengal",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipONpuUbDOKcvjUON4Bf77BM-qUKD4Qu9slyMQHE=w224-h497-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ajqOcgt3sp6ALbXh-hYNcg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=21.927576&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Kolej+Mor+Masjid/data=!4m7!3m6!1s0x3a029d3a91388551:0x373e356984b7dd4d!8m2!3d22.573921!4d88.0011566!16s%2Fg%2F11dxpd9jqj!19sChIJUYU4kTqdAjoRTd23hGk1Pjc?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 22.573921,
+            "longitude": 88.0011566
+        }
+    },
+    {
+        "name": "Amta Jame Masjid",
+        "main_category": "Mosque",
+        "address": "Amta Jame Masjid, middle, Amta.village",
+        "detailed_address": {
+            "ward": null,
+            "street": "middle, Amta.village",
+            "city": "Amta",
+            "postal_code": null,
+            "state": "West Bengal",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Amta+Jame+Masjid/data=!4m7!3m6!1s0x3a02014f69ddf123:0x699c1f1785228011!8m2!3d22.6032018!4d88.7817722!16s%2Fg%2F11m_jv_3hw!19sChIJI_HdaU8BAjoREYAihRcfnGk?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 22.603201799999997,
+            "longitude": 88.78177219999999
+        }
+    }
+]

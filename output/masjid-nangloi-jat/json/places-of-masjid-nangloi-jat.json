@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Masjid Rd",
+        "main_category": null,
+        "address": "Masjid Rd, Kirari Extension 2, Nangloi, Delhi, 110041",
+        "detailed_address": {
+            "ward": "Kirari Extension 2, Nangloi",
+            "street": null,
+            "city": "Delhi",
+            "postal_code": "110041",
+            "state": "Delhi",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Masjid+Rd/data=!4m7!3m6!1s0x390d0431480c04e3:0x786901c5e391f6e5!8m2!3d28.6837939!4d77.063002!16s%2Fg%2F11gfcyg3b9!19sChIJ4wQMSDEEDTkR5faR48UBaXg?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 28.683793899999998,
+            "longitude": 77.063002
+        }
+    },
+    {
+        "name": "Masjid Rd Number 1",
+        "main_category": null,
+        "address": "Masjid Rd Number 1, Gulshan Park, Mubarkpur, Delhi, 110041",
+        "detailed_address": {
+            "ward": "Gulshan Park, Mubarkpur",
+            "street": null,
+            "city": "Delhi",
+            "postal_code": "110041",
+            "state": "Delhi",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Masjid+Rd+Number+1/data=!4m7!3m6!1s0x390d05ce83783e47:0xb027dd7f50839040!8m2!3d28.6845349!4d77.0507201!16s%2Fg%2F11gfdj9h6m!19sChIJRz54g84FDTkRQJCDUH_dJ7A?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 28.6845349,
+            "longitude": 77.05072009999999
+        }
+    }
+]

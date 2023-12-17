@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Alandi jama masjid",
+        "main_category": "Mosque",
+        "address": "MVFX+698 Alandi jama masjid, Alandi, Pune, Maharashtra 412105",
+        "detailed_address": {
+            "ward": "Alandi",
+            "street": "MVFX+698",
+            "city": "Pune",
+            "postal_code": "412105",
+            "state": "Maharashtra",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM_JQ8EC4ZH8YzOCsbIFbF5T4OWdN2sBPAu36FE=w529-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hEnRDyY8nC_9U5fMOH0Z5g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=225.73692&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Alandi+jama+masjid/data=!4m7!3m6!1s0x3bc2c9a15b66c4e1:0xd4ce61809c2ae75a!8m2!3d18.6729718!4d73.8984883!16s%2Fg%2F11krywc4jx!19sChIJ4cRmW6HJwjsRWucqnIBhztQ?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 18.6729718,
+            "longitude": 73.8984883
+        }
+    },
+    {
+        "name": "Masjid dudulgav",
+        "main_category": "Mosque",
+        "address": "MVHJ+2J4 Masjid dudulgav, Dudulgaon, Maharashtra 412105",
+        "detailed_address": {
+            "ward": "Dudulgaon",
+            "street": "MVHJ+2J4",
+            "city": null,
+            "postal_code": "412105",
+            "state": "Maharashtra",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6R4ACbTLeudEGjJ9bC5JgQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=283.76642&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6R4ACbTLeudEGjJ9bC5JgQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=283.76642&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+dudulgav/data=!4m7!3m6!1s0x3bc2c9d3c5ddb41f:0x601654ec6062d2be!8m2!3d18.6775231!4d73.8815765!16s%2Fg%2F11ss87_739!19sChIJH7TdxdPJwjsRvtJiYOxUFmA?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 18.6775231,
+            "longitude": 73.8815765
+        }
+    }
+]

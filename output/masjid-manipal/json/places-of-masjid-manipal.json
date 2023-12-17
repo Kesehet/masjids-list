@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Manipal Masjid",
+        "main_category": "Mosque",
+        "address": "9Q3R+MWX Manipal Masjid, SH 65, Saralebettu, Manipal, Karnataka 576104",
+        "detailed_address": {
+            "ward": "Saralebettu",
+            "street": "9Q3R+MWX, SH 65",
+            "city": "Manipal",
+            "postal_code": "576104",
+            "state": "Karnataka",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM1fWdNY7q0DAA6ix2dMDyw1BrLenxjdNuPyGLb=w529-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNDGuCZgDW8YRHhSCvjbebcexp22pT8s8qj14eE=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPdRtM6BndTy7FXvAf6LLow5g3VJ62pM0IR3Cpz=w224-h398-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DJb7MoXxfihHVpgukMtw3A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=270.8049&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Manipal+Masjid/data=!4m7!3m6!1s0x3bbca4a7e3ccc20d:0x6e0bcc97cc6a93dc!8m2!3d13.354243!4d74.7923574!16s%2Fg%2F1tflqg6s!19sChIJDcLM46ekvDsR3JNqzJfMC24?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 13.354242999999999,
+            "longitude": 74.7923574
+        }
+    },
+    {
+        "name": "Manchi Prayer House",
+        "main_category": "Mosque",
+        "address": "8QFV+58 Manchi Prayer House, Manchikere, Manipal, Karnataka 576104",
+        "detailed_address": {
+            "ward": "Manchikere",
+            "street": "8QFV+58",
+            "city": "Manipal",
+            "postal_code": null,
+            "state": "Karnataka",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Manchi+Prayer+House/data=!4m7!3m6!1s0x3bbca5d89ec9a35d:0x7284584e8c9f512!8m2!3d13.322892!4d74.7932662!16s%2Fg%2F11kt1lhw_6!19sChIJXaPJntilvDsREvXJ6IRFKAc?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 13.322892,
+            "longitude": 74.79326619999999
+        }
+    }
+]

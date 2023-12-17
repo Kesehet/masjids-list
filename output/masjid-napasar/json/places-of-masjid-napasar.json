@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Masjid Napasar",
+        "main_category": "Mosque",
+        "address": "XH95+525 Masjid Napasar, Napasar, Rajasthan 334201",
+        "detailed_address": {
+            "ward": null,
+            "street": "XH95+525",
+            "city": "Napasar",
+            "postal_code": null,
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNfcnMXzrdtGM1Q5xDXj_tp4Pnr2lhzdmDKI5pb=w224-h398-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sOasFVgxpDeoywgPb-ztIg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=216.2537&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+Napasar/@27.967887,73.5576063,17z/data=!3m1!4b1!4m6!3m5!1s0x39155fea3ba03cfd:0xd7d63063832b79af!8m2!3d27.967887!4d73.5576063!16s%2Fg%2F11f62lxr3x?authuser=0&entry=ttu",
+        "coordinates": {
+            "latitude": 27.967886999999997,
+            "longitude": 73.5576063
+        }
+    }
+]

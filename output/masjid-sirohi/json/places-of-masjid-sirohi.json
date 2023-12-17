@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Masjid Sirohi",
+        "main_category": "Mosque",
+        "address": "PP7G+5V2 Masjid Sirohi, Sirohi, Rajasthan 332714",
+        "detailed_address": {
+            "ward": null,
+            "street": "PP7G+5V2",
+            "city": "Sirohi",
+            "postal_code": "332714",
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Masjid+Sirohi/data=!4m7!3m6!1s0x396d27924162423d:0x421120adca295bf7!8m2!3d27.7128874!4d75.7271519!16s%2Fg%2F11f4hlt26r!19sChIJPUJiQZInbTkR91spyq0gEUI?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 27.7128874,
+            "longitude": 75.7271519
+        }
+    },
+    {
+        "name": "Masjid sirohi",
+        "main_category": "Mosque",
+        "address": "859J+VC7 Masjid sirohi, Sirohi, Kot, Haryana 121004",
+        "detailed_address": {
+            "ward": null,
+            "street": "859J+VC7",
+            "city": "Sirohi, Kot",
+            "postal_code": null,
+            "state": "Haryana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WEmhPCPPlxVHEIWK0-op2w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=69.329735&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WEmhPCPPlxVHEIWK0-op2w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=69.329735&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+sirohi/data=!4m7!3m6!1s0x390d274930b25c79:0x9d5bd909cb5b6012!8m2!3d28.3196717!4d77.1810391!16s%2Fg%2F11sllrpbxq!19sChIJeVyyMEknDTkREmBbywnZW50?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 28.319671699999997,
+            "longitude": 77.18103909999999
+        }
+    }
+]

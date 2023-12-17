@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Jama Masjid",
+        "main_category": "Mosque",
+        "address": "GXRF+V68 Jama Masjid, Dharamveer Colony, Gharaunda, Haryana 132114",
+        "detailed_address": {
+            "ward": "Dharamveer Colony",
+            "street": "GXRF+V68",
+            "city": "Gharaunda",
+            "postal_code": "132114",
+            "state": "Haryana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4Tb78b0lFon3lfagQmaSqQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=239.6348&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4Tb78b0lFon3lfagQmaSqQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=239.6348&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jama+Masjid/data=!4m7!3m6!1s0x390e77b48f13c609:0x416e15c729c72d4b!8m2!3d29.5421571!4d76.9730872!16s%2Fg%2F11fp859p26!19sChIJCcYTj7R3DjkRSy3HKccVbkE?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 29.542157099999997,
+            "longitude": 76.9730872
+        }
+    },
+    {
+        "name": "Gharounda",
+        "main_category": "Mosque",
+        "address": "Gharounda, Ambedker Nagar, Karnal, NH-1, G T Karnal, Road, Dharamveer Colony, Gharaunda, Haryana 132114",
+        "detailed_address": {
+            "ward": "Dharamveer Colony",
+            "street": "Ambedker Nagar, Karnal, NH-1, G T Karnal, Road",
+            "city": "Gharaunda",
+            "postal_code": "132114",
+            "state": "Haryana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8RcmDCvBymGIXDIAPccApg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=247.74574&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8RcmDCvBymGIXDIAPccApg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=247.74574&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Gharounda/data=!4m7!3m6!1s0x390e778e29469f4b:0x4dae5d6293ad6346!8m2!3d29.5426785!4d76.973155!16s%2Fg%2F11tx1qly7h!19sChIJS59GKY53DjkRRmOtk2Jdrk0?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 29.542678499999997,
+            "longitude": 76.97315499999999
+        }
+    }
+]

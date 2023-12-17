@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Purani jama masjid pilibanga",
+        "main_category": "Mosque",
+        "address": "Purani jama masjid pilibanga, Ward No 17, 6 G, Pilibanga, Rajasthan 335803",
+        "detailed_address": {
+            "ward": null,
+            "street": "Ward No 17, 6 G",
+            "city": "Pilibanga",
+            "postal_code": "335803",
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Purani+jama+masjid+pilibanga/data=!4m7!3m6!1s0x391667d2b8b8d5e9:0x2adb5a7e0959b082!8m2!3d29.4899772!4d74.0792503!16s%2Fg%2F11pz8d_0p8!19sChIJ6dW4uNJnFjkRgrBZCX5a2yo?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 29.4899772,
+            "longitude": 74.0792503
+        }
+    },
+    {
+        "name": "Madina nasjid",
+        "main_category": "Mosque",
+        "address": "F3QG+WWM Madina nasjid, Pilibanga, Rajasthan 335803",
+        "detailed_address": {
+            "ward": null,
+            "street": "F3QG+WWM",
+            "city": "Pilibanga",
+            "postal_code": null,
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Madina+nasjid/data=!4m7!3m6!1s0x391667ce732bded5:0xaa51c7fb68044bcb!8m2!3d29.4898494!4d74.0773107!16s%2Fg%2F11shcz1qjn!19sChIJ1d4rc85nFjkRy0sEaPvHUao?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 29.489849399999997,
+            "longitude": 74.0773107
+        }
+    }
+]

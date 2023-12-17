@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Jama Masjid Hindoria",
+        "main_category": "Mosque",
+        "address": "WH29+3P2 Jama Masjid Hindoria, Hindoria, Madhya Pradesh 470771",
+        "detailed_address": {
+            "ward": null,
+            "street": "WH29+3P2",
+            "city": "Hindoria",
+            "postal_code": "470771",
+            "state": "Madhya Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNljsynYUf7eAMQZNF1ZPaLS1Xsh8lwkAQ8h1L4=w397-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JacFGeyYPeitzeroBAwc4g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=324.1968&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jama+Masjid+Hindoria/data=!4m7!3m6!1s0x39821b4f24079e07:0x9aa5fd650bf84f61!8m2!3d23.9001485!4d79.5692526!16s%2Fg%2F11fxzt2vnb!19sChIJB54HJE8bgjkRYU_4C2X9pZo?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 23.9001485,
+            "longitude": 79.5692526
+        }
+    },
+    {
+        "name": "Eidgah Masjid Hindoria",
+        "main_category": "Mosque",
+        "address": "VHX8+XCC Eidgah Masjid Hindoria, Hindoria, Madhya Pradesh 470771",
+        "detailed_address": {
+            "ward": null,
+            "street": "VHX8+XCC",
+            "city": "Hindoria",
+            "postal_code": "470771",
+            "state": "Madhya Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipN2iH_v1jdfpYNSfL0XktW5qpvwVkLXja0p-Qw-=w529-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o8BI3jXXcLfXXsfAbF7LaA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=95.36877&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPs1sgrr3vzQgtuAXRhTU-RZmVuOx8JMRRkOdil=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Eidgah+Masjid+Hindoria/data=!4m7!3m6!1s0x39821b5ce204ded9:0xdf5376e42fdcc791!8m2!3d23.8999308!4d79.5660021!16s%2Fg%2F11fmpsc1n5!19sChIJ2d4E4lwbgjkRkcfcL-R2U98?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 23.8999308,
+            "longitude": 79.56600209999999
+        }
+    }
+]

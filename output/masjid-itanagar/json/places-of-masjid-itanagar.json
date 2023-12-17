@@ -1,0 +1,58 @@
+[
+    {
+        "name": "jama masjid",
+        "main_category": "Mosque",
+        "address": "jama masjid, NH415, 791111",
+        "detailed_address": {
+            "ward": null,
+            "street": "NH415",
+            "city": "Itanagar",
+            "postal_code": "791111",
+            "state": null,
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPI9auuKbgNIdEcyxvAUPKSgopGTRFnfD-eBHut=w529-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNWLTv6ACDPyf8KgM-8YQLwbDI1VlFVHEUFLXKE=w224-h407-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/jama+masjid/data=!4m7!3m6!1s0x374407bc40b57a63:0x84abe2a0b0e08713!8m2!3d27.1011319!4d93.6296853!16s%2Fg%2F11hdt5ld3r!19sChIJY3q1QLwHRDcRE4fgsKDiq4Q?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 27.1011319,
+            "longitude": 93.62968529999999
+        }
+    },
+    {
+        "name": "Gohpur Jama Masjid",
+        "main_category": "Mosque",
+        "address": "3HGV+RJ Gohpur Jama Masjid, Aalo, Itanagar, 791111",
+        "detailed_address": {
+            "ward": "Aalo",
+            "street": "3HGV+RJ",
+            "city": "Itanagar",
+            "postal_code": null,
+            "state": null,
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B945nIrWpTbL0Rx26RbOhw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=69.97869&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B945nIrWpTbL0Rx26RbOhw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=69.97869&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Gohpur+Jama+Masjid/data=!4m7!3m6!1s0x3744078145c6fc39:0x7d6ae04d9d5221ed!8m2!3d27.0770303!4d93.5939834!16s%2Fg%2F11rd9gmxjg!19sChIJOfzGRYEHRDcR7SFSnU3gan0?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 27.077030299999997,
+            "longitude": 93.5939834
+        }
+    }
+]

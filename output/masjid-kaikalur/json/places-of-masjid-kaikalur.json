@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Badi Masjid",
+        "main_category": "Mosque",
+        "address": "H637+549 Badi Masjid, Lakkimsetti Vari St, Kaikaluru, Andhra Pradesh 521333",
+        "detailed_address": {
+            "ward": null,
+            "street": "H637+549, Lakkimsetti Vari St",
+            "city": "Kaikaluru",
+            "postal_code": "521333",
+            "state": "Andhra Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOcMl-_DnAQ3lq0a5StoOR-xpCyBb0Q8PHGlOUQ=w224-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNIBJVFbMfrEnvmJtYftoc2i3dfbsiaRj8bLmfu=w529-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Badi+Masjid/data=!4m7!3m6!1s0x3a363cd97962c021:0xe5305af93034739d!8m2!3d16.552913!4d81.212858!16s%2Fg%2F11cnd4qvgk!19sChIJIcBiedk8NjoRnXM0MPlaMOU?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 16.552913,
+            "longitude": 81.212858
+        }
+    },
+    {
+        "name": "Choti Maszid",
+        "main_category": "Mosque",
+        "address": "H649+2XM Choti Maszid, Kaikaluru, Andhra Pradesh 521333",
+        "detailed_address": {
+            "ward": null,
+            "street": "H649+2XM",
+            "city": "Kaikaluru",
+            "postal_code": "521333",
+            "state": "Andhra Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNebjhcXCz0GEzZkJmZqRwgMbx5dZ3aMVLrmPnf=w224-h398-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPgzyaIUItcJCTVjLmmwAcC2iV4UvKATuAWlT1M=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Choti+Maszid/data=!4m7!3m6!1s0x3a363cc4a3461999:0x6b30e588798aa039!8m2!3d16.5550907!4d81.2199373!16s%2Fg%2F11byxg4785!19sChIJmRlGo8Q8NjoROaCKeYjlMGs?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 16.5550907,
+            "longitude": 81.2199373
+        }
+    }
+]

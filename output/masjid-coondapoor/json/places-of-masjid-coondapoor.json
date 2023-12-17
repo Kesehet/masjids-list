@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Jama Masjid",
+        "main_category": "Mosque",
+        "address": "Jama Masjid, Old Delhi, Delhi, 110006",
+        "detailed_address": {
+            "ward": "Jama Masjid, Old Delhi",
+            "street": null,
+            "city": "Delhi",
+            "postal_code": "110006",
+            "state": "Delhi",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMak1D51ms3fAec8Hv85TWzznlDqiSG6WVzH1oo=w447-h298-k-no"
+            },
+            {
+                "about": "Latest",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNNRpm0-dXpgV9oJsKWwcImDfg9o81awCWu2hlm=w224-h398-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMlxs5wfHk0o905fntq2LudrTJLkjZky0yCrLHV=w529-h298-k-no"
+            },
+            {
+                "about": "National Boot House",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM5PMl5iJ13XFmdtykdBe9uqqkRj7XNcGjDk_Gd=w529-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipN2U6zM28o9erhatzJ_mJpeLOkFiGCQiEtj0B9g=w274-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPz_Omqh6xT1_brAdCRe0ER_BM8EZGxJGXxUSA=w224-h298-k-no-pi-30.000002-ya291.3302-ro-0-fo100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jama+Masjid/data=!4m7!3m6!1s0x390cfd18df89b215:0xdd57369e29bf9d96!8m2!3d28.6506792!4d77.2334421!16zL20vMDR5emo1!19sChIJFbKJ3xj9DDkRlp2_KZ42V90?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 28.6506792,
+            "longitude": 77.23344209999999
+        }
+    },
+    {
+        "name": "Kundapur Jamiyah Masjid",
+        "main_category": "Mosque",
+        "address": "JMPP+PH9 Kundapur Jamiyah Masjid, Karnataka",
+        "detailed_address": {
+            "ward": null,
+            "street": "JMPP+PH9",
+            "city": null,
+            "postal_code": null,
+            "state": "Karnataka",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMi2lGNgyS6c2G2Negs81SyiKC4tCtvcZ22I9K4=w398-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPEevRfBVJUaZrct1gPS40yq2RAP_c4RumD0dfN=w397-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G4fw-HKdWwCW16ddCNxOlA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=117.77526&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Kundapur+Jamiyah+Masjid/data=!4m7!3m6!1s0x3bbc8de1ddfbd109:0xb215ea026f0bc35b!8m2!3d13.6367964!4d74.6864866!16s%2Fg%2F11c610_r5s!19sChIJCdH73eGNvDsRW8MLbwLqFbI?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 13.6367964,
+            "longitude": 74.6864866
+        }
+    }
+]

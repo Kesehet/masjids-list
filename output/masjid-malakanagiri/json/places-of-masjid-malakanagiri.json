@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Sunni Jama Masjid",
+        "main_category": "Mosque",
+        "address": "9V7Q+4CR Sunni Jama Masjid, Malkangiri, Odisha 764045",
+        "detailed_address": {
+            "ward": null,
+            "street": "9V7Q+4CR",
+            "city": "Malkangiri",
+            "postal_code": null,
+            "state": "Odisha",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipO--cfYkISYxwNAI2LwUtG0VzmG6Jl54sXPvrbV=w529-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fa7uKp8nXOFgVBGosZPbAQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=235.15984&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sunni+Jama+Masjid/@18.3628744,81.888501,17z/data=!3m1!4b1!4m6!3m5!1s0x3a309360e8a9ac97:0x569856e0a0e44329!8m2!3d18.3628744!4d81.888501!16s%2Fg%2F11h3vfp_2v?authuser=0&entry=ttu",
+        "coordinates": {
+            "latitude": 18.3628744,
+            "longitude": 81.88850099999999
+        }
+    }
+]

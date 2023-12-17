@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Masjid Kalanaur",
+        "main_category": "Mosque",
+        "address": "R9FV+RHR Masjid Kalanaur, NH709, Extension, Kalanaur, Haryana 124113",
+        "detailed_address": {
+            "ward": "Extension",
+            "street": "R9FV+RHR, NH709",
+            "city": "Kalanaur",
+            "postal_code": "124113",
+            "state": "Haryana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZPXdkaYlx7yubasvAfoN8g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=141.73193&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM82twcWYMKUNTkIVEu0EN0o5fwyvBvbQxdWVUz=w224-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZPXdkaYlx7yubasvAfoN8g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=141.73193&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+Kalanaur/@28.8246099,76.3938835,17z/data=!3m1!4b1!4m6!3m5!1s0x3912793124829d89:0xae3aa68ec4fdbd1f!8m2!3d28.8246099!4d76.3938835!16s%2Fg%2F1ptvxsr7m?authuser=0&entry=ttu",
+        "coordinates": {
+            "latitude": 28.8246099,
+            "longitude": 76.3938835
+        }
+    }
+]

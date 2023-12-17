@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Masjid",
+        "main_category": "Mosque",
+        "address": "H5QX+2GV Masjid, Rahimatpur, Maharashtra 415511",
+        "detailed_address": {
+            "ward": null,
+            "street": "H5QX+2GV",
+            "city": "Rahimatpur",
+            "postal_code": "415511",
+            "state": "Maharashtra",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMZRXHY4PJzw3YLFHnadB_24cXVHlFKRXDku18C=w224-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPF0ENunk-2eMzs00aDZ-bGIaAzfF6D4_yTFkBu=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOXQTl4SmTuQZRMgCu9254LoJ2nAWW1K7y5uV0K=w224-h398-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4w4GdPuvye4AuWlIm-EoDA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=33.944584&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid/data=!4m7!3m6!1s0x3bc22d5eeabc5cd9:0xabed1786170f3414!8m2!3d17.5876041!4d74.1987956!16s%2Fg%2F124yg8x8r!19sChIJ2Vy86l4twjsRFDQPF4YX7as?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 17.5876041,
+            "longitude": 74.1987956
+        }
+    },
+    {
+        "name": "Noori masjid",
+        "main_category": "Mosque",
+        "address": "H5RX+8FW Noori masjid, Unnamed Road, Rahimatpur, Maharashtra 415511",
+        "detailed_address": {
+            "ward": null,
+            "street": "H5RX+8FW, Unnamed Road",
+            "city": "Rahimatpur",
+            "postal_code": "415511",
+            "state": "Maharashtra",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Noori+masjid/data=!4m7!3m6!1s0x3bc22dc3567bae69:0x3f2da14e8835e76e!8m2!3d17.5908506!4d74.1986942!16s%2Fg%2F11hk0mdcp9!19sChIJaa57VsMtwjsRbuc1iE6hLT8?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 17.5908506,
+            "longitude": 74.19869419999999
+        }
+    }
+]

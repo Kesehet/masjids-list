@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Jamia Masjid msjd",
+        "main_category": "Mosque",
+        "address": "F6GM+5XM Jamia Masjid msjd, Masjid Rd, Amalpada, Phulbani, Odisha 762001",
+        "detailed_address": {
+            "ward": "Amalpada",
+            "street": "F6GM+5XM, Masjid Rd",
+            "city": "Phulbani",
+            "postal_code": "762001",
+            "state": "Odisha",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOSxS06QBlS4xyJtGgs13jfTypbIh2kG6CPgy1R=w224-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMf73WNI0NMziOD9AGGZLlyssHX9WMW1zeBF7km=w408-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0notG4oo5N1IpKKS4HC09Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=138.83469&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jamia+Masjid+%D9%85%D8%B3%D8%AC%D8%AF%E2%80%AD/data=!4m7!3m6!1s0x3a23b3025d362209:0xf6978b82cd1a9e66!8m2!3d20.4754648!4d84.2349304!16s%2Fg%2F11bw77xywy!19sChIJCSI2XQKzIzoRZp4azYKLl_Y?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 20.475464799999997,
+            "longitude": 84.2349304
+        }
+    },
+    {
+        "name": "Ibaadat gaah Naina lodge phulbani",
+        "main_category": "Mosque",
+        "address": "Ibaadat gaah Naina lodge phulbani, 762001, Chidananda Nagar, Phulbani, Odisha 762001",
+        "detailed_address": {
+            "ward": "Chidananda Nagar",
+            "street": "762001",
+            "city": "Phulbani",
+            "postal_code": "762001",
+            "state": "Odisha",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CTi39B1EsYasd1sE2zrOdw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=200.57184&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CTi39B1EsYasd1sE2zrOdw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=200.57184&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ibaadat+gaah+Naina+lodge+phulbani/data=!4m7!3m6!1s0x3a23b3dc1b509f79:0xbd28df7bb56a1439!8m2!3d20.4745871!4d84.2346735!16s%2Fg%2F11mxv7q7_0!19sChIJeZ9QG9yzIzoRORRqtXvfKL0?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 20.4745871,
+            "longitude": 84.2346735
+        }
+    },
+    {
+        "name": "Masjid Al Maksum",
+        "main_category": "Mosque",
+        "address": "F6JJ+78X Masjid Al Maksum, At/P.O :Phulbani,Dist :Kandhamal, Electric Colony, Phulbani, Odisha 762001",
+        "detailed_address": {
+            "ward": "Electric Colony",
+            "street": "F6JJ+78X, At/P.O :Phulbani,Dist :Kandhamal",
+            "city": "Phulbani",
+            "postal_code": "762001",
+            "state": "Odisha",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Masjid+Al+Maksum/data=!4m7!3m6!1s0x3a23b3effb46b749:0x9aa6be7344abc915!8m2!3d20.48052!4d84.230848!16s%2Fg%2F11l5v85mhw!19sChIJSbdG---zIzoRFcmrRHO-ppo?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 20.48052,
+            "longitude": 84.230848
+        }
+    }
+]

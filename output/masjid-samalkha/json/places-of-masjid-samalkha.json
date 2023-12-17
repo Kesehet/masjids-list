@@ -1,0 +1,62 @@
+[
+    {
+        "name": "MUHAMMADI MASZID (CHOTI MSZID) ,SAMALKHA",
+        "main_category": "Mosque",
+        "address": "62PC+22W MUHAMMADI MASZID (CHOTI MSZID) ,SAMALKHA, Malpur, Samalkha, Haryana 132101",
+        "detailed_address": {
+            "ward": "Malpur",
+            "street": "62PC+22W",
+            "city": "Samalkha",
+            "postal_code": "132101",
+            "state": "Haryana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DvSIoGAZ8Lt8mJ20lFpxJA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=268.06836&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=DvSIoGAZ8Lt8mJ20lFpxJA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=268.06836&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/MUHAMMADI+MASZID+%28CHOTI+MSZID%29+,SAMALKHA/data=!4m7!3m6!1s0x390dc900dd04114f:0xa0ed6d9d372e1a99!8m2!3d29.2351158!4d77.0200875!16s%2Fg%2F11pkjc6byd!19sChIJTxEE3QDJDTkRmRouN51t7aA?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 29.2351158,
+            "longitude": 77.0200875
+        }
+    },
+    {
+        "name": "Jama Masjid Samalkha",
+        "main_category": "Mosque",
+        "address": "62M6+MVV Jama Masjid Samalkha, Samalkha, Haryana 132101",
+        "detailed_address": {
+            "ward": null,
+            "street": "62M6+MVV",
+            "city": "Samalkha",
+            "postal_code": "132101",
+            "state": "Haryana",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z0KWH1zmKn5kLcqnPDEteQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=309.66013&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Latest",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOO8jMS99fLPmsD9U_UI-utobEkkHtB0s8L2OrH=w224-h398-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z0KWH1zmKn5kLcqnPDEteQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=309.66013&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jama+Masjid+Samalkha/data=!4m7!3m6!1s0x390dc9be1129366d:0xb093bbc171d7882f!8m2!3d29.2342424!4d77.012179!16s%2Fg%2F11vj5g967q!19sChIJbTYpEb7JDTkRL4jXccG7k7A?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 29.2342424,
+            "longitude": 77.012179
+        }
+    }
+]

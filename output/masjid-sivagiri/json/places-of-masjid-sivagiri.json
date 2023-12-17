@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Sivagiri Jumma Masjid",
+        "main_category": "Mosque",
+        "address": "8CVG+JJQ Sivagiri Jumma Masjid, W Car St, Sivagiri, Tamil Nadu 627757",
+        "detailed_address": {
+            "ward": null,
+            "street": "8CVG+JJQ, W Car St",
+            "city": "Sivagiri",
+            "postal_code": "627757",
+            "state": "Tamil Nadu",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipO_22KVrXpgKuRyBEW2SE3MC2k-VdFBWO6YXXDq=w529-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=H--W_zUgP_hopDrEboVCQQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=117.76013&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNyuicYmh7xZzMJC846Wp04e4IwqfQOgebGlZSF=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sivagiri+Jumma+Masjid/data=!4m7!3m6!1s0x3b06ece06f0a2bc3:0xf0c005e2900758f4!8m2!3d9.344092!4d77.4266101!16s%2Fg%2F11dzw54r4l!19sChIJwysKb-DsBjsR9FgHkOIFwPA?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 9.344092,
+            "longitude": 77.42661009999999
+        }
+    },
+    {
+        "name": "Jumma. Masjid",
+        "main_category": "School",
+        "address": "4QCR+P3H Jumma. Masjid, MDR688, Sivagiri, Tamil Nadu 638109",
+        "detailed_address": {
+            "ward": null,
+            "street": "4QCR+P3H, MDR688",
+            "city": "Sivagiri",
+            "postal_code": "638109",
+            "state": "Tamil Nadu",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPAFuNzJUFF9uBwUSUtDHN2V1f-FweipFf7kZ0n=w529-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BaFouI3VNo8aDb5pgcPp0g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=353.86057&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jumma.+Masjid/data=!4m7!3m6!1s0x3ba9798cc8d175f7:0xd50bd9e9df684823!8m2!3d11.1218213!4d77.7902406!16s%2Fg%2F11hymktbft!19sChIJ93XRyIx5qTsRI0ho3-nZC9U?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 11.121821299999999,
+            "longitude": 77.79024059999999
+        }
+    }
+]

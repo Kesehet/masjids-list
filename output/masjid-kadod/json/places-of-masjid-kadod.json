@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Juhma Masjid (moti masjid)",
+        "main_category": "Mosque",
+        "address": "Juhma Masjid (moti masjid), Mota Bazaar, Kadod, Gujarat 394335",
+        "detailed_address": {
+            "ward": "Mota Bazaar",
+            "street": null,
+            "city": "Kadod",
+            "postal_code": "394335",
+            "state": "Gujarat",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipO4wOIZy3KglLaN1tK14B2rxe4__1tme-ArJPjp=w529-h298-k-no"
+            },
+            {
+                "about": "By owner",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPXdzipBab9sr0ILGQqdxbH3l-5gy8ovminJjpt=w647-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=15UJrwh90i_M3fTboJ8_CQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=121.96334&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Juhma+Masjid+%28moti+masjid%29/data=!4m7!3m6!1s0x3be06f0d10569395:0x3023b34244be22ef!8m2!3d21.2182104!4d73.2190318!16s%2Fg%2F11btwr83_7!19sChIJlZNWEA1v4DsR7yK-REKzIzA?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 21.2182104,
+            "longitude": 73.2190318
+        }
+    },
+    {
+        "name": "Nani masjid",
+        "main_category": "Mosque",
+        "address": "Nani masjid, 818, Nani Bazaar Rd, Kadod, Gujarat 394335",
+        "detailed_address": {
+            "ward": null,
+            "street": "818, Nani Bazaar Rd",
+            "city": "Kadod",
+            "postal_code": "394335",
+            "state": "Gujarat",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPy6Dzdu1APJQ4RloYKoNXW43rsaXao9mviWEuO=w224-h396-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M_DL49w_aCu9TwSO4hYRMw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=200.2236&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Nani+masjid/data=!4m7!3m6!1s0x3be06f72b4973f8d:0xef22285018ea8113!8m2!3d21.2166267!4d73.2187151!16s%2Fg%2F11bttb273c!19sChIJjT-XtHJv4DsRE4HqGFAoIu8?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 21.2166267,
+            "longitude": 73.2187151
+        }
+    }
+]

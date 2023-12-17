@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Jamiya Masjid",
+        "main_category": "Mosque",
+        "address": "6HJG+GV7 Jamiya Masjid, maratha galli, Shirahatti, Karnataka",
+        "detailed_address": {
+            "ward": null,
+            "street": "6HJG+GV7, maratha galli",
+            "city": "Shirahatti, Shirahatti Rural",
+            "postal_code": null,
+            "state": "Karnataka",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M_7QHY3YXSbzW5hDynVn9w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=265.1078&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=M_7QHY3YXSbzW5hDynVn9w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=265.1078&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jamiya+Masjid/data=!4m7!3m6!1s0x3bb9039cffffffff:0x7d2ff83548465acb!8m2!3d15.2312878!4d75.5771573!16s%2Fg%2F11f042k5pb!19sChIJ_____5wDuTsRy1pGSDX4L30?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 15.231287799999999,
+            "longitude": 75.5771573
+        }
+    },
+    {
+        "name": "Jumma Masjid Shirahatti",
+        "main_category": "Mosque",
+        "address": "6HPH+9CJ Jumma Masjid Shirahatti, Maratha gali, mayger oni road, Shirahatti, Karnataka",
+        "detailed_address": {
+            "ward": null,
+            "street": "6HPH+9CJ, Maratha gali, mayger oni road",
+            "city": "Shirahatti",
+            "postal_code": null,
+            "state": "Karnataka",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNtL-IsQCUPbdBej2CH8HQ4DNaRg_I-gwVSv3-Z=w224-h484-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FD4qCtoX9CPgneuv30UTJQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=307.03403&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMuq4w71mxQdq1JJMcIMhyTxTkkDUXhAyttvjvF=w224-h407-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jumma+Masjid+Shirahatti/data=!4m7!3m6!1s0x3bb903c42dc7b91d:0x66b2dbe5540590f2!8m2!3d15.235959!4d75.5785282!16s%2Fg%2F11h2pm2pzr!19sChIJHbnHLcQDuTsR8pAFVOXbsmY?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 15.235959,
+            "longitude": 75.5785282
+        }
+    },
+    {
+        "name": "Noorani Masjid Shirahatti",
+        "main_category": "Mosque",
+        "address": "6HJJ+JCQ Noorani Masjid Shirahatti, SH 136, Shirahatti, Shirahatti Rural, Karnataka 582120",
+        "detailed_address": {
+            "ward": null,
+            "street": "6HJJ+JCQ, SH 136",
+            "city": "Shirahatti, Shirahatti Rural",
+            "postal_code": "582120",
+            "state": "Karnataka",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNpKTXfjwXsmV0HjhMbHHoidGWjlGjTqsYfcNVk=w397-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Noorani+Masjid+Shirahatti/data=!4m7!3m6!1s0x3bb9036cf50747b7:0x77f830f85ed1eb8e!8m2!3d15.2315135!4d75.5814649!16s%2Fg%2F11t3fxwslq!19sChIJt0cH9WwDuTsRjuvRXvgw-Hc?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 15.2315135,
+            "longitude": 75.5814649
+        }
+    }
+]

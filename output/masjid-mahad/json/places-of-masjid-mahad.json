@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Masjid Mahad",
+        "main_category": "Building",
+        "address": "Masjid Mahad, Old Malindi Rd, Mombasa, Kenya",
+        "detailed_address": {
+            "ward": "Kisauni",
+            "street": "Old Malindi Rd",
+            "city": "Mombasa",
+            "postal_code": null,
+            "state": null,
+            "country_code": "KE"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NFa6qWj6jTC9y2hJ2_udXA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=322.43597&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NFa6qWj6jTC9y2hJ2_udXA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=322.43597&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+Mahad,+Old+Malindi+Rd,+Mombasa,+Kenya/@-4.0297876,39.6843468,17z/data=!3m1!4b1!4m6!3m5!1s0x1840128314847ffd:0x51bf40024f02bdd5!8m2!3d-4.0297876!4d39.6843468!16s%2Fg%2F11g_w9p37?authuser=0&entry=ttu",
+        "coordinates": {
+            "latitude": -4.0297876,
+            "longitude": 39.6843468
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Bagula Masjid",
+        "main_category": "Mosque",
+        "address": "8JPR+725 Bagula Masjid, Bagula, West Bengal 741502",
+        "detailed_address": {
+            "ward": null,
+            "street": "8JPR+725",
+            "city": "Bagula",
+            "postal_code": "741502",
+            "state": "West Bengal",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOmmCg_WMNbMOkmLLZbu9RXhccArmMrfRZtV2Xk=w224-h398-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NE1FlKQnpZ5Ic2g3YUvVxw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=200.6801&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Bagula+Masjid/@23.3356446,88.6401106,17z/data=!3m1!4b1!4m6!3m5!1s0x39f8d74c0b3c9941:0xb3520617c32f2b10!8m2!3d23.3356446!4d88.6401106!16s%2Fg%2F11ptq67h5j?authuser=0&entry=ttu",
+        "coordinates": {
+            "latitude": 23.3356446,
+            "longitude": 88.6401106
+        }
+    }
+]

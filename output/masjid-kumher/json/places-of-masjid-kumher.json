@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Ahel Islam Masjid",
+        "main_category": "Mosque",
+        "address": "896H+RWP Ahel Islam Masjid, Kumher, Rajasthan 321201",
+        "detailed_address": {
+            "ward": null,
+            "street": "896H+RWP",
+            "city": "Kumher",
+            "postal_code": "321201",
+            "state": "Rajasthan",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOZZRjm04OnNXxoJxVTxvvNrjHeekaMHvWqbDFD=w396-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GwqgKYUR9qS8nHWBQCXpGQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=252.13963&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ahel+Islam+Masjid/@27.3120808,77.379813,17z/data=!3m1!4b1!4m6!3m5!1s0x3973a7d7b7ce6f39:0xa3979226ca94e8d9!8m2!3d27.3120808!4d77.379813!16s%2Fg%2F11f158tql8?authuser=0&entry=ttu",
+        "coordinates": {
+            "latitude": 27.3120808,
+            "longitude": 77.379813
+        }
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Masjid dhuri",
+        "main_category": "Mosque",
+        "address": "9VC7+HX4 Masjid dhuri, Tehsil Mohalla, Subash Nagar, Dhuri, Punjab 148024",
+        "detailed_address": {
+            "ward": "Tehsil Mohalla, Subash Nagar",
+            "street": "9VC7+HX4",
+            "city": "Dhuri",
+            "postal_code": "148024",
+            "state": "Punjab",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Masjid+dhuri/data=!4m7!3m6!1s0x39105b2f9f9ca40d:0x2ac9680c7cd1e8f7!8m2!3d30.3714101!4d75.8649581!16s%2Fg%2F11vl7qbzts!19sChIJDaScny9bEDkR9-jRfAxoySo?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 30.3714101,
+            "longitude": 75.8649581
+        }
+    },
+    {
+        "name": "Masjid dhuri city",
+        "main_category": "Mosque",
+        "address": "9V96+P76 Masjid dhuri city, Loha Bazar, Shivpuri, Dhuri, Punjab 148024",
+        "detailed_address": {
+            "ward": "Loha Bazar, Shivpuri",
+            "street": "9V96+P76",
+            "city": "Dhuri",
+            "postal_code": "148024",
+            "state": "Punjab",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FvuXeoQ8mAsuAc7qOMqDlQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=0.84343064&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FvuXeoQ8mAsuAc7qOMqDlQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=0.84343064&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+dhuri+city/data=!4m7!3m6!1s0x39105b504368c2e7:0x3e49d39073c15d79!8m2!3d30.3692859!4d75.8606548!16s%2Fg%2F11l6qk5lpx!19sChIJ58JoQ1BbEDkReV3Bc5DTST4?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 30.369285899999998,
+            "longitude": 75.86065479999999
+        }
+    }
+]

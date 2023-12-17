@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Mosque",
+        "main_category": "Mosque",
+        "address": "6QHH+MGG Mosque, Shuvam Rd, Shibtali, Balurghat, West Bengal 733101",
+        "detailed_address": {
+            "ward": "Shibtali",
+            "street": "6QHH+MGG, Shuvam Rd",
+            "city": "Balurghat",
+            "postal_code": "733101",
+            "state": "West Bengal",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNLL0CQv5X5Aq62sxazZGKA2_0ampY3HjU3FQvi=w397-h298-k-no"
+            },
+            {
+                "about": "Dome",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipN0G9ZNuuUBoOmYQF73UvsffCVMiIZ5Wdo50Xch=w305-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=yQiE4FgJqjMjTN6IPaCSGA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=11.679767&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mosque/data=!4m7!3m6!1s0x39fb61d2906a5ca9:0xeb67168b4a604d75!8m2!3d25.2291847!4d88.7788281!16s%2Fg%2F1tdh6w53!19sChIJqVxqkNJh-zkRdU1gSosWZ-s?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 25.229184699999998,
+            "longitude": 88.7788281
+        }
+    },
+    {
+        "name": "BALURGHAT MASJID BOYS HOSTEL",
+        "main_category": "Boy's Hostel",
+        "address": "6QHH+MJ7 BALURGHAT MASJID BOYS HOSTEL, Shibtali, Balurghat, West Bengal 733101",
+        "detailed_address": {
+            "ward": "Shibtali",
+            "street": "6QHH+MJ7",
+            "city": "Balurghat",
+            "postal_code": "733101",
+            "state": "West Bengal",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPKiN8EtCL611ZPAVmPhuZJWE8NRVsJ63dvRpYv=w397-h298-k-no"
+            },
+            {
+                "about": "Exterior",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPmoxyCg_taRB4mfj9X_E4OQp1vZNaJCH8sEvTI=w397-h298-k-no"
+            },
+            {
+                "about": "Food & drink",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipO0lUOB1vlKR2z6x7rppckx9MTIdU7pMLswzGUv=w224-h298-k-no"
+            },
+            {
+                "about": "From visitors",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMlueVme6GTEwxQBO8D2UO4_2ToAsL2OoULfbRD=w224-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=e1pkqhYYpqn3HaYd9KK-8A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=279.09665&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/BALURGHAT+MASJID+BOYS+HOSTEL/data=!4m7!3m6!1s0x39fb61d291cf0a6f:0xebabbb640a6850b0!8m2!3d25.2291592!4d88.7790373!16s%2Fg%2F11cn3jqhn4!19sChIJbwrPkdJh-zkRsFBoCmS7q-s?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 25.229159199999998,
+            "longitude": 88.7790373
+        }
+    }
+]

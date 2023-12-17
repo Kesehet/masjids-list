@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Jumma Masjid",
+        "main_category": "Mosque",
+        "address": "C5FW+Q5R Jumma Masjid, Bus Stand Rd, Chotila, Gujarat 363520",
+        "detailed_address": {
+            "ward": null,
+            "street": "C5FW+Q5R, Bus Stand Rd",
+            "city": "Chotila",
+            "postal_code": "363520",
+            "state": "Gujarat",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipOjhhfkruE0SaWwy3a6Q5pao3vC2lI6_hlieLpQ=w224-h398-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WAcg5h_V3dGA5YZY80S3rQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=199.32205&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jumma+Masjid/data=!4m7!3m6!1s0x3959070beb3ec475:0xa3e9ae477632c370!8m2!3d22.4244862!4d71.1953999!16s%2Fg%2F11gh_mwy4h!19sChIJdcQ-6wsHWTkRcMMydkeu6aM?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 22.4244862,
+            "longitude": 71.1953999
+        }
+    },
+    {
+        "name": "Dawoodi bohra masjid chotila",
+        "main_category": "Mosque",
+        "address": "C5FV+4Q3 Dawoodi bohra masjid chotila, Chotila, Gujarat 363520",
+        "detailed_address": {
+            "ward": null,
+            "street": "C5FV+4Q3",
+            "city": "Chotila",
+            "postal_code": "363520",
+            "state": "Gujarat",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipP6oDQSnPOR4pg8IHEMHiMKWv0pYtgVJ9hovaIq=w224-h298-k-no"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipM6FQWMuyX-Jm0DWTj7RHw3ry8s3rUQNQsETgKc=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dawoodi+bohra+masjid+chotila/data=!4m7!3m6!1s0x395907758834e397:0x6b112c45aebe441b!8m2!3d22.4227725!4d71.1944207!16s%2Fg%2F11fn2h4twj!19sChIJl-M0iHUHWTkRG0S-rkUsEWs?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 22.4227725,
+            "longitude": 71.1944207
+        }
+    }
+]

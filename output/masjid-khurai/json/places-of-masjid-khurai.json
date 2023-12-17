@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Badi Masjid",
+        "main_category": "Mosque",
+        "address": "28RH+8F4 Badi Masjid, Khurai, Madhya Pradesh 470117",
+        "detailed_address": {
+            "ward": null,
+            "street": "28RH+8F4",
+            "city": "Khurai",
+            "postal_code": "470117",
+            "state": "Madhya Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPKLj2OTNFuCfpfAYHzOvRtDFmLfmPMMkCbvQzG=w529-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=deFtC5oqx1XoJaBn08HtBw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=256.7661&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMoNKc0bxPXPvTN9BHC3_hblQzsOdWfS6q08lTz=w529-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Badi+Masjid/data=!4m7!3m6!1s0x39793fb0187ac00d:0xee0b060c448da580!8m2!3d24.0407567!4d78.3287081!16s%2Fg%2F1ptwzk_0v!19sChIJDcB6GLA_eTkRgKWNRAwGC-4?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 24.0407567,
+            "longitude": 78.3287081
+        }
+    },
+    {
+        "name": "Masjid Bait-ul-mukkaram",
+        "main_category": "Place of worship",
+        "address": "Masjid Bait-ul-mukkaram, no 5 470119, Rahatgarh Bus Stop Rd, Sharma Ward, Khurai, Madhya Pradesh 470117",
+        "detailed_address": {
+            "ward": "Sharma Ward",
+            "street": "no 5 470119, Rahatgarh Bus Stop Rd",
+            "city": "Khurai",
+            "postal_code": "470117",
+            "state": "Madhya Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sf77L-p_CsWacI5q3QAe0w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=128.47365&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sf77L-p_CsWacI5q3QAe0w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=128.47365&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Masjid+Bait-ul-mukkaram/data=!4m7!3m6!1s0x397933fa9e718c39:0x7febc27d06a2e026!8m2!3d24.0394653!4d78.3308259!16s%2Fg%2F11bzwlpslx!19sChIJOYxxnvozeTkRJuCiBn3C638?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 24.0394653,
+            "longitude": 78.3308259
+        }
+    },
+    {
+        "name": "Baba sahb",
+        "main_category": "Mosque",
+        "address": "28MG+VFR Baba sahb, Abid Nagar, Khurai, Madhya Pradesh 470117",
+        "detailed_address": {
+            "ward": "Abid Nagar",
+            "street": "28MG+VFR",
+            "city": "Khurai",
+            "postal_code": "470117",
+            "state": "Madhya Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNhhLIjm3TeGckdMcjkez2u30j56Av4pnpcKbs=w529-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dieUL7QYVECN6CgySe-pGw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=36.483273&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNaBiT7Gi8Dd4lQT49TonK5_0JRadMuBRYBEec=w529-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Baba+sahb/data=!4m7!3m6!1s0x39793fd991bdeb99:0x15e0f5b715a0cd22!8m2!3d24.0347429!4d78.3261376!16s%2Fg%2F11q97nkchp!19sChIJmeu9kdk_eTkRIs2gFbf14BU?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 24.034742899999998,
+            "longitude": 78.3261376
+        }
+    }
+]

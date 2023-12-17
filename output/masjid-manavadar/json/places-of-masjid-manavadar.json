@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Mehndi_By_Mehreen",
+        "main_category": "Mosque",
+        "address": "Mehndi_By_Mehreen, Jumma Masjid, 36263, Manavadar, Gujarat 362630",
+        "detailed_address": {
+            "ward": "Ratanpara",
+            "street": "Jumma Masjid, 36263",
+            "city": "Manavadar",
+            "postal_code": "362630",
+            "state": "Gujarat",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uKkWonKZDXOneOc2GEWiTA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=98.187065&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "By owner",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNebquSWNnLvTu_JPVKFI4b30o4upx5AJzHt8Rx=w224-h398-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uKkWonKZDXOneOc2GEWiTA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=98.187065&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mehndi_By_Mehreen/data=!4m7!3m6!1s0x3957e6ae7c1ccfdd:0x7f044cdc72a90c4!8m2!3d21.4962815!4d70.136501!16s%2Fg%2F11bwp6dnlw!19sChIJ3c8cfK7mVzkRxJAqx81E8Ac?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 21.4962815,
+            "longitude": 70.136501
+        }
+    },
+    {
+        "name": "Jame a masjid",
+        "main_category": "Mosque",
+        "address": "Jame a masjid, Masjid, stret, Manavadar, Gujarat 362630",
+        "detailed_address": {
+            "ward": "stret",
+            "street": "Masjid",
+            "city": "Manavadar",
+            "postal_code": "362630",
+            "state": "Gujarat",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4Bg3wUEu2bDgvyhIFQPLXQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=251.17296&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4Bg3wUEu2bDgvyhIFQPLXQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=251.17296&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jame+a+masjid/data=!4m7!3m6!1s0x3957e78a13f49dcb:0x4ca650e0a57e6b51!8m2!3d21.493179!4d70.1366499!16s%2Fg%2F11tbx3mp_r!19sChIJy530E4rnVzkRUWt-peBQpkw?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 21.493178999999998,
+            "longitude": 70.1366499
+        }
+    }
+]

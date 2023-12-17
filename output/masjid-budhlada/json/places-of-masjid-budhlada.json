@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Madina Jama Masjid Budhlada",
+        "main_category": "Mosque",
+        "address": "Madina Jama Masjid Budhlada, Behind, Bus Stand Rd, Ward no. 4, Budhlada, Punjab 151502",
+        "detailed_address": {
+            "ward": "Ward no. 4",
+            "street": "Behind, Bus Stand Rd",
+            "city": "Budhlada",
+            "postal_code": "151502",
+            "state": "Punjab",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipN_T6unsuDAPdbp0T6wcFNvRL_fYwy3hwRI5LA9=w397-h298-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Madina+Jama+Masjid+Budhlada/data=!4m7!3m6!1s0x39110551f281115f:0x47f0c0d4ca023d21!8m2!3d29.930155!4d75.5581659!16s%2Fg%2F11f73_j8yx!19sChIJXxGB8lEFETkRIT0CytTA8Ec?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 29.930155,
+            "longitude": 75.55816589999999
+        }
+    },
+    {
+        "name": "Near masjid",
+        "main_category": "Housing development",
+        "address": "WHG3+MMF Near masjid, Budhlada, Punjab 151502",
+        "detailed_address": {
+            "ward": null,
+            "street": "WHG3+MMF",
+            "city": "Budhlada",
+            "postal_code": null,
+            "state": "Punjab",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Near+masjid/data=!4m7!3m6!1s0x39110534440b1dab:0xba6e3a658b82c53!8m2!3d29.9266932!4d75.5541854!16s%2Fg%2F11k3mbsf4v!19sChIJqx0LRDQFETkRUyy4WKbjpgs?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 29.9266932,
+            "longitude": 75.5541854
+        }
+    }
+]

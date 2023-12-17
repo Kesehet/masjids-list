@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Lawar Khas Eidgah Masjid",
+        "main_category": "Mosque",
+        "address": "Lawar Khas Eidgah Masjid, Purini Eidgah, Mithepur Rd, Lawar NP, Meerut, Uttar Pradesh 250222",
+        "detailed_address": {
+            "ward": null,
+            "street": "Purini Eidgah, Mithepur Rd",
+            "city": "Lawar NP, Meerut",
+            "postal_code": "250222",
+            "state": "Uttar Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipPKnmMP9TgOjELUQ2A8-Ax3GtvwCgOPnAmwMPwb=w397-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zBqCvYD32FfYTEgCNPxtsQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=312.9477&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Lawar+Khas+Eidgah+Masjid/data=!4m7!3m6!1s0x390c71bdcfe6683d:0xa34fc06a5e019599!8m2!3d29.1088753!4d77.7745556!16s%2Fg%2F11byxfpm0x!19sChIJPWjmz71xDDkRmZUBXmrAT6M?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 29.108875299999998,
+            "longitude": 77.7745556
+        }
+    },
+    {
+        "name": "Aqsa Masjid",
+        "main_category": "Mosque",
+        "address": "4Q6J+C89 Aqsa Masjid, Lawar Khas Rural, Uttar Pradesh 250222",
+        "detailed_address": {
+            "ward": null,
+            "street": "4Q6J+C89",
+            "city": "Lawar Khas Rural",
+            "postal_code": "250222",
+            "state": "Uttar Pradesh",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMG3GGTEQCuYxLZJlQ9hkEyn5Scb4xjuY4cAaeE=w224-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WAx63C5DaGAiujUaX_VbIw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=214.5015&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNijrm_tsxXBejJI3GIBZl-a--j_tZBIxNrlP2N=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Aqsa+Masjid/data=!4m7!3m6!1s0x390c71a2a2bfdde9:0x79dfab1f6726b4c4!8m2!3d29.1110367!4d77.7808482!16s%2Fg%2F11g8w1p_r4!19sChIJ6d2_oqJxDDkRxLQmZx-r33k?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 29.1110367,
+            "longitude": 77.7808482
+        }
+    },
+    {
+        "name": "Masjid Abu Bakr",
+        "main_category": "Mosque",
+        "address": "4Q5J+FGV Masjid Abu Bakr, Lawar Khas Rural, Uttar Pradesh 250222",
+        "detailed_address": {
+            "ward": null,
+            "street": "4Q5J+FGV",
+            "city": "Lawar Khas Rural",
+            "postal_code": "250222",
+            "state": "Uttar Pradesh",
+            "country_code": "IN"
+        },
+        "images": [],
+        "link": "https://www.google.com/maps/place/Masjid+Abu+Bakr/data=!4m7!3m6!1s0x390c71a31e70e51d:0x6a8852eb14fa5673!8m2!3d29.1087263!4d77.7812944!16s%2Fg%2F11g9jf9d4v!19sChIJHeVwHqNxDDkRc1b6FOtSiGo?authuser=0&hl=en&rclk=1",
+        "coordinates": {
+            "latitude": 29.108726299999997,
+            "longitude": 77.7812944
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Marakkanam Jamia Masjid",
+        "main_category": "Mosque",
+        "address": "5WXW+28R Marakkanam Jamia Masjid, Salt Rd, Aminjikarai, Marakkanam, Tamil Nadu 604303",
+        "detailed_address": {
+            "ward": "Aminjikarai",
+            "street": "5WXW+28R, Salt Rd",
+            "city": "Marakkanam",
+            "postal_code": "604303",
+            "state": "Tamil Nadu",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipNJUuYeg0KTdWaCkE27w93Y3fZcgu4p5dSL5t0g=w530-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G0glSPUxIffrc40rEtunzA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=322.75906&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Marakkanam+Jamia+Masjid/@12.1976082,79.9457583,17z/data=!3m1!4b1!4m6!3m5!1s0x3a53725cc05e4097:0x15e9fb63905aa9ea!8m2!3d12.1976082!4d79.9457583!16s%2Fg%2F1ptwxjpn1?authuser=0&entry=ttu",
+        "coordinates": {
+            "latitude": 12.1976082,
+            "longitude": 79.9457583
+        }
+    }
+]

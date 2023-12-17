@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Mosque",
+        "main_category": "Mosque",
+        "address": "GVGX+CWM Mosque, Hirakud, Odisha 768016",
+        "detailed_address": {
+            "ward": null,
+            "street": "GVGX+CWM",
+            "city": "Hirakud",
+            "postal_code": "768016",
+            "state": "Odisha",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMOe0RlWU7agO52XZgZu_LVRaI4JymNttvCQf8v=w397-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ojlbpu8SWAgtrnBPxdWRQg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=189.1393&pitch=0&thumbfov=100"
+            },
+            {
+                "about": "Videos",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipMX0xIlhB7MSqvryAtjTLb2tQTUg3vUObmcF7Gf=w224-h398-k-no"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mosque/@21.5260786,83.8997998,17z/data=!3m1!4b1!4m6!3m5!1s0x3a213d19e67f8b9b:0x4d9b385e08034a72!8m2!3d21.5260786!4d83.8997998!16s%2Fg%2F11gbxl3rwx?authuser=0&entry=ttu",
+        "coordinates": {
+            "latitude": 21.526078599999998,
+            "longitude": 83.8997998
+        }
+    }
+]

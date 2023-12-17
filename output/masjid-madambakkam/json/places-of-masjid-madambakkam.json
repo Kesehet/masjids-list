@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Madeena Masjid - Madambakkam",
+        "main_category": "Mosque",
+        "address": "Madeena Masjid - Madambakkam, 115, Maruthi Nagar, Madambakkam,, Chennai, Tamil Nadu 600126",
+        "detailed_address": {
+            "ward": "Madambakkam",
+            "street": "115, Maruthi Nagar, Madambakkam,",
+            "city": "Chennai",
+            "postal_code": "600126",
+            "state": "Tamil Nadu",
+            "country_code": "IN"
+        },
+        "images": [
+            {
+                "about": "All",
+                "link": "https://lh5.googleusercontent.com/p/AF1QipN2Tky2TmjbSeKiDBkkLup9tqBEjzkx1L3NBcrV=w397-h298-k-no"
+            },
+            {
+                "about": "Street View & 360deg",
+                "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ce0cAtTYAFW1nY08mSYjNw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=263.6548&pitch=0&thumbfov=100"
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Madeena+Masjid+-+Madambakkam/@12.9041885,80.1573115,17z/data=!3m1!4b1!4m6!3m5!1s0x3a525ecefd82b1b9:0xc09c35ed44f35b53!8m2!3d12.9041885!4d80.1573115!16s%2Fg%2F1tf062jb?authuser=0&entry=ttu",
+        "coordinates": {
+            "latitude": 12.9041885,
+            "longitude": 80.15731149999999
+        }
+    }
+]
